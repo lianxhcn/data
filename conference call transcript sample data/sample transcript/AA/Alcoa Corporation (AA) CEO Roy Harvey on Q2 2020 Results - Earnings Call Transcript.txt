@@ -1,0 +1,320 @@
+Alcoa Corporation (NYSE:AA) Q2 2020 Earnings Conference Call July 15, 2020 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations
+Roy Harvey - President and Chief Executive Officer
+William Oplinger - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Chris Terry - Deutsche Bank
+Alex Hacking - Citi
+Carlos De Alba - Morgan Stanley
+Lucas Pipes - B Riley FBR
+John Tumazos - John Tumazos Very Independent Research
+Paretosh Misra - Berenberg
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation’s Second Quarter 2020 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] Please note that this event is being recorded. I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead, sir.
+
+James Dwyer
+
+Thank you and good day everyone. I am joined today by Roy Harvey, Alcoa Corporation President and Chief Executive Officer and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company’s actual results to differ materially from these statements are included in today’s presentation and in our SEC filings. In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced the earnings release and slide presentation, are available on our website.
+
+With that, here is Roy.
+
+Roy Harvey
+
+Thank you, Jim and thanks to everyone for joining our call today. As we previewed last week, Alcoa is progressing on each of our operational and strategic programs acting with resolve and urgency to deliver safe and healthy operations, improved stability and a stronger future for this company. And this quarter’s strong outcome is a result of the dedication and focus of each of our teams as we faced the challenges of the COVID-19 pandemic and the resulting economic downturn. We may not be able to control the macroeconomic factors that drive the price of our products, but we are aggressively executing on the items within our control. And while uncertainty continues, I am confident that our teams will innovate and improve to adapt to future situations.
+
+Before we get into the details though, I want to begin as I always do with safety, our most important metric and vital for our continued success. We had no serious injuries this quarter and we continue to manage the risks from the pandemic and to maintain healthy, safe and stable operations. Of course, one principle of our safety program is that we must never rest comfortably, especially with the risks posed by this virus in the increasing case counts in some jurisdictions, where we have important operations such as the United States and Brazil. We are confident however that we have put the right measures in place to protect our people and we have well developed reaction plans if the situation should worsen.
+
+To put these latest financial results in context, it’s important to remember that we have established three simple strategic priorities for this company, to reduce complexity, drive returns and advance sustainably and they have helped us navigate this period from a position of relative strength. Late last year before the pandemic started its global spread, we laid out a plan to improve our cost structure with a new operating model, which is now fully implemented and started a review of our global asset portfolio, including our existing production capacity and non-core assets. This plan will improve our portfolio and allow us to remain competitive in a fast evolving marketplace and to succeed in a world that is becoming more focused on sustainably and responsibly produced products. It offers us a roadmap to follow as we manage the impacts of the current market, while not losing sight of our longer term strategy.
+
+Next, I would like to highlight the resilience and strength of our operations teams as evidenced by a number of achievements in the second quarter. Overall, our production is up year-over-year in all three segments. In bauxite, we realized a production record for the first half of the year and in alumina, we recorded a quarterly record for average daily production. In our aluminum segment, our Becancour restart continues to advance and we are progressing with safe and orderly curtailment of the Intalco smelter in Washington state. We reached an agreement with the workers union for severance to help mitigate the impacts of this decision, which was necessitated by significant structural issues that made the facility uncompetitive.
+
+Meanwhile, we are currently in the midst of a 30-day consultation with the works council that represents employees at the San Ciprian aluminum facility in Spain. No formal decisions will be made until we complete this negotiation process. During this pandemic, we have worked across our company to help create a safe, healthy and productive environment in our operations. This teamwork in conjunction with our supply chain, commercial and financial teams helped to drive our cash balance to $965 million to good operating performance and smart management of our working capital. Also last week, we issued $750 million of senior notes with a coupon of 5.5%, a rate lower than any of our other debt. This will provide even greater liquidity during these uncertain times and will allow greater flexibility to potentially accelerate our portfolio review, including making sure that non-core asset sales are executed at the right time and the right price to deliver maximum value. Put simply, through actions taken across our company to generate cash and by tapping the debt markets at a favorable time, we are in a stronger position to do what we have said, complete our portfolio review as soon as possible over the next several years, generate cash from non-core assets and reduce net debt.
+
+Before we begin the deeper discussion of markets, I would like to provide some additional information on our response to the COVID-19 pandemic. As I mentioned earlier, all of Alcoa’s global locations continue to operate stably, whether it be a bauxite mine, alumina refinery, aluminum smelter or rolling mill. Importantly, we have been able to maintain the stability, because of our focus on the health and safety of our workforce. Globally, approximately 2% of our employees and contractors have been affected by the virus. Thankfully, most have already recovered and returned to work. The fact that we have had a relatively low number of cases among our workforce is a testament to the measures we implemented early and of course what we continue to do. For example, we were one of the first companies to restrict travel for our global employees.
+
+In February, as the global risks started becoming more apparent, we triggered our global crisis response team and implemented our crisis management plan. By early March, we had deployed a comprehensive approach to protect health, while simultaneously conducting supply and staffing contingency planning. On the left hand of the slide, you will see a chart that gives a glimpse of the very robust approach we have used to manage through this pandemic. First, we have a global crisis management plan that provides a solid framework to guide decision-making and protect our company. That’s supplemented, in this case, with a health prevention response plan developed with best practices and was input from our own medical experts and external sources.
+
+We also have business continuity plans for our locations. They are designed to ensure continued critical supplies, logistics and operational needs. This feeds into our global regional and location crisis response teams and allows them to anticipate potential risks and ensure response plans are utilized whenever appropriate. We have playbooks on how to effectively operate based on increasing levels of stress. We consider leading indicators such as the number of employees who are self-quarantining and isolating, infection rates in the local community and inventory levels of critical raw materials. Lagging indicators include items such as cases of coronavirus infections, among location employees, absenteeism, government directives and other factors. From all of this, we assign a response level and deploy additional and appropriate actions.
+
+As of today, we have locations that have reached Level 2 during this current health crisis. But due to our effective response, none have progressed to implementation of all Level 3 actions. While this is a simplified depiction of our COVID-19 response, the team’s actions to-date, have made a real difference and have helped us to avoid any significant impact to our operations or our supply chain. But this crisis continues and we will not let up our guard as we remain focused on protecting the health and safety of our workforce. Importantly, throughout this pandemic, we have also responded to assist the communities where we operate both through the Alcoa Foundation and our company’s resources. I am proud of the work that has taken place on a humanitarian level as it further illustrates our Alcoa values in action.
+
+Next, we will discuss our three segments and how they performed in this quarter. As noted earlier, our change in operating model and selected strategic priorities have been designed and executed with an eye to strengthen our operational performance. Across all segments and despite the disruption of a pandemic, we have improved operational stability this year and that is driving increased output and improved productivity. This has been achieved through strong collaboration across our operations and centralized resources, leveraging our technological expertise, information systems and the creativity of Alcoans to accelerate our productivity program. Our Centers of Excellence are supporting sustainable cost saving improvements that can be leveraged globally. Key focus areas include reducing raw materials usage and energy consumption, improving maintenance strategies to increase availability and rigorous cost control.
+
+In bauxite, production is improving year-over-year. The segment had a first half production record in Juruti mine in Brazil had a quarterly shipment record. For the alumina segment, we are seeing improved stability at the refineries when compared to 2019. In fact, the segment had a record rate for metric tons per day in the quarter. Meanwhile, both the Wagerup refinery in Western Australia and the Alumar refinery in Sao Luis, Brazil set first half production records. In our aluminum segment, improved operational stability is helping to drive increased output. Contributing to the increase is the ongoing restart of the ABI smelter in Bécancour, which is now approximately 90% complete and should be finished in the third quarter.
+
+From a commercial perspective, in our aluminum segment, we discussed last quarter, the year-over-year decrease in value-added aluminum products as a result of the economic impact of the pandemic, which includes specific foundry alloys or shapes, such as rod, billet and slab. This volume shifted to commodity grade ingot. While value-added product sales are expected to remain relatively flat in the third quarter and continue to be depressed from the prior year, we are seeing some improvement in foundry alloy orders as automotive production in Europe and North America resumed after widespread production outages due to the pandemic. Finally, on this slide, we continue to monitor the discussions regarding the United States 232 tariffs on aluminum. We believe that tariffs do not address the fundamental challenge of the industry, which has been unfairly subsidized aluminum overcapacity in China.
+
+Now, let’s review our markets. Aluminum demand is starting to show some signs of recovery based on monthly data for some key end use sectors, particularly in China. For example, Chinese passenger vehicle production was up more than 11% in both May and June when compared with the same months last year. The most recent data on construction activities in China are also better than the monthly levels in May of 2019. Aluminum scrap shortages also supported a temporary boost in primary aluminum consumption in China in Q2. The shortages have been a result of China’s import quota system for scrap as well as earlier COVID related disruptions to scrap supply chains. The scrap shortages and the increases in aluminum end-markets like automotive and construction all contribute to the recovery in Chinese primary aluminum demand, which has also been supported by general improvements in domestic macroeconomic outlook and government stimulus announcements. Outside of China, high level manufacturing and aluminum end-market data also showed signs of improvement in North America and Europe in May and June as automotive plants got back to work and manufacturing orders continued to recover.
+
+From a supply perspective, there have been some curtailments globally, but not enough to starch the rise of aluminum inventories in the first two quarters of 2020. In the first half of this year, smelters cut a little more than 1 million tons of annualized capacity in China, of which 400,000 tons has restarted, leaving 700,000 tons of annualized capacity still down. Outside of China, we have seen cuts of 600,000 tons of annualized capacity, including Intalco. Of that total, 100,000 tons have started in Brazil, leaving 500,000 tons of net cuts. With a recovery in demand, the pace of the inventory build slowed in the second quarter relative to the first quarter and inventories decreased substantially in China, with close to 1 million ton drawdown in total stocks given the strong demand rebound.
+
+Given these dynamics, Chinese aluminum prices have led the charge during the second quarter in the price recovery, although we noted across the board improvement relative to April’s lows. Higher Chinese aluminum prices have brought significant levels of aluminum smelting production back into cash positive territory. In the month of June, only 1% of Chinese smelters were cash negative. While prices have increased from April lows, costs have also increased over the last 2 months, keeping 15% of ex-China smelting capacity and global refining capacity in cash negative territory in June. Of course, the market remains fluid. It will be important to monitor supply demand inventories and pricing dynamics. As we discussed in our last earnings call, the ability to deliver aluminum into inventory provides a needed outlet in times of oversupply, but can quickly become a long-term drag without any reaction to basic demand fundamentals.
+
+Looking forward to the second half of 2020 and beyond, what is clear is that the ultimate market balances and industry fundamentals will be determined by a few factors. First and foremost, how well the spread of COVID-19 is managed around the world. If the number of virus cases increases substantially in a prolonged first or potential second wave, a new round of strict lockdown orders would likely cause the current demand recovery to reverse course. Second, assuming COVID-19 remains under control, the speed of economic recovery will be influenced by levels of government stimulus and the resumption of activity after lockdowns or other restrictions. This quarter, we saw signs of demand recovery well on its way in China and turning the corner outside of China in data across aluminum’s broad set of end use markets, which includes transportation, construction, packaging, machinery, electrical and consumer durables. Third, how industry players independently react to the pricing and demand environment as it shifts and changes and the resulting build or release of global inventories.
+
+Next, before Bill discusses our second quarter numbers, I want to very quickly recap the programs we’ve laid out, both before and during this current crisis to improve Alcoa. I’m pleased that we started deploying many of these actions early to help us navigate through uncertain times and contribute to a stronger future. At the top, we announced in October key strategic actions that included a new operating model, a plan to generate additional cash from the sale of non-core assets and a review of our production portfolio, focused on 4 million metric tons of global refining capacity and 1.5 million metric tons of smelting capacity. As noted earlier, we are making progress on many of these actions.
+
+Next, in the middle of this chart, in February of this year, before the coronavirus became a global pandemic, we announced plans to drive leaner working capital and implement annual productivity improvement. There too, we are making strong progress. And finally, we continue to manage cash to mitigate the economic impacts associated with COVID-19. All of these initiatives are expected to total $900 million in cash actions this year and consist of projects and ideas of all sizes. What is certain is that Alcoans around the world are focused on the right things, health, safety and the stabilization and improved productivity of this company.
+
+So, with that, I’ll pass it to Bill.
+
+William Oplinger
+
+Thanks, Roy. This Monday, we closed on a $750 million 5.5% coupon senior notes issue. Given our strong liquidity position, I want to provide additional color regarding the rationale behind the new debt issue. This debt issuance provides increased financial flexibility to meet the short-term challenges of these uncertain times, while we continue to hold to our capital allocation framework, using excess cash to achieve our mid-term proportional net debt target, return cash to shareholders, transform the portfolio or invest in value-creating growth projects.
+
+Now, let’s look at the quarter. Second quarter 2020 revenue was down $233 million sequentially on lower aluminum and alumina prices. The net loss attributable to Alcoa Corporation was $197 million or $1.06 per share. The adjusted net loss was $4 million or $0.02 per share. Special items in the quarter included interim tax impacts due to changing assumptions of full year profitability and the resulting tax rate, the Intalco curtailment and Becancour restart costs. Also on an adjusted basis, the second quarter operational tax rate was 178.3% primarily due to a true-up of the prior quarter tax rate to the new full-year tax rate. Adjusted EBITDA, excluding special items, was $185 million, generating an EBITDA margin of 8.6%.
+
+Let’s look closer at factors driving adjusted EBITDA. Adjusted EBITDA, excluding special items, declined $136 million in the second quarter. Market price impacts totaled negative $215 million and included lower metal prices, lower alumina prices and a weaker US dollar due to a partial reversal last quarter’s favorable revaluation impact. All other factors netted to positive $79 million and reflect strong operating results. Lower production costs, favorable raw material and energy costs and improved volumes were partially offset by weaker sales mix in both aluminum and alumina. Other improvements of $25 million included lower SG&A costs due to implementing the new operating model, favorable inter-segment eliminations and reduced transformation spending.
+
+In the operating segments, bauxite EBITDA improved $11 million sequentially on higher shipments. In alumina, lower alumina index pricing and unfavorable contract mix combined with unfavorable currency revaluation to drive the change, while on the operating side, lower raw materials and energy costs and lower production costs were favorable partial offsets. In the aluminum segment, lower realized metal prices and value-added product sales were partially offset by substantially improved production costs, as well as lower input costs including alumina, smelter energy and carbon. EBITDA impacts outside the segments improved $54 million, led by a $38 million sequential improvement in inter-segment eliminations primarily due to lower alumina prices, lower other corporate costs because of reduced overhead and transformation spending control.
+
+Moving to cash, overall, cash performance was very strong. We generated $288 million of cash from operations, $211 million in free cash flow and ended the quarter with $965 million on the balance sheet, up $136 million from the first quarter and $131 million from the year-ago quarter. A quick review of our major cash sources and uses for the first half of 2020. Our total cash sources were $830 million, consisting of $506 million in adjusted EBITDA, $199 million in net proceeds from asset sales and $125 million from working capital reductions. Largest outflows of cash were $168 million of capital expenditures, $123 million of tax payments, including $47 million in payments of prior year income tax and net distributions to our joint venture minority interest partner of $90 million.
+
+Now, let’s take a look at other financial metrics. First half 2020 free cash flow, less non-controlling interest distributions, improved to negative $60 million as second quarter free cash flow less NCI distributions was positive $152 million. One reason for the cash flow improvement was favorable working capital sequential reductions of $275 million. This improvement was even better than expected, and our days working capital decreased seven days both sequentially and year-over-year to 24 days. Another improvement with capital spending control, our first half 2020 capital expenditures totaled $168 million. Second quarter CapEx was $14 million lower than the first quarter.
+
+Our key balance sheet metric proportional adjusted net debt remained at $3.3 billion. Re-measurement of all pension and OPEB assets and liabilities typically occurs at year end. However, due to plan changes related to the Intalco curtailment, approximately 40% of our pension liabilities was re-measured as of April 30, 2020 and was the key driver increasing the net liability $100 million as of June 30. Year-to-date, our pension asset returns have been approximately 0% and discount rates are down roughly 35 basis points for pension and 60 basis points for OPEB. If asset returns are at targets in the second half of the year and discount rates and all other factors do not change, we would expect the pension and OPEB net liability to increase approximately $200 million from the current $2.4 billion.
+
+Turning to our $900 million cash actions program, we are continuing to make solid progress on our announced cash action. In key strategic actions, we are pleased to see the run rate savings from the new operating model reflected in lower second quarter SG&A and R&D costs, which declined $19 million compared to the first quarter. The non-core asset sale program continues, and while COVID-19 has impacted some sales activities, we are holding to our timeline and cash proceeds targets. The Intalco curtailment is under way, and we expect to have the full curtailment completed in the third quarter. The San Ciprian smelter formal consultation process is also under way, and we expect the outcome to be determined within the next several weeks.
+
+On the 2020 programs, we have made excellent progress on working capital reduction, and as you saw in our strong second quarter cash flow, are already substantially ahead of our full-year target. Our production costs and operations efficiency program is gathering steam, being led by volume-based cost reductions. On COVID-19 response, our capital expenditure and environmental and ARO spending targets are on track. We are deferring US pension funding in the 2021 as planned and other cost reductions or deferrals are also on target.
+
+Finally, let’s review our full year outlook for 2020. Our full year 2020 outlook has only modest adjustments and is our best current estimate notwithstanding the evolving COVID-19 situation. On earnings, below the EBITDA line, we expect depreciation expense to improve to $665 million due to foreign currency rates and lower capital spending. We expect interest expense to increase to approximately $150 million as a result of our new debt issuance. We are not providing an outlook for the full-year operational tax rate. However, based on recent prices, we expect operational tax expense in the third quarter to be approximately $150 million.
+
+For cash flow impacts, we are adjusting slightly our capital expenditures estimate, increasing return-seeking capital $10 million to $35 million as we wind down those projects and reducing sustaining capital spending $10 million to $340 million. Our prior year and current year cash taxes remain the same as in our previous outlook, but do not include the deposit of $74 million or $44 million Alcoa share expected to be made with the Australian Tax Office to contest a recent tax assessment. We expect no further cash impacts from that assessment until it is ultimately resolved.
+
+In the appendix, we also list additional considerations expected for the second quarter. They include in the bauxite segment, adjusted EBITDA is expected to be $5 million lower, primarily due to lower export volume, in the alumina segment, we are expecting higher energy costs in Australia to be partially offset by higher sales volume and lower costs, netting to $15 million lower sequential EBITDA impact; in the aluminum segment, lower alumina costs are estimated to produce a sequential benefit of $10 million. Aside from potential metal price or currency impacts, other factors are expected to be flat sequentially. So with that, let me turn it back to Roy.
+
+Roy Harvey
+
+In closing, I want to step back and reinforce the reason behind all of this act, a brief look at our destination. During this pandemic, we had a relatively strong second quarter. And despite the current situation, we are not losing focus on our strategy or objective. While many things are difficult to predict today, Alcoa is unwavering in its commitment for continued improvement. Our three strategic priorities provide a road map for the future. We reduce complexity, so we can be low cost. We drive returns with a focus on improved margins across our products, and we intend to advance sustainably in all aspects of our business, economically, environmentally and socially. As we advance, we are driving for actions to strengthen our balance sheet, create a cycle-proof portfolio of assets and build upon our strong reputation for environmental and social excellence, including demonstrating the value we bring to our communities and our commitment to a diverse and inclusive workplace.
+
+In terms of our portfolio, we will continue to drive value through our extensive, high-quality bauxite reserves, sustainable mining practices in our low-cost portfolio of efficient mines. We will maintain our position as the lowest per ton carbon producer in alumina and protect our first quartile cost position in this segment. With our portfolio review, we will improve the cost structure of our aluminum business and become the lowest per ton carbon producer in smelting. The goal is to drive Alcoa to be sustainable, both financially and environmentally.
+
+There are three major points I want to leave you with. First, we will continue to prioritize the health and safety of our global workforce. This commitment allowed us to deliver solid performance in the quarter, despite the challenges the world faces from COVID-19. Second, we remain committed to continuous improvement regardless of the circumstances. We’re already improving our costs, boosting our output, driving gains in working capital and implementing sustainable year-over-year improvements in productivity. We are also focused on continued management of cash, evidenced by our balance of $965 million at the end of the quarter. Third, we will act smartly and use our increased liquidity to navigate through these times, while we strengthen our portfolio of core assets and improve our balance sheet in accordance with our capital allocation framework. While the pandemic has changed much in how the world currently works and interacts, we remain steadfast in our commitment. Thank you.
+
+Bill and I will welcome your questions now. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] And our first question will come from Chris Terry with Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Hi, Roy and Bill. Thanks for taking my questions. I hope you are well. First question I had is just on the tax ruling, the ATO just start to some more details on the actual announcement from last week and also whether you could talk about both the principal and the interest part of that in the context of potentially using the interest as a tax shield later on? And my second question is around the guidance for the bauxite was obviously quite a lot different to what you provided at the end of 1Q and that’s primarily driven by the volumes. So I just wondered if you could comment on that as well exactly some of the moving parts and how that was so strong in the quarter? Thanks.
+
+William Oplinger
+
+Roy, do you want to address the preliminary comments on the tax ruling?
+
+Roy Harvey
+
+Yes. I can’t. I wasn’t sure if it was headed in the financial direction or more in general.
+
+William Oplinger
+
+Yes, and I will take it from the financial direction.
+
+Roy Harvey
+
+Perfect. So from a ruling standpoint, I think, it’s a – it stretches pretty far back in time, and so that is what is driving both the principal calculation and then the interest calculation. I will leave that to Bill to talk through. The important thing here, Chris, and I appreciate the question is that we are at the start of a process by which we plan to very much object to how that reached this conclusion. And it’s very basic, we simply don’t agree with their assessment. We don’t agree with the way that they’ve chosen to calculate it nor that there has been any underpayment of taxes over these years. And so, that is – this will be a process that takes place over the next period of time, and we fully believe that we can reach a positive conclusion on this. And Bill, maybe you want to jump in on the financials?
+
+William Oplinger
+
+Yes, let me just address some of the numbers, Chris. And these are U.S. dollar numbers, not Aussie dollar numbers, but obviously the assessment and the interest is in Aussie dollar, but we converted it to U.S. dollars for the purposes of our disclosure. The 100% basis would be $147 million on the assessment, $488 million on the tax both of those are the 100% AofA numbers. If you then translate those to Alcoa share, that would be $88 million of tax and $293 million of interest. As part of the process, we will, I should say, Alcoa of Australia will be paying part of the tax upfront. So they will be making a payment of $74 million in the third quarter; of which, Alcoa share is $44 million. Just to reiterate Roy’s points, we will be disputing this. I speak for AofA. AofA will be disputing this. It could take years to resolve and we will dispute it all the way through. So we don’t feel that their position is correct and therefore we will dispute it. And I will address your second item. As far as bauxite, bauxite did turn out better than what we had signaled. The bauxite was really driven by two things. One is inter-company shipments were better and that’s because the refineries are running well. And then secondly, our minority partnerships did a little bit better in the quarter than what we had anticipated, specifically CBG. So overall, the results of the bauxite segment were pretty strong.
+
+Chris Terry
+
+Okay, thanks. And so just for the interest of the $488 million is – can you start using that as a tax deduction and can you use that to forward settled.
+
+William Oplinger
+
+I should have addressed that, Chris. I meant to address it. Yes, the tax is deductible immediately upon the assessment. So we will start using that AUD700 million as a tax deduction in AofA and that will, ultimately, drive a better tax position in the near-term for AofA.
+
+Chris Terry
+
+And then, if you successfully overturning this, you’d then have to reverse that, so you stop getting deduction even before there’s settlement on that?
+
+Roy Harvey
+
+Exactly. And the other piece that I should have probably noted is that we have not accrued anything for this simply because we think we’re more likely than not to prevail. So no accrual was taken in the second quarter associated with this assessment.
+
+Chris Terry
+
+So what’s the sort of timeline of events here? When should we expect the next update and how does it likely play out? How many more steps are there in that process?
+
+Roy Harvey
+
+There is a number of steps in the process. I would tell you at this point, Chris, we are evaluating what our next alternatives are and we’ll keep you updated as we go through the process.
+
+Chris Terry
+
+Okay. Thanks, guys.
+
+Roy Harvey
+
+Thanks, Chris.
+
+Operator
+
+Our next question will come from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Yes. Thanks, Roy and Bill. I guess just to follow-up on Chris’s question there on the taxes, not sure if you can answer this, but the High Court in Australia ruled against BHP Billiton on kind of a transfer pricing issue related to their operations in Singapore a year or two ago. I mean, does that create a precedent or you guys can also kind of take this all the way to the High Court in Australia, if necessary? Thanks.
+
+Roy Harvey
+
+Yes. Alex, let me answer that one. So, I think, each case has its own set of specific circumstances. And so, for this particular case, I think it has a very different set of – it’s a very different market first of all. And number two, our approach to transfer pricing has been very transparent through time. And so, with aluminum pricing has developed through time, those pricing mechanisms. And so we’ll be continuing to discuss that with the tax authorities. And we believe that we will continue to go through those various stages and levels as Bill had alluded to and that if it continues finding against us, then we will take it all the way through to the Supreme Court. So I think it’s – there are no precedents that would say that this is a pre-decided case.
+
+Alex Hacking
+
+Okay. Thanks very much. And then a second question, if I may. Maybe you could comment on your Brazilian operations and how you’re finding the COVID situation down there. Obviously, there’s a lot of headlines about some of the challenges Brazil has been facing, but looking at your results, it seems like you’re able to keep your operations going. So maybe some comments there would be helpful. Thanks.
+
+Roy Harvey
+
+Yes, Alex. And so, we have multiple operations in various parts of Brazil. So I can give a little color on each of them, but much of it’s going to be the same. Particularly, in Northern Brazil, where we have the Sao Luis joint venture, the Alumar plant and then, we have the Juruti bauxite mine, and then the joint venture that we’re not operating on but partners in at the MRN mine just across the Amazon River. Across all of those locations, we are being extremely careful and extremely watchful, because we have had, particularly, in the northern cities some community spread of the virus. And so, we have put into place a bunch of reaction plans in order to make sure that we are carefully keeping people social distanced in our operations and that is the same for our contractors as it is for our employees. We also have a series of mechanisms in place where we changed shift structures, so that we can isolate as much as possible to keep people not necessarily mingling and therefore, that gives us a lot of strength inside of how we’re running the operations. I would also say is that there has been a lot of effort put into place to make sure that we’re keeping our workforce up-to-date on what’s happening, talking to them about what they need to do as far as preventing this happening inside of their homes, although obviously we don’t reach into their homes. And I would say that we have done a very good job of keeping our folk at work and actually coming and doing their jobs and doing it safely.
+
+So from an absenteeism perspective, we are continuing to see improvements. We did sort of at the very beginning of the outbreaks in Brazil start to see those numbers creep up some. And that really includes both people that are quarantined, because they might have been exposed or people that have other similar symptoms that could either be the flu or COVID. And so, we have been very careful to make sure that people could choose not to come to work and could isolate themselves and that then keeps it from spreading inside of our working population. And we are now seeing those absenteeism rates come down. And so, from a Juruti standpoint or Sao Luis standpoint, both have some spread of COVID inside of the communities, I would say that the actual occurrence inside of our plants themselves is significantly more modest than what we are seeing out in the communities. And we have seen no impacts to production, and in the end, I think it’s a joint effort of all of our operators, all of our mechanics and our management. So I am very proud of the team.
+
+Alex Hacking
+
+Thanks. That’s very helpful. Good luck.
+
+Roy Harvey
+
+Thanks. Thanks, Alex.
+
+James Dwyer
+
+Operator, do we have another question?
+
+Operator
+
+Yes, sir. Our next question will come from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Thank you very much. Good afternoon, Roy and Bill. I hope you guys are doing well.
+
+Roy Harvey
+
+Hi. Carlos.
+
+Carlos De Alba
+
+So, the progress year-to-date on working capital has been quite impressive. I wonder you can comment a little bit more what exactly you were able to do to achieve these results. And also you mentioned I think I heard that you are ahead of your target. Do you expect to keep these gains that you have been able to book or to print or do you expect maybe to give back some of that as the year progresses? And then my second question would be in terms of what – maybe Roy, what have you heard in terms of the potential restatement of Section 232 tariffs on Canadian smelting imports into the U.S. So – I mean, you already mentioned that you don’t think that, that should be applied, but have you heard of any feedback in your conversations with people in Washington?
+
+William Oplinger
+
+Let me take the first one, Carlos. We did have really good performance in working capital in the second quarter. And there is really three things that were driving that performance. And I will start with, to me, what’s probably the most important. The new operating model that we launched at the – toward the end of last year has allowed us to look at working capital from end to end. And it starts with purchasing of raw materials and it ends with receivables from customers. We got a commercial organization that is looking at the entirety of working capital throughout the entire system and that has allowed us to aggressively pursue all three levers of working capital: payment terms both on the customer and the supplier side, and inventory. So that’s – that would I would say the item number one. The other two items, which are large impacts also is clearly with the decline in prices, raw material prices, finished goods prices that has had a favorable impact on working capital. And then, thirdly, the shift away from value-add products, which is on a margin perspective, not a positive impact for us, but on a cash flow impact, the shift to selling commodity-grade P1020 means that we get cash quicker. So, all three of those things added up to the impact in the second quarter. As far as whether we will do better in the second half, that first item that I addressed, the new operating model, we will continue to work to looking for improvements even from these low levels of working capital. But I would say, if anything, they may be working against higher prices. If we continue to see this trend of pricing being higher, they will have to work to offset some of the higher prices. So we are sticking with our target of $75 million to $100 million of days working capital improvement even though we have at this point beaten that through the first half, but we will be offsetting some of these better market conditions. And Roy, I’ll turn the 232 question over to you.
+
+Roy Harvey
+
+Absolutely. And, Carlos, I would love to be able to give you a definitive answer on where we are going to land from a 232 perspective, but the fact is that we continue to hear very different potential outcomes on a daily or even hourly basis. Stepping back and looking at what Alcoa’s position has been through this, what we would really like to do is ensure that we are driving to fix the root problem, which is very much the fact that we have an overcapacitized environment, particularly in China and that subsidization goes all the way through the value chain is simply overwhelming from a Chinese perspective. And so, stepping back and trying to address the underlying issues at play is what we have been – what we have been trying to message and drive over the course of these years really as a stand-alone company and probably before that. We have been trying to be as clear as possible with – and this is through the Aluminum Association or through the Canadian Aluminum Association or directly with the administration and anybody who listen that really the solution here is to try and work on those deeper problems and that from a Canadian tariff standpoint, because of the close relationship and in many ways symbiotic relationship between products produced in Canada and the U.S. and the customers across the U.S. and in Canada, of course, is simply doesn’t make sense that there is a tariff that that tariff that 10% is reinstated there. So again, I don’t think I have a – I wouldn’t hazard a prediction at where we land, nor what the rules of that potential reinstatement could look like because I have also heard a lot of different potential options there. But in the end, Alcoa is going to keep talking about what is the underlying issues at stake and looking for ways to address those across multiple jurisdictions.
+
+Carlos De Alba
+
+Alright. Good luck. Thank you very much.
+
+Roy Harvey
+
+Thanks, Carlos.
+
+Operator
+
+Our next question will come from Lucas Pipes with B Riley, FBR. Please go ahead.
+
+Lucas Pipes
+
+Hey, good afternoon everybody and good job on managing this very difficult environment and liquidity so successfully last week. I was a little surprised just kind of given what happened during the second quarter that in two of your segments for Q3, you are guiding to kind of modestly lower performance. And I wondered is there a degree of conservatism, pricing lags, would it be possible to give a little bit more color as to what exactly is going on there kind of quarter-over-quarter? Thank you.
+
+William Oplinger
+
+Yes. So, Lucas, in the bauxite segment, we had a really strong second quarter. So we are projecting it to be $5 million lower. We do have an outage at the Juruti facility in the third quarter that will limit some volumes. So, that’s really probably the biggest impact between the second and the third quarter. In the Alumina segment, one of the big changes that is going on is that, you know that we have – that a number of years ago, we entered into long-term gas contracts associated with our Western Australian refinery. Those gas contracts are coming to in effect in the third quarter. Those gas contracts will have a negative impact on the segment approximately on a third quarter versus second quarter look of about $40 million. So when we are projecting the Alumina segment to be $15 million lower, and I should say that $15 million lower, exclusive of any changes in alumina pricing, but – and that’s how we always projected. The segment itself is projecting pretty strong performance, because it is looking to at least partially offset some of those higher gas costs that will be rolling through in the third quarter. So that’s what’s going on in those two upstream segments.
+
+Lucas Pipes
+
+Very helpful. I appreciate that. Then for my second question, I wanted to touch on something that you had discussed previously. Now, during the quarter, there has been an announcement that the LME has launched green aluminum contracts. And have you had qualification discussions and do you think this could help open up a premium for green aluminum quicker than previously expected?
+
+Roy Harvey
+
+Yes, Lucas, and it’s a good question. The fact is, I think, it’s very much still under development. I would argue that the way that they are approaching it is sensible. We have been – we have been trying to think through how best we can make this whole green aluminum market really start to move into a premium environment, because, as you well know, we are one of the lowest carbon per ton producers of aluminum and are quickly running toward ensuring that we are the lowest whether that’s through portfolio change or through the ELYSIS work that we are doing as well. So, I think the LME work is going well, and from a qualification standpoint, I think. And it depends upon the specific plant in question, but I would argue that we are very well positioned for that. I would also say that the ASI, the Aluminum Stewardship Initiative is also something that is very much on our radars as a way to look through the entire value chain, which from our perspective, because we go from bauxite to alumina and to aluminum, we think is quite important, because it can help drive the right behavior across all lines of that value change. And I would add one more piece to it as well, which is also the fact that I think the market and whether it’s being driven by consumers or more and more driven by investors and not just European investors, but also our U.S. investors now, I think there is a quicker drive to demand more accountability and that in the end, still can’t say when will that green premium develop, and when will lower carbon emitters have the benefit of that lower carbon story. But I would argue that we are seeing the stars align very quickly to make that more and more important, which just reiterate the fact that our shift in our portfolio and our – are very much targeting both financial, but also very much environmental sustainability is – helps to get us in the right place to benefit from that the most.
+
+Lucas Pipes
+
+I appreciate all the color and continue best of luck. Thank you.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+Operator
+
+[Operator Instructions] Our next question will come from John Tumazos with John Tumazos Very Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you. You correctly predicted 3 months ago, the high value markets would weaken. Looking at your ingot realization in the quarter, it looks like it’s a $0.01 less than a $0.09 Midwest Premium Plus ingot – LME ingot lagged one month. So, is it fair to say that there were no high value-added shapes like extrusions and no high value purity and alloys and maybe some kind of transportation costs settlement or provisional pricing or some negative penny adjustment?
+
+William Oplinger
+
+I don’t think so, John. There was – the value-add shipments in the second quarter were substantially less than what was in the first quarter. The value-add shipments went what we had historically talked about percent of value-add from the – to be approximately 50% to 55% and that we have seen a 20% reduction in value-add. So, we continued to ship value-add in the second quarter and are actually seeing, I think, as Roy alluded to in his comments, a little bit of strength and things like the foundry markets going into the third quarter. I would suggest to you that when you are doing that math that the lags aren’t completely perfect and you can’t necessarily take a 15-day lag on the LME and make it quite that precise, but there was still value-add products being sold in the second quarter, just not nearly as high as first quarter.
+
+John Tumazos
+
+Thank you.
+
+William Oplinger
+
+Thanks, John.
+
+Operator
+
+And for our last question today will come from Paretosh Misra with Berenberg. Please go ahead.
+
+Paretosh Misra
+
+Hi, Bill and Roy. Just a question on demand and order book. So, can you talk about what are some of the signs of demand improvement that you are seeing in your Aluminum business and how is the order activity progression in the last 2, 3months, including what you have seen in early July versus what’s maybe typical for this time of the year?
+
+Roy Harvey
+
+Yes. And Paretosh, I am going to have to give you some qualitative answers to that, because I think we are just starting to see some of that positive movement. And so, let me first make one quick caveat that as we think about our primary markets, and much of them is in the U.S., of course, and Canada, but then also into Europe. And so, it’s in both of those places where you are starting to see a lot of reopening activities, you are seeing a lot of – or we are seeing a lot of our customers come back and start to demand and there are some that we are still buying through the downturn and some of that is contractual, some of it was actual demand. And so you have to work your way through some built-up inventories inside of our customers. But as we look where we stand right now in July, I would argue that both in Europe and in North America, we really are starting to see those "green shoots" and we are starting to see that our customers are talking about more and more ability to reconnect with their automotive customers with the different parts of the end – aluminum end markets that happen to be there. The one concern that I would voice is that I think everybody is still waiting to see how from a U.S. perspective how from – in various European countries, how we can make sure that we are taking the right steps, so that we don’t see a relapse or don’t see some additional closures because of COVID becoming more serious in different parts of the world. But right now, I think what we look to in an optimistic case is to see as much of an economy roaring back much like it did in China. We are still a few months behind that, but it would be nice to see that both North America and Europe can follow a similar type of curve to what we have seen really in China up until now. I am very pleased with how China has gotten all of it’s sort of aluminum end use markets very much in line and very much productive again.
+
+Paretosh Misra
+
+Thanks. Thanks for the detailed color. That’s very useful. And maybe a follow-up on how does the oil price impact you, like, what are the main derivatives that you buy? And are you already benefiting from that or is that more of that to come in the second half of this year?
+
+William Oplinger
+
+So, Paretosh, we actually provide sensitivity to oil price in the appendix. I am looking to see what chart it’s on, but there is a breakdown of our cost structure and how oil prices impact our results on a quarterly basis.
+
+Paretosh Misra
+
+Great. Thanks, guys.
+
+Roy Harvey
+
+Thanks, Paretosh.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for any closing remarks. Please go ahead.
+
+Roy Harvey
+
+Yes. Thank you operator. I would like to thank everyone for their time and attention today. I know there’s a lot going on. So I really do appreciate the fact that you take a few minutes to look through what’s happening in Alcoa. I am very pleased with Alcoa’s response in these unprecedented times. I am proud to be part of a moment where we can truly accelerate some of our actions and where we can have very – a very clear side of focus on where we are going and what we need to do in order to make this company more competitive, but also more sustainable for the long-term. So, I look forward to explaining more and talking more about how that is developed at our next earnings session and would like to ask everybody to please be safe, healthy and we will talk to you soon. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today’s presentation. You may now disconnect.

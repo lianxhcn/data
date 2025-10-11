@@ -1,0 +1,720 @@
+Alcoa Corporation (NYSE:AA) Q4 2020 Results Earnings Conference Call January 20, 2021 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations
+Roy Harvey - President and CEO
+William Oplinger - Executive Vice President and CFO
+
+Conference Call Participants
+
+David Gagliano - BMO Capital Markets
+Timna Tanners - Bank of America
+Lucas Pipes - B. Riley Securities
+Curt Woodworth - Credit Suisse
+Alex Hacking - Citi
+Chris Terry - Deutsche Bank
+Emily Chieng - Goldman Sachs
+Carlos De Alba - Morgan Stanley
+
+Operator
+
+Good afternoon. And welcome to Alcoa Corporation Fourth Quarter 2020 Earnings Presentation and Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today’s presentation, there will be an opportunity to ask questions. [Operator Instructions]
+
+Please note this event is being recorded. I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, and good day, everyone. I am joined today by Roy Harvey, Alcoa Corporation President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company’s actual results to differ materially from these statements are included in today’s presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA.
+
+Finally as previously announced, the earnings release and slide presentation are available on our website.
+
+With that here is Roy.
+
+Roy Harvey
+
+Thank you, Jim, and thanks to everyone for joining this call today. Obviously, 2020 was a historic year, with the world united in fighting through the challenges associated with the global pandemic.
+
+Throughout this turbulent time however, we stayed true to our Alcoa values and accomplished much in an unprecedented year. We focused on our people, making sure we took every possible steps to protect our employees and contractors, and to support the communities where we operate. Do the team work across Alcoa. We not only kept our operations running efficiently. We improved our processes and made our company even stronger.
+
+We will discuss the specific financial results shortly. But it all culminated with a solid fourth quarter. We had a higher sequential quarterly adjusted EBITDA and we also recognized clearly improvement in revenue.
+
+Both prices and demand improved in the fourth quarter, including for value-add aluminum products. And for the full year, we made significant progress in improving our cost structure with our multiyear strategy and we will highlight many of those achievements during this call today.
+
+First, however, I would like to address safety. Despite so many accomplishments in 2020 and as reported last April, we sadly did not achieve our most important objectives. A contracted worker died on February 10th after sustaining on the job injuries at our Poços de Caldas facility in Brazil.
+
+This was an unacceptable tragedy and we worked to make sure it does not recur. This tragic accident demonstrates that we must be ever vigilant with our safety practices and must remain focused on each and every task at hand.
+
+Safety is embedded in the three Alcoa core values you see on the left hand of the slide and those three simple values continue to guide us. In fact, our response to the pandemic demonstrated how a relentless commitment to these values can deliver positive impact.
+
+Not only did we sustain our operations, we also set annual production records in both our bauxite and alumina segment. In aluminum, we continue to improve our cost structure and successfully completed the full restart of the ABI smelter in Bécancour, Québec, and the curtailment of the Intalco smelter in Washington State. Together, these two actions resulted in an $86 million improvement in EBITDA in 2020 over 2019.
+
+Importantly, 2020 was a year with significant accomplishments across Alcoa. We started the year with the full implementation of our new operating model, which reduced overhead costs and improved overall efficiency.
+
+Before we encountered the impact of pandemic, we had already put in place aggressive targets for non-core asset sales over a 12-month to 18-month period and year-over-year improvements for working capital and productivity in 2020.
+
+With the economic uncertainty created by this pandemic, we also implemented additional actions to generate and protect cash. We finished the year meeting those targets. We met our combined objective on working capital and productivity, and our announced non-core asset sales put us at the top of our expected range.
+
+Those and other actions during the year helped us exceed our target of $900 million in cash actions. In November 2020, we announced the divestiture of our single rolling mill located in Indiana at Warrick Operations in a $670 million transaction expected to close in March of this year.
+
+Finally on this slide, our strategic priority to advance sustainably provides many new opportunities and we will talk later today about how we are leveraging our industry leading performance to succeed in a marketplace expecting and demanding strong ESG performance.
+
+So, with that, Bill will now detail the results.
+
+William Oplinger
+
+Thanks, Roy. The 2020 fourth quarter saw revenues exceed third quarter levels on strong aluminum prices. Revenues were up $27 million compared to the prior quarter and lagged to the fourth quarter of 2019 by $44 million on lower aluminum prices.
+
+Fourth quarter earnings improved versus both the third quarter and year ago quarter, either including or excluding special items. Special items in the fourth quarter of $53 million, primarily related to the U.S. pension lump sum settlements.
+
+The net loss attributable to Alcoa Corporation improved $45 million to $4 million, up $0.24 per share and was $1.61 per share better than the prior year. Adjusted net income of $49 million or $0.26 per share was $1.43 per share better than the prior quarter and $0.57 per share higher than the prior year fourth quarter.
+
+Also on an adjusted basis compared to the previous quarter, EBITDA excluding special items improved $77 million to $361 million and increased $15 million compared to the fourth quarter of 2019.
+
+For the full year, revenues declined $1.1 billion to $9.3 billion on lower alumina and aluminum prices, while the net loss attributable to Alcoa improved $955 million to $170 million, primarily due to lower restructuring charges. Adjusted net loss for full year 2020 was $215 million, down $31 million from 2019.
+
+Let’s look closer at factors driving adjusted EBITDA in the fourth quarter. Adjusted EBITDA excluding special items increased $77 million in the fourth quarter, or $39 million higher earnings from the segments and $40 million from favorable intersegment eliminations.
+
+Overall, favorable market price impacts totaled $92 million where higher metal and alumina prices were partially offset by a weaker U.S. dollar. All other factors combined were unfavorable $15 million.
+
+Energy costs were higher in smelters in Norway and Spain and at Brazil refineries and price mix lower CBG bauxite prices and unfavorable alumina segment contract mix outweighed improved product mix in the aluminum segment. Volume was unfavorable primarily due to lower CBG and Juruti third-party bauxite shipments.
+
+Production costs were up sequentially in the aluminum segment where labor costs increased after summer holidays, increased spot relining and timing of maintenance activities and work power plant outage and related costs. Production costs were also up slightly in alumina on higher bauxite freight costs and in bauxite on maintenance timing.
+
+Other impacts totaled $54 million sequentially and reflect the impact of many of our strategic key actions. The Intalco curtailment contributed $10 million EBITDA improvement and $12 million was related to the Section 232 tariff, refunds and reversals. Trading activities and equity earnings and non-operated mines and bauxite contributed $21 million
+
+Moving to cash. Fourth quarter liquidity remained exceptional with $1.6 billion in cash on the balance sheet. Our year-over-year cash balance increased $728 million, primarily due to the net proceeds of $736 million from our July debt issuance. Sequentially, our cash balance decreased $129 million.
+
+At the end of the fourth quarter, we contributed $250 million to our U.S. pension plans. That contribution made in late December instead of in early January saved us $6 million in pension related costs.
+
+In 2020, sources of cash totaled $2.2 billion and uses of cash totaled $1.5 billion. Removing the debt proceeds of $736 million, the year-to-date sources of cash were $1.5 billion, with an $8 million of 2020 uses, a reflection of solid operating performance and our successful $900 million cash actions program.
+
+Given our substantial cash balance at year-end and the expected influx of cash on closing the Warrick rolling mill sale later this quarter, let’s review the framework that guides our capital allocation decisions.
+
+Capital allocation framework has three major components. First, it starts with a target cash balance of $1 billion, which as our history has shown can be higher or lower than target based on market conditions. In 2020, it has been prudent to carry more cash than our target.
+
+Second, our next use of cash is to sustain and improve our existing operations with capital expenditures. Our 2020 capital expenditures totaled $353 million, but we expect an increase to roughly $425 million in 2021, as we increase return seeking capital spending on high return small projects and increase sustaining capital for major mine moves and residue management projects.
+
+Third, we expect to use excess cash to maximize value creation in four ways not listed in any priority order. We target adjusted proportional net debt of $2 billion to $2.5 billion within the next three years. That target includes our pension and OPEB net liability and we believe it generates our optimal WACC.
+
+Returning cash to stockholders, we have a buyback authorization in place. Third, transforming the portfolio to lower cost to improve earnings through the cycle, while improving its sustainability profile and investing in medium-sized value-creating projects. We will decide between these four options as we continue to review our cash balance and market conditions.
+
+Now let’s look at other financial metrics. Full year 2020 free cash flow less non-controlling interest distributions was negative $142 million and includes our recent $250 million U.S. pension funding.
+
+Working capital management has been solid. Days working capital improved four days year-over-year on lower inventories and higher payables and increased one day sequentially to 23 days due to higher receivables.
+
+Our key balance sheet metric proportional adjusted net debt in 2020 increased by $105 million to $3.5 billion, primarily a result of lower pension and OPEB discount rates, while our pension net liability remained at $1.5 billion, our OPEB liability increased to $900 million.
+
+Turning to our $900 million our cash actions program. Early in 2020, we announced a comprehensive cash program totaling $900 million. It was the successful cornerstone of our response to conserve cash drag 2020, volatile market conditions that had three components.
+
+The first component was the 2020 cash impacts arising from our three key strategic actions announced in October of 2019. The new operating model saves roughly $45 million in overhead costs and our entire business benefited from increased operational and commercial focus.
+
+We sold the Gum Springs treatment facility for $250 million and received the first $200 million earlier this year with another $50 million to be received after certain conditions are met. While we announce the sale of the Warrick rolling mill for $670 million, the cash of $587 million from the sale will be received at closings started for the first quarter of this year. We completed the Intalco curtailment last quarter and saved $21 million.
+
+The second component was the 2020 programs announced last February comprised of lower production costs and working capital reduction together targeting $175 million to $200 million of improvements.
+
+Despite recent higher sales prices increasing receivables, we achieved $184 million of the target, without the $82 million of higher working capital related to union actions in San Ciprián, we would have achieved $266 million in working capital and production costs improvements.
+
+Third component was COVID-19 specific responses. We exceeded our reduction targets for capital expenditures and ARR and environmental spending by a combined $35 million, and we are within $5 million the target for other spending.
+
+While we had initially planned on taking advantage of the CARES Act by deferred and pension contributions of $220 million since early January of 2021, we made a $250 million contribution late in December, which generated a $6 million refund of PBGC premiums.
+
+Now let’s review the outlook for 2021. This outlook reflects an expected continued progression to less volatile and improved markets. As we have noted in recent quarters, our outlook could be impacted by changes in market conditions, especially impacts related to the ongoing COVID-19 pandemic.
+
+Also remember that the Warrick rolling mill has triggered held for sale accounting. So, in the first quarter, while the income statement treatment is unchanged, the Warrick rolling mill assets and liabilities are all classified as current assets and liabilities.
+
+Currently, for 2021, we expect increased shipments in the bauxite and alumina segments, and lower shipments in the aluminum segment, primarily a result of the upcoming sale of the Warrick rolling mill in the completed Intalco curtailment.
+
+For EBITDA impacts outside the segments, we expect transformation cost of $65 million, higher than the cash conserving result in 2020. We expect other corporate costs to increase slightly to $120 million, partially due to currency impacts.
+
+Below the EBITDA line, we expect depreciation to increase to $675 million on capitalization of major projects and currency movements, the first quarter is expected to be roughly $15 million higher than the rest of the year.
+
+Non-operating pension and OPEB expenses is expected to improve approximately $33 million in 2021 due to lower interest costs in the plan. With the current capital structure, we expect interest expense to increase to approximately $165 million.
+
+Our operational tax rate was 130% last year with expense of $226 million. The expense and rate will vary with market conditions and jurisdictional tax profitability. Reviewing some of the key cash items, we expect pension and OPEB funding to be approximately $315 million assuming no use of the available $500 million prefunding balance.
+
+Return-seeking capital expenditures will increase slightly to roughly $50 million, up from the $35 million in 2020. Sustaining capital expenditures at approximately $375 million reflect the large but infrequent mine moves and residue storage area projects occurring in the near-term.
+
+Environmental and ARO spending is expected to rise to approximately $150 million, which represents a more normalized near-term spend, but higher than the COVID constraints 2020 actual spending.
+
+Looking just at the first quarter, current metal and alumina prices are expected to drive EBITDA higher with some partial offsets. Sequentially, adjusted EBITDA in the bauxite segment is expected to be $45 million lower due to lower internal bauxite pricing and an additional $25 million lower due to lower earnings from minority owned mines and non-recurrence of favorable revenue true-ups in the fourth quarter of 2020. The alumina segment will see the offsetting benefit of $45 million from lower bauxite internal prices, partially offset by $15 million of higher energy costs and seasonal maintenance costs.
+
+In the aluminum segment, alumina costs are expected to be $20 million higher sequentially. Other items excluding metal prices and currency are expected to be unfavorable $10 million sequentially.
+
+As a result of our portfolio changes, we have reduced the intersegment elimination sensitivity for $10 per ton change in API by $1 million to a range of $7 million to $9 million. In the first quarter, we also expect related changes in intersegment inventory volumes and margins to add an additional $10 million sequential benefit to the intersegment eliminations.
+
+Our annual adjusted EBITDA sensitivity found in the appendix have also been updated but assume full operation of San Ciprián smelter, which is currently not making sales due to the strike. Approximately 50,000 of San Ciprián metal did not ship in the fourth quarter.
+
+In addition, based on expectations of recent improved price driving high pre-tax earnings, company expects first quarter 2021 operational tax expense to increase to approximately $65 million.
+
+With that, let me turn it back to Roy.
+
+Roy Harvey
+
+Thanks, Bill. Let me turn to our market. In the fourth quarter, we saw strong improvement in prices for both alumina and aluminum. Each rebounding due to stronger demand and finishing near our 2020 peak that were well above the lows in April.
+
+A broad recovery in the markets through COVID-19 impacts particularly in China, supported a resurgence in the fourth quarter an aluminum demand, with the price rally reinforced by a weakening U.S. dollar as prices ended 2020 higher than a year earlier. In December of 2020, less than 5% of global smelting and refining capacity was cash negative.
+
+The recovery in global aluminum demand has been driven by a few notable items. First, the reestablishment of more normal operating conditions due to reductions in COVID-19 infections in certain jurisdictions, particularly in China, next, the ability of global manufacturers to mitigate the risks from the pandemic and continue operation, also monetary and fiscal stimulus programs have accelerated stronger demand in aluminum ‘s end use markets and that effect is expected to continue.
+
+Now looking ahead to our outlook for global aluminum consumption in 2021, in China, where 2020 consumption exceeded 2019 levels, we expect consumption to grow again this year by about 5% year-on-year. In a world ex-China where consumption contracted in 2020, we expect 2021 consumption to grow by about 10% year-on-year. This will be only the second time we have seen double-digit growth in the past 20 years.
+
+Globally, 2021 consumption is expected to grow by about 7%, the highest global growth rate since 2014. The speed of recovery from COVID-19 and the impact of additional stimulus measures will be key drivers in achieving this growth rate.
+
+At the same time, 2021 smelting supply growth led by China is projected to be lower than demand growth. As a result, the global primary aluminum market should be closer to balance this year.
+
+Now turning to Alcoa’s own commercial performance. In bauxite increased volume in the fourth quarter offset quarter-on-quarter price decreases. In 2021, we expect third-party bauxite shipments to increase as we continue to boost production.
+
+In alumina in the fourth quarter API pricing is higher quarter-on-quarter. We expect our smelter grade alumina shipments to remain stable in 2021.
+
+Finally, in aluminum, as we mentioned in both the second and third quarters sales of value-add products were negatively impacted from the pandemic with the second quarter as the low point. After the 11% sequential improvement in the third quarter, we saw an additional 13% volume growth in the fourth quarter, particularly due to the automotive sector.
+
+In 2021, with demand continuing to improve and considering the impact from portfolio changes, we expect our value-add products volumes to represent almost half of our third-party shipment and to grow approximately 5% year-on-year. While uncertainty remains, we see clear signs that give us confidence that demand in our market is recovering.
+
+As I mentioned earlier, we are making significant progress in strengthening our company. We are creating a cycle proof set of assets thriving for continued improvement in our pre-segment and leveraging our existing sustainability advantages.
+
+As Bill discussed in his remarks, we exceeded our target for cash actions in 2020 and that included the items highlighted on the graphic. First, in October of 2019, we launched a multiyear strategy that included three key strategic actions.
+
+We implemented a new operating model that reduced overhead expenses and brought decision making closer to our location. It was fully implemented in 2020 and has brought cost savings, and improved operational and commercial performance.
+
+We announced our intention to generate between $500 million and $1 billion to the sale of non-core assets during 12-month to 18-month period. With the sale of Gum Springs completed in early 2020 and the announced sale of the work rolling, we have met this objective and we will close this program near the top end of this range.
+
+Still, we will continue to evaluate additional opportunities for the sale of non-core assets, determining whether such decisions bring value for our company and are in accordance with our strategy.
+
+We continue to progress in our five-year review of our production assets that includes a range of potential outcomes for these facilities, significantly improved competitive positioning, curtailment closure or divestiture.
+
+The review includes 4 million metric tons of global refining capacity, of which 2.3 million metric tons has been permanently closed since the announced review. In smelting, the review includes 1.5 million metric tons of capacity and the Intalco curtailment reduced that goal by 230,000 metric tons.
+
+Second, through the 2020 programs, we implemented improvements that resulted in leaner working capital and improved productivity gains. The benefits from those process improvements will carry forward and help us in 2021 and beyond.
+
+And third, we implemented in 2020 specific actions to generate and protect cash during the volatile market conditions from COVID-19. I am very proud of the contribution of all Alcoans in making these accomplishments possible.
+
+Next, as we move into 2021, we have some near-term actions on our radar. We expect to successfully close the sale to Warrick rolling mill, which includes separating the assets that will belong to Kaiser Aluminum from the smelter and the power plant that we will continue to own.
+
+We will continue to seek resolution to the ongoing situation with the San Ciprián aluminum smelter in Spain. We are continuing to examine alternatives including a potential sale of the smelter to a state-owned company.
+
+Next, we are working on options for the Portland aluminum smelter in the state of Victoria and Eastern Australia, which faces challenges from a difficult energy environment. To find a long-term workable solution, there are two key requirement, an internationally competitive power price, including generation and transmission fees, and flexibility to manage the continued risks of grid instability. We are encouraged by positive engagement with stakeholders in Australia including the federal and Victorian Government and energy generators.
+
+All of this work positions each of our segments for an even brighter future, driving improvements in our cost position and demonstrating our differentiated approach to sustainability across our entire value chain.
+
+In our bauxite segment, we will defend our first quartile cost curve position, while we continue to leverage our sustainable mining practices, including world-class rehabilitation and working with our communities.
+
+In our alumina segment, we will also defend our first quartile cost curve position and our rank and the lowest carbon intensity producer globally. As the largest third-party provider of alumina, we will continue to lead on sustainability, such as the reduction of water and land use. And then our marketing of the world’s first ever and only low carbon alumina brand EcoSource.
+
+And in our aluminum segment, we will drive to a first quartile cost per position and through our five year portfolio review, we expect to have the lowest carbon emissions per ton of global aluminum producers. This requires an increase of renewable electricity from 73% currently. We are projecting 85% of our energy consumption.
+
+As you can see, the right financial decisions will also lead us to a best-in-class sustainability position. I’d like to explore how we believe these changes can drive value for the long-term. As a pure play aluminum company active in all segments of upstream production, we have a unique opportunity to define what it means to be sustainable in the aluminum industry. We are positioned well to supply sustainably produced products and to differentiate ourselves from other producers.
+
+We have always been a recognized leader in sustainability. For example, we have been named every year to the annual Dow Jones Sustainability Indices. And in 2020, we continued to certify additional operating assets to the aluminum Stewardship Initiative, the industry’s most comprehensive third-party validation of responsible production. We have earned ASI certification in all three of our products segment, bauxite, alumina and aluminum.
+
+As we move forward, we have identified three key value drivers in our sustainability strategy. First on sustaining operation, Alcoa have a comprehensive set of mining practices serving as a blueprint on how to operate responsibly in areas with important biodiversity such as the Jarrah Forest of Southwest Australia and the Amazon rainforest in Brazil.
+
+In the Jarrah Forest we identified a species of conservation significant, avoiding critical habitat and adapting mine plant to minimize disturbance. At Juruti, we used comprehensive forestry techniques to ensure that the rich and fragile ecosystem of the Amazon is returned as close as possible to its original status.
+
+Our reputational expertise and strong management systems, which includes proactive engagement with our communities is an advantage when renewing existing permits, expanding our mine or considering future growth opportunities.
+
+In the middle of this chart, we show how we actively work to mitigate risks to our business. From a climate perspective, we have acknowledged the scientific evidence of climate change and we have clear targets to further reduce our corporate wide emissions.
+
+We are also working to minimize costs associated with mine rehabilitation, while continuing to demonstrate best-in-class technologies including the full implementation of the global industry standard on tailing management, which was developed in 2020 by a multidisciplinary panel including the International Council on Metals & Mining, of which we are members.
+
+While a global standard is now in place for empowerments, we are also working to reduce the amount of material that needs to be stored to opportunities for reuse. In late 2020, for example, we became a member of a four-year project that will work to transform bauxite residues into a reactive material suitable for new low carbon cement products. The project includes 20 partners from across 12 European countries with support from the European Commission.
+
+In parallel, our teams are working with the International aluminum Institute to identify potential pathways for the adoption of bauxite residues in cement production and use.
+
+For water, we have established targets to reduce its use in scarce regions. For example, we have now installed press filtration technology at the Kwinana and Pinjarra refineries in Western Australia. Together, they have the capability to reduce freshwater use by approximately 2.2 gigaliters or more than 500 million gallons annually.
+
+Also, we continue to focus on lowering costs and driving efficiencies, including through digital solutions. Last year, we established an operations group focused on digital transformation as part of our continuous improvement program. This group is working to make operation safer, cleaner, less physically demanding and more productive with everything from drones, remote sensing and machine vision.
+
+Just one example includes our work on Digital Twins, which involves continuously copying data from our real world processes and then using models to demonstrate recommended performance improvement.
+
+In the Western Australian refineries, the Digital Twin Work has already helped to optimize real time gases. In 2020 alone it has generated $1 million in savings, while progressing us toward our sustainability goals.
+
+All of this work, of course, helps drive our third point of improving profitability over the long-term. We believe we can leverage our existing sustainability platforms to innovate and grow our family of products.
+
+Put simply, demand for sustainable products is increasing. Our existing sustainable family of products is the most comprehensive in our industry. Across our segments, we continue to partner with customers who want to reduce their carbon footprint and work with companies like Alcoa that demonstrate a commitment to sustainability.
+
+We are also innovators. In aluminum, we invented the technology behind ELYSIS, a revolutionary breakthrough smelting process that redesigned the traditional process for electrolysis. It eliminates all direct greenhouse gas emissions and emits pure oxygen as a byproduct. Plus it shows the promise of improving both production cost and output when compared to a same-sized smelting sale.
+
+As part of this joint venture company, we are working to commercialize this technology over the next few years, so it can be licensed for either retrofit for existing smelters or the construction of new ones.
+
+We are making progress. In December, ELYSIS announced the completion of construction on its new R&D center in Québec. It will further advance the work first discovered at our Alcoa Technical Center outside of Pittsburgh, which will continue to play an important development role.
+
+In closing, I want to step back and reinforce a few important points. I opened today with our values and I am closing by highlighting our three strategic priorities. They have provided a road map as we steer this company in accordance with our values. In a commodity environment, we consistently work to be low cost and that entails reducing complexity. Our priority to drive returns includes plans to improve margins across our products.
+
+And finally, we intend to advance sustainably in all aspects of our business, economically, environmentally and socially. My final key points today align with our values and our priorities. First, during the COVID-19 pandemic, we kept our operations running and running well. Despite the challenges from a tumultuous year, we were able to achieve results beyond expectation and we will continue to focus on keeping our operations safe, following all health based protocols.
+
+Second, I am proud of the teamwork in 2020 that allowed Alcoa to not just stand up in the face of adversity but to move this company forward during such a challenging time and in accordance with our strategy. We met many goals last year, cash management, non-core asset sales, working capital and productivity. All of this and more will improve this company for the long-term.
+
+Finally, as the world begins to emerge from the current health crisis, we are well-positioned to meet the demands of improving market. Alcoa represents the element of possibility and I am excited about the opportunities our company will capture ahead to serve our market, our customers and the world.
+
+Thank you for your time today. Bill and I look forward to your questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question today will come from David Gagliano with BMO Capital Markets. Please go ahead.
+
+David Gagliano
+
+Hi. Thanks for taking my questions. They are really more along the lines of some clarification questions around some of the numbers in the presentation, the slide deck, that kind of thing. On -- in terms of the additional business consideration, can you speak a little more and explain a little more about what’s going on within the bauxite segment and the alumina segment with regards to the lower internal alumina bauxite pricing, $45 million lower? And then also related to that the $25 million lower earnings from the bauxite mines, is that a reasonable run rate moving forward for that piece as well?
+
+William Oplinger
+
+Hi, Dave. It’s Bill. So let me take that one. As far the bauxite pricing, the intercompany bauxite pricing goes, we are essentially just reflecting the changes that have occurred in the marketplace where bauxite prices have become lower and we are reflecting that change between the two segments, it is really a left pocket, right pocket thing.
+
+And so overall on a per ton basis, bauxite prices between the segments will be down about $4 a ton for the annual basis and that results in the first quarter versus the fourth quarter about $45 million, but that just gets picked up in the alumina segment.
+
+When you look at the additional $25 million down in the first quarter, the fourth quarter had some one-timers that occurred on true-up of pricing on annual pricing and that’s not going to recur. So that leaves some higher costs and some lower equity earnings from the joint venture mines filling the additional, let’s say, $15 million of lower earnings.
+
+Remains to be seen whether that is a new run rate, clearly the $45 million is a new run rate that will apply for the entirety of the year unless we see some change in bauxite prices, but we typically set bauxite prices and hold them for the year. So that will be a shift between the two segments.
+
+David Gagliano
+
+Okay. So the true-up that occurred in the fourth quarter, the one-timer was obviously an adjusted EBITDA. Is that the total -- is that -- does that account for all the $25 million?
+
+William Oplinger
+
+No. It’s $10 million of the $25 million.
+
+David Gagliano
+
+$10 million of the $25 million, okay.
+
+William Oplinger
+
+So in the fourth quarter, we had true-up on a couple of different areas on pricing, one in Western Australia, one in CBG. That resulted in about $10 million of earnings in the fourth quarter, which won’t recur in the first quarter. So that leaves you out of that $25 million lower, that leaves you about $15 million of higher cost, some lower volumes in the first quarter.
+
+David Gagliano
+
+Okay. And then just the other clarification I had was during your remarks, I thought I heard you mentioned a $12 million -- I thought you said $12 million tariff benefit that flowed through in the fourth quarter or did I miss understand that and if so was that related to?
+
+William Oplinger
+
+No. You didn’t miss understand. That’s a fourth quarter versus third quarter variance.
+
+David Gagliano
+
+Okay.
+
+William Oplinger
+
+So in the third quarter, we had roughly $7 million of expense in the fourth quarter because we reversed part of the third quarter we had a $4 million positive. So that rounds to a $12 million variance between third quarter and fourth quarter.
+
+David Gagliano
+
+Okay. Understood. Last question for me, the $375 million of sustaining CapEx for 2021, is that a more reasonable run rate moving forward versus the $318 million that we saw in 2020?
+
+William Oplinger
+
+It isn’t a near-term. There’s two things that are driving that. First of all, I should say, in the $318 million in 2020, given the market environment. We were -- we are driving real cash sustainability, delays and deferrals in 2020 as much as possible, just given the situation that we are in and the second quarter and the third quarter with the overall pandemic and market environment.
+
+As we are rolling into 2021, I think, the $375 million for the near years is a more reasonable number. There’s a couple of things that are going on in there. We still have continued spending on the mine moves that we saw some high mine move spending in 2020. We will continue to have that in 2021.
+
+And we are continuing to spend money, and I would say, invest in the residues storage area around the system. We are going to spend a little bit more money in 2021 in the residue storage area. So that’s what’s driving the increase from ‘21 over ‘20. And I think for the near years’ that’s a reasonable amount of capital spend. It will all be based on what the portfolio changes get made of in the next few years.
+
+David Gagliano
+
+Okay. That’s helpful. Thank you.
+
+Roy Harvey
+
+Thanks, Dave.
+
+Operator
+
+And our next question will come from Timna Tanners with Bank of America. Please go ahead.
+
+Timna Tanners
+
+Yeah. Hey. Good afternoon. Just two questions. One is a broader question about the aluminum market and another one is just about your capital structure. So, I guess, to start with, if I recall 2020 was a year where aluminum didn’t really stop producing despite the dip in demand that you identified. So into 2021, if we think about the market, are there lots of sources of additional supply or do we expect that this demand will be met with kind of the same base of supply? And could you comment on both aluminum and alumina on that one? And then I will ask the other question. Thanks.
+
+Roy Harvey
+
+Sure. Timna, I will take that one. This is Roy. So I think 2020 was certainly a rather remarkable year in a lot of ways. And I think it’s -- in -- to start off, in China, you saw a very significant drop in demand in the first quarter and then you saw a pretty significant recovery across the year to a point where you actually grew 2019 to 2020.
+
+So from a demand perspective you actually saw some progress in China. Going into 2021, we continue to believe that demand is going to be increasing. We think it’s going to about 5% as I mentioned during the presentation. So demand is a very good story there.
+
+You are still seeing some supply growth inside of China and so that’s -- and particularly headed in the direction of the Yunnan Province where they can get hydropower. It is more constrained than we have seen before. However, you are continuing to see some supply come out.
+
+Outside of China and really looking towards the rest of the world and again on aluminum -- starting on aluminum. Usually you didn’t see as bigger impact in Q1 although there was certainly a lot of uncertainties been going into Q2 through Q4. You saw some buildup of inventories and so those continue to exist.
+
+And you really didn’t see a significant curtailments, Intalco is one of the few places that we chose to curtail and that’s really about all you saw across the market. So you generated the inventories. You certainly didn’t see any supply growth perhaps I will come down a little bit.
+
+Going into 2021, because you have had such -- you have had a year where your demand has dropped from 2019 to 2020, you will actually see a pretty significant improvement to 10%. Like I mentioned, it’s one of the few times we have seen double-digit growth in a very long time.
+
+So we will see a pretty significant recovery and certainly not expecting to see any kind of supply growth or much supply growth coming out beyond some creep activities, et cetera, that you might see across the rest of the world and no announced restarts.
+
+So when you take that altogether, I think, what it means from an aluminum perspective is that you have a quickly recovering market and that is making certain assumptions about what happens with the pandemic, etcetera. So there is still uncertainty that sits inside of there.
+
+You are seeing some constraints in how much new capacity on comes online and when it does it will very much be for the most part located in China. And so you should see up and improving supply demand balance versus what you saw this year. But again there’s a lot of assumptions that are baked in there.
+
+From an alumina perspective and I don’t want to spend as much time in alumina. But really it’s not so different than what I was talking about in aluminum. You continue to see the smelters for the most part operate, which meant you did not have as big an impact on demand from an alumina perspective in 2020 and we will see some growth of course going in 2021 and that’s went exactly what I was talking about in the aluminum market.
+
+You will see some supply growth both inside of China but then and again that is very it’s really going in two directions. Number one is more imported bauxite for greenfield or expansions. But you are also seeing more demand for bauxite because of depleting bauxite reserves. But in the end you will have more alumina supply coming into China.
+
+And you also have some additional supply coming on in the rest of the world, in Abu Dhabi and then -- and that’s really starting to drive some increases in supply there. So again alumina is not storable so it tends to be very small numbers circulating around zero. But we do have -- we are seeing a very good demand story in a little bit of supply coming back as well.
+
+Timna Tanners
+
+Okay. Great. So summarizing quickly recovering market year-over-year with limited ex China supply response if I understood that was from Abu Dhabi alumina. So that’s a helpful overview. I want to just if I could just go through slide nine real quick and it’s really helpful these sources and uses. But if we didn’t have this the debt raise in July and keeping in mind change working capital and pension being a little higher, you would have been kind of balanced sources and uses. And of course, there’s this big amount that you are raising through the Warrick sale and a top of the debt issuance. And I know we have talked about this before and you are fully aware of this, but what’s the -- I think what’s the holdup been you have taken some more aggressive actions to addressing the pension low interest rates keep that kind of expensive, and as you know, not a lot of benefit to keeping the cash. So just wanted any more color that you can provide on that please?
+
+William Oplinger
+
+Thanks. And I will take that one. You saw and just to make sure that it’s clear we did make a pension contribution in -- at the end of 2020, so we contributed $250 million. That allowed us to keep our pension and OPEB total liability of relatively flat in a significantly declining discount rate environment.
+
+So we continue to take action even at 2020 in a year that was a pandemic year. We had thought we would defer that payment out of 2020. But when we saw that the cash that we had on the balance sheet was pretty robust and the outlook is okay, we thought we would make that contribution.
+
+As far as cap -- overall capital allocation goes. I will point you in really two directions. First of all, we do have a net debt target and we still have that net debt target. And that net debt target is $2 billion to $2.5 billion and we ended the year I think around $3.5 billion on proportional net debt.
+
+So we still need to do further deleveraging either through the pension or through payback or buyback of the bonds to get to that debt target. We think that we could get there simply by making mandatory contributions over the next three years, but that is the one target that we have as far as the capital structure goes.
+
+And then lastly, the point I’d make is we, on purpose put the slide in there that refreshes people about our capital allocation model and our capital allocation model is we want to maintain $1 billion of cash on the balance sheet. We weren’t always able to do that during 2019 and 2020, but with the debt issuance that we that we did earlier in this year, we have greater than $1 billion in cash on the balance sheet.
+
+We want to sustain the operations. We are spending $375 million and $50 million on sustaining and return-seeking capital projects. Beyond that, we will balance those four items and one of those item is obviously deleveraging with the debt target.
+
+So more to come. I think, we acknowledge the fact that we are sitting on at the end of the year a significant amount of cash. Hopefully that the work transaction completely gets done at the end of the first quarter and we will have more cash. So more to come over the next six months or so.
+
+Timna Tanners
+
+Okay. That’s it. Thanks, Bill.
+
+Operator
+
+And our next question will come from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Hey. Good afternoon, everybody. So you have really accomplished a lot on the portfolio optimization side over the past years and congratulations on all of your success there. And two questions on that, kind of what are the priorities from here? And then two, a question that we get fairly frequently from investors, how is this going to impact your cost position going forward? And when I go back to prior quarters, you commented how this would move you lower on the cost curve including aluminum where you are not -- you haven’t been at target range. But how should we try to capture this in our model? What are some of the moving pieces going forward? Thank you very much.
+
+Roy Harvey
+
+Yeah. Lucas, thanks. Thanks for the question and let me talk a little bit about portfolio and then I can have Bill fill in a little bit on the cost curve side as well at the end. So we had -- we really broke it down into two very specific programs, it was 4 million metric tons in refining. And as you remember, we did a permanent closure of Point Comfort, which was 2.3 million metric tons. So on the way there.
+
+On the smelting side, we had a program of 1.5 million metric ton. Really the first action was the approximately 280,000 ton smelter in Intalco or 280,000 tons of operating capacity. And then we also are starting to take action in San Ciprián. Although, that curtailment itself has been put on hold because of a recent legal judgment and we are now in negotiations with the Works Council because of an ongoing strike.
+
+And so I think those things are pretty clear. We will continue to keep everybody informed about what happens in San Ciprián. But we have a tentative agreement to restart our ability to sell in San Ciprián here shortly. But of course, we have to wait for that to actually be ratified.
+
+Looking forward, Lucas, I think, I would just remind you that, that each of these reviews has a number of different potential outcomes. First and foremost, hopefully, that we can find a solution so that they can become more competitive, and of course, that also connects with the power source.
+
+And so as you imagine, we are trying to solve not only for best financial outcomes but also for low carbon because of the emerging ESG expectations and our drive to also be the lowest, lowest, lowest producer of -- lowest carbon producer in aluminum and to continue to be the lowest carbon producer in refining as well.
+
+So we look to try to make a real difference in the cost positions of each of the plants that are higher on the cost curve. The second piece of course could be a curtailment or closure. And then finally the other option is divestiture, which as markets improved as it becomes more and more possible or likely.
+
+The other moving piece that I’d put in front of me was Portland. That was an agreement that we had made with the government in the last power outage that occurred. We had brought that back up again. We are in the midst of discussions with the federal, the national government but then also with the state of Victoria.
+
+A lot of good discussions. We are certainly seeing we are making progress, but that’s going to be the next one that we will need to make a decision on and will very much depend on how the market looks and then, of course, what the final deal is and what we can do with power prices.
+
+So outside of that we have not named any specific locations. I would say that we are very determined to continue to move on both the refining and the smelting program. The real purpose is to make sure, again, of two things to secure -- in the case of refining, to secure our first quartile cost curve performance and then to preserve that lowest carbon producer globally.
+
+And from an aluminum perspective, it helps us to slide down from the second into the first quartile of the cost curve and then we will also make it the lowest carbon producer from that standpoint as well and that doesn’t even get into the ELYSIS potential that we have which is a zero-carbon technology that we are developing as part of the ELYSIS joint venture.
+
+So lots of work still ahead of us. It was a five-year program. We have made deliberate steps over the course of 2020 in order to move forward, even with all the craziness swirling around us from the pandemic, but more to come, Lucas. I guess I’d turn it over to Bill if you wanted to comment a little bit more on the financial side.
+
+Lucas Pipes
+
+Thank you very much.
+
+William Oplinger
+
+Roy, I think, you summarized it well. So, Lucas, just to be clear, bauxite maintained our first quartile cost position, alumina maintained our first quartile cost position, maintained our first best CO2 emitter position and actually get better and then, on the aluminum side, we bounce between the top of the second, the bottom of the third quartile’s cost curve and we are targeting for the top of the first quartile, so right around that 25th percentile. And at the same time, we will have the lowest carbon emissions portfolio out there. So both on costs and on carbon we are targeting some of the physicians in the world.
+
+Lucas Pipes
+
+That’s helpful. Thank you for that detail. That gives me things to think about as well. So appreciate that. But quick follow-up question, while on the earlier question on China, you mentioned the strength. Could you elaborate a little bit as to what end markets appear to be driving the demand recovery in China in particularly? Thank you.
+
+William Oplinger
+
+Sure. And it’s oddly enough, it’s pretty broad based and so it’s hard to pick one single piece of the Chinese recovery that is outstanding. Construction is certainly, because it’s such a large proportion of the aluminum consumption is growing, we think, around 4% for 2020.
+
+The other piece that really was very much infrastructure driven was machinery and a lot of that going into infrastructure builds and that’s about 15% of the total Chinese aluminum demand and that’s growing just a little bit shy of 5%. We think about 4.7% in 2020.
+
+And then I would also highlight the electrical systems and particularly ultra-high voltage. We think that’s growing about 6% in 2020 and that’s about 13% of the total market.
+
+Looking towards 2021, it’s sort of the same story where it’s -- you have got a lot of strength going across a number of different areas, continue to see similar construction growth. Packaging doing very well as well, almost 6% growth we are expecting in 2021. Machinery continues strong and again, very much connected to infrastructure growth.
+
+And then transportation and particularly automotive passenger vehicles and with the shift to new energy vehicles continuing at work, really had a decent year in 2020, but roaring back and strengthening up even to that 9% for 2021. So again it’s -- when you have had what was a challenging, it’s a really strong recovery.
+
+Lucas Pipes
+
+That’s a very helpful detail. I appreciate it very much and continue your best of luck. Thank you.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+Operator
+
+Your next question comes from Curt Woodworth with Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yeah. Hey. Good evening, Roy and Will. So I have got a…
+
+Roy Harvey
+
+Hi, Curt.
+
+Curt Woodworth
+
+Hey. So a similar question to Timna just on capital structure, when you look at the balance sheet today of $1.6 billion cash and then pro forma Warrick assuming that goes through you are close to Q2. And then you still have additional non-core assets sales you are looking at and the business is generating a pretty good free cash at spot pricing. So it’s not in foreseeable that a cash balance is going to continue to grow in the next year. And you have kind of talked about on the pension side, just the mandatory contributions, I guess, where you need to go for the leverage targets. I am just curious at that point would you evaluate a more material buyback? I know you have $150 million left or taking the dividend up or is it the type of thing where depending on how successful the pilot program at ELYSIS goes that theoretically to make more of the footprint carbon free would require more capital. I am just kind of curious to think about what you are kind of thinking beyond the short line? That’s my first question.
+
+William Oplinger
+
+Yeah. So, again, four potential uses of excess free cash flow and if I could just give you some color on each one of them and I think you touched on a little bit of this. In the near-term, the midsized growth projects as always referenced our refining projects both in Australia and in Brazil. We put those projects on hold in 2020 due to the crisis and have yet taken them off hold. So should give you an indication of the near-term spending around the midsized growth projects.
+
+If we then look at return to shareholders, we do still have $150 million of an authorization of share buyback. So that gives us the opportunity there. We do not have a dividend at this point. So if we saw ourselves in a position, Curt, where we are generating consistent free cash flow through the cycles, that would certainly be something that we would analyze and consider.
+
+The repositioning of the portfolio, depending on what happens with some of these key assets, and Roy, specifically talked about San Ciprián. He talked about Portland. Depending on what happens there, that will cost us some money and we have not given transparency around how much that will cost just because we don’t yet know what the outcome is on those particular plants.
+
+And then when it comes to the deleveraging, we are committed to the $2.5 billion. And as you and I have discussed in the past, and I think, Timna alluded to this, the pension is an opportunity for us to deleverage further.
+
+And the pension is a large underfunded pension for the size of our company and that’s why over the course of the last four years, we have consistently done everything we possibly can to try to address that pension and OPEB liability. So, as I said to Timna, we will have more clarity during the course of the year and we will be balancing those four items.
+
+Curt Woodworth
+
+Okay. That makes sense. And then, on the pension the -- I think the total pension OPEB funding of $320 million for this year. But then you also say that that does not include $197 million related to what was deferred to January 4th. So, I guess, the question is what is the right number for this year…
+
+William Oplinger
+
+Yeah.
+
+Curt Woodworth
+
+…and…
+
+William Oplinger
+
+Let me clarify that. There’s lots and lots of numbers on pension and it’s important to understand what the boundaries are on pension. We began this year with close to $700 million of prefunding balance and we used part of that prefunding balance for the 2020’s deferral.
+
+And you may say, how do you get to $700 million of prefunding balance, the funding that we made at the end of December added to our prefunding balance. And then early January came and we had to use part of that prefunding balance to cover those deferrals.
+
+So, as we look forward, the range of outcomes for the company in 2020 is, if we use no prefunding balance, we will contribute $320 million. If we use all of our -- not all, but if we use all applicable prefunding balance, then we could be contributing as low as about $150 million of cash in 2020.
+
+So that’s the range of outcomes. If we use prefunding balance, it’s $150 million. That’s both pension and OPEB. If we do use no prefunding balance its $320 million both pensions and OPEB for 2020.
+
+Curt Woodworth
+
+Okay. Perfect. Thank you very much.
+
+Roy Harvey
+
+Thanks, Curt.
+
+Operator
+
+And our next question comes from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Thanks, Roy and Bill. And congrats on all the sustainability efforts that you are making. Just following up on the assets, not sure how much color you can give here. But I guess what’s the timeline for the legal process at San Ciprián? This is something that could drag on a while like in terms of years or are we thinking more in terms of months? And then at Portland, you talk about the power contract there, obviously prices is one aspect, you also alluded to the instability of the grid. And I guess, like what do you -- specifically, what are you looking for there in terms of ensuring that you will get the kind of stability of supply that you will need going forward? Thanks.
+
+Roy Harvey
+
+Sure. Alex, let me hit on both of those. So from a San Ciprián perspective, there’s really a couple of different routes. So the timing is going to depend on where we find ourselves and how those couple routes move forward.
+
+So the legal process and we have filed an appeal to the negative judgment that we received, that could last for a while, it takes time. And so no question that that is something that just requires patience.
+
+However, at the same time, we are also in discussions with the Works Council in order to end the strike to try and see once again if there is the potential for the state-owned company to take ownership, if Spain truly wants to continue to produce aluminum. And so that one could move more quickly.
+
+It’s not instant. It takes time in order to try and understand and determine what is an acceptable deal, but it’s something that we obviously are considering committing to as we move forward with these discussions with the Works Council. So, it will certainly take some time and it depends on which route we go on.
+
+From a Portland perspective, and really that’s moving towards the middle of this year when the current deal with the government ends. Flexibility, really what I am trying to refer to there is that, we found ourselves in. We have a power price issue, which is structural for the State of Victoria.
+
+But we’ve also had significant issues where the power is simply not been delivered to the plant. And as you can imagine, you only can spend a couple two hours, three hours before our plant gets into serious trouble.
+
+So, the flexibility we need, number one is to make sure that we have a consistent power supply. And then, number two, that our contracts are sufficiently flexible and give us extra clauses, that means that we are not forced to rebuild in order to restart and that we have the right path forward to -- the right path forward so that we can not only have a good price, but also have the flexibility in case something were to go wrong because of the instability of that particular grid.
+
+Alex Hacking
+
+Okay. Thanks. So, I mean, simplistically are you looking for prioritization on power when they run into issues with the grid?
+
+Roy Harvey
+
+I’d look at it more as, what are the clauses in case there is another power disruption, whether it’s a take or pay or whether you structure it in some other way. How do you recognize the instability of the grid?
+
+And then on the other side also as is, what are the benefits that you can accrue from things like interruptibility, where you have a shorter-term interruption as well. So it gets into a little bit of the arcane contractual language and trying to build that. Not so much prioritization because if the power is flowing, typically there’s enough and we are right on the right direct path.
+
+Alex Hacking
+
+Okay. I got it. And then just like it’s one final one, a quick one, you mentioned that value-added products, you would increase about 5% year-over-year. I guess my question is like, how does that compare to 2019 just sort of takes us back to where you were?
+
+Roy Harvey
+
+Yeah. Maybe Bill has a more quantifiable answer, but the issue that you have is that you’ve got some pretty significant portfolio changes. And so, Intalco was very heavily weighted over towards value-add production. And San Ciprián is also heavily weighted over towards value-add production as well.
+
+So, as you look into 2020 and currently with San Ciprián not producing nor selling products. And then with Intalco no longer in the portfolio, it’s that you are changing both the numerator and the denominator. And so, the 5% really represents what’s happening across the portfolio and so it’s probably under representing the fact that the markets are improving. I don’t know Bill if you have something that would be a bit more quantifiable to be able to answer that.
+
+William Oplinger
+
+No. I don’t Roy. I think you hit on all the key points. It really depends on the some of the asset shifts that we faced and the fact that Intalco was curtailed with a lot of value-add products. So no comparison to ‘19 that I have.
+
+Alex Hacking
+
+Perfect. Thanks for the color. Have a good evening.
+
+Roy Harvey
+
+Thanks, Alex.
+
+William Oplinger
+
+Thank you%
+
+Operator
+
+And our next question comes from Chris Terry with Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Hi, Roy and Bill. Hope you are doing well. I will try to be quick, just two quick ones. With the prefunding balances to help understanding that, why wouldn’t you use that? I guess to be direct. And then the second question, you talked around the energy costs in the alumina division. I just wondered if you could talk about cost taken and then also carbon for the for the smelting? Thanks. Just what you are saying for ‘21 on the cost outlook?
+
+William Oplinger
+
+As far as the prefunding balance goes, Chris, we -- having the prefunding balance gives us flexibility to be able to defer payments in difficult years and so a year like last year where we are sitting in April and metal prices had plummeted, alumina prices had plummeted. It gives us the ability to manage through some of those cycles. So it will depend on how strong cash flow is during the course of the year to whether we maintain that prefunding balance or not.
+
+Your next question should probably be will when will you use that prefunding balance and we will use the prefunding balance as we get closer to a fully funded pension. So we will use it. It’s just a matter of whether we use part of it. This year we actually refreshed that prefunding balance. So, as of today, we are sitting with about $500 million of free funding balance, gives us a lot of flexibility to manage cash flows over the next couple of years now with the with the U.S. pension system.
+
+Chris Terry
+
+Thanks.
+
+William Oplinger
+
+What was your -- I am sorry, what was your second…
+
+Chris Terry
+
+Thanks.
+
+William Oplinger
+
+…what’s your second question?
+
+Chris Terry
+
+Just some comments on the outlook for costs. You mentioned the energy costs specifically for 1Q ‘21, just on cost and carbon and the trends in those on those costs?
+
+William Oplinger
+
+Okay. Yeah. I can definitely address that. We -- let me address carbon first. On the carbon side, we are seeing some higher calcined coke prices and green coke prices. And so we are -- we saw that in the fourth quarter.
+
+In relation to where they were a couple of years ago, it’s certainly not big. But we did some see some increase in calcined coke and green coke prices. We are projecting those to continue into the early part of 2021.
+
+You have probably heard me talk about coal tar pitch and the stubbornness of high prices on coal tar pitch. We have finally started to see coal tar pitch in the fourth quarter took a fairly decent decline from the prior quarters, but may trend up a little bit again in the first half of next year.
+
+And then, lastly, caustic prices have come down sharply over the course of the last six quarters or eight quarters and we believe that at least in the near term, they will stay at those lower levels. So not a lot of upward pressure from caustic prices in the first half of next year -- I should say this year, I keep saying next year. My mind is still thinking about the fourth quarter, so in reference to the first half of 2021.
+
+Chris Terry
+
+Thanks. Thank you. That’s helpful.
+
+Roy Harvey
+
+Thanks, Chris.
+
+William Oplinger
+
+Thanks, Chris.
+
+Operator
+
+And our next question comes from Emily Chieng with Goldman Sachs. Please go ahead.
+
+Emily Chieng
+
+Hi. Thanks for taking the call today. I wanted to come back to slide 12 where you outlined some of your cash actions here. Maybe this is me nit-picking a little bit, but I think the target that you had for lower production costs in 2020 was $100 million there. But I think the achieved number was $73 million. Can you sort of talk through maybe what the variance was between the target and what was achieved and is there a path to seeing some of that being pulled through into 2021?
+
+William Oplinger
+
+I will take a first crack of that. First of all, it was an aggressive target. And we try to set aggressive targets. And if you look at each one of those targets we either exceeded or came off closely, Emily, to each one of those targets and in aggregate we delivered over $900 million of cash improvements.
+
+So for you to pick out the one where we didn’t achieve it by what $27 million when in fact we over achieved on the working capital side by tens of millions if not over $100 million is an interesting question.
+
+This is the first year that we have been able to turn the tide on some of the cost increases and that we have seen the last couple of years. We have a new operating model in place that really flattens the organization and allows us to manage across the organization much better.
+
+And while we didn’t hit the target, I can tell you I am really, really pleased with the overall results of the operations and the stability that we saw and the fact that we drove lower cost even though we didn’t hit the overall target.
+
+And then when you look at the working capital side, tremendous outperformance by our commercial team, which is now managing working capital from end-to-end. So that’s my view. Roy, do you have any comments?
+
+Roy Harvey
+
+Yeah. Let me sort of quick technical comment then talk a little bit more about where we are going from here. Technically one of the challenges we face is that we had really preplanned under significant, significant change.
+
+And first of all in telco you can imagine we have big intention to see in telcos cost drop significantly but then reverse that and decided that we would hedge towards the curtailment and that really comes through in the advantages and portfolio review that will really pick up in 2021.
+
+San Ciprián also was a very special case because of the decision that we have made to curtail that plant. The ongoing legal process and so that really is a place where it’s then sort of a mix bag and so it’s hard to compare one year to the next year when you have got so much happening since San Ciprián.
+
+And the third work, and as you can imagine work was also complicated because of all the hold the need to start that sales process reach, what I think is an excellent conclusion in a very fair price. And then also prepare to may actually make that separation. So those three things are sort of technically speaking they are sort of strange things in the number itself.
+
+On the other side and really looking forward and I think Bill hit this and hit it correctly. I think we have put a lot of effort this year into building stability. I think our new operating model is very clear about who owns the responsibility for driving productivity. Our plants are -- all of our plant managers, our department managers and our entire operating teams really have their eyes focused on driving productivity forward.
+
+And so, I know I’d say it’s always a challenge. It’s always a fight to make sure that you are doing that. But I am -- I would echo Bill’s words that we are seeing real improvements and we are really seeing good, good smart, thoughtful and measured ways to try and drive more productivity without losing stability, without making changes that really are not -- don’t support continuing production in going forward.
+
+One of the advantages also of working our way through the portfolio review is that it really drives us to a portfolio of plants that are low on the cost curve, whether that’s in bauxite, alumina or aluminum, and that we can truly invest in and in move through that cycle without having to take evasive and sort of difficult questions because they are on the bubble and therefore need to drive either decide between curtailment or operating.
+
+Operator
+
+And our next question will come from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Thank you very much, Roy and Bill. Just on the growth projects in alumina, can you elaborate a little bit as to what are you -- how are you looking at this? What are the milestones or things that you need to do? What is the process that you are following to the side as to when do you go ahead or not? And would it -- would those -- would you pull the trigger only after you complete the portfolio restructuring in the segment or it could be a simultaneous situation where you would -- you continue to work on the restructuring but you go ahead with the project?
+
+Roy Harvey
+
+Yeah. Carlos, let me take a first swing at that and Bill can chime in as well. So I will answer your second question first. There’s no need to finish the restructuring or finish the portfolio review before we decide to move forward on those projects or not.
+
+When they are really two separate flow paths and I think we have the actions in hand and we have the cash that would be necessary in order to do both of those things at the same time, and of course, that’s dependent upon on market.
+
+And that really gets me to the answer for your first question, which is, we look at those projects really in two separate directions, what does it cost in order to bring that new capacity online, and what is the risk associated of actually hitting that target and not impacting what are some pretty fantastic plants that are currently operating. So we want to make sure that we don’t create negative impacts on the broader production in order to try and capture a little bit more.
+
+So it’s really making sure that they are competitive, that they are technically capable of doing that and that we are driving the cost per ton of those brownfield expansions or really the creep or debottlenecking projects drive them forward as lost cost as we can.
+
+The other side of it, of course, is market and so we are constantly looking forward how the market looks that impacts the cash that we have available of course. But also impacts whether we can get a return on putting that excess capital in, in order to do those debottlenecking projects.
+
+And so that’s sort of the nuts and bolts of looking at the market not just for this year but really out the next five years, 10 years or even further and understanding -- and in the case of Western Australia, understanding our bauxite reserves and how we are going to use them and then also evaluating all the different opportunities that we have.
+
+But in the end, and then circle back to your second question yet again, there’s not a constraint outside of our belief that we can drive a real return for our shareholders by doing those projects given the market that we see going forward. I don’t know, Bill, if you would want to add to that and anything.
+
+William Oplinger
+
+Yeah. No. No further comments, Roy. You covered it well.
+
+Carlos De Alba
+
+And then just, Bill, this is probably relatively small, but on page 13 of the deck, the transformation the EBITDA increased $60 million to $65 million negative in the outlook. Maybe you mentioned this, but if you did, I missed that, what is the driver of that?
+
+William Oplinger
+
+Yeah. I actually didn’t mention it, Carlos, so it’s good that you asked it. We were really in -- again, in the second quarter and third quarter of 2020, we were in cash conservation mode given where alumina and aluminum prices were.
+
+So we were deferring delaying as much as we could on the transformation side, and I think, that’s, to some extent, just to reflect -- that is being reflected in that outlook for 2021 about a $20 million increase in cost on projects that we didn’t do in 2020.
+
+Carlos De Alba
+
+All right. Excellent. Thank you very much. Good luck to you.
+
+William Oplinger
+
+Thanks, Carlos.
+
+Roy Harvey
+
+Thanks, Carlos.
+
+Operator
+
+This concludes our question-and-answer session. I’d like to turn the conference over to you Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you, Cole. I appreciate the help on today’s call. And for everybody, I’d like to thank you for joining us as well. I am very proud of what our employees have accomplished in 2020. It simply has been an extraordinary amount of work and what are really unprecedented and a bit uncertain times. To put it simply, we are trying to do what we said that we would do and that is really working towards a stronger Alcoa and really moving forward with the strategy that we have presented over these last quarters. Here at Alcoa, we are consistently driving for improvement. We are focused on making progress and looking towards the future. So I look forward to updating you again next quarter and until then I hope that you stay safe, healthy and have a good evening. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today’s presentation. You may now disconnect.

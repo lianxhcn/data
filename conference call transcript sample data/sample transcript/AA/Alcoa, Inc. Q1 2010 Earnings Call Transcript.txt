@@ -1,0 +1,406 @@
+Alcoa, Inc. (NYSE:AA) Q1 2010 Earnings Call April 9, 2010 5:00 PM ET
+
+Executives
+
+Matthew Garth – Director Investor Relations
+Charles D. McLane Jr. – Chief Financial Officer
+Klaus Kleinfeld – Executive Vice President, Chief Executive Officer
+
+Analysts
+
+Mark Liinamaa – Morgan Stanley
+Michael Gambardella – J.P. Morgan
+Sal Tharani – Goldman Sachs
+Curt Woodworth – Macquarie Capital
+John Redstone – Desjardins Securities
+Kuni Chen – Bank of America/Merrill Lynch
+Charles Bradford – Affiliated Research Group
+Anthony Rizzuto – Dahlman Rose
+
+Operator
+
+Welcome to the first quarter 2010 Alcoa, Inc. earnings conference call. (Operator Instructions) I would now like to turn the presentation over to your host for today’s call, Mr. Matthew Garth, Director of Investor Relations. Please proceed.
+
+Matthew Garth
+
+Thank you. Good afternoon and welcome to Alcoa’s first quarter earnings conference call. I am joined by Chuck McLane, Executive Vice President and CFO who will review financial results, and Klaus Kleinfeld, President and CEO who will discuss current market conditions and how the actions we have taken to strengthen Alcoa are driving value. After comments by Chuck and Klaus we will take your questions.
+
+Before we begin, I would like to remind you that today’s discussion will contain forward-looking statements related to future events and expectations. You can find factors that could cause the company’s actual results to differ materially from these projections listed in today’s press release and Alcoa’s most recent Form 10-K and other SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussion. Reconciliations to the most comparable GAAP financial measures can be found in today’s press release, in the appendix of today’s presentation and on our website at www.alcoa.com under the invest section.
+
+Now I would like to turn it over to Chuck.
+
+Charles D. McLane Jr.
+
+Thanks Matt. I would like to thank everybody for joining us today. We have got some detail this quarter, I am going to take my time going through that; the bridges and the reconciliation sheet of the restructuring special items. I am also going to give you some additional disclosure around our sensitivities today.
+
+Let me start off with by first saying our improved operating results reflects increased profitability that we gained through a strong performance in our cash sustainability initiatives. Higher realized aluminum pricing is hitting the bottom line and we are overcoming increased energy costs and reduced volumes.
+
+Now let’s go to the first quarter overview. In the first quarter, higher realized LME pricing and the continued benefits from our cash sustainability initiatives drove significant improvements in the cost of goods sold and SG&A percentages of sales, the combination of which generated EBITDA of $596 million which is the highest level since the third quarter of 2008. Higher energy costs, lower volumes in predominately can sheet both negatively impacted results. A loss from continuing operations of $194 million or $0.19 per share included restructuring and special items totaling $295 million or $0.29 per share. I will review these items in more detail in just a bit. Lastly, debt to cap improved to 38.1% and liquidity remained strong with $1.3 billion of cash on hand.
+
+Let’s move to the next slide which illustrates market activity in our businesses. Revenues in many of our markets have improved relative to last year while others, namely aerospace and IGT, continued to experience supply chain de-stocking and low levels of demand. The declines in packaging were expected due to our decision to curtail can sheet volumes to our North American supply base. This decision contributed to a reduction in flat roll product shipments of roughly 75,000 tons.
+
+The sequential declines in our third-party alumina and primary metal sales reflect higher internal shipments to meet improved order rates and the anticipated reduction in buy/resell activity to more normal levels. Buy/resell totaled 49,000 tons this quarter, a reduction of 158,000 tons sequentially. On a sequential basis, aerospace was essentially flat as de-stocking activity begins to slow and supply levels stabilize. Weak demand in IGT and building and construction continues to drive revenue declines in these markets.
+
+Now let’s review the financials. I will highlight some key items for you as you have a detailed income statement in the press release. Third party revenues declined 10% sequentially as increases in internal shipments in alumina and lower can sheet volumes more than offset the benefit of higher pricing. Note that the reduction in buy/resell activity contributed to half of the revenue decline.
+
+COGS as a percent of sales fell to 82.1% driven through continued progress in our cash sustainability initiatives. As you will recall, COGS in the fourth quarter included charges related to our Italian operations, the MRN tax settlement and the impact of buy/resell activity, all of which accounted for 6.7 percentage points of the COGS’ percent of decline. On a percent of sales basis SG&A improved by 0.5 percentage points sequentially as we continued to aggressively reduce overhead spend. Lastly, our operational tax rate for the quarter was a negative 95.5%. For your reference we have attached an appendix to help guide you through the tax rate. Included in the tax rate this quarter are discrete tax items totaling $112 million which I will detail on the next slide.
+
+Going forward we expect our operational EPR to be approximately 32%. However, we will continue to experience swings in rate given volatility in our profit drivers and overall profitability in each tax jurisdiction.
+
+Let’s now review the restructuring and special items in the quarter. This slide provides you with an overview of the restructuring and special items in the quarter and their location on the financial statements. Restructuring related items of $119 million primarily relates to the permanent closure of certain curtailed U.S. locations including the Badin and Eastalco smelters. This decision was made after an assessment of the sustained competitiveness of each facility was completed based on factors including market fundamentals, other idle capacity, the cost structure and future capital investments.
+
+The discrete tax items include $79 million related to the recently enacted healthcare legislation. The legislation changed the tax treatment of the federal subsidy offered to companies that provided Medicare Part D equivalent prescription drug benefits to retirees. Non-cash mark to market impacts on derivatives in several power contracts totaled $31 million and power outages in Sao Luis and Rockdale negatively impacted results by $17 million. Lastly, an increase in the Grasse River environmental remediation accrual totaled $11 million. The net of these items totaled $295 million or $0.29 per share.
+
+Now let’s move to the sequential bridge. This slide bridges our income from continuing operations excluding restructuring and special items. Higher realized alumina and aluminum pricing was partially offset by the non-recurrence of a LIFO benefit in the previous quarter. We generated significant productivity gains through continued execution of our cash sustainability initiatives. You can clearly see that we have been able to hold our productivity gains from last year and increase our level of savings despite headwinds from lower volumes and higher energy. As a reference point, sequential increases in the average price of oil was up approximately 4% and natural gas 1%.
+
+Before moving to the segments, I would like to review our key net income sensitivities. This slide shows you our two key sensitivities; aluminum and currency. These sensitivities help you provide directional guidance on how changing metal prices and currency impact our bottom line. The aluminum sensitivity is inclusive of all LME linked elements in our revenue and cost structure; alumina, aluminum and LME linked power. The sensitivity is based on a 15-day lag LME price.
+
+The currency sensitivities reflect our different economic exposures. For the most part, our non-U.S. operations generate U.S. dollar revenues from alumina and aluminum but pay expenses in local currency. It should be no surprise that the Aussie dollar sensitivity is our highest given the large operating base we have in Australia. We will include this sensitivity table in the appendix going forward for your reference.
+
+Now let’s turn to the segments starting with alumina. Alumina pricing trended high in the quarter yielding a 13% increase in our realized price. Production was slightly lower sequentially as a power outage in Sao Luis and maintenance outages in Australia offset increases at Point Comfort. The power outage which occurred in early February negatively impacted the quarter by $10 million. Juruti negatively impacted the quarter by $20 million and higher energy costs totaled $15 million. As noted on the bridge, the fourth quarter charge for a tax settlement in our MRN partnership did not recur.
+
+Moving to the outlook, alumina pricing will follow the 60 day lag. Lower caustic costs will flow through the system and we will continue to benefit from our cash sustainability initiatives. As we look at all of the operating conditions that we have across our system we would expect production to increase by approximately 100,000 tons versus the first quarter.
+
+Let’s move to the primary segment. The first quarter performance benefited from an 8% increase in realized price, favorable currency benefit and productivity gains. As you will recall, the fourth quarter included a $250 million charge related to the draw back from the Italia Power case. The decline in third party shipments was predominately driven by a significant reduction in buy/resell activity. Margin neutral buy/resell totaled 49,000 tons this quarter, a decline of 158,000 tons sequentially. Higher power costs were incurred, particularly in Italy as new power tariffs took effect.
+
+Also, although smelting activity at our Rockdale facility has been curtailed, we continue to have power generation activities at this site. A maintenance outage conducted during the quarter negatively impacted sequential performance by $11 million.
+
+Looking to the second quarter, we expect our realized pricing to follow a 15-day lag and continued benefits from our cash sustainability initiatives. Unfortunately the power station at Rockdale continues to struggle. The master agreement with U.S.W. which covers 5,350 employees, expires on May 31st. While we are confident that a mutually acceptable agreement will be reached, actions are being taken to ensure business continuity if any disruptions should occur. Lastly, we expect production to be equal to the first quarter. Beginning next year we expect ongoing cost reductions from the closures announced this quarter of approximately $15 million annually, largely comprised of the cessation of depreciation and other holding costs.
+
+Now let’s move to the flat rolled products segment. Flat rolled product ATOI declined $7 million sequentially largely driven by lower volumes from our decision to curtail sales to a North American can sheet customer. In can sheet we have reduced headcount and capacity to bring our cost structure more in line with current volumes. This effort and improved pricing on new contracts helped to mitigate the impact of reduced volumes.
+
+The net impact on our North American can sheet operations was $22 million sequentially. Overall, higher pricing, improved product mix and cash sustainability initiatives more than offset the higher energy costs and negative currency impact we experienced in the quarter. Next quarter we expect continued gains from cash sustainability initiatives. Key end markets will improve, however our can sheet volumes will remain at lower levels.
+
+Now let’s move to the engineered products and solutions. ATOI of $81 million was up 42% sequentially despite lower sales. Strong performance in our cash sustainability initiatives helped generate ATOI percent of 7.5% equal to the first quarter of 2009 when sales were $200 million higher. These results clearly illustrate how this business has structurally improved its cost position. Revenue fell 2% sequentially as continued weakness in the IGT and building and construction markets was partially offset by volume increases in the industrial and commercial transportation markets. Looking ahead in the second quarter, we expect continued benefits from our cash sustainability initiatives and slight improvements in overall market conditions.
+
+Let’s now move to the cash flow statement. For the quarter, we produced cash from operations of $199 million. The largest single contributor to the sequential change in CFO was due to working capital. Working capital increased by $336 million as we are carrying higher inventories to meet rising demand levels. Our typical first quarter inventory build was managed diligently with the tools and insights gained from last year. In fact, on a day’s basis, the first quarter of 2009, we moved 13 days of working capital. We improved that 13 days of working capital versus last year and we made improvement in each one of our groups.
+
+In the GPP group, which is the primary group, it improved days of working capital 27 days. Flat rolled products was down 27 days and EPS was down 14 days. Capital expenditures totaled $221 million including the net investment in Ma’aden which flows through other investing activities, CapEx totaled $281 million. This keeps us on track against our 2010 target of $1.25 billion. Free cash flow in the first quarter was essentially break-even.
+
+Let me take a minute and summarize. I remind everybody that we have got a target to be free cash flow positive in 2010. All of our cash sustainability initiatives have centered on driving free cash flow and structurally improving our ability to drive bottom line growth. We have made outstanding progress in reducing our cost of purchased goods, and lowering our overhead spend and we have been able to sustain the gains we made in 2009.
+
+We are judiciously deploying capital and are managing working capital effectively, keeping overall days low on a relative basis. We are aggressively pursuing our cash sustainability targets to generate higher levels of free cash flow and drive near-term and long-term value to shareholders.
+
+Now I would like to turn it over to Klaus.
+
+Klaus Kleinfeld
+
+Thank you very much Chuck. Welcome and good afternoon to everybody on the call. I guess what you have seen already from the press release and Chuck went through, it is more in depth as we’ve also used this quarter to continue to drive the bottom line and to drive towards our 2010 goals.
+
+I would like to guide to a couple of things here. Start in the usual fashion with an overview of the end markets as well as on the aluminum market including the supply and demand side. Then I would like to give you a deeper insight into our main businesses and look at the drivers that there are to get to a more normalized performance. That is a question that when we have been on the road talking to investors that was asked a lot and we thought that that is important for all of you to understand, to better understand what is really the value creation potential that Alcoa has here.
+
+So let’s start with the end markets in the usual fashion. For 2010 we expect the economy to continue to improve slightly. Let’s start with aerospace. Large commercial aircraft, we are projecting deliveries to be essentially flat compared to 2009. We see that most of the airlines stand by their orders. They continue to stand by it. The main reasons for that being the fuel efficiency of new planes. Some actually receive substantial subsidies from government export credit agencies and some just want to avoid losing their deposits due to cancellations.
+
+If you look at the airline economics, they actually look improved compared to the fourth quarter. They are 30% improved but at the same time the projection is all of the airline industry in total worldwide will continue to lose money; $2.8 billion projected in 2010. One thing that is always good to remind ourselves of particularly here in this segment is the order backlog of six years that Boeing and Airbus have on their books.
+
+If you look at another segment in aerospace, regional and business jets, that doesn’t look that good. We continue to see significant reductions of orders as well as deliveries. Lastly, what really counts for us is the de-stocking and we expect this to come to an end in the first half of 2010. That is the most important factor because it immediately is driving Alcoa’s profitability. As the segments that are relevant for us particularly are sheet, rolled product, aerospace foil and fasteners. So we are profiting on a lot of ends and each one of those segments has its each dynamics. For instance, in aerofoils, we already see a pretty substantial pickup whereas in sheet given the strong inventory levels at many places we believe that is probably laggard.
+
+Automotive, global automotive production is expected to rebound in 2010 plus 9% is our expectation, 62.2 million vehicles. That is pretty much in any region except Europe and Europe is because with the strong government incentives last year demand was just pull forward. But if you look at the 2010 levels they are still way below, 9% below, the 2007 peak levels of 68 million vehicles. The vehicle inventory situation has fully corrected and we are now really witnessing real demand also in the U.S. If you saw what is happening here in the U.S. pretty much spurred by strong incentive programs this time by the automakers, zero financing is the big thing today.
+
+If you look at the March sales you saw that the March sales for GM had been up 21%; for Ford 40% and for Toyota 40%. Obviously from all of this the consumer is the beneficiary. He seems to be seeing it or she seems to be seeing it in the same way and is responding to that offer with real demand.
+
+Heavy truck and trailer, the next segment, expect a slow recovery versus the 2009 low. We see 10% increased production in 2010 to 1.3 million unit level. If you look at the U.S. we see growth. On the one hand, the freight miles are slowly recovering and the freight rates are increasing. On a year-on-year basis, we saw an increase of 18.6%. But let’s make no mistake. We are talking about numbers that are well below the historic norms, particularly given the overhang that exists here on the trucking fleet side. For the U.S. the projection is 123,000 units versus the 225,000 as historic norms.
+
+Beverage can packaging the global market we believe will continue to be flat versus 2009 levels and we will continue to follow our strategy to partner with those can sheet customers that understand and value Alcoa’s unmatched quality as well as service capability as well as our unique strength to continue to innovate in that segment. We will continue to particularly work with those that use packaging and sustainability as their strong profit drivers because that is the match that makes sense for us and generates value on both sides.
+
+In the commercial building and construction side in North America a significant decline. We expect it to be 25%. Most of the American Recovery and Reinvestment Funds are going into highways, not buildings, so that is not working very much as a counter-balance here. Europe is expected to decline too, a little less, so at 5% is the expectation. And China and India a totally different picture, substantial growth in both of those markets.
+
+
+Last and not least, natural gas turbine. Heavy duty gas turbine builds are expected to decline, we think 25-30% versus 2009. Orders are postponed or deferred mainly driven by slow economic growth and that being reflected in lower electricity demand on the short-term and driven also by uncertainty about emissions regulations. For Alcoa, the most important thing is the de-stocking of the OEM. That is again here the major short-term impact. Mid to long term, our forecast is bullish on the industrial gas turbine. I would even say it has become even more bullish if you look at the structural changes that are happening in this market, substantial price declines in natural gas, given the innovation and finds of shale gas, low capital costs, the requirements of gas turbines or combined cycle power plant flexibility, the short lead times and environmental advantages, for instance versus coal.
+
+If you sum up the whole end market situation, the way I would see it is, I would say end markets continue to strengthen and in 2010 they will be clearly better than 2009 but it is going to be below historic norms in many of the markets.
+
+So let’s go to aluminum. We expect consumption to grow by 10% in 2010. This is pretty much the view that we already had shown you in the fourth quarter announcement, very strongly driven by China. If you look at the growth rate in China in the first quarter of 37% growth rate, we expect that to normalize and our projection here is that over the course of the year, we will see 18%. This is probably a conservative assumption given what we are seeing in China these days.
+
+If you look further up here in North America and look at the current year-over-year number for the U.S. it is 3%. We project 5% over the course of the whole year. Strong growth in Japan year-on-year 23%. Our expectation for Asia without China is 6%. Even in Europe I have to say we have seen a year-on-year growth of 20%. Our expectation here is 3%. So that is where it stands with 10% and if you take China out it is 5%.
+
+Let’s go to inventory conditions. I will lead you through the chart. It looks more complicated than it really is. On the left hand side we have condensed pretty much the most important inventory levels and as demand has been growing we also see a modest increase in port inventories in China as well as in Japan as well as the very modest increase in producer stock. At the same time we see a counter effect on the LME stocks. They have declined by roughly 40,000 tons in this quarter. So overall if you look at the accumulation overall it has been a pretty flat inventory situation.
+
+If you then go to the right hand side and look at the regional premiums that we have been tracking for a while here and you can see the curves there. What happens here is you have on the one hand improved demand, strong interest continues from financial participants, logistic constraints, distributor stocks are low, U.S. distributor stocks are at an all time low and all of that together really leads to a very tight supply chain situation and continues to drive the regional premiums as you see them here coming up or kind of being stable on a pretty high level.
+
+Let’s move to the next one, let’s move to the demand and supply side situation. This is the chart for aluminum. We believe we have to really see China and the Western World separately. The main, we project for the whole world an overhang of 1.2 million tons in 2010. I will qualify that a little bit later. For China, if you look at the left hand side, you see a small surplus, a little bit bigger than what we saw actually at the end of last year but very frankly I could go into detail if anybody is interested in that later on, but frankly I am not at all and we are not at all concerned about that. What we have seen here with China in the worst of all downturns, they have been very, very good at managing their supply and demand balance, and they have been very, very agile and very, very fast in responding here. So I would be very sure this surplus is really only temporary.
+
+If you go on the right hand side on the western side what you see here is pretty much a function of new green field measures starting up mainly in the Middle East and some in India, in addition giving us the 745,000 metric tons additional supply and then the combination of small restarts in Europe mainly offset by the curtailment in Venezuela and given the drought situation and given that this is hydro power.
+
+If you look at the total surplus of 1.2 million if you add those 400 and the 830 up, let’s all remind ourselves we are talking about a two week consumption in our market. So this is the amount we are talking about so that is a pretty manageable number. Actually our projections here don’t even include a restocking of the supply chain and I shared with you just on the slide before that on the U.S. distributor stock we are at an all time low.
+
+Let’s go to the next slide which basically shows the same thing for the supply/demand balance for alumina. Alumina is a global market and that is why we don’t really see that as two separate markets here. I don’t even need to go into the details. The numbers show it by themselves. Supply and demand is in balance in 2010 and that is what we expect. That is also what we have been seeing in the market. I will comment on some of those aspects when we talk about our business a little bit more.
+
+So that closes the part on the market. Let’s now move onto talking about Alcoa. As I said early on, one of the questions that Chuck and I have been asked a lot in many, many conversations with you all out there is on the one hand we have this enormous overshadowing here by the downturn and the way that Alcoa got through it most people give us good credit for it but they say we don’t fully understand how all of that leads into the normalization of your profit capabilities.
+
+At the same time I think everybody sees also we have used the downturn to streamline our portfolio to lower our costs systemically and obviously all of that goes into the whole equation to drive performance. So I want to do -- the first slide that is already up. I am going to lead you through it.
+
+I want to use four slides basically going through the four businesses and show you what we see when we look at it from our internal perspective as the main value drivers. So the chart that is up here is on the alumina side. The alumina business. Keep in mind we are the clear market leader in the alumina business. Not only are we the market leader volume wise but our system is one of the most competitive systems, the largest and the most competitive one, because we are positioned in the lowest quartile, on average in the lowest quartile on the cost curve.
+
+You can see here on the left hand side, that is the cost curve, we have two cost curves there, the 2009 one and the 2000 one. I will refer to it a little later why we put the 2000 in there. Total capacity is 18.1 million tons. We have grown in the last year by roughly 2 million tons basically by taking the partner our, Interalco [ph], and completing our Sao Luis/Juruti expansion.
+
+And we will add more 450,000 tons in 2014 when Ma’aden comes on line, the refinery and the mine come on line. You can see those little green, red dots there on the left hand side on the refining curve. That will be the new position that Ma’aden will have on the cost curve. It literally extends the cost curve further down and sets a new low cost point.
+
+That is all good but we have also done other things on the operational side. If you look at the alumina conversion costs we have brought the alumina conversion costs down by 18% since the fourth quarter in 2008. If you go to the lower right hand side, which is the core third-party alumina sales and percent of LME, we have indexed that and you have a 10-year history here of the contract pricing for Alcoa. As you know, it is done as a percentage of aluminum. You see the trend there. If you look at the most recent contract prices we have been able to achieve they have been upwards of 15% LME.
+
+All of this a clear reflection we continue to have a tight market or we will even have a tighter market. We have also on the other hand rising alumina costs and that is the reason if you go back to the left hand side to the cost curve why we put the comparison, the great curve, the 2000 curve in there because you can see if we put the two 50% points in there, so you can see what has happened here over the course of 10 years. The costs in the alumina sector have increased substantially, about 50%. The midpoint has moved up by 50%.
+
+So on the one hand, going back to the pricing level, but I think we have seen here on the one hand a tight pricing market. On the other hand rising alumina costs are putting pressure on the pricing and also have we changed over on the frequency of our contract pricing. So all of that together has led to good things happening there. The good things happening there you see reflected on the upper right hand side where you see the EBITDA per metric ton for alumina also over a 10-year period and then the first quarter.
+
+Looking at the first quarter performance, you already see this is trending into the right direction. You also on the other hand see if you look at the whole light blue bars there, that by no means are we talking about a normalized performance here. The prices are high, yes, but at the same time, costs have also risen. We believe there is upside potential in here and we are going to continue to see upside here. In the end, there is not that much good bauxite available, particularly when you want it close to refining it. When you want to refinery close to a port and when you want goods being close to consumers and add it all together than determines where you are on the cost curve.
+
+It is not just about having something there. It is really on what you have there. All of that will continue to lead into pretty substantial tightness in our view and will continue to drive prices. So let’s sum it up, we are very well positioned here and we have substantial upside on the alumina side.
+
+Let’s go to the next one; aluminum. On the aluminum side our system is about 4.5 million ton capacity. We have current utilization rate of 80% versus the pre crisis level of 2008. For 2008 we produced about 4 million tons. We added roughly 300,000 tons with AlChem [ph] and with Ma’aden. Once Ma’aden comes on line we will add another 186,000 tons to our smelting system. Again here you see these little green dots on the left hand side where it says global primary cost curve. That little green dot means the cost position of Ma’aden setting a new low cost point which obviously is a very, very good thing to happen.
+
+At the same time here when you want to measure what have we done operationally, conversion cost is a good measure. We have brought conversion cost down for aluminum by 21% compared to the fourth quarter in 2008. Also important here is power. We have secured competitive power for 85% of our smelter system until 2025 and even longer but minimum 2025 that determines that.
+
+Then when you go to the upper right hand side, you see again the EBITDA margins, this time for aluminum, and you can clearly see we made solid progress in the fourth quarter but far from a normalized level. We believe that prices also here will be rising partially also because of the cost pressure. We also have on the left side here put the 2000 cost curve in and you can see almost the same phenomenon that I already described on the alumina side; a 50% increase here of the midpoint.
+
+So with all of that plus our improved position, our better costs and the market prices trending up we believe that on a normalized level this will go substantially up. I want to remind you, just take a little step back and that little charge on the right lower corner is very, very powerful and important to understand. Let’s take a little step back and think about what have we done with aluminum and I think when you look at reports there is almost a consensus in the world that you will have probably over a long period of time 6% annual growth normalized in this market.
+
+If you have 6% growth in this market, let’s be realistic and see what that means in terms of additional need for supply. This would actually mean that we would have or somebody else would have to build 2.3 million tons per year of new capacity. This would mean three new Ma’aden smelters per year. This would mean four new Sao Luis expansions per year. It would mean 20 new gas turbines per year or for those of you who love hydro power, two new Hoover Dams built every year. What it means, it would equal $30 billion that would have to be put into the ground as infrastructure investment.
+
+By looking at that, I am pretty confident that the supply/demand situation is heavily biased towards a tight situation because it is not very likely that this will be doable in this world. Therefore, I am pretty convinced we will continue to see pressure on the prices here going forward.
+
+The next one is rolled products. On the rolled product side, let me start on the right upper hand side where you have again the profitability. If you look at the profitability in the first year, you see this is a business that has had profit margins in around the 10+%. In 2005 we started investing in the growth market in China and Russia. That has brought the margins down. Where do we stand today strategically? The Russian can sheet mill is fully operational. China Bohai is ramping up. Full ramp up will be done by 2011. By the way, I forgot to mention on Russia that it is the first time this quarter they have been able to get break-even. We also have the lowest conversion costs on Ma’aden once the mill goes online in 2013.
+
+Plus we have used the downturn to re-engineer the businesses. We strengthened our position. We exited commoditized markets. We exited foil, a chronic underperformer. Headcount reduction of 5,000 people. To just put it in perspective we are talking about 25% of the total headcount here that we’ve done. Overhead costs are down $140 million. If you look at the left hand side with the third-party sales structure, given that we are going through a downturn and we continue to see some de-stocking going on and that we have lost one can sheet customer we are currently at a utilization rate of 75%. That is not a normalized level. We believe a normalized level would rather be around 90%. In aerospace we have seen years like in 2005 where we had been at 100%.
+
+So all of these parts together, if you took them all together, I believe that all of those actions show that we have set flat rolled products on the path to become a strong performance contributor going forward.
+
+Last but not least, engineered products and solutions business. Let me start on the left hand side. Where do we stand currently? We stand at 70% utilization rate on aerospace and a 65% utilization on the rest of the group. If you see that and now go to the right hand side, the EBIT performance, the EBITDA margin performance and you look at the first quarter, the one we report about now, 14%, just shy of the 2008 15% was this type of utilization rate. Obviously it points to a very strong cost cutting that has happened here. Very, very good performance.
+
+When you look at on top of the strategic position that we have in engineered products and solutions, we have unequaled technologic capabilities that put us in a position to create value for the customers of our customers. We have focused the portfolio today. 85% of the sales are number one or number two market leader position; $440 million productivity improvements in 2009. Aerospace de-stocking as I said early on is improving and we believe it is going to come to an end in the first half of 2010.
+
+We also see significant short-term profit accelerators. Just to give you a few; 787 and A380 to mention some. We are in that with special alloys, unique fasteners as well as with Air Force, Joint Strike Fighter, we are in it with alloys, structures and fasteners. The heavy truck market is recovering. We have Dura-Bright capabilities on coating level one outstanding wheels. On top of it we have shown we are very capable of doing inorganic growth with the integration of the two fastener acquisitions; Van Petty and Republic, which has really been done almost flawlessly. We will continue in this group to look for additional growth and build on our strengths we have there whether it be organic or inorganic.
+
+That sums it all up. I hope that all of this information is valuable for you to understand where is the performance as you have always asked on a normalized level. As the economy comes back, utilization will go up. We have used the downturn to improve our position with a better portfolio with better costs and with future growth like Ma’aden which is substantially going to increase our competitiveness. All of that together will drive the value of our business and of our performance.
+
+Let’s look at this year. Quickly, where do we stand in regard to the targets we have set for ourselves to increase our operations in 2010? From the procurement side, $505 million. Targeted $2.5 billion. $505 million year-to-date in the first quarter looks good. Well on track. Overhead we were going to bring down by $500 million this year, we have achieved $127 million in the first quarter. It looks good. Total CapEx, this target includes about $250 million for Ma’aden. We are trending in the right direction in line with expectations.
+
+Last but not least on the working capital side Chuck noted there is an increase in days compared to the fourth quarter which is kind of typical for the first quarter. If you look at a year-on-year basis you actually see we have taken out 13 days in working capital turns. That is a big success of the cash sustainability initiatives. We are on target to continue to reduce this and to get the two days out of the working capital turns that we have been shooting for and aiming for this year.
+
+
+Let’s get to an end and summarize that. The environment is stabilizing. We will be capitalizing on this while we are managing headwinds like currency and energy. We are exceeding our goals, talking to Alcoans all around the world they know we have the future in our hands. They are very proud of the almost flawless execution that we have shown in 2009 and they want to repeat it in 2010. 2010 is a year we have a great team. We have an outstanding portfolio. We have an unwavering commitment to make this happen again, to improve costs and to profitably grow.
+
+All of that growth we can be very happy about our portfolio there. Global alumina leader, we can leverage all these and continue to improve our situation with aluminum rolled products. Led you through that, profitability can be revitalized and EPS, we can use the leadership position that we have to continue to grow. With all that said, we are committed to creating value for 2010 and forward and even more strongly so. Let me close with that and open up the line for questions and answers.
+
+Question and Answer Session
+
+Operator
+
+(Operator Instructions) The first question comes from the line of Mark Liinamaa – Morgan Stanley.
+
+Mark Liinamaa – Morgan Stanley
+
+In the alumina business, there has been a fair amount of press regarding pricing changes in the iron ore and the coking coke. Can you comment on whether you see any likelihood there? Also just quickly of the $10 million and $20 million in charges in Brazil which of those two are included in your nonrecurring charge estimates for the quarter?
+
+Klaus Kleinfeld
+
+On the alumina pricing side, the thing I can say already today and show you on my alumina chart. That is why we put that in there, you can clearly see that the pricing is trending upward. So obviously the tightening that exists in the alumina market is reflected in a stronger percentage to the LME. As I said, the recent contracts we signed have been upwards of 15%, which also historically is a pretty good number. We also have gone away from the longer-term contracts to more short-term, shorter term contractual obligations to profit from the different pricing situation.
+
+On top of that I believe we are going to see much more upside trend here as I said earlier on. There isn’t that many good bauxite reserves that are close enough to a refinery so that transportation costs are not shooting through the roof and close enough to a port and then the port close enough to end customers. When you put those equations all together, this is not that easy to do right. So we do believe it is going to be trending up.
+
+On the iron ore situation, first of all I don’t know the market well enough so I wouldn’t be the best one to talk about it. I would say this is what I just said is a fair description of what we see in the alumina side. Chuck, do you want to take the other one?
+
+Charles D. McLane, Jr.
+
+Sure. If you look at the alumina reconciliations in there you see the Sao Luis power outage that happened in February and impacted operations and that’s the 10 million and that is pulled out as a special item. The $20 million for Juruti is not pulled out. It is looked at as just normal, ongoing sequential changes that we had as a result of start up costs at Juruti.
+
+Operator
+
+The next question comes from the line of Michael Gambardella – J.P. Morgan.
+
+Michael Gambardella – J.P. Morgan
+
+On the reconciliation page, what is that last “other” item that is a loss of $201 million? Can you break that down?
+
+Charles D. McLane, Jr.
+
+The reconciliation page of the…
+
+Michael Gambardella – J.P. Morgan
+
+The ATOI. The last item is a loss of “other” and it is a loss of $201 million.
+
+Charles D. McLane, Jr.
+
+That is the taxes. That is discrete tax items.
+
+Michael Gambardella – J.P. Morgan
+
+That is all taxes?
+
+Charles D. McLane, Jr.
+
+Yes.
+
+Michael Gambardella – J.P. Morgan
+
+What is that exactly?
+
+Charles D. McLane, Jr.
+
+When you were referring to the reconciliation sheet, I thought you were talking about the first quarter restructuring and special items to tell you the truth. We have $112 million of these discrete tax items that are listed; a Medicare subsidy that was eliminated as a result of the healthcare as well as several other tax items in there. So that would be the biggest piece of it of the change between the two. We have got discrete tax items that also looks under corporate every time is on taxes is whatever is needed to get the company back to the overall operational rate. That was a positive in the fourth quarter and it is a negative in the first quarter but it all zeroes out in the company to get to the rate of 32% operationally. But the biggest piece is the discrete tax items of $112 million.
+
+Operator
+
+The next question comes from the line of Sal Tharani – Goldman Sachs.
+
+Sal Tharani – Goldman Sachs
+
+You mentioned that there could be some disruption on the labor side and you have taken some actions. Can you give us some color on what actions have you taken to offset if there is a disruption?
+
+Klaus Kleinfeld
+
+I don’t think I mentioned it. Maybe Chuck mentioned it but what we have there, I am assuming now that we are talking about the Master agreement here? The U.S. situation we have about 5,350 employees that are covered under the U.S.W. Master Agreement. The Master Agreement expires on May 31st. We are currently in early negotiations I would call it. Obviously we have a strong desire to reach a fair, as well as competitive labor agreement, and to avoid any type of work stoppage. We have taken some steps to prepare in case a work stoppage would happen. As I said early on and I really want to emphasize that again, we hope there will be no work stoppage but we obviously have to protect our assets and also our workforce, our communities and we have commitments to our customers that we don’t want to compromise. So that is what is being referred to there.
+
+Operator
+
+The next question comes from the line of Curt Woodworth – Macquarie Capital.
+
+Curt Woodworth – Macquarie Capital
+
+I was wondering if you could give me your view on what percent of LME inventory you think is tied up in these warehouse refinancing arrangements? Do you think much of that material will come back to market towards the end of this year and do you think that could have any impact on regional premiums?
+
+Klaus Kleinfeld
+
+That is a good question. The transparency is obviously not that great. Given that, this was a question that I think we have all been much more nervous about when we went into the downturn. Given that when we went into the downturn that everybody was afraid that this overhang would depress the market and prices would not come back at all. I think what we are seeing now is that our estimate that quite a majority of the LME is either through financial transactions or through logistics constraints bound for at least a while in the warehouse. The while in my view I would put a frame around it between 3-6 months at a start to probably 18 months. I would say the majority of what we see there probably has lows. We know of some transactions that even have a longer timeframe behind there.
+
+But I don’t believe, not only do I not believe but I know by having looked into this, it is virtually impossible for this to all come out at the same time. That is exactly why you are continuing to see these regional price premiums continuing to go up pretty much. The tightness is there. Also keep in mind we have also seen not only real demand coming back pretty substantially and I think that is going to get stronger going forward. At the same time, financial investors have also strengthened their positions here and are very often driven by a view on where else would you get value if you want to hold onto something other than a currency denomination.
+
+Operator
+
+The next question comes from the line of John Redstone – Desjardins Securities.
+
+John Redstone – Desjardins Securities
+
+The rolled products division you mentioned your utilization rate is 75% and you want to get that to 90%. The point I want to make is at the moment the sheet markets and the flat rolled product markets certainly seem very strong. Lead times we are hearing are moving out to July. You have got 3003 [ph] prices moving up roughly $0.20 quarter-over-quarter. Orders are up through February about 20%. So a very strong market and yet if we are to judge by your shipments of flat rolled products in the first quarter, your utilization rate is actually going down. What I would like to know is which areas do you expect to improve, the packaging, the aerospace or whatever, to get you back to the 90% level and over what timeframe?
+
+Klaus Kleinfeld
+
+I think the first thing I would want to give you as an explanation is the aspect on the packaging side we made the purposeful decision to discontinue once we had the chance to discontinue the large contracts with one of our customers on the can sheet side. It was a 10-year contract that had a lot of aspects in there that in total lost quite a bit of money over that 10-year timeframe. As painful as it is to make a decision like that and then having to curtail some capacity as appropriate and right I believe it is if you want to substantially make sure you have a profitability structure of your business that is a solid foundation for investment and being in that business. So that is the first thing.
+
+The 75% utilization is obviously overshadowed by that part. The second part I think I talked about aerospace already. Aerospace is coming back. As I said it is probably a laggard on the sheet and roll side given there are pretty hefty inventories that we see in aerospace. The third point I would add here is the reason why the profitability has come down from the 10-11% rate at that time when we had a higher cost structure even was the investment in China and Russia. That is now coming online. As I have said, we have seen Russia in this quarter be breaking even. Qinshan [ph] is operating into the automotive market in China and is operating very nicely.
+
+It is a hot market obviously in China. Bohai is coming up and as I said before we believe the full ramp up we will be seeing in 2011 and obviously that will then give us also the fruits there. The fruits will be nicer than what we have seen before because we have reached a lower cost level. That is the way I would portray it.
+
+Operator
+
+The next question comes from the line of Mark Liinamaa – Morgan Stanley.
+
+Mark Liinamaa – Morgan Stanley
+
+I just wanted to get a little more information on the rolled products and the engineering product divisions. Slides 24 and 25 are very interesting. If you were running at normal utilization rates, would you be able to comment on what the EBITDA margins might look like?
+
+Klaus Kleinfeld
+
+How much more data do we need to provide for the model?
+
+Mark Liinamaa – Morgan Stanley
+
+What is the fixed cost absorption? I think that is a fair question and really important.
+
+Klaus Kleinfeld
+
+That is a good one. I like that. That is fair. We have about 1/3 to 2/3 variable cost here.
+
+Mark Liinamaa – Morgan Stanley
+
+In both divisions?
+
+Klaus Kleinfeld
+
+Yes. Roughly. 1/3 fixed and 2/3 variable.
+
+Operator
+
+The next question comes from the line of Kuni Chen – Bank of America/Merrill Lynch.
+
+Kuni Chen – Bank of America/Merrill Lynch
+
+Going back to can sheet for a minute, can you talk about whether or not there are discussions underway with the customer or the contract that has been in dispute? What is your overall view on the North American market? Do you think there is enough excess capacity out there to serve the volume needs of that customer and potentially could you recapture some volume later in the year?
+
+Klaus Kleinfeld
+
+That is a complicated question. I will try to answer it in two chunks. One, as I said earlier, I think also in conversations with you earlier, sometimes you have to make tough decisions to change a pretty nasty situation that we had there. We are not an employment company. We are not in a business just to produce something and lose money with it. That’s been the situation we had with this contract. So I think we have to be reasonable on top of it. If you look at the performance of Alcoa, I think you can ask pretty much everybody who is out there and understands the can sheet business, we are clearly the quality leader. On top of it, we provide service and we have the huge innovation potential which I don’t think anybody else has.
+
+Some have seen some other aluminum packaging that are pretty innovative and drive really market share for companies. So that is a discussion we continue to have. I have a hard time projecting where this is going. I still hope we will be able to reestablish the relationship there and help both ends. I believe this can easily be turned into a win/win situation.
+
+On your second part of the question, is there enough capacity out there, well some people have taken in large contracts and have highly publicized that. They are now in a situation that they have to deliver and they have to deliver flawless quality. We will see. We will see. Once the temperatures go up, which they have done this year a little earlier than everybody expected, I think also beverage sales will go up and the need for aluminum cans will go up. That is the situation there. We will obviously monitor that and people know what our telephone number is.
+
+Operator
+
+The next question comes from the line of Charles Bradford – Affiliated Research Group.
+
+Charles Bradford – Affiliated Research Group
+
+What is the possibility of getting an ATOI figure broken out, at least percentages U.S. versus foreign?
+
+Charles D. McLane, Jr.
+
+U.S. versus foreign?
+
+Charles Bradford – Affiliated Research Group
+
+The sales broken out by country.
+
+Charles D. McLane, Jr.
+
+I don’t have it handy. For the whole company?
+
+Charles Bradford – Affiliated Research Group
+
+Yes.
+
+Charles D. McLane, Jr.
+
+I don’t have it at my fingertips right now. We will think about putting that in maybe for the future.
+
+Klaus Kleinfeld
+
+We can put that in and we can give you that. Not off the top of my head.
+
+Charles D. McLane, Jr.
+
+Because many of our businesses we look at regionally but many of them we look at globally.
+
+Klaus Kleinfeld
+
+We can get you that. We just don’t have it here and we don’t want to give you a wrong number.
+
+Operator
+
+The next question comes from the line of Anthony Rizzuto – Dahlman Rose.
+
+Anthony Rizzuto – Dahlman Rose
+
+I have a follow-up on the alumina business. With your low cost position and the current contracts that are structured LME index, it seems like you are leaving a lot on the table. Even if I think about the 15% which historically is a high level for percentage linkage what that would bring you in a range of 350-375 per ton and I think about the cost to build capacity -- please refresh my memory but I have always thought of brown field for you guys maybe 300-400 and green field maybe 800-1000. So can you help me understand why you don’t think that maybe there should be change in the structure on alumina pricing?
+
+Klaus Kleinfeld
+
+Well, you know the industry for a long time and frankly it is not because people haven’t tried to decouple it. There are a lot of reasons in my view, having seen other industries and making comparisons why that has not happened, and I share the optimism with you on this industry, on alumina. Not only because of our really unmatched position we have in there but also when you realistically look at all the other drivers I think there is value. It is not that our team hasn’t negotiated hard. I really think that they have and have been pretty successful. I think going forward I would not be surprised for many reasons and one is the one that you just added is what are we seeing today and how expensive it is to do a brown field or even a green field, a green field expands, that’s an additional point. That is a very, very good point and you are right in this regard.
+
+Operator
+
+The next question comes from the line of Michael Gambardella – J.P. Morgan.
+
+Michael Gambardella – J.P. Morgan
+
+In your primary segment results, did you build a lot of inventory in primary during the quarter?
+
+Charles D. McLane, Jr.
+
+We built some inventory. You can see from shipments, third party shipments were down considerably, but about 160 of that decline in third-party shipments was the decline we had in the buy/resell activity. So you take that away from it and you see a little bit of build that you can back into from that that would be in the primary group. As a follow-up to your first question, if you would look at the slide we had for the restructuring and special items, three of those items on that slide point out in the corporate segment there were some costs. It is not only the discrete tax items. It is also the mark to market power contract and the environmental accrual. That should hopefully help you get back to a number that is much closer to what you were looking for.
+
+Operator
+
+This concludes the Q&A portion of today’s conference. I would now like to turn the call back over to Mr. Klaus Kleinfeld. Please proceed.
+
+Klaus Kleinfeld
+
+Thank you very much for you all calling in and listening and for good dialogue. I hope you appreciate the additional information we put in here. Also some of the stuff that Chuck put in his presentation and some in my presentation should allow you to probably have a little bit of an easier time to understand where are we going not only on the short-term but also on the mid to long-term and also probably be a little closer in the range of your projections. Again, please as you all know we really all gain good knowledge from having constant conversations with you. Continue to do so, not only with Chuck and myself, but the rest of the team in IR group stands ready to answer questions and be in a good dialog.
+
+Thank you very much for covering us. I sure hope we will continue to have positive excitement here going on once we see the economy continue to get better. Thank you very much. Have a good one. See you. Bye.
+
+Operator
+
+Thank you for your participation in today’s conference. This concludes the presentation. You may now disconnect. Good day.

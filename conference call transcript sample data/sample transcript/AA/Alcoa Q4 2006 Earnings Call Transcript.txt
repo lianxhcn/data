@@ -1,0 +1,600 @@
+Alcoa Inc. (NYSE:AA)
+Q4 2006 Earnings Call
+January 9, 2007 5:00 pm ET
+
+Executives
+
+Tony Thene - Director, Investor Relations
+Charles D. McLane - Vice President, Chief Financial Officer
+Alain Belda - Chairman, Chief Executive Officer
+
+Analysts
+
+Michael Gambardella - J.P. Morgan
+David Gagliano - Credit Suisse
+Kuni Chen - Banc of America Securities
+David Lipschitz - Merrill Lynch
+Hongyu Cai - Goldman Sachs
+Carlos Laboy - Morgan Stanley
+John Tumazos - Prudential Equity Group
+Charles Bradford - Bradford Research
+Unidentified Analyst - Deutsche Bank
+Robert Clifford - ABN AMRO
+John Hill - Citigroup
+Unidentified Analyst - Wellington Management
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the fourth quarter 2006 Alcoa earnings conference call. My name is Jeremy and I will be your coordinator for today. At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session toward the end of the conference.
+
+(Operator Instructions)
+
+As a reminder, this conference is being recorded for replay purposes. I would now like to turn the call over to your host, Mr. Tony Thene, Director of Investor Relations. Sir, please proceed.
+
+Tony Thene
+
+Thank you, Jeremy. Good afternoon and thank you for attending Alcoa's fourth quarter 2006 analyst conference. In today’s conference, Chuck McLane, Vice President and Chief Financial Officer, will review the fourth quarter financial results, as well as a current and next quarter’s anticipated business conditions. In addition, Alain Belda, Chairman and CEO, will then give an overview of 2006, as well as an outlook for 2007.
+
+Before I turn it over to Chuck, I would like to remind you that in discussing the company’s performance today, we have included some forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements relate to future events and expectations and involve known and unknown risks and uncertainties. Alcoa's actual results or actions may differ materially from those projected in the forward-looking statements. For a summary of the specific risk factors that could cause results to differ materially from those expressed in the forward-looking statements, please refer to Alcoa's Form 10-K for the year ended December 31, 2005, and Forms 10-Q for the quarters ended March 31, 2006; June 30, 2006; and September 30, 2006 filed with the SEC.
+
+In our discussion today, we have also included some non-GAAP financial measures. You can find our presentation of the most directly comparable GAAP financial measures calculated in accordance with generally accepted accounting principles and our related reconciliation on our website at www.alcoa.com under the Invest section.
+
+At this point, let me turn it over to Chuck.
+
+Charles D. McLane
+
+Thanks, Tony. Good evening, everyone. We would like to take a few extra minutes with you today -- which we think will be both needed and worthwhile -- to adequately cover this year and our view of next year as well. Let’s start with the fourth quarter performance.
+
+Even though there were a host of unusual items in the quarter, once you strip them away, we had another very solid quarter of earnings -- in fact, the third-highest in the company’s history, ranking only behind the first and second quarter of this year. In addition, it was the most profitable fourth quarter in the company’s history.
+
+Excluding our previously announced restructuring and impairments, income from continuing operations was $644 million, or $0.74 per share, up 20% from the third quarter.
+
+Quarterly revenue of $7.8 billion was up 3% sequentially and 20% higher than the year-ago quarter.
+
+Cash from operations was a record at $1.3 billion, up 78% sequentially. Not only did our income improve, but we also generated over $400 million from lower working capital levels.
+
+Our debt-to-capital now stands at the low-end of our target range at 30.6%, as we continue to execute on our growth plans. Our trailing four quarter ROC was 13.2%, or 16.2% were you to exclude our growth projects.
+
+Obviously the restructuring and impairment charges had a significant impact on the quarter, so let’s take a look at them on an after-tax basis.
+
+This chart provides you with an EPS reconciliation of that impact. As previously announced in November, we recorded charges of $554 million, $386 million after tax, associated with restructuring programs. The charges are comprised of asset impairment, severance, and other shutdown costs associated with plant closings and consolidations across the company’s global business units. The future annual savings resulting from these programs is estimated to be $125 million pre-tax.
+
+In addition, the charges include the previously announced soft alloy extrusion joint venture. We signed a letter of intent with Orkla's Sapa Group to create a joint venture that would combine our soft alloy extrusion business with Sapa’s profiles extruded aluminum business, with the intention of eventually offering an IPO of the combined entity. Once these charges are excluded, our income from continuing operations would be $0.74 per share.
+
+With that as a backdrop, let’s move to the sequential quarterly income statement.
+
+Okay, before we go any further, let’s take a minute and step through the unusual taxes in the quarter. There are three primary factors generating the current quarter tax position. First, the rate was lower due to the tax benefit we took on our restructuring and impairment charges. If you were to exclude the impact of this benefit, the rate for the quarter would be at 18%.
+
+Second, the rate was affected by several non-recurring tax items. Essentially, we were able to reverse reserves after the finalization of certain tax reviews and audits, and reverse evaluation allowance on certain foreign net operating losses. These benefits were partially offset by the unfavorable impact of a statutory rate change. The net benefit of these items provided an additional $0.08 per share of earnings.
+
+Lastly, the operating run rate for the year was lowered to 27.3% as a result of income being earned in lower tax cost jurisdictions. This is comparable to the 2005 rate of 27%. Based on our current view of 2007, we would anticipate a rate of around 29%.
+
+The next item worth noting is our COGS as a percent of sales, which decreased from 78.8 to 78.2, and was lower than the fourth quarter 2005 level of 81.7. Higher pricing, a favorable mix, and the non-recurrence of our third quarter mill outages were the primary contributors to the sequential decrease.
+
+Before leaving this page, we should note that the discontinued operations reflects the gain on the sale of our home exteriors business, which was consummated in the quarter for cash of slightly over $300 million.
+
+As shown, our income from continuing operations decreased from $540 million to $258 million including the restructuring charges. The next slide will bridge the differences.
+
+Let me summarize the major deviations excluding the restructuring. Higher LME pricing, a favorable product mix, and lower taxes drove the results higher sequentially. These were partially offset by lower automotive volumes, LIFO charges, a weaker U.S. dollar and the strike at our Cleveland facility.
+
+As you will see later from Alain, on a year-over-year basis, we benefited from strong pricing and improved conditions in most of our markets, and we have been much more successful at capturing price increases in a somewhat lower inflationary environment.
+
+Now let’s provide you with a short summary of the changes to each segment.
+
+In our Alumina segment, ATOI fell $12 million from the previous quarter, driven by a strong Australian dollar and lower production. Prices were essentially flat. Production was down 3% sequentially as a result of a power outage at our Pinjarra refinery and a decreased operating level at our Point Comfort refinery. In late November, we took down one of the six digesters at Point Comfort to balance our supply demand for 2007.
+
+On a year-over-year basis, Alumina production and ATOI are up 2% and 42% respectively. In the first quarter, we anticipate steady volumes with the continued impact of the Pinjarra power outage and the Point Comfort adjustment muting improved performance at other refineries.
+
+We anticipate higher Alumina pricing based on the current market and the approximate 60-day lag.
+
+Now let’s go to the primary segment.
+
+Sequentially, Primary Metals’ third-party revenue and ATOI increases of 15% and 39% were driven by higher LME prices, an increase in volumes, and a favorable product mix. The LME cash price on a one-month lag increased 5%, whereas our third-party realized price increased 6%.
+
+The improvement to ATOI was partially reduced by higher carbon costs, Iceland start-up costs, and unfavorable currency impacts. The company purchased 100,000 tons of primary metal in the quarter for internal use as part of its strategy to sell value-added products.
+
+Looking forward to the first quarter, we are currently averaging higher metal prices, yet we also anticipate the higher costs as noted on the slide.
+
+Let me expand on the Rockdale bullet. As many of you know, we agreed to shut down units one, two and three. Until unit five is commissioned, we will purchase bridge power. The cost of this power is at a negotiated rate from TXU.
+
+Now we can go to Flat Rolled Products segment.
+
+In Flat Rolled Products, we benefited from a favorable aerospace mix, lower taxes, and the restoration of the third quarter mill outages. Costs associated with the beginning of the orderly shutdown of the Swansea facility also impacted the quarter.
+
+Looking forward, the Swansea shutdown costs will continue through the first quarter. We also expect continued strong demand in aerospace, with productivity gains offsetting cost inflation within most of the underlying businesses. On the industrial side, the picture is muted. Europe is expected to be stronger and North America slightly weaker.
+
+Engineered Solutions is next. Engineered Solutions continued its trend with record fourth quarter results, despite increasing pressure from lower automotive OEM volume. ATOI is flat sequentially but up 55% over the year-ago quarter due to continued strong productivity improvements and pricing actions.
+
+Segment ATOI was negatively impacted by the Cleveland strike, lower volumes and an unfavorable mix. These were offset by a tax benefit and the continued improvements generated from our prior restructuring activities.
+
+2006 was a record year for this segment, with ATOI increasing 63% over 2005.
+
+Looking forward to the first quarter, we will experience the impact of the 40% to 50% decline in the North American heavy truck market due to engine emission regulations. We expect share gains in wheels, ASL heavy truck and fasteners to mitigate a portion of this impact. In addition, this segment will be affected by the continued North American auto production cut on specific platforms. Strong demand will continue in aerospace despite the A380 delays.
+
+Moving to the Extruded and End Products segment, ATOI increased $11 million sequentially, or 69% from the prior quarter in Extruded and End Products. This segment benefited from a tax adjustment and favorable mix in the hard alloy extrusion business.
+
+For the total year 2006, ATOI for this segment was 54% higher than 2005.
+
+Looking forward, we see some seasonal decline in the building and construction markets. In addition, we expect the formation of the joint venture to be in place by the end of the first quarter.
+
+Moving next to the Packaging and Consumer segment, the Packaging and Consumer segment ATOI increased 8% over the sequential quarter and 30% over the prior year quarter. The consumer business benefited from the normal seasonal up-tick, resulting in a 23% sequential increase in revenue, yet this benefit was partially offset by a 14% seasonal revenue decline in the Closures business.
+
+Looking forward to the first quarter, we expect a normal seasonal decrease in the consumer business offset somewhat by productivity improvements.
+
+Now let’s talk about cash flow. Cash flow was truly one of our brightest accomplishments in the quarter. Cash from operations was $1.3 billion, a 78% improvement over the third quarter and a 28% improvement over the 2005 fourth quarter level of $1 billion.
+
+In addition to our previously mentioned income improvement, we were able to generate over $400 million by operating with lower working capital level. We measure our performance in this area on a days basis, and we reduced our days by 8%, or 4.1 days sequentially.
+
+Capital expenditures for the quarter were $1.1 billion, with the largest expenditures being made in Iceland, the anode plant in Mosjoen, the Jamaica early works expansion, the development of our Brazilian Bauxite mine in Juruti, and the refinery expansion in Sao Luis. This strong quarterly cash generation, coupled with the proceeds from the sale of our home exteriors business, enabled us to reduce debt by $676 million in the quarter.
+
+Debt-to-capital now stands at 30.6%, lower than the 32.8% in the sequential quarter and at the low-end of our target range. This includes an equity adjustment that related to the adoption of the new accounting standard on pension and post-retirement benefits. This adjustment reduced equity by $787 million and increased our debt-to-cap by one percentage point.
+
+The significant other investing activity was the repurchase of 9.1 million shares at a cost of $290 million in the year.
+
+Now let me take you to my final slide. The total segment ATOI and revenue history gives you a good perspective of how strong the year has been for us as compared to other periods. It demonstrates our effectiveness at capturing the price increases and not relinquishing them to higher structural costs. Were you to revisit 2005, you would see that cost increases eliminated all but approximately 20% of the benefit of higher prices.
+
+We continued to experience cost pressures in 2006, yet we were successful in eliminating 90% of their impact through higher volumes, productivity and mix. This resulted in us capturing more than 95% of the higher LME price.
+
+The bottom portion of the slide provides you with the Bloomberg trailing 12 months ROC metric and our outstanding improvement trend. Not only are we adding value by producing returns higher than our cost of capital, we are doing it on a consistently higher basis with each passing quarter -- and remember, these impressive returns include both the impact of restructuring as well as the impact of the construction in progress that is not yet contributing to the bottom line.
+
+Thank you for your time and now I will turn it over to Alain for the rest of the presentation.
+
+Alain Belda
+
+Thank you, Chuck, and good evening, everyone. Well, we exist to provide a desired product, a service or a solution to our customers. To do it well and continuously, we have to do it with the interest and support of all stakeholders in our company. This includes customers, shareholders, government, communities, Alcoans and contractors all over the world. We have to do it day in and day out and we have to do it today and for tomorrow and it has to be done consistently and in a sustainable way.
+
+As I reflect on 2006, I can point to many significant accomplishments that support this statement in the areas of environment, health and safety, in innovation and technology, in portfolio management, on long-term growth and financial performance, as Chuck said, the most profitable year in the company’s history. Let us take a closer look at each of these areas.
+
+We at Alcoa have demonstrated over the years our commitment to sustainability. We have gained credibility from our actions and as a result, we are the development partner of choice around the world. This is a distinct competitive advantage when we look for new sites, new business opportunities or forming new partnerships. We can take government authorities, community leaders, partners to see locations and talk to their counterparts in many places around the world and review our track record.
+
+We continued to build on that reputation in 2006. We were once again named as part of the Dow Jones Sustainability Index, by being named one of the most sustainable companies in the world at the World Economic Forum in Davos, and by being ranked second in the Covalence Ethical Ranking and ranking second overall in the CERES Ranking on Climate Changes and Governance.
+
+These are excellent examples of how the outside world views Alcoa and the way we live our values every day.
+
+Another example of consistency over time are our 2006 safety results. We celebrate 20 consecutive years of improved safety performance. In 2006, our lost work day rate was 0.072. This is a 96% improvement since 1987. 82% of our locations worldwide did not have a lost work day case. In 2006, our total recordable rate was 1.13. This is an 88% improvement since 1987. 45% of our locations did not have a total recordable injury.
+
+We are committed to continuing to improve what is considered to be the benchmark performance for a global industrial company.
+
+Let’s now talk about innovation and technology. This is part of Alcoa's DNA. It comes from our foundation. Our company was born from the innovation and discoveries of Charles Martin Hall about 118 years ago and we continue in that spirit of discovery today.
+
+We have the largest aluminum research facility in the world and is one of the only two operating in the world today. We have an impressive staff of scientists and researchers dedicated to discovering and developing the next product solution, the next process improvement, and they are connected globally to other research centers in Russia, China, India and Europe and U.S. universities.
+
+Let me quickly mention a few of the innovations that are making it to the market in 2006-2007.
+
+We have developed and validated Bauxite residue neutralization at Kwinana. The process provides significant greenhouse benefit by permanently locking CO2 with the residue. This process will be taken to all of our plants in the near future.
+
+SMAC, Simultaneous Multi-Alloy Casting, this is an IP protected technology. It eliminates clouding and the subsequent recovery losses in the flat-rolled product business, leading to significant cost reductions. It also expands the product range to multi-alloys on both sides of the sheet and we can do three to five alloys in the same cast.
+
+Customer validation is in progress. The output is used for brazing sheets used in automotive heat exchanger applications and we will be producing it briefly in the U.S.A., Hungary, and China.
+
+Reynobond with KEVLAR, also protected, is a lightweight aluminum polymer fiber composite ultra panel for commercial and public building facades, and possibly for broader applications. It has passed with great success the simulated hurricane impact test and we anticipate reaching the market in the near future.
+
+Dura-Bright, also proprietary, is a finishing surface applied and introduced in 2002 to our heavy truck wheels. We have increased our capacity for truck wheels and in 2006 moved the application into fuel tanks. We have several more application possibilities in the pipeline.
+
+Our proprietary 7085 alloy and aluminum lithium have found wide scale application in the aerospace market and in addition, we continue to work on innovative designs for military platforms and they are currently being prototyped and tested. We are developing certain enhanced aluminum products for the consumer electronics market. We continue to work on the [inert] anode, [inaudible] for the primary business. We are increasing yield and refineries and reducing overall energy requirements.
+
+In flat-rolled products, we are working on the micro mill.
+
+In airfoil, we are continuing to drive for higher temperature internal efficiency.
+
+In fasteners, we are developing proprietary fasteners for composite applications and developed the combination of aero structures and fasteners with sensors.
+
+In packaging, we are developing new products, new packages, biodegradable material.
+
+Finally, overall we are improving energy efficiency and reducing our environmental footprint.
+
+So obviously I am very excited about what we have done and even more with what lies ahead.
+
+In our portfolio management, my executive team and I have continued to look at businesses with industry fit, positive trends, long-term contributions, above cost of capital and values to overall synergy.
+
+In 2006, we sold our Alcoa Home Exteriors business for $305 million in cash. It no longer fitted with our core global building and construction business portfolio.
+
+We also announced we signed a letter of intent with Orkla, the Sapa Group, to create the joint venture that will combine our soft alloy extrusion business with Sapa’s profile extruded aluminum business. We hope to finalize the joint venture by the end of the first quarter. The joint venture will be majority owned by Orkla and operated by Sapa with the intention of eventually offering it to the public via an IPO. The combination of these two operations provides many opportunities to improve profitability by leveraging scale of a broader global manufacturing system.
+
+We are continuing to review assets throughout our portfolio for strategic fit and long-term shareholder value generation.
+
+Let’s talk now about long-term growth. We have talked before about delivering results today while building for the future. We believe in the significant growth potential of aluminum consumption over the next 15 years. We are certain that now is the time to pursue our growth objective to meet this demand, taking advantage of today’s results.
+
+Investing in improved competitiveness and meeting market growth in our profitable business are the right strategies for us. Obviously at the same time, we cannot take our eyes off continuing to focus on existing assets and market productivity, as well as in sustainability, preparing for incoming changes in our global urban demographics, environmental challenges, consumption partners and their impact on our industry and our market.
+
+We believe these are the right strategies for the short- and long-term value creation of the company stakeholders.
+
+Our upstream growth projects remain on track and we are evaluating a number of new opportunities. I will talk about these projects, which are on the bottom of the slide.
+
+We completed in Brazil the Alumar smelter, an expansion of 63,000 metric tons. We completed this year in Australia the upgrade of the Pinjarra refinery, adding 657,000 metric tons per year to our system.
+
+Perhaps the most significant growth project, the Alcoa Fjarðaál in Iceland, is on target to produce its first metal in the second quarter of 2007, and construction is ongoing in Brazil on a Bauxite mine in Juruti in the Amazon region and our refinery expansion at our Sao Luis facility. Both will be online in 2008, adding more than 2 million metric tons per year of capacity. AWAC share is 54% of this.
+
+These upstream projects in smelting, refinery and Bauxite mining are exciting in their potential to move us lower in our cash cost curve and give us further brown field opportunities for growth potential.
+
+Obviously we continually watch the market indicators closely for changes in trends and economic value creation and take a discipline approach before committing to a project.
+
+Our downstream growth initiatives have similar promise. In 2006, we continued to grow and strengthen our strategic downstream businesses. On the bottom of the slide, you can see some pictures of Davenport, Samara in Russia, Bohai in China, and Kunshan in China.
+
+We expanded our aerospace sheet and plate production by 50% with projects at Davenport, [Kits Green] in England, Fusina in Italy, and Belaya Kalitva in Russia.
+
+We continued with major modernization projects at our very successful Köfém facility in Hungary. The projects are focused on adding brazing sheet capacity and the addition of Dura-Bright aluminum wheel productions. Both are high value-added products with continuing growth potential.
+
+We continue to experience significant improvement in our new fabricating facility in Russia, and we are excited about the strategic advantage they hold. We will, by year-end 2007, have increased output at that facility by about 50%.
+
+Finally, we continue to increase our strategic positions in China.
+
+We believe firmly that in order to take advantage of the significant Chinese demand for aluminum fabricated products, you must have manufacturing facilities within China and in other parts of Asia. This is not new. We have been building our presence in China since 1993.
+
+As you can see from this map, we have operating locations throughout Asia-Pacific, including Korea, Japan, and Australia. During 2006, we have continued to add to our strategic position, with the Kunshan facility and the Bohai Rolling Mill, and two new fastening system facilities near Shanghai.
+
+Projects like these show the future opportunities at Alcoa are limitless and global in every sense of the word.
+
+Finally, on financial performance, we closed 2006 as the best financial year for the company, as measured at both the top and the bottom line. A higher LME price certainly was a positive factor but our management team took full advantage of the opportunity the market offered by increasing revenue, mitigating costs, introducing new products and innovations to the market, expanding our global footprint, managing our portfolio and growing our customer base. We accomplished all of this while continuing to invest in modernizing our plants, building the operation that will enable us to deliver stronger results for years to come. We are delivering stronger results now and investing in our future.
+
+From a financial point of view, we had a very successful 2006. A record income from continuing operations of $2.5 billion, or $2.90 per share before restructuring and impairment changes; a record annual revenue of $30.4 billion, up 19% from prior year. Year over year, every market showed double-digit growth, with the exception of automotive.
+
+Cash from operations of $2.6 billion, which includes discretionary pension contributions of $200 million, was the second-highest year in the company’s history, and we maintained our debt-to-cap ratio well within our target range at 30.6, even while we made aggressive capital investment in building for our future.
+
+Excluding the adjustments due to the new pension accounting standard, this ratio would be the lowest since 2000.
+
+Finally, record Bloomberg trailing 12 month return on capital was 16.2% excluding construction work in progress and recent growth investment.
+
+Now, let’s talk through a bridge comparing 2005 to 2006 financial performance. The most important point to take from this slide is that we drove almost 100% -- actually, 97% of the LME price increase to the bottom line -- in the midst of two substantial and successful labor negotiations in the U.S., which caused cost increases, output reduction, and added uncertainty to the market and customers, with start-up costs in Iceland, with charges from accounting changes.
+
+In addition, we can also see that the year-over-year taxes were a negative $13 million in 2006 compared to 2005, with the operational tax rate increasing from 27% to 27.3% on a year basis.
+
+Even more importantly, we were able to offset approximately 90% of the cost inflation, energy cost increases, and currency impact with improved mix, higher volumes, and improved productivity.
+
+This is a considerable performance improvement compared to 2005 when we were only able to bring approximately 20% of the LME price increase to the bottom line compared to almost 100% in 2006.
+
+Well, we are a capital intensive company, so these charts are the most important indicators for us on how we are performing. Looking at return on capital on a trailing 12 month basis, you can see steady and consistent improvement over the last eight quarters, no matter if you look at it with construction work in progress or without.
+
+All of this -- improved performance, managed portfolio, managed cash flow, continuing innovation and attention to details -- has permitted us to take on the highest capital expenditure program we have ever entertained while maintaining a conservative debt-to-equity ratio, the lowest in the last five years.
+
+All of this makes me believe, and should make you believe, we have a successful, solid core earning platform to continue to build on and grow.
+
+I am proud of our 2006 accomplishment. Am I satisfied with it? No. We will continue to push for improvements in areas such as working capital turns, fixed cost reduction, delivering on our construction and start-up project, the innovation and application technologies taken to the market, and new global market penetration.
+
+I am obviously definitely not satisfied with our shareholders return. I believe this had to do in part with the conscious capital expenditure plan we are implementing in our upstream businesses, as well as the market’s continuing insecurity around worldwide demand and the impact of China on the overall market. We think we understand these variables and we are doing the right things for today and tomorrow for our stakeholders.
+
+We are investing in our primary group. We are improving profitability in our fabricated and diversified groups and we are divesting or restructuring under-performing businesses and plants.
+
+I believe that as we continue to focus on cash generation, return on capital and profitable growth, the market will eventually recognize and reward our performance.
+
+Well, with a successful 2006 as a backdrop, let me now look forward to 2007 and talk about market fundamentals, market conditions, the impact of significant items to Alcoa and our 2007 operating target.
+
+We believe the market will remain strong for 2007. There are two basic beliefs supporting this position. The world will continue to grow its demand for aluminum. We projected 14% for China during our China webcast, and that is probably on the conservative side, as it exceeded 17% in 2006. Also, a solid 3% annual growth outside China. Well, it was 6% plus in the U.S. and 3% plus in Europe.
+
+We believe China will be balanced going forward and will not be a significant exporter of primary aluminum.
+
+For Alumina, our supply and demand outlook does show a surplus in 2007, ranging from 1.5 million to 3 million tons, depending on the ability of the Chinese to ramp up their new refinery capacity. We know that you will not see a physical inventory build of Alumina because a supply response will be necessary and always takes place as there is no other use for Alumina but smelter.
+
+For aluminum, we see a strong demand growth, and in addition to this demand growth, the world will lose a portion of current product supply in the U.S. and Europe, where deregulated energy markets are causing smelting capacity to be sheltered due to un-economic power rates. We believe it will be challenging for new smelting constructions in the west to keep pace with this demand growth. This is certainly supported by recent news concerning smelter expansions. Therefore, we believe aluminum markets will be balanced to potentially short over the coming years and we believe this will be the same in China as they begin to take on the environmental issues and the urbanization competition for power usage.
+
+Now let’s talk about some of the specific downstream markets that we serve:
+
+Aerospace -- commercial aircraft production will remain near historical highs for several years to come. Airbus and Boeing are expected to deliver a record 900 units in 2007, and we are well positioned to take advantage of this continued strong market in structure, propulsion, and fasteners;
+Automotive -- North American automotive production is expected to be slightly up in 2007, driven by gains at the big four transplants. Automotive production levels in Europe are also expected to rise in 2007. However, we expect to see continuing weakness in our customer base demand in North America. Segment sales will continue to be impacted by portfolio repositioning and announced restructuring in ASL;
+Commercial transportation -- 2006 pre-buy to beat 2007 engine regulation changes resulted in a record year for North American trucks. The 2007 drop will be significant, around 40% to 50%. Share gains in wheels, AFL heavy truck and fastener will mitigate a portion of this impact. In addition, we see the trailer market flat to slightly up in 2007;
+Building and Construction -- non-residential construction growth is expected to slow somewhat in North America and Asia but still reflect healthy growth of 6% and 12% in North America and Asia. Europe construction rates will be less robust but still projected at 3% to 4%; and finally
+Industrial Products -- I will focus solely on the industrial gas turbine market. We expect it to be approximately a 10% decline. However, we are well-positioned and expect to hold our revenue constant. Remember that the majority of the [inaudible] business is focused on aerospace.
+
+We have had a number of portfolio improvements and some came online during 2006 and others will come online during 2007. I am sure that all of you have estimated a value for these high-profile projects. To help you better understand the financial impacts of these items, we give you an EPS range for them. Remember that EPS improvement noted will not be spread evenly across four quarters of 2007 as we ramp these projects up:
+
+The full-year impact of Pinjarra refinery expansion will net an additional 290,000 metric tons in 2007 over 2006, and will operate at its full capacity of 657,000 metric tons;
+The full-year impact of Alumar smelter expansion will net an additional 5,000 metric tons of aluminum, as we operate its full potential at 63,000 metric tons;
+The increase in ownership and the subsequent restart of the second potline at Intalco will add an additional 95,000 metric tons in 2007 as compared to 2006;
+The Fjarðaál smelter will produce first metal in the second quarter of 2007, and is expected to yield a minimum 100,000 metric tons for the year, and then the full capacity of 344,000 metric tons in 2008. Start-up costs have been netted against the volume to calculate the true financial impact in 2007;
+Our Russia and China flat-rolled products investment will continue to improve in 2007 and we are still projecting that the Russian assets will be at a break-even run-rate by the third quarter of 2007; and finally
+The soft alloy extrusion joint venture and the additional restructuring that was announced will yield financial savings in 2007, concentrated in the last part of the year.
+
+In total, all of the above is expected to be worth approximately $0.15 to $0.20 per share in 2007, assuming current market conditions, meaning this range will certainly fluctuate with the changing in metal price.
+
+So let me close by highlighting our core financial targets for 2007:
+
+Our return on capital will continue to exceed the cost of capital. We were significantly over this threshold in 2006 and we will be again in 2007;
+Cash from op will fully fund and actually exceed our capital expenditures;
+Volume, mix and productivity will completely offset cost inflation;
+EBITDA margin will increase year over year in every downstream segment;
+Debt-to-capital ratio will remain within the 30% to 35% range; and finally
+We project our capital expenditures to be in the range of $3.0 billion to $3.2 billion, in line with our 2006 expenditures.
+
+As always, we will continue to manage and review our capital structure to ensure a balance between flexibility, costs and shareholder value. As we start 2007 with this tremendous prospect, I have never seen us as well-positioned and with as good a market to show the results of our actions.
+
+I have to also say that we have never had a better team with which to do it. That is why I have a very high level of confidence. As great as 2006 has been, I believe the work done has laid the foundation for a great 2007.
+
+Thank you for your time and now we would be happy to take on your questions.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions)
+
+Your first question is from the line of Michael Gambardella of J.P. Morgan.
+
+Michael Gambardella - J.P. Morgan
+
+Good afternoon. I have a question regarding the divestiture program. You have announced the soft alloy extrusion business, the joint venture and the subsequent IPOs of I believe about $2 billion in annual sales at that business. Could you tell us just in terms of annual sales, what are you looking at right now in terms of or considering to divest in additional annual sales?
+
+Alain Belda
+
+We have no plans for divestiture for this year.
+
+Michael Gambardella - J.P. Morgan
+
+In terms of what you are considering though, because you mentioned that you are considering things.
+
+Alain Belda
+
+We said previously that we continue to exam the underperforming assets and basically at this point in time, parts of the packaging business, and that we would make that decision some time at the end of 2007, early 2008.
+
+Michael Gambardella - J.P. Morgan
+
+Would you consider selling all of packaging?
+
+Alain Belda
+
+We sell the businesses that do not fit or do not strategically make the kind of rate of return that we expect out of the business, so I am not willing to go to the point of saying that we would sell all of it.
+
+Michael Gambardella - J.P. Morgan
+
+Okay. Thank you.
+
+Operator
+
+Your next question is from the line of David Gagliano of Credit Suisse.
+
+David Gagliano - Credit Suisse
+
+Just a quick question regarding the taxes. I was wondering if you could walk us through what the ATOIs for each segment would have been if we had a normalized tax basis. Is there a way to wrap some ATOI numbers around a more normalized environment on the tax line?
+
+Charles D. McLane
+
+Well, David, we give you the taxes by quarter. I can tell you that a piece of the non-recurring tax items that is included in the $69 million is in the engineered solution segment, about $23 million. The rest of it is all operational within the segments, so between corporate and the segments and getting the actual tax rate correct at the end of the year from an operational standpoint, the only segment that is impacted by the discrete items is engineered solutions.
+
+David Gagliano - Credit Suisse
+
+Okay, that is helpful. Just as a follow-up, you mentioned that you are targeting cash flow from operations in 2007 to exceed cap-ex. I am just wondering, obviously there is an aluminum price assumption in there. I am wondering what your aluminum price assumption is.
+
+Charles D. McLane
+
+Then we would be giving you the EPS if we gave you that.
+
+David Gagliano - Credit Suisse
+
+Well, I am just wondering -- are you assuming current aluminum prices?
+
+Charles D. McLane
+
+I can say that at current aluminum prices that we exceed it, yes.
+
+David Gagliano - Credit Suisse
+
+Okay, fair enough. Thanks.
+
+Operator
+
+Your next question is from the line of Kuni Chen of Banc of America Securities. Please proceed.
+
+Kuni Chen - Banc of America Securities
+
+Hi, good evening. Could you guys just comment on what your current priorities are as far as primary metal projects, given what looks to be a slight delay in Trinidad? Is that still the forerunner? Do you expect to get any new primary metal projects off the ground over the next two years? Thanks.
+
+Alain Belda
+
+No, I do not think we have any -- if you mean off the ground, you mean start up, we have none. If you mean projects to start, the only one that we have at the moment in mind to start up would be Trinidad, and that is being delayed.
+
+Kuni Chen - Banc of America Securities
+
+Okay. Any other color that you can give us on Trinidad and what the situation looks like there over the next two to three quarters?
+
+Alain Belda
+
+Well, it is currently in the hands of the government to decide where they want the project. They are having issues with the population on deciding where the most convenient place, or where is it that they do not want it. We will wait for them to decide what they want to do.
+
+Kuni Chen - Banc of America Securities
+
+Okay, thank you.
+
+Alain Belda
+
+But you would not see a start-up in the next two years, if at the end of the day, that is the question.
+
+Operator
+
+Your next question comes from the line of David Lipschitz of Merrill Lynch.
+
+David Lipschitz - Merrill Lynch
+
+Thank you. Could you talk more about the 10% decline in gas turbine? I was under the impression that the turbines, the replacement cycle now was doing very well.
+
+Alain Belda
+
+Well, that is our estimate of the market, that you will have a 10% reduction in demand. That will affect obviously demand for the foil that we supply there, but we are basically a small supplier in gas turbines these days. We are mostly concentrated on aerospace turbines.
+
+David Lipschitz - Merrill Lynch
+
+Okay. Thank you.
+
+Operator
+
+Your next question is from the line of Hongyu Cai of Goldman Sachs.
+
+Hongyu Cai - Goldman Sachs
+
+Thank you for the presentation. I wonder if you could clarify a little bit about the operating results of this quarter, and also your guidance. Regarding the $0.74 result, I wonder first of all, is the $0.08 per share tax benefit included in that $0.74?
+
+Secondly, the sale of the home exterior asset sale, that is about $0.10 also, if I follow the guidance from your press release a while ago. I wonder if that is also included in the $0.74.
+
+The last question is about your guidance. Is the guidance of $0.15 to $0.20 increase next year based on the current aluminum price or not? Thank you.
+
+Charles D. McLane
+
+I will answer the last one first. Alain said it was based on current market conditions, so you can take that as a yes.
+
+As far as the gain on the sale of the home exteriors, it is included in discontinued operations. The $0.74 is our income from continuing operations, so those are distinct and separate categories on the income statement. Then, your other question was is the $0.74, the $0.74 excludes the restructuring and impairment charges but it includes the discrete tax items.
+
+Hongyu Cai - Goldman Sachs
+
+To follow up on the tax benefit, do you expect further benefit next year?
+
+Charles D. McLane
+
+We gave you an estimate of around 29% for next year.
+
+Hongyu Cai - Goldman Sachs
+
+Okay. Thank you.
+
+Operator
+
+Your next question comes from the line of Carlos [Laboy] of Morgan Stanley.
+
+Carlos Laboy - Morgan Stanley
+
+Thank you. My question is regarding the supply/demand balance or outlook for the aluminum market. Alain, you mentioned that you expect closures in the western world. Do you have some metrics in particular that you can point to? I believe that in the Pacific Northwest, there has been some restarts. [inaudible] is restarting as well, and Hamburg is also likely to be brought in line. I would appreciate a little bit more of a clarification on that topic.
+
+Alain Belda
+
+No, I cannot talk to you about that. I think all of these announcements are out already or they are pretty obvious where the problems are, so those are the kinds of closures that I was talking about.
+
+I think in the Alumina side, I meant that given that there is no place to store Alumina, the result of it will be that the high-cost refineries will have to shut down. We use Point Comfort as our flex capacity, so when new capacity comes in, we tend to reduce production at Point Comfort. That, to a certain extant, is what happened in the fourth quarter.
+
+Carlos Laboy - Morgan Stanley
+
+A follow-up for Chuck. Chuck, is it fair for us to assume that the $0.15 to $0.20 annual improvement on EPS is based or is on top of the $2.90 operating earnings that you made in 2006?
+
+Charles D. McLane
+
+That is a loaded question, Carlos. I would say that the $2.90 was based on a whole separate set of operating activities. We would say from those particular projects, we wanted to provide you guidance to put in the model with all the rest of your assumptions, so the $0.15 to $0.20 is just a direct correlation to those specific projects.
+
+Operator
+
+Your next question is from the line of John Tumazos of Prudential Equity Group.
+
+John Tumazos - Prudential Equity Group
+
+Following up on the earlier question, the slide 35 with the $0.15 to $0.20 from performance improvements appeared to derive most of its benefit from the restructuring actions provided in the fourth quarter results, thinning out 13,000 or so employees, et cetera. I am assuming that you are not expecting a normal profit contribution from the 290,000 tons of new Alumina and 200,000 tons of new metal output because of all of the start-up issues with the restarted or greenfield new smelter? And that the following year, 2008, would be sort of a second phase to that slide number 35?
+
+Charles D. McLane
+
+Not necessarily, John. The savings from the benefits of the restructuring was stated to be $125 million annually. It will take about a year to implement all the restructuring activities, so even if they were all done, it would be back-end loaded and you would not get the full annual benefit. We never said the restructuring was $125 million in one year. We said once it is all done, it will give you $125 million annually. That is one piece.
+
+The second piece on Pinjarra, you would expect normal contribution from Pinjarra.
+
+The last comment on the start-up costs is yes, when you have something like the smelter in Iceland, you are going to incur start-up costs leading up to when you are producing good metal, and then for a period of time in the early operations.
+
+Alain Belda
+
+Iceland costs you about $12 million to $15 million a quarter in hiring people and getting them to -- you know, you have the full contingent of people probably starting January 1, and they are going to be around until the end of the year when you finally reach full capacity.
+
+Operator
+
+Your next question is from the line of Charles Bradford of Bradford Research.
+
+Charles Bradford - Bradford Research
+
+I would like to talk more about the Iceland smelter. A lot of your competitors have been talking about cost overruns during the construction phase. Could you tell us how Iceland came about, turned out?
+
+Charles D. McLane
+
+I think, as we have said before, we have had overruns in labor costs, in material costs in the smelter without giving you an exact amount. The way we look at the smelter, I think everybody in construction projects has been incurring overrun costs, but in our looking at the smelter and when we are going to come online and looking at a long-term metal price, we are still over cost of capital and very pleased with the progress and what the returns are going to be on this project.
+
+Charles Bradford - Bradford Research
+
+Could you also tell us what you are now using as the long-term price of aluminum?
+
+Charles D. McLane
+
+No, we do not make that public.
+
+Charles Bradford - Bradford Research
+
+Thank you.
+
+Operator
+
+Your next question from the line of [inaudible] of Deutsche Bank.
+
+Unidentified Analyst - Deutsche Bank
+
+Thanks. I wanted to limit my question to capital spending in 2007. I am modestly surprised that you are expecting capital spending to basically stay flat year over year. I am modestly surprised it is not coming down a bit. The two upstream projects that you are spending most of the capital in in 2007, maybe it would be helpful if you gave us a sense of what the capital costs for each of those were. My notes had suggested on a combination, they were somewhere around $2 billion, but maybe you could give me a little clarity on that?
+
+Alain Belda
+
+We do not give details on the projects, but what you have is in 2007, you have basically somewhere by the end of the first quarter, the end of the construction at Iceland which still means we will have continuing expenses but the majority of the capital expenditure will be done at Iceland and in Norway, but at the same time, we are having the Juruti mine that is picking up steam and the refinery at Sao Luis is picking up speed. We have a major project, which is the big energy work at Warrick Operations in Indiana. We have the hot mill in Bohai in China, which are all getting to their peak construction costs during 2007.
+
+Charles D. McLane
+
+Just to add on to that, if you looked at our capital expenditures for this year, the growth capital was a little over 60% of our total capital, and we would not see that changing significantly next year.
+
+Operator
+
+Your next question comes from the line of Rob Clifford with ABN AMRO.
+
+Robert Clifford - ABN AMRO
+
+Good evening, gentlemen. I was just wondering if you could comment on the progress of your discussions on the gas with the Jamaican Government? Has that stalled or is that progressing? What sort of time frame are you expecting to resolve that issue?
+
+Alain Belda
+
+The issue with our future expansions of the Jamaican plant is tied to a gas contract by the Government of Jamaica with the Government of Trinidad. We have been waiting for that project, that contract to be signed by the two countries to supply us the power for the expansion on our refinery. That is what we have been waiting for.
+
+Robert Clifford - ABN AMRO
+
+How is that progressing, do you think?
+
+Alain Belda
+
+It is kind of slow at the moment.
+
+Operator
+
+Your next question is from the line of John Hill with Citigroup.
+
+John Hill - Citigroup
+
+Congratulations on the strong results. It is certainly great to see the company making progress in so many different areas. I was just wondering if you could revisit the comments on the Alumina surplus. Obviously the view is that it will be somewhat narrower, or quite a bit narrower, than the market expects, high cost shutdowns in some places, inability to store it, yet still there are some very well-placed commentators calling for these very large surpluses, particularly out into ’08, 3 million tons, 5 million tons, bigger. What are these observers missing and where is the pain really going to be felt?
+
+Alain Belda
+
+It’s pretty simple, John. First, thank you for the comment. We feel pretty good, really, about this year.
+
+The bottom line is we are talking about -- let’s say between 1.5 million and 3 million tons of excess Alumina potential, and that assumes that all the start-ups in China go as predicted. With 1.5 million to 3 million tons of excess capacity, you are talking about something like 3% to 4% of world installed capacity, which is the degree of quality of estimates is way below this number.
+
+First thing is you have to assume that the number is at least risky to go on a 3% kind of number. The second part of this, the facts of life are that when you have excess capacity of Alumina, the spot price drops, and you have seen the spot price today somewhere, I think at about 250, 275. There is at least a third of the cash cost curve in the world today that loses cash at that kind of number, and these usually are the plants that are in the spot market.
+
+So my guess is some of these plants will shut down. If you look around the world, or if you look at CRU, you will see how many plants are like that around the world. These are old plants and they survive in moments like the spot market last year, but they do not survive in these moments.
+
+John Hill - Citigroup
+
+Great answer, great answer. On a related subject, I suppose, to what would you attribute the recent up-tick in Midwest premiums, up to $0.045, $0.05 from the sort of mid-three’s that we have seen recently? Is that seasonality or are we seeing something more fundamental there, you think?
+
+Alain Belda
+
+I think you have transportation costs. Transportation costs by itself would justify at about $0.05 Midwest premium. The market is tight. I mean, at the end of the day, you are still talking a market that is below 40 days of inventory around the world for primary metal, and that is a very, very sensitive spot to be in. I think the market will continue to be tight for primary.
+
+The problem is you will have these kinds of swings that you are seeing at the moment in metal. I always discount the month of December because the month of December, you have too many hedge funds and other people trying to improve their balance sheet, and that kind of gives you a higher fluctuation than you normally would have, but we are seeing a lot of fluctuation at the moment. You are seeing $100 weak, but it is reflective of the low number of days you have in global inventory.
+
+I guess this is the last question.
+
+Operator
+
+Our last question is from the line of [inaudible] with Wellington Management.
+
+Unidentified Analyst - Wellington Management
+
+Thanks very much for providing the step chart to take us from the third quarter to the fourth quarter in the 2006 to 2007 annual results. Just judging from some of the questions earlier, before every piece that I read tomorrow harps on the tax benefit issue to the earnings, could you talk a little bit about the $47 million LIFO non-cash charge in the quarter? Did you liquidate some inventory you might have built up during the second quarter price spike or was that a true up? Just kind of help us with that, please?
+
+Charles D. McLane
+
+Sure. Actually, it is pretty comparable when you think about it, Dave. On tax rates, as you go through the year on an operational rate based on the jurisdictions you are in and you keep adjusting that through the year. LIFO is pretty much the same. On LIFO, you are looking at the inflation factors and all your different cost components and you adjust it as you go through the year. That was a charge to us because some of the cost factors went up in the fourth quarter and we had been basing them on a lower rate at the end of the third quarter, so it was caught up and kind of done on the same basis. As you look at some of the tax operationally, you see LIFO going the other way and it was a charge to us, so very comparable.
+
+Operator
+
+At this time, I would like to hand it back to Tony Thene for closing remarks.
+
+Tony Thene
+
+We would like to thank you very much for attending the conference and for your questions. This now concludes the fourth quarter 2006 Alcoa conference call. Thank you.
+
+Operator
+
+Ladies and gentlemen, we thank you very much for your participation in today’s conference. This does conclude the presentation. You may now disconnect. Have a wonderful day.

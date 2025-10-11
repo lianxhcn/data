@@ -1,0 +1,603 @@
+Alcoa Corporation (NYSE:AA) Q2 2018 Earnings Conference Call July 18, 2018 5:00 PM ET
+
+Executives
+
+James Dwyer - VP, IR
+Roy Harvey - President and CEO
+William Oplinger - EVP and CFO
+
+Analysts
+
+Matthew Korn - Goldman Sachs
+Curt Woodworth - Credit Suisse
+Timna Tanners - Bank of America Merrill Lynch
+Chris Terry - Deutsche Bank
+Piyush Sood - Morgan Stanley
+Lucas Pipes - B. Riley FBR
+Justin Bergner - Gabelli & Company
+Alex Hacking - Citigroup
+John Tumazos - John Tumazos Very Independent Research
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Second Quarter 2018 Earnings Presentation and Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, Austin, and good day, everyone. I'm joined today by Roy Harvey, Alcoa Corporation President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA.
+
+Also, a note on our financial statements, consistent with our first quarter earnings presentation our presentation today for the current period as well as prior periods has been updated in accordance with the Financial Accounting Standards Board’s recent change to the presentation of non-service pension and OPEB costs. This change resulted in Alcoa moving such costs out of the EBITDA and into other income expense.
+
+Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here is Roy.
+
+Roy Harvey
+
+Thank you, Jim. And thank you to everyone for joining our earnings call. We had a very active second quarter. We continue to address our pension liability through contributions and annuity purchases, we closed a $500 million bond offering, and we launched the joint venture to support aluminum smelting research and development.
+
+However, we also had an unexpected operational issue with our work smelter restart, as well as instability resulting in reduced alumina production versus our expectations. Amid all this activity, markets in U.S. trade policy also remain dynamic.
+
+With that backdrop, let's review our second quarter results. We reported net income of $75 million or $0.39 a share. On an adjusted basis, excluding special items, net income was $286 million or $1.52 a share. We generated $904 million in adjusted EBITDA excluding special items. While this is up 38% sequentially, there were trade actions and operational factors that affected the quarter, which also play into our lower 2018 outlook. From a cash perspective, we ended the quarter with a balance of $1.1 billion.
+
+Because safety is our first and most important priority, last quarter we began reporting on safety in our earnings presentation. Our focus is on preventing serious injuries, meaning injuries that are life altering or life-ending. In the second quarter, we had one serious incident at one of our smelters in Norway. A maintenance worker seriously injured his hand while using machinery, resulting in damage to the hand skin, muscles and tendons that may likely affect the hand's movement.
+
+There are many lessons to be learned from this incident and it reinforces our resolve to improve fatality and injury prevention. Every day, we work to ensure that everyone who walks through our doors is safe. To that end, we remain focused on managing our top risks, making our safety requirements more protective and providing tools to bolster our safety culture through training and best practices.
+
+This past quarter, we continue to strengthen our company by executing our strategic priorities. We introduced new tools to reduce complexity in our company and drove returns from our operations. To lower the company's volatility risk from pension obligations and drive long-term strength in our balance sheet this quarter we used proceeds from a debt offering and available cash to reduce our net pension liability by $605 million.
+
+Guided by our strategic priorities, we also made decisions on U.S. smelting assets in Indiana and Washington State. Beginning in Indiana, two of the three potlines that were part of the announced restart up work operations are now producing metal. We've also decided to continue with the restart of the third line that suffered a temporary power outage in May. That potline should be up and running by the end of this year.
+
+As a reminder the motivation for the work smelter restart is to provide an efficient source of metal to the onsite rolling mill so that it can improve production volumes, while lowering overall cost per ton in support of our goals to reduce complexity and drive returns.
+
+In Washington State, after evaluating options for our Wenatchee facility, we decided not to restart the smelter at this time, which triggered a payment that was part of an electricity supply agreement. We're also permanently closing one of four already curtailed potlines. While the closed sections of the Wenatchee site will be evaluated for potential redevelopment that work will not affect the remaining curtailed potlines.
+
+Last quarter, we introduced a new joint venture to scale up an R&D project that produces carbon-free aluminum. The breakthrough technology represents a year’s worth of Alcoa research and development, but there is still more work to do to commercialize this innovation. Turning to our markets, we're projecting a larger aluminum deficit for the year, but also see the bauxite market moving to a surplus. The alumina market continues in a deficit.
+
+And lastly, as I alluded to earlier, due to current market prices, trade actions and operational factors, we are reducing our 2018 outlook to a range between $3.0 billion to $3.2 billion, down from $3.5 billion to $3.7 billion. While some of the factors that influenced our outlook are outside of our control, operational stability this quarter was not as expected. Our focus in the second half is to regain consistent stability at each of our operating locations. There is a lot to review this earnings period.
+
+So, with that, here is Bill for more detailed look at our second quarter results.
+
+William Oplinger
+
+Thanks, Roy. Let’s start with the income statement. Sequentially, revenues are up 16% on higher alumina and aluminum prices. Compared to last year, revenues are up 25% also on higher prices for both alumina and aluminum, which were up 49% and 19% respectively. In the quarter, the net income attributable to Alcoa Corporation was $75 million or $0.39 per share on a 188.7 million shares outstanding.
+
+Special items in the quarter totaled $211 million after tax and non-controlling interest, driven by three items, two were previously announced. The first is the Canadian pension annuitization settlement in April, which is $122 million after tax. And the second is the recently announced Wenatchee power contract payment at potline closure in June that was $73 million both pre-tax and after tax. The third item results from the final arbitration of a bauxite mining services contract at our now-closed Suriname mine and refinery. We paid cash of $29 million with the net earnings impact of $17 million after tax and non-controlling interest in the quarter.
+
+Our second quarter 2018 adjusted net income excluding special items was $286 million or $1.52 per share; roughly double the first quarter of 2018 and 147% higher than the prior year. Adjusted EBITDA excluding special items was $904 million, up $251 million sequentially, primarily due to higher alumina prices and up $399 million over the prior year also due to higher market prices. Our second quarter EBITDA margin was 25%.
+
+In the second quarter SG&A and R&D are down $2 million on a sequential basis and are down $5 million year-over-year. A few items to note were the EBITDA line on a sequential comparison basis. Other expenses declined $35 million, primarily due to favorable foreign currency impacts as the dollar strengthened. Interest expense increased $3 million, primarily due to the $500 million bond offering that Roy talked about that closed this quarter. Our operational tax rate in the second quarter landed at 33.3% as earnings improved in low tax rate jurisdictions.
+
+Turning to the bridge, sequentially adjusted EBITDA is up $251 million. Let’s review some of the bridge categories, higher alumina and aluminum prices and a stronger U.S. dollar contributed $365 million to the increase. Taking a look at items not related to price indices, fixed price contracts and other contract pricing in our alumina segment were a $30 million offset to the higher API prices impacting price and mix.
+
+Maintenance work and planned outages in our refineries, as well as at our Juruti mine were the key drivers for operational impacts, also higher Spanish power prices were negative contributor to the $22 million unfavorable energy impact.
+
+Higher prices for caustic and carbon products are lagged and hit the income statement this quarter, driving the raw materials impact. One new and recurring unfavorable impact is tariffs on our imports into the U.S. mostly from our Canadian smelters, which you see in the other category.
+
+Starting in June at $15 million, in the month, we expect a $12 million to $14 million negative monthly impact as long as tariffs are in place, reducing some of the benefits we would otherwise see from the higher Midwest premium. Simply put, for our Canadian production, we will either pay tariffs on metal we import into the U.S. or we will sell it outside the U.S. at a lower premium.
+
+Favorable market prices drove substantial earnings increases in the alumina and aluminum segments. Alumina adjusted EBITDA improved $246 million, primarily due to higher alumina index prices with offsets from unfavorable price mix and lower volume and other cost pressures.
+
+In aluminum, adjusted EBITDA was $231 million, up $78 million due to higher metal prices. Lower alumina costs were offset by higher energy and raw material costs, as well as the aforementioned tariffs. Bauxite adjusted EBITDA declined $10 million driven by Juruti operation cost and unfavorable pricing due to higher freight rates, partially offset by higher volume.
+
+Outside the segments, corporate inventory accounting will reverse to become a negative impact. In the first quarter, alumina sales prices fell. So LIFO and intercompany profit eliminations were favorable. In the second quarter, alumina prices rose, so corporate inventory accounting impacts were unfavorable.
+
+At the end of June our cash balance decreased to $1.1 billion, primarily due to increases in working capital from higher alumina, metal and raw material prices. Dividends paid to our minority interest partner, funding the Canadian pension annuitization and a $62 million payment on an electricity supply contract for the idle Wenatchee smelter. We also made discretionary U.S. pension payments of $500 million, the entire proceeds of our debt offering are closed in the quarter.
+
+In total, second quarter cash from operations and free cash flow include $605 million of discretionary and pension funding.
+
+The actions we've completed thus far in 2018 have been aligned with our capital allocation framework. Our consolidated cash balances stayed above $1 billion with continued work on our 2018 sustaining capital and value creation projects. And of the initial $300 million of liabilities optimization, in the second quarter we funded $105 million into our Canadian pension plans.
+
+In the third quarter, we expect to complete this phase of liabilities optimization through discretionary pension contributions and debt reduction. We expect to provide an update on cash returns to stockholders later this year, because our cash tends to be generated in the second half the year. That timing allows us to review a solid forecast to full year cash flows, as well as estimate any substantial cash requirements in early 2019.
+
+Quick review of our pension and OPEB accounts where we continue to work down the net liability. The net liability is now $2.7 billion down from $3.5 billion at year end 2017. The reduction includes the $500 million of debt proceeds. The $105 million Canadian pension plan contributions and approximately $70 million from the pension plan freeze and OPEB changes.
+
+The $2.7 billion does not include any benefit from annuitizations of certain other U.S. pension plan for the third quarter. All plans will be fully re-measured at year-end factoring in demographic changes, discount rate changes and investment performance.
+
+As Roy said, we've updated our full year 2018 adjusted EBITDA outlook. It now ranges between $3.0 billion to $3.2 billion based on recent price levels, including a $2,100 LME, $465 API, and a Midwest regional premium of $0.20, as well as tariff impacts on our U.S. imports, operating factors and slightly lower alumina shipments.
+
+Our final two quarters will not be identical because of pricing lags, improved volume and operational impacts we expect our fourth quarter EBITDA to be roughly 10% higher than the third quarter. Related to the expected price changes, we now estimate that corporate inventory EBITDA impacts, including LIFO and metal price lag and intercompany eliminations will net to zero for the year.
+
+Below the EBITDA line, there are two offsetting changes, we've improved our non-operating pension and OPEB expense $10 million to $150 million and we've increased our interest costs $10 million to reflect our recent bond offering.
+
+Our consolidated full your operational tax rate remains approximately 35% and our year-to-date rate is 32.8%. So to catch up we expect the third quarter rate to be in the range of 40%. And cash flow impacts are minimum required pension and OPEB funding estimate is improving $25 million and our additional pension funding is increasing to $700 million, reflecting the use of proceeds of our recent bond offering.
+
+We now expect our return seeking capital expending to be approximately $120 million, primarily due to timing on a spend on our Australian bauxite export infrastructure projects.
+
+Let me turn it back over to you, Roy.
+
+Roy Harvey
+
+Thanks, Bill. First, I'll begin with a look at the bauxite alumina and aluminum market. While we continue to expect 2018 deficits in both the alumina and aluminum markets we’re now projecting a larger aluminum deficit than estimated in the first quarter and see bauxite moving into surplus. Beginning with bauxite, and as noted last quarter, 2018 will likely see Chinese bauxite stockpiles grow. While our outlook for Chinese bauxite demand has increased slightly, we also expect increased supply growth in Guinea and lower demand from the world ex-China.
+
+This surplus continues to be purchased by Chinese customers to serve as operational stockpile. In the alumina market, large supply disruptions in the Atlantic continue to keep alumina supply at relatively lower levels and in deficit for the year.
+
+In China, we believe that some refineries have been operating at higher run rates incentivized by economics that made Chinese alumina exports profitable mid-quarter. We also expect China to import 500,000 tons of alumina in 2018, the smallest amount we've seen in recent history. This is due to few alumina tons available for import outside of China, as well as relative pricing between these two markets.
+
+In aluminum, we are increasing our deficit forecast for 2018 to range between 1.1 million and 1.5 million metric tons, up from last quarter's estimate of between 600,000 and 1 million metric tons. Global aluminum demand growth remains the same from last quarter projected to be between 4.25% to 5.25% in 2018.
+
+In China, we are forecasting a smaller aluminum surplus for this year as announced smelter projects are delayed by the time needed to obtain government approval for operating lags. In addition, the Chinese government has indicated its desire to further regulate coal-fired captive power plant, which if implemented could add to the power cost and smelting costs in China. While we await the exact impact of this draft policy, China is signaling that it is serious about supply reform in both its aluminum in domestic power industries.
+
+In the United States, announced smelter restarts are set to come online later than originally anticipated. And the mix of temporary exertions and curtailments have reduced smelter supply out locations in the U.S., Europe and Brazil. Again as mentioned last quarter, considerable uncertainty remains in the markets driven by multiple trade actions and supply disruptions that could impact these balance estimates for the rest of 2018 and into next year.
+
+Now, I'll turn to U.S. trade policy and our view on how it affects the U.S. and global aluminum industry. Let me begin by saying that we appreciate the administration efforts to address challenges that U.S. aluminum industry is facing. However to support U.S. producers and consumers long-term two structural issues in the global aluminum market must be addressed.
+
+The first, despite China's progress to reform its aluminum industry is the unfairly subsidized smelter capacity in China that has resulted in an unleveled playing field and surplus production. And secondly, is the persistent operation of uncompetitive money losing capacity worldwide. Unfortunately tariffs on U.S. aluminum imports do not remedy these underlying structural issues of the U.S. and global aluminum industries.
+
+Let's look at how U.S. tariffs are affecting the market. The chart shows the size of the U.S. aluminum market broken out by operating capacity and imports. The amount of smelting capacity announced for restart, the change in imports and the 2019 estimated market demand. Directly below the chart is also the amount of curtailed U.S. capacity available for restart.
+
+Here are the key takeaways. First because tariffs are driving only a limited increase in supply, U.S. imports will remain essential. In a 5.7 million metric ton U.S. market, restarts attributed to tariffs have totaled 300,000 metric tons all of that from competitors. As for Alcoa, our sole U.S. restart in Indiana is based on cost efficiencies. By bringing part of the work smelter back online, we provide a very specific benefit to our onsite rolling mill that improves its operational and financial performance. In Washington State, our financial imperative does not currently exists for our Wenatchee and it remains curtailed. We also have curtailed capacity at two other U.S. locations.
+
+Most importantly, even if all U.S. curtailed capacity was back online and producing metal. The U.S. would still need to import the vast majority of its required primary aluminum with approximately 60% from Canada, which is key to the North American supply chain. Canada is an important source of metal for U.S. aluminum consumers. We operate three smelters in Canada and were disappointed that it was not excluded from tariffs.
+
+Second, tariffs have so far yielded mixed results. While tariffs have pushed the Midwest premium higher providing U.S. aluminum producers with a benefit, there is no long-term certainty to the duration of those tariffs. Tariffs also distort the market by incentivizing the restart of aged inefficient capacity, which contributed to curtailments and closures in the first place.
+
+The newest U.S. smelter is about 40 years old. Shielding uncompetitive smelters from the realities of global supply and demand has resulted in frequent oversupply in the global market for the last decade. 232 tariffs are also increasing cost for U.S. downstream manufacturers and will have an impact on their global competitiveness, on U.S. consumers and eventually underlying demand for aluminum in the United States.
+
+In short, tariffs will not solve the challenges faced in the aluminum industry. Still, the U.S. hold real advantages that can incentivize the development of a competitive aluminum smelting industry. To be able to compete on a global scale and to make an aluminum investment attractive, producers need four main things. Favorable local and global market dynamics, capital costs that can support healthy returns, attractively priced long-term energy and a competitive regulatory environment.
+
+Globally competitive capital costs are a particularly intractable issue, requiring a concerted effort by the U.S. government to incentivize conditions in the U.S., while cooperating with our allies to eliminate unfair subsidies abroad. Lastly, the industry also needs investments in research and development to support new smelting technology to produce innovative products for future consumers.
+
+In May of this year, Alcoa, together with Rio Tinto announced the joint venture with the Government of Quebec to commercialize a process that makes a new product, carbon-free aluminum. The joint venture known as Elysis, has support from Apple and the Federal Government of Canada. With a combined CAD 188 million, the patent-protected technology invented by Alcoa eliminates all direct greenhouse gases producing pure oxygen as its byproduct.
+
+The JV will drive larger scale development and commercialization of the process with the technology package planned for sale beginning in 2024. If successful, Elysis would provide a retrofit or Greenfield option, would reduce both operating and capital costs and would provide a unique product advantage. While we are very excited about the new JV and the technology, I do want to stress that this is still an R&D project with the associated execution risks and project milestones. We will update you in the future as we progress with the development.
+
+In closing, we continue to use our strategic priorities to strengthen our company’s foundation for a brighter future. We’re simplifying our internal processes, driving returns from our assets and addressing our balance sheet liabilities. In the second quarter, we drove the benefits of favorable markets to our bottom-line and grew adjusted EBITDA by over $250 million sequentially. As we look to the rest of the year however, we’re reducing our 2018 outlook to reflect recent market prices, tariffs on aluminum imports, increased energy costs and operational impacts.
+
+And lastly, in line with our capital allocation plan, we used debt proceeds and available cash to reduce our pension liability by $605 million. While we can’t predict how markets and trade policy may change, we will focus on what we can control. That includes improving the stability and reliability of our global operations. Our employees are the best in the metals and mining business and I know they share this determination with Bill and me. As we enter the second half of the year, we will continue to find new ways to strengthen the company and drive value for stockholders through all market cycles.
+
+With that, Bill and I would be glad to take your questions. Operator, could you please remind us of the protocol and let’s get started?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question will come from Matthew Korn with Goldman Sachs. Please go ahead.
+
+Matthew Korn
+
+Good afternoon, everyone. Thanks for taking my questions.
+
+Roy Harvey
+
+Hey, Matthew.
+
+Matthew Korn
+
+So, could you explain a little bit more, maybe I missed it before, but just please the issues with the alumina production where and why and whether resolved? And Bill, you may have touched on this a little bit, but where else were the operational challenges that were unexpected? Is this mostly again in the work restart?
+
+William Oplinger
+
+Yeah, so there is two areas of operational challenges in the quarter, the first was on the alumina side. Couple of different plants with some operational issues, we had higher raw material usage in our Spain facility. We had lower yield than what we had hoped for in one of our Western Australian facilities and a boiler outage in a facility down in Brazil.
+
+Outside of the alumina segment, we saw a little bit of weaker performance than what we had hoped for in our work facility in part because of the loss of the line in for the restart that we had. So those are the two big operational issues experienced in the quarter.
+
+Matthew Korn
+
+Got it. And I see you only made a small downward adjustment in alumina side. So those are largely now behind us?
+
+William Oplinger
+
+The biggest part of them was behind us in the second quarter. Part of that adjustment was a lowering in the second half also. So that's our forecast for the year.
+
+Matthew Korn
+
+Got it. Appreciate it. Secondly, thank you very much for outlining the tariff effect so far, and your outlook there. Do you have any dialogue with the government on this, either with the administration or those in Congress who are seeming to start to show some recognition that there are some negative effects? And then secondly, is there anything you anticipate as a spillover either good or bad on this most recent set of proposed Chinese tariffs so there's any effect along your old production chain there? Thanks.
+
+Roy Harvey
+
+Sure. As you can imagine, we maintain pretty active dialogue with a lot of different groups in Washington. We have active discussions with the administration and with different parts of commerce department and elsewhere. We also talk with different members of Congress, et cetera. So we have an active dialogue and what I would say is that I think they understand what we've outlined as our focus on the global industry, and also our focus on the U.S. side of the industry.
+
+And so that's something that we are constantly driving and we're constantly communicating, and constantly educating. So it's not yet resulted in where we want to be, which in the short-term are the elimination or the allowance of the Canadian exceptions on tariff. And realistically, what we really like to foster is a long-term dialogue about how we drive a much more level playing field around the world. So we keep that constant communication.
+
+The second question, remind me what the second question was.
+
+Matthew Korn
+
+Just on the Chinese…
+
+Roy Harvey
+
+Yes, thank you. On the impact of the latest round of discussions the larger potential tariff talked about from the U.S. side, and then also the retaliation from the Chinese side. There's no direct impact on the aluminum industry itself, there is an indirect impact in that it creates some questions about the general economy, could have impacts on how commodity flows and expectations about commodities. But there really are no direct impacts on us.
+
+Matthew Korn
+
+Appreciate it. Good luck.
+
+Roy Harvey
+
+Thank you.
+
+Operator
+
+Our next question comes from Curt Woodworth with Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yes. Hi, good afternoon.
+
+Roy Harvey
+
+Hey, Curt.
+
+Curt Woodworth
+
+I was wondering is there any ability for you to change the importer of record, [indiscernible], I believe you're responsible for the tariffs because of that designation, whereas, and I think a lot of other products, the trader or the consumer would be listed at that. So if you had any dialogue with your customer base around sharing the burden of the tariff. And then, there is a product exclusion process for products that can be made here, right. So it's sort of an odd situation that you as the producer would be the one to argue for that. But have you filed an exclusion request with regard to your exports with commerce?
+
+Roy Harvey
+
+Yes, so, a few questions in there. What you're seeing in the market is the beginnings of discussion around duty paid versus duty unpaid market. And so that's a sort of a natural process we've seen in Europe, we've seen it elsewhere. But it's a natural process that starts to make those discussions a bit more transparent.
+
+The simple fact is, is that Midwest premiums are experienced across North America, but because of the tariffs you’re really only realizing the full impact of those Midwest premiums if you produce in the United States. And so while there is a lot of discussions around that and there are specific contracts, I think the market is moving more towards the duty paid versus duty unpaid kind of methodology.
+
+On your second question. What was the second question, Curt remind me?
+
+Curt Woodworth
+
+Have you filed a request for exclusion to be…
+
+Roy Harvey
+
+On the request for exclusion, yes, thanks. So we have not filed any request at this point. And we obviously keep very close to that process. It is something that we continue to analyze. And so it's obviously we would let our investors know if we were to choose to do that, but nothing filed at this point.
+
+Curt Woodworth
+
+Okay. And then just a follow-up question on capital return, the balance sheet still fairly underlevered from the debt perspective. You raised debt to pay down the pension still generating pretty healthy free cash. Can you comment on your desire to accelerate capital return to the equity holders either dividends or buybacks. And can you just remind us of the size of your basket in terms of how much you could buyback?
+
+And then how much of that would go away if you don't utilize it this year? Because I believe there is like only a 50% carryover, which you already have. I think last year's carryover also affected this year. Thank you very much.
+
+William Oplinger
+
+Yes, so I'll address that one. Specifically, the ability to return cash to shareholders is around $437 million in 2018. As you know and I think I alluded to in my comments, a lot of our cash flow generation occurs in the second half of the year. We have said publicly that we will be returning above and we have a very formulized capital return structure that focuses on having $1 billion of cash sustaining the operations paying down some of the pension liabilities. Once we've done all of that, we will return 50% of excess free cash flow to shareholders and use 50% for delevering.
+
+We'll be making those decisions in the second half, and we'll let you know when we’ve made the decision. At this point, thinking through the options between share buybacks and dividends and just don't have an answer for you at this point, but we will in the second half.
+
+Roy Harvey
+
+Yes, it's in active discussion in our Board. How should those capital returns look, and it's obviously a very welcome discussion and one that we're taking very seriously.
+
+Curt Woodworth
+
+Understood, thanks.
+
+Operator
+
+Your next question comes from Timna Tanners with Bank of America Merrill Lynch. Please go ahead.
+
+Timna Tanners
+
+Great, thanks very much. Wanted to just probe a little bit more some of the comments about the broader markets. And I know in the last conference call we got you to give us some anticipation in terms of the norte restart. I was wondering if you can comment on any expectations you might have there. And with regard to RUSAL resuming normal operations?
+
+Roy Harvey
+
+Yes Timna, so let me hit on those two. Starting with Alunorte, we're very careful not to express opinions on how and in what method competitors are working to bring back production online. As you know, Brazil is a very complicated environment particularly right now. We do see in our operations there is increased oversight. We welcome and do a lot of work to connect with the communities and connect with the local, regional and then federal regulators as well. But it's -- have a real impact on our alumina markets today.
+
+From an outlook perspective, I'll remind you what we said last quarter is that we were assuming a six month outage. We have bumped that up now simply because more time has passed and we haven't yet seen a resolution to it. And I just want to say that we've included that as a placeholder not to try to take position about when and how that will come back on again. But rather watching a bit removed to see how [indiscernible] norte deals with that situation.
+
+On the RUSAL side, I think what we've seen is that there is a pause, there is really two aspects to this. The first is that because there is this period until October has given the market some breathing room to be able to start to adapt. That actually also coincides with when a lot of customers are looking for that next set of contracts. And so it's given the market time to adapt. So I'd say a lot of those immediate impacts at least come down a little bit, while we’re waiting to see what the final outcome will be.
+
+The second side of that is that right now I think a lot of people in the market are expecting there to be some kind of resolution to that. However, there is still a lot of caution as to whether that material, whether it’d be alumina or whether it’d be aluminum, whether that material will be available to the market. And so, that is still a story underdevelopment and we’ll see where that takes us.
+
+Timna Tanners
+
+Got it. I appreciate that. Obviously, difficult confusing times with regards to that outlook. But my other question is really on the bauxite market, it’s not only pretty opaque for us on the outside here and it is interesting to hear you talk about the new oversupply outlook. Can you talk to us a little bit more about how that impacts Alcoa in particular, you have -- you’ve said in the past you have a premium product. Do you still expect that premium to withstand and do you still expect to be able to grow production and plan to as you’ve talked about in the past? Thanks.
+
+Roy Harvey
+
+Sure. And let me start commenting and then Bill might want to chime in as well. So, from our perspective, we tend to look at our bauxite growth projects as very much tied to customers in the market. So, as we think about doing expansions, we’re very focused on who will be the final recipient of that product. And we do that because we want to be sure that we’re extracting the value for the quality and consistency in delivery particularly of those reserves.
+
+So, I would say that while the current market because of so much -- because there has been this growth of supply in Guinea, we’re careful and cautious about it. But I would say that we’re still looking towards investing in that business because from a long-term or even medium-term perspective there is a significant amount of demand in China.
+
+On the pricing side, there really is no single solution; you look at API, the alumina price index in our alumina market. There really is no single solution in bauxite yet. That is a market that is still being determined. And to a certain extent, there are some contracts that are priced with transportation embedded in pricing and others that are priced without. And so, the pricing, to be quite honest is opaque, but you also see some factors that are in the favor of positive pricing, but also factors that are turning negative.
+
+On the favorable side, you’re seeing some price inflation and some difficulty because of environmental regulations and inspections happening in China. And that means that there is less available bauxite inside of China. And to a certain extent, they are using some of this Guinean bauxite and other sources to offset that.
+
+On the global side as you see freight rates creeping up. That actually makes -- that makes some of the further distanced bauxites a bit more disadvantaged when compared to material source from Australia as an example. So, it’s a complex market. I would say that we’re still committed to growing that market if we find the customers on the other side that will make the sale of those with our reserves in the ground make it profitable for Alcoa to take them out of the ground and sell them.
+
+Timna Tanners
+
+Okay, make sense. Thanks a lot.
+
+Roy Harvey
+
+Thanks, Timna.
+
+Operator
+
+Your next question comes from Chris Terry with Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Hi, Roy and Bill, a couple of questions from me. The first one just thinking about the capital management, maybe coming at it from a different angle. The $2.7 billion of unfunded pension and OPEB, where do you eventually want to get that number to, are you happy with where that’s at today? And I guess with the slide 15 where you’ve got the $700 million of additional pension funding in the FY2018 outlook, with the $500 million bond and I think you said $300 million at the start of the year, have you decreased that from what was implied at $800 million down to $700 million or did that change as a result of the bond that was issued?
+
+William Oplinger
+
+Yes, good questions, Chris. We’re sitting at currently -- as we said, $2.7 billion of pension and OPEB. To be clear, we would like to be largely out of the pension business in the next decade. And so, that’s our goal. And out of that $2.7 billion I believe roughly $1.6 billion off the top of my head is the pension and the OPEB is around $1.1 billion.
+
+So, with that as a long-term goal to be out of the pension business and when I say out of the pension business that means fully -- either fully annuitized or immunized versus interest rate changes. With that as the goal, we said this year that we would be contributing $300 million towards either pension or delever. We went out and we did the $500 million debt offering and we committed that to the pension. And that leaves $300 million for either further pension reductions or some form of deleveraging.
+
+So at this point, we've committed to around $200 million of further pension reduction and that would imply about $100 million of deleveraging, which most likely would occur through the Brazilian debt, we have about $137 million of Brazilian debt. So I hope that's clear. And just to reiterate it, $500 million of that we borrowed, $300 million of either pension or delevering. At this point we're saying $200 million towards the pension and $100 million towards delevering.
+
+As far as where we want to get long-term with the pension. As I said we'd like to get out of the business, but overall I think we could see a further $400 million to $700 million over the next few years of either delevering or contribution to -- excess contributions to the pensions. So when we look at our capital structure, we think we'll be in an optimal capital structure, if after we've done all of our actions this year, and then we do an additional $400 million to $700 of deleveraging in the future.
+
+Chris Terry
+
+Okay that's clear. And then so my other question just related to the energy business. Last year, you had a big step up from 2Q into 3Q with some seasonality. Is there anything expected with that. Was that a one-off last year or should we expect a similar pattern in 2018?
+
+Roy Harvey
+
+Recall, last year we had a big step up from second quarter to third quarter and then a tremendous fall off third quarter to fourth quarter. So if you recall in the third quarter to fourth quarter I think we saw something like a $55 million to $60 million decline on the energy side. At this point and it's very, very hard to forecast energy prices in Brazil. But at this point, the energy situation in Brazil from a pricing standpoint looks pretty constructive.
+
+So we are saying that we believe that ratably during the course of the year you're not going to see a significant jump up in the third quarter or a fall-off in the fourth quarter. So pretty consistently good in the third and the fourth quarter.
+
+Chris Terry
+
+Okay, thanks. And just the last one, Beck and Core [ph] any update there?
+
+Roy Harvey
+
+Yes, so we've actually come back to the negotiating table. However, as we've said before on this call and at the Annual Shareholders Meeting, we're focused on a long-term solution for that plant, a long-term competitiveness versus competitors around the world. And also it's a plant where we'd like to be investing long into the future.
+
+So we look at this as -- we look at these discussions as an opportunity to affect real change to ensure that we don't have these types of arguments in the future. And that we can really set what could be a world-class facility up for long term success. So we're continuing to discuss, we have no update as far as when those discussions will conclude.
+
+Chris Terry
+
+Okay.
+
+Operator
+
+The next question comes from Piyush Sood with Morgan Stanley. Please go ahead.
+
+Piyush Sood
+
+Good evening and thanks for taking the questions.
+
+Roy Harvey
+
+Hi, Piyush.
+
+Piyush Sood
+
+You guys talked about the operating issues in alumina, we can kind of see it in the bridge. Could you also talk about what's the $30 million sequential impact in 2Q related to? And does that also include something from operations or is that something completely different?
+
+William Oplinger
+
+Yes that's something completely different. There is two major components to that. If you look at the left hand side of the bridge, we capture what changes occur from the alumina price index. And then in the price mix category we capture any deviation from alumina price index contracts. So there is really two components to that. The first is timing of shipments and when they occur during the course of the quarter. And what API is achieved in those timing of shipments that's roughly half of the impact.
+
+And then the second half of that impact is there are still some contracts that have slightly different pricing mechanisms that may be API on a lag or API, variations from API and that's the second piece of that $30 million. So no operational impacts included in that number purely variations off of the alumina price index.
+
+Piyush Sood
+
+That's helpful. And on -- similar question on bauxite side, price mix of minus 6 other of minus 6, it's kind of a relatively high number for the amount of EBITDA bauxite generate. So, if you could talk about that as well?
+
+William Oplinger
+
+Yes, so I can address the price mix in bauxite. The bauxite prices, even though realized prices are showing a slight increase on a sequential quarter basis. Underlying prices once you strip out the impact of freight actually went down in the quarter. So from a margin perspective, you see a negative flowing through margin.
+
+I would have to look at what the other impact is in bauxite and I'm sure you can follow-up with Jim later tonight.
+
+Roy Harvey
+
+I would remind you also in bauxite of one additional factor. Remember that at the end of last quarter was when the RUSAL sanctions were first announced. And so some of those shipments that were intended to RUSAL were redirected at that point. So that also has us an impact that occurred during this quarter.
+
+Piyush Sood
+
+Okay, understood. And you did mention that if I heard that correctly, the ability to return cash this year is about $437 million. What do you have now, what's the number for next year?
+
+William Oplinger
+
+Piyush, it will be based on -- there is a component of it that's based on how much we return this year. So there is a flexibility in next year’s if we don't return cash this year. I just -- I don't know the number off the top my head, Piyush.
+
+Piyush Sood
+
+Okay, thank you and I'll get back in the queue. All the best guys.
+
+William Oplinger
+
+Good. Thanks, Piyush.
+
+Operator
+
+Our next question is from Lucas Pipes of B. Riley FBR. Please go ahead.
+
+Lucas Pipes
+
+Hey, good afternoon, everybody.
+
+Roy Harvey
+
+Hey, Lucas.
+
+Lucas Pipes
+
+I wanted to follow-up on one of Chris Terry's question in regards to the pension. When I look at slide 28, it shows about the $300 million of the minimum pension funding, $700 million of additional pension funding and then the $125 million of OPEB payments. If I follow the response to Chris's question correctly, it would suggest that there is maybe just about $200 million left under that additional pension funding, is that right?
+
+William Oplinger
+
+There is around $100 million left on the additional pension funding, discretionary pension funding this year. So if you follow through the logic, I think we say $700 million of discretionary pension funding, $500 million of which we've already done through the debt offering that we did. We did $100 million to facilitate the annuitization of a large portion of retirees in Canada. And if we're going to do $700 million this year that would leave another $100 million to be done in the third quarter.
+
+Lucas Pipes
+
+Got it. And all the other pieces of that table those payments have been made?
+
+William Oplinger
+
+There are some of those payments that will -- so which page, page 28?
+
+Lucas Pipes
+
+Page 28.
+
+William Oplinger
+
+The minimum pension funding that will be made ratably during the course of the year, right. So that has not all been made in the first half. There are still some of that gets made in the second half
+
+Lucas Pipes
+
+Got it, got it. Very helpful, thank you for that. And then, you see both alumina and aluminum markets in deficit and you have some capacity that is curtailed in both of those sectors, what would it take for you to bring on -- to restart additional capacity?
+
+Roy Harvey
+
+So, that's a calculation that we do really on a pretty frequent basis to be quite honest. And so we look at the curtail capacity we have around the world some of it’s in the United States, some of it’s elsewhere. The fact is that we look at that on a pretty robust basis depending on market conditions of course and what we think as far as short-term as well as medium and long-term pricing. But we also look at local conditions, the ability to actually sell that product that smelter or that refinery might happen to make. And we look for good sources of power, how that impacts the raw material markets. It’s a pretty complex and a complex calculation.
+
+And so, each of those has a very different set of drivers that would make it actually profitable. So, look at São Luís down in Brazil as an example of that. It’s a place where it’s a competitive plant. There is real demand inside of Brazil that today is not being addressed, but we would need a good medium-term power contract that could help make that plant competitive on the global scale.
+
+So, we keep an eye on supply and demand locally and then globally. And we also have a very close eye on what the financial characteristics are. So, there is not -- it’s not as simple as a particular breakeven price for each of the plants, but of course pricing both on aluminum as an output and alumina as an input are both important.
+
+William Oplinger
+
+And if I could circle back to your original question while Roy was addressing your question. Out of the $300 million of required pension funding, about a third of that has already occurred during the course of the first half.
+
+Lucas Pipes
+
+Got it. Very helpful gentlemen, I appreciate it and best of luck.
+
+William Oplinger
+
+Thank you.
+
+Roy Harvey
+
+Thank you.
+
+Operator
+
+Our last question comes from Justin Bergner with Gabelli & Company. Please go ahead.
+
+Justin Bergner
+
+Good afternoon, Roy. Good afternoon, Bill.
+
+Roy Harvey
+
+Hey, Justin.
+
+Justin Bergner
+
+The energy headwind of $22 million this quarter, could you clarify that a bit? And then I guess the flat rolled EBITDA was breakeven after doing $11 million in the first quarter, any sort of clarity there would be helpful too?
+
+William Oplinger
+
+Yes, so the energy impact, biggest piece of that is Spain, Spanish energy cost. We’ve seen Spanish energy costs increase in the second quarter. The other components that are smaller, they are in places like Norway and the Pacific Northwest. So, we’re seeing increases in those areas. What was the second question?
+
+Roy Harvey
+
+Flat-rolled.
+
+William Oplinger
+
+Flat rolled, flat rolled results. Flat rolled was negatively impacted by the fact that we didn’t have the third line up and running. Flat rolled had a number of negative impacts in the second quarter also higher transportation cost, specifically outbound transportation cost. We’re projecting that flat rolled improves seasonally in the third quarter and the fourth quarter. So, we are projecting that that rebounds fairly nicely in the third quarter and the fourth quarter.
+
+Justin Bergner
+
+Okay, great. And then a question on the alumina market, it seems like the deficit is about the same -- the forecasted deficit is the same as it was coming out of the first quarter, I just wanted to make sure that was correct because it seem like qualitatively suggest that things might be a little bit tighter there? And I guess the second part of the question is if Alunorte is going to stay down longer, what do you think is causing the pricing in the alumina market to be a little bit softer than you anticipated a quarter ago or that the market was pricing in a quarter ago?
+
+William Oplinger
+
+Yes, let me address the second one real quickly and you can go back to that. I mean if you recall a quarter ago, we had the RUSAL sanctions hanging over the market and we saw alumina prices spike up to very high levels. And I think as Roy addressed in his comment, I believe some of that concern around the RUSAL sanctions has come out of the marketplace. And probably the biggest driver currently in the alumina market is the fact that Alunorte is down still. So, that’s why you’ve seen alumina prices go from their highs right after the RUSAL sanctions that are announced down to the levels that we’re at today.
+
+Roy Harvey
+
+But again, you can also watch how that price is setting on a daily basis and see what transactions are feeding into that. Just today we had a pretty significant increase and it reflects that there is simply not enough alumina in the market to fulfill all of the demand.
+
+When you sort of step back and compare first quarter, our first quarter estimate versus this quarter’s estimate, there is gives and takes. So, as you pointed to Alunorte is we built in a longer period, where that’s going to be down. So, that is less supply coming to the market. But we've also seen China ramp up some of their alumina capacity.
+
+Now China tends to be the marginal player and they ramp it up when there is an advantage of them to -- when they have a cost advantage or a price advantage to sale either in market or out of the market. What's been different in this downturn, what's been different in this latest pricing environment is the fact that the differential between outside of China prices, and inside of China prices has actually driven some of that material to be exported. Now that tend to be a pretty costly process, but it tends to keep those two markets more or less in check.
+
+So you’ve seen a little bit more production coming from China, a little bit less production coming from outside of China. And that's tended to keep the market in relative balance compared to last quarter to this quarter. Again, it's in a deficit situation, which is really what's driving the fact that on a relative basis alumina is priced relatively expensively compared with aluminum.
+
+Justin Bergner
+
+Great, that was very helpful. Thank you.
+
+Operator
+
+And our next question comes from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Hi guys. Thanks Roy and Bill. My first question, in the guidance you've talked about higher energy costs, could you quantify that please? Thanks.
+
+William Oplinger
+
+Yes, versus guidance. So in the reduction in the guidance there is about $50 million of higher energy costs globally. Again that is somewhat higher oil and gas prices. And then electricity prices in Spain, Norway and the Pacific Northwest. So in the guidance change, there is $50 million of higher energy costs.
+
+Alex Hacking
+
+Okay, perfect. And then my second question is more of a market question. Your view on the cost curve, I recognize it's a moving target. But at today's prices, what percentage of Chinese aluminum production do you think is profitable. Thanks.
+
+Roy Harvey
+
+Aluminum production, Alex?
+
+Alex Hacking
+
+Yes, aluminum. Yes.
+
+Roy Harvey
+
+Yes. So we keep very close track of that. And it tends to move on a month-by-month basis. As we look at the way the pricing is done inside of China versus where it sits on the cost curve. Our estimate is a little bit less than 40% unprofitable [ph] at this point.
+
+Alex Hacking
+
+Okay, perfect. I appreciate the color. Thank you very much.
+
+Operator
+
+And our last question today will come from John Tumazos with John Tumazos Very Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you very much.
+
+Roy Harvey
+
+Hi, John.
+
+John Tumazos
+
+Good evening, thank you. The Chinese as you know, shut about a quarter of their alumina output by November-December versus June output peaks last year. How do you think they're going to evolve with the increased alumina output to export? Are they going to shut all those down again in November?
+
+Roy Harvey
+
+So let me take my best shot at that. Obviously it's a complex environment. So I would say that you've seen both Chinese acting on the discrepancy between outside of China, inside of China prices and that's actually incentivize production. However at the same time, you've also seen that a movement inside of China because prices are not particularly attractive to be careful about what production is done.
+
+And so you've got sort of the odd situation where you've seen some increase in production in alumina, but then you've also had some of the producers actually talking about maintenance outages and actually curtailing some of the facilities.
+
+So it's hard to define exactly what will come from that market. What I would say though is that Chinese tend to act in a very economically rational manner when it comes to the alumina market. So in that variation between the two markets gets to a point where it justifies shipping the alumina back to a port, turning it from big bags into a bulk shipment giving it overseas to the customer, which all has costs involved. I think we find that the Chinese produce and then they ship it. But that tend to then bring those two markets that sort of that umbilical core that bring the two markets back into relatively balanced positions.
+
+And so they act economically. They tend to curtail when prices come down, they tend to restart capacity when prices come up. And then you have the added dimension of what will happen with the winter curtailment, et cetera. There was not a big impact of winter curtailments last year. However that is a program still to be defined for the end of this year and the start of next.
+
+William Oplinger
+
+And just to add on a small point to that Roy, I thought you made it well, but we have really started to watch the arbitrage for alumina between China and the rest of the world. In the April timeframe the time that I referred to when we saw the RUSAL sanctions come online and alumina prices went up sharply. We saw that arbitrage window open fairly large. And interesting enough, we saw exports in May.
+
+And that arbitrage window subsequently closed in June, the arbitrage actually went negative. In early July, there is still a small arbitrage window. We don't have yet the June export numbers for China. But to reiterate what Roy said, the Chinese industry is pretty economic when that arbitrage window open, we almost immediately saw exports flow out. And when it closed we saw those exports slow down.
+
+John Tumazos
+
+Thank you.
+
+Roy Harvey
+
+Thank you for the question, John.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you, operator. I'd like to thank everybody for their time today. To sum up, as we enter into the second half 2018, we will continue to execute on our strategic priorities and we are very focused on building a stronger Alcoa. It is during times of high uncertainty and volatility where our actions and decisions can have the most and longest term impact. We have lot to do and we are clearly focused on it. We remain committed to driving value for our stockholders.
+
+I'd like thank you for your time today. And I'll turn it back over to the operator now.
+
+Operator
+
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

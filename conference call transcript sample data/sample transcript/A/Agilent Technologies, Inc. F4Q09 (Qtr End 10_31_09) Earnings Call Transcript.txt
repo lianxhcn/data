@@ -1,0 +1,483 @@
+Agilent Technologies, Inc. (NYSE:A) F4Q09 Earnings Call November 13, 2008 8:30 AM ET
+
+Executives
+
+Alicia Rodriguez - Vice President of Investor Relations
+Bill Sullivan - President and CEO
+Adrian Dillon - Executive Vice President of Finance and Administration and CFO
+
+Analysts
+
+John Wood - Jefferies
+William Stein – Credit Suisse
+Deane Dray – FBR Capital Markets
+Jon Groberg - Macquarie Capital
+Mark Douglass – Longbow Research
+[Savin Inma] – Thomas Weisel Partners
+Richard Eastman – Robert W. Baird
+
+Operator
+
+(Operator Instructions) Welcome to the Fourth Quarter 2009 Agilent Technologies Inc. Earnings Conference Call. I would now like to turn the presentation over to your host for today’s conference, Ms. Alicia Rodriguez, Vice President of Investor Relations.
+
+Alicia Rodriguez
+
+Welcome to Agilent's fourth quarter conference call for fiscal year 2009. For those of you who don’t know me, I’m Alicia Rodriguez, Vice President of Investor Relations. With me are Agilent's President and CEO, Bill Sullivan, and Executive Vice President of Finance and Administration and CFO, Adrian Dillon. After my comments, Bill will give his perspective on the quarter and the business environment. Adrian will follow up with his review of the financials and the performance of each of the businesses. After Adrian’s comments, we’ll open up the line and take your questions.
+
+In case you haven’t had a chance to review our press release, you can find it on our web site at www.Investor.Agilent.com. We are also providing further information to supplement today’s discussion. After you log in to our webcast look at the module on our web site, and click on the link for supporting materials. There you’ll find additional information such as our end market revenue breakout and historical financial information for Agilent's continuing operations.
+
+Also, in accordance with SEC Regulation G, if during this conference call we use any non-GAAP financial measures, you will find on our website the required reconciliation to the most directly comparable GAAP financial metrics. In addition, I’d like to remind you that we may make forward looking statements about the future financial performance of the company, these involve risks and uncertainties that could cause Agilent's results to differ materially from management’s current expectations.
+
+As a result, we encourage you to look at the company’s most recent filings with the SEC to get a more complete picture of all the factors at work. The forward looking statements, including our guidance provided today during the call are valid only as of this date and the company assumes no obligation to update these statements as we move throughout the current quarter.
+
+A few words regarding Agilent’s pending $1.5 billion acquisition of Varian. Given that the deal has not closed and we’re still currently in the regulatory approval process, we won’t be providing any additional details on the deal. That includes details about post closing integration, synergies, process of the regulatory bodies, or cost savings. For information on the acquisition we recommend that you review Agilent and Varian’s SEC filings.
+
+Before turning the call over to Bill, I want to remind you that Agilent’s annual analyst meeting typically held in early December, has been postponed until March 2010. This will enable us to talk more freely about Varian and the integration at that time, pending regulatory approval.
+
+Last but not least, I’d also like to note that Ron Nersesian, President of Agilent’s Electronic Measurement Group will be presenting at the Credit Suisse annual technical conference on Tuesday, December 1st in Phoenix, Arizona.
+
+Now let me turn the call over to Bill for his comments.
+
+Bill Sullivan
+
+In a few moments Adrian will provide you with a detailed analysis of our Q4 results by business and geography. I’d like to provide a brief summary of the results and discuss the key themes of the quarter and the year.
+
+Fourth quarter revenues of $1.17 billion were down 21% over last year while orders of $1.27 billion were down 11% from a year ago. Non-GAAP earnings were $111 million or $0.32 per share. Results were above management guidance due to the higher revenue and the resulting leveraging of the benefits of our restructuring efforts.
+
+Our Q4 earnings, combined with strong asset management, enabled Agilent to generate $208 million of operating cash flow even after restructuring payments of $55 million. We ended the quarter with net cash of $1.2 billion. Evidence continues to indicate that Q3 did represent the bottom of the economic downturn in our markets. We saw an above seasonal increase in sequential orders in Q4, up 19% over Q3. We now have seen two quarters with a book to bill ratio greater then one. This gives us confidence that we will deliver positive revenue growth in 2010.
+
+Our Electronic Measurement Group which includes our Electronic Measurement and Semi-Conductor Board reporting segments reported revenue down 30% year over year. We continue to see a difficult environment in all regions of the world. However, we are seeing sequential growth in both revenue and orders. This is being led by our General Purpose business where Aerospace Defense revenue was up 28% sequentially. We’re also seeing stabilization in Computer and Semi-Conductor markets.
+
+On the other hand, the Communication market continues to be very difficult with sequential revenue growth of only 6%. The fundamental problem is overcapacity and test equipment supporting existing wireless standards. While we believe we’re at the bottom in the Communications test market we don’t think we’ll see meaningful improvement into the roll out of 4G in the second half of 2010.
+
+In our Chemical Analysis market, revenues were off 10% year over year but up 10% sequentially. The Chemical Analysis team continues to capitalize on opportunities in China where there’s continued strength in the food industry. In addition, China continues to make investments in petrochemical environmental markets. Moving forward, we will continue to focus on China, opportunities in the food industry, and additional opportunities as the worldwide economy begins to recover.
+
+In Life Science, revenues were down 7% over the previous year, impacted by weakness in pharma and biotech markets. Sequential revenue growth was up 9% particularly in government and academic research. Sequential order growth was quite high, up 29% over the previous quarter. Unfortunately much of this order growth came late in the quarter where we were not yet able to translate into revenue growth. We’re in a solid position going into the first quarter of 2010. We continue to believe we are well positioned in LC and LC/MS as well as in sample prep, microarrays, informatics, and lab automation solutions.
+
+Beginning next quarter we will report business results in three segments:
+
+Electronic Measurement Group
+
+Chemical Analysis Group
+
+Life Science Group.
+
+Looking back at 2009 it was a very difficult year. Revenues were down $1.3 billion from $5.8 billion in FY08 to $4.5 billion in FY09. Operating profit declined almost $500 million and earnings were down more then $1.00 per share from $1.96 to $0.80 per share. However, we made three fundamental decisions that position us well for the future as we emerge from this downturn.
+
+Number one, aggressive response to the economic downturn. We began to take proactive measures in Q3 of last year in anticipation of the worldwide economic recession. We made a series of decisions to control expenses, reduce manufacturing costs and focus on R&D investments. Measures included restrictions on hiring, travel and discretionary expenses, as well as a company wide payroll reduction. We announced restructuring within our global infrastructure organization Electronic Measurement business. We initiated several other programs to reduce fixed costs and increase variable costs such as expanding our indirect channels.
+
+As a result of these efforts we expect to realized a total of $525 million in annual run rate savings. In recognition of the progress we have made, we have restored full pay to all employees effective November 1st. Our global infrastructure organization will complete its restructuring by the first quarter of fiscal 2010.
+
+Our Electronic Measurement group will complete its restructuring by the second quarter. With a combination of Electronic Measurement and Semi-Conductor Board tests we expect to achieve a cost structure that delivers double digit operating profit on revenue of $2.4 billion or $600 million per quarter. We are proud of our ability to respond quickly to the economic downturn, remain cash flow positive and continue to invest in our future.
+
+The second decision is that we ensure that we had sufficient funding of our key new product programs. Even as the company managed through this very difficult time we did it in such a way that we didn’t jeopardize our investments and growth initiatives in future technologies. In Electronic Measurement we introduced a new family of high volume, mid range oscilloscopes. We launched our PXA and CXA signal analyzers. We now have a full range of solutions and price performance on a common platform, giving our strongest ever offering in signal analyzers.
+
+Our recently introduced PXA has the highest signal analyzer performance in the world. Investment in our PNAX series of vector network analyzers has resulted in record orders in Q4. Wireless R&D and Aerospace Defense markets are adapting this platform for a complete component characterization and modeling. Finally, we continue to invest heavily in LTE and our commitment to be the test leader in the next generation of wireless.
+
+In Chemical Analysis we continued our new product investment and platforms including GC, GC Triple Quad, and ICP MS. We also introduced technology innovations and sample preparation GC inner columns and high pressure LC columns.
+
+In Life Science market acceptance of our new 1290 Infinity LC continues to exceed our expectations. We continue to see order momentum in new technologies such as LC/MS and Microarrays. We have seen strong demand from the introduction of our Sure Select Hits for next generation sequencing as well as for our bio-analyzer kits. In summary, Agilent invested more then $600 million or 14% of revenue in R&D in FY09. This commitment to technology leadership will position us well as we move into FY10.
+
+The third decision was our acquisition of Varian. This is the largest acquisition in Agilent’s history and is a major step in our transformation into the leading bio-analytical measurement company. We can build on our complimentary technologies and we each bring expertise and experience across different geographies and applications. We expect that our combined company will be able to provide customers with a more comprehensive set of solutions across a wider range of markets of applied chemical and life sciences.
+
+At this point closing is anticipated early in calendar 2010 subject to regulatory approval and customary closing conditions. In summary, we believe that Agilent has emerged from the global economic downturn in a position of strength. While it seems clear that we’re past the worst of the global downturn the pace of the recovery is expected to be slow and to vary considerably by market and geography. We remain diligent, focusing on meeting our customer needs and executing on our operating model.
+
+At the same time, we continue to invest for current and future market opportunities. For the first quarter of 2010 we expect revenues to be roughly flat from one year ago, non-GAAP earnings are expected to be in the range of $0.28 to $0.32 per share, this is an improvement of $0.08 to $0.12 per share compared to last year.
+
+Thanks for being on the call today. Now I’ll turn it over to Adrian.
+
+Adrian Dillon
+
+I’m going to offer a few overall perspectives on the quarter for Agilent, review the performance of the three business segments, and conclude with some thoughts about the outlook for Agilent’s fiscal first quarter 2010. Then we’ll turn it back to Alicia for Q&A.
+
+With our fourth quarter results I think we can say with confidence that we are past the bottom of the global economic downturn. In contrast to our earlier expectations we saw more then the normal seasonal increase in orders and revenues between Q3 and Q4. Our Q4 book to bill was a healthy 1.09 and we built backlog for the second consecutive quarter. Our $525 million restructuring program is on track and contributed meaningfully to this quarter’s results.
+
+Revenues of $1.17 billion were down 21% from last year while orders were off 11%. Conditions in our Electronic Measurement and Semi-Conductor Board Test markets remain depressed with revenues off 29% and 43% respectively from last year. Communications related markets remained particularly weak while general products and semi-conductor related markets are showing some early signs of a turn around.
+
+Our Bio-analytical segment also showed signs of bottoming with revenues off 9% from one year ago but orders essentially flat compared to last year’s Q4. Overall, we generated operating profits of $150 million in the quarter or a 12.8% operating margin despite the 21% drop in revenues. An aggressive operating profit decremental of 39% that reflects the continued cost control and the increasing contribution of our restructuring program.
+
+Fourth quarter adjusted net income per share of $0.32 was consistent with Agilent’s operating model but well above our guidance of $0.20 to $0.25 as the benefit of higher then expected revenues dropped directly to our bottom line. We were also pleased with our balance sheet performance. Inventory days on hand at 97 were off only six days from last year’s record low despite the 21% drop in revenue over the same time period.
+
+Receivables day sales outstanding at 46 dropped one day from last year to a new fourth quarter low. During the quarter we generated $208 million of cash from operations and we ended the quarter with net cash of $1.215 billion. Return on invested capital fell 13 points to 18% this quarter but note that even with these very depressed economic conditions we are only two points away from our long term target of 20% ROIC.
+
+By way of perspective, some of you will recall that during the severe 2001-2002 recession, Agilent consumed over $1 billion per year in free cash flow from operations, $2.5 billion in total from 2001 to the first half of 2003 between operating losses and restructuring costs. During the downturn of 2009 which in many ways has been even worse then the prior high tech bust, because it also included the first cyclical downturn in bio-analytical markets since 1983, Agilent generated $275 million of free cash flow from operations, a positive difference of nearly $1.2 billion compared to the company’s performance in 2002.
+
+In short, this is a very different Agilent. As the world’s premier measurement company we’ve now demonstrated the power of Agilent’s operating model over the economic cycle. We’re a company characterized by businesses that:
+
+Achieve an average 20% ROIC over the economic cycle
+
+Achieve 30% to 40% operating profit incrementals throughout the cycle
+
+Are cash flow positive from operations at every point in the economic cycle even including three standard deviation downturns.
+
+Turning to the numbers. Orders of $1.274 billion were 11% below one year ago. Fourth quarter revenues of $1.17 billion were down 21% from last year with no impact of currency on the comparative results. Electronic Measurement revenues were down 29%. Bio-analytical was down 9%. Semi-Conductor and Board Test was down 43% from one year ago.
+
+Geographically, we were down pretty evenly all over. The Americas down 23%, Europe down 20%, and Asia/Pacific down 19%. As I mentioned earlier, out book to bill was 1.09 up from 1.01 in the third quarter and below one, one year ago.
+
+Our fourth quarter gross margin at 55.6% were about a point lower then last year but over one point higher then a year ago on a volume adjusted basis.
+
+Given the difficult environment we have continued to be very aggressive about controlling operating expenses but we also saw higher variable pay as our operating results improved from earlier in the year. Compared to last year total fourth quarter expenses were down $71 million or 12%. A $14 million drop in the payout from Agilent’s variable pay programs was responsible for about 20% of that year to year decline.
+
+As reported, R&D of $144 million was down 15% from last year or 12.3% of revenues. SG&A at $355 million was off 11% from last year at about 30.4% of revenues. The company’s fourth quarter operating margin was 12.8% down 5.5 points from last year’s record margin despite much lower volumes. Other income and expense was down $17 million from last year, $8 million of that being a drop in net interest income. Our tax rate during the quarter remained at 21%.
+
+Pro-forma net income of $111 million or $0.32 per share compares to $0.62 per share one year ago. Incidentally, for modeling purposes, you should assume that Agilent stand along pro-forma tax rate in 2010 will be 20%, one point better then this past year.
+
+Going from earnings to cash, page five of our press release financial tables provides a detailed reconciliation from non-GAAP to GAAP income. Summarizing, we had non-GAAP income of $111 million, we had restructuring and other impairment charges of $60 million and $10 million of non-cash amortization charges.
+
+Taxes and other net charges were $16 million during the quarter and that was a mix of various things. The $16 million of other net charges is composed of a $31 million business divestiture gain, a $13 million settlement accrual from a pre-split exposure that we inherited from HP, a $25 million year to date tax true up related to our better then expected profitability, and $9 million of other net charges. On a GAAP basis we had fourth quarter net income of $25 million or $0.07 per share.
+
+Turning to cash, receivables at $595 million were down $175 million from last year at this time, DSO down one day to 46. Inventories at $552 million were off $94 million from last year at this time and inventory days on hand at 97 were only six days worse then last year’s record performance.
+
+Cash from operations $208 million, we had $30 million of CapEx in the quarter so free cash flow from operations of $178 million in the quarter. Depreciation and amortization was about $39 million during the quarter and during the quarter we had no share repurchases and issued about on million shares via options exercises.
+
+We also had about $2.9 million of share dilution from the increase in the share price during the quarter from $19.61 per share to $26.60 on average. We ended the quarter with about 350 million fully diluted shares outstanding and with net cash and short term investments of $1.215 billion up $234 million from the third quarter and up nearly $250 million from one year ago.
+
+Turning to segments. The global bio-analytical measurement revenues continued to decline in the fourth quarter reflecting prior orders weakness but there were also increasing signs that these markets are beginning to turn around. Orders of $590 million were down only 1% from one year ago and were up a much stronger then seasonal 20% from Q3. Revenues of $544 million were off 9% from last year in both dollar and local currency terms.
+
+Geographically, weakness was most pronounced in the Americas and Europe which were off 12% and 11% respectively from one year ago. Asia was generally flat with Japan up 2% and other Asia off 1%. China revenues were flat in the quarter but only because of an extraordinary surge in volumes last year related to food safety issues. Fourth quarter China orders for example were up 30% from one year ago.
+
+By product platform both GCs and LCs remained down double digits from last year while the reception to our recently introduced 1290 Infinity LC has greatly exceeded our expectations.
+
+Life Sciences revenues of $256 million were down 7% from last year. Revenue from pharma and biotech markets was down 8% from one year ago on tough compares. Recall that one year ago pharma was up 15%. The environment in pharma remains tough but we are seeing some signs of thawing and orders last quarter were down only 3% from one year ago.
+
+As mentioned earlier, interest in our new 1290 Infinity LC has been extraordinarily strong because of its performance in terms of sensitivity and speed of analysis and flexibility and operating in both the ultra high pressure and conventional LC modes.
+
+Sales to academic and government were off 4% from one year ago but remember that last year academic and government sales were up 22%. Fourth quarter orders were up slightly from last year. Microarray revenues were roughly flat to a very strong year ago period while orders continued to be up double digits compared to last year.
+
+Fourth quarter Chemical Analysis revenues of $288 million were off 10% from last year. Food safety remained robust while consumables and services were stable compared with one year ago. Beyond that with the exception of China, weakness was widespread across other applied markets. From a platform perspective demand remained weak fro GCs and relatively strong for high end LC/MS systems.
+
+Food safety revenues were up 19% again year over year driven by the tainted food scares and worldwide regulatory efforts. Europe and Asia were particularly strong. The market in China is continuing to grow at 15% plus, fueled by surging demand for pesticide and drug residue analysis in foods.
+
+Petrochemical was off 19% from last year and down in every region except China. With oil prices stable there are more signs that this market is flattening and our revenues were up 8% sequentially in Q4 after stabilizing between Q2 and Q3.
+
+Revenue into the environmental market was down 10% year over year. Forensics also remained very weak off 32% from one year ago but the business was up sequentially for the second consecutive quarter suggesting a bottoming in this market.
+
+Fourth quarter bio-analytical measurement segment income was $109 million down $27 million from last year on a $50 million decline in revenues. Gross margins of 55% were off a point from last year while operating margins at 20% were down three points from last year’s record performance. Segment ROIC fell five points to 31%.
+
+Turning to Electronic Measurement, fourth quarter orders of $641 million were 18% below last year but were up more then seasonal 18% sequentially from Q3. Fourth quarter book to bill at 1.10 was above 1.0 for the second consecutive quarter.
+
+Reflecting earlier orders weakness revenues of $582 million were 29% below one year ago. General purpose margins showed clear signs of bottoming while communications markets remained very weak. Geographically Europe declined 31%, Japan was off 38%, other Asia dropped 24% and the Americas were 28% below one year ago.
+
+General purpose test revenues of $373 million were down 17% from last year but were up 15% from Q3. Aerospace and Defense held up best unchanged from last year and up 27% seasonally from Q3. We saw relatively strength in US demand as well as in Japan and China, while Europe remains weak. Investment in Asia continues to focus on radar tests, satellite tests, atrology, and signal monitoring.
+
+The computer and semi-conductor business showed more signs of a turn around. Revenues were still down 32% from last year but were up 36% from Q3 consistent with the rebound we are beginning to see in semi-related markets. Adoption of the new Infiniium 9000 series oscilloscope ramped strongly from its July launch including strong demand for both hardware and applications packages.
+
+Revenue in the electronics market was down more then 27% year over year and about flat sequentially reflecting continued weak electronic manufacturing marketplace. Communications test revenues of $209 million were down 43% from one year ago with extreme weakness virtually across the board. Wireless R&D spending was down 35% from last year with the only pockets of strength being in LTE and the China 3G infrastructure build out. Wireless manufacturing which peaked one year ago was down 64% with little demand for new capacity in the near term.
+
+Network monitoring did show some signs of life, down 27% from last year but up 34% sequentially. Broadband was also very weak off 51% from last year but up 42% sequentially with increasing load levels on networks stimulating some quality of service investments by service providers.
+
+Electronic Measurement’s fourth quarter operating profit of $41 million was $95 million below last year on a $233 million decline in revenues, an impressive 41% decremental resulting from rapid actions to reduce structural costs in this severe downturn. Gross margins fell by less then two points from last year while operating expenses dropped by $50 million below last year. Operating margins dropped 10 points to 7% while segment ROIC fell 22 points to 12%. As you can tell by these results the restructuring of Electronic Measurement remains on track for a successful mid-2010 completion.
+
+Turning to semi and board tests, results in the very depressed semi-conductor and board test markets improved for the second consecutive quarter. Fourth quarter orders of $43 million remained 25% below one year ago but were 22% ahead of Q3 and nearly double the pace of six months ago. Revenues of $41 million were off 43% from one year ago but up 10% from Q3. With a book to bill of 1.05 we are beginning to see the early signs of a new semi-conductor cycle reflected in the order funnel for this business.
+
+The segment’s fourth quarter operating loss from operations of $1 million represents a deterioration of only $1 million from last year’s result despite a $31 million decline in revenues. Sequentially income improved $9 million on a $4 million increase in revenues. At this point, the segment has completed its restructuring program and exceeded the original cost reduction goals.
+
+Finally, turning to the outlook for our first quarter of fiscal 2010. Bill mentioned that on a stand alone basis we expect revenues to be roughly flat with the first quarter 2009. On that basis we expect our non-GAAP earnings to be in a range of $0.28 to $0.32 per share an improvement of $0.08 to $0.12 per share compared to last year that results from the success of our restructuring activities.
+
+Other items to keep in mind as you model fiscal 2010 include; first, we did restore full salaries around the world November 1, that represents about a $80 million increase in annual costs compared to 2009. Our fiscal 2010 equity compensation costs will be about unchanged with 2009 at just over $70 million. Remember that we front load the recognition of 123 our costs so when you compared fourth quarter ’09 total comp costs with the first quarter 2010 the increase will be about $32 million not $20 million.
+
+There will be no change in pension expense in 2010 compared to 2009. We did issue $750 million of notes in September to finance the Varian acquisition. I don’t think that increase in interest expense has been adequately reflected in some of your models. I also mentioned that the stand alone pro-forma tax rate this year would be 20% versus 21% in 2009. Capital spending this coming year should be in the range of $130 to $140 million and depreciation and amortization costs will be about $165 million roughly equal to 2009.
+
+Finally, looking at our markets for the coming year, we are comfortable with the range of analysts 2010 revenue estimates for our segments which average about 5% growth for both the Electronic Measurement and Bio-analytical segments.
+
+I think that’s it so I’ll turn it back to Alicia for the Q&A.
+
+Alicia Rodriguez
+
+Please go ahead and give the instructions for the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question comes from John Wood - Jefferies
+
+John Wood - Jefferies
+
+Can you give us an initial outlook on operating cash flow? I know you mentioned the CapEx but how should we be thinking about operating cash flow and specifically any spill over in cash restructuring expenses in FY10?
+
+Adrian Dillon
+
+The vast majority of the restructuring expenses have occurred. We have about another thousand headcount to go out. We accrued about $290 million I believe so we are within about $30 to $50 million conservatively of being done. Cash flow from operations next year we think will be very significantly improved from this year’s surprisingly good result and above half a billion dollars.
+
+John Wood - Jefferies
+
+How should we think about capital re-deployment in FY10? Obviously with the Varian acquisition still pending will de-leveraging be a priority next year or is there the potential for a resumption of the share repurchase program?
+
+Bill Sullivan
+
+As we had stated in last quarter’s call our first priority will be to reduce our debt, the next priority continue to look at opportunities to invest in the businesses via acquisitions, the third option would be to continue to return that cash to our shareholders via stock repurchase and I think that’s the way I’d look at it in those three steps.
+
+Adrian Dillon
+
+For modeling purposes everybody should assume that our share count will be unchanged at 350 million throughout the course of fiscal year ’10.
+
+John Wood - Jefferies
+
+Can you comment on any stimulus benefit you saw in the bio-analytical business both in revenue as well as orders in the quarter and any feel you have for that potential contribution in FY10?
+
+Bill Sullivan
+
+This is my observation, as the data is still quite sketchy. It is our view and my observation in speaking to other folks in the industry that the stimulus money spending has been quite slow not only in the decision making process in the various institutions but the actual flow of the money from the government particularly in the US. I believe that the vast majority of the stimulus impact won’t show up until calendar 2010.
+
+Operator
+
+Your next question comes from William Stein – Credit Suisse
+
+William Stein – Credit Suisse
+
+I’m wondering if you can talk a little bit more about the LTE opportunity, in particular where we are in the cycle with investment there relative to both R&D and whether there is any revenue from productions or is that something more in 2010?
+
+Bill Sullivan
+
+Many of the service providers have made very public statements in terms of the rollout of their LTE and where that is. From the comments from this quarter, however, I think you’re continuing to see investment in R&D, continue to do the network definition, the trial testing. As you know, this is a much, much different antennae system for G4. The net result of that is that we have not seen a lot of measurable expenses or capital investment in LTE as of yet, coupled with the reality there’s excess capacity for G3, G2.5 our wireless business and manufacturing was down 60% over last year.
+
+I personally believe, again you’ll get lots of different opinions that we will not see any measurable capital investment in LTE into the second half of 2010. The reality is that if you look at past ramps of these wireless standards you get a slow ramp and then you get the acceleration once you really start rolling out the handsets and people start converting to networks. I’ve been very clear that I believe this is an opportunity to have a dramatic recapitalization of test equipment in the industry but the likelihood that could be out into the 2011 timeframe.
+
+William Stein – Credit Suisse
+
+I’m wondering also if you can talk a bit about the distribution strategy we’ve seen at least one pretty big announcement from a distribution partner. Can you talk about changes in the business as it relates to the sales channel?
+
+Bill Sullivan
+
+Since we have announced the first issue at hand is that our revenue in Electronic Measurement had dropped $1.2 billion and we have a very aggressively resized the organization to the reality of a much lower business level. That resizing of the organization would in fact impact our direct sales organization. We’re roughly at the time about 85% direct. In order for us to help in that transition we had made a decision to partner with the indirect channel, the distribution partners that we had brought online over the last two or three years.
+
+I believe that transition is going very, very well. I believe that we will be able to put it more variable costs into our sales channel in general. We will be able to maintain our reach and we will continue to migrate where, hopefully by 2011 as much as 30% or more of our business will be through the indirect channel. I believe that we have a unique position given the breadth of our product lines and we’ll continue to be a very, very credible partner to our distributors and manufacturing rep and value added resellers.
+
+William Stein – Credit Suisse
+
+If I’m hearing you right its from 85% to something on the order of 70% direct. That’s not a massive sudden change is that fair?
+
+Bill Sullivan
+
+I think that’s fair. Historically we’ve tended to very, very well at large accounts that has been our historical strength and these large accounts typically, particularly on a turn around will disproportionately drive higher capital spending in those accounts so we’ll continue to be handled direct.
+
+Operator
+
+Your next question comes from Deane Dray – FBR Capital Markets
+
+Deane Dray – FBR Capital Markets
+
+I’d be interested in hearing how the quarter played out in terms of the months based upon hearing the spurt of orders in Life Sciences it sounded like October was quite strong. How did the quarter sequentially play out?
+
+Bill Sullivan
+
+Exactly as described. Historically this has always been the strongest quarter of the year, its the last quarter from a sales organization there tends to be a surge of orders at the end of October. That happened this year plus more. The order intake at the end of October was well above our normal seasonal expectations.
+
+Deane Dray – FBR Capital Markets
+
+Within that burst of orders how would you characterize that? Are these new product driven, is it a refill of the channel and maybe is there any pricing pressure on that, how would you describe those?
+
+Bill Sullivan
+
+As Adrian talked about, our gross margins were in great shape and there should be no anticipation that the orders we received at the end of the quarter would be any different in terms of mix. As I had noted, during 2009 we continued to spend $600 million in research and development. The introduction of our new instrument platforms from our network analyzers to our LC/MS to our LC there are triple quad GC there’s oscilloscopes.
+
+We are entering 2010 in just incredibly strong position from a technology standpoint and I think that’s being reflected in acceptance by our customers in the marketplace. We have not lost at all in terms of having technology leadership in Measurement Science as we move into 2010 from our viewpoint.
+
+Deane Dray – FBR Capital Markets
+
+Lots of focus on food safety, lots of focus on China, in this case both. Adrian touched on the fact that these applications are looking at drug residue and pesticides. Bring us up to date on this, what’s the product and go to market strategy. Is this all high end lab equipment or are there any in process application specific products that you think that you can bring to market?
+
+Bill Sullivan
+
+From a hardware respect the building block measurement tools in laboratories are GC, LC, and mass effect. If you look at this investment in the food industry, petrochemical environment our focus has been in essential labs, as you know a lot of the standards around the world are standards that have been originally developed in the West, China will of course continue to develop their own standard.
+
+When you look at such industries as food industry one tends to conform to what the worldwide measurement standards would be. That has been our focus, we have a great team in China. We have a direct team moving forward. I think we have an advantage given that David Packard started the first high tech joint venture in China in the 80’s and we are just very well position in China, built on Electronic Measurement base which is down this year because of the downturn in cell phones.
+
+The team in China is just done an incredible job of providing Measurement solutions with the hardware base and then we have large application teams in China to make sure that we are there to be able to provide those solutions.
+
+In addition to that, years ago we had started a Shanghai manufacturing center, that’s expanded in not only sales and applications but as well as R&D and we have customized instrumentation targeted specifically at the Chinese market. Local languages down to the markings on the knobs. I believe the team in China has looked as local as they can and given the breadth of our products, the breadth of our application capability we continue to do a great job.
+
+Deane Dray – FBR Capital Markets
+
+Can you address, you’ve done a terrific job on the decrementals. Comment this quarter, they seemed a little bit bigger then I thought so 39% was there anything unique here this quarter. Comment on the positive incremental margin sequentially because at 63% that’s among the best we’ve seen. Is there anything unique there?
+
+Adrian Dillon
+
+On the 39% a lot of that had to do with the fact, back to our prior conversation around orders, our orders were so much higher then we anticipated that we spent a lot more in commissions in the fourth quarter. Obviously we haven’t delivered the revenue related to those orders because they came in late in the quarter. That was a significant increase in expense.
+
+Also variable pay kicked back in with the higher then expected profits and so on the increment that was also an added cost but for all the right reasons. We were very pleased just to stay within the 30% to 40% that we always target for Agilent’s operating model. That’s the reason it was sort of on the bottom end. You’ve pointed out that sequentially in fact it was a superb performance towards the high end and a large part of that really shows the momentum we have in the restructuring program.
+
+As Bill mentioned earlier, the global infrastructure restructuring is essentially over at this point. The semi-conductor and board test restructuring is completed at this point both of those are ahead of schedule and getting more. The Electronic Measurement restructuring has great momentum to be completed by mid-year. What you’re really seeing is the clear benefits of the restructuring and lowering our break even.
+
+Deane Dray – FBR Capital Markets
+
+In my book the reason given that you’re paying out higher commissions on these orders that’s a high quality problem so I’m glad you pointed that out.
+
+Adrian Dillon
+
+Its a nice problem to have. You’re right.
+
+Operator
+
+Your next question comes from Jon Groberg - Macquarie Capital
+
+Jon Groberg - Macquarie Capital
+
+On the communications side of the business you also during the quarter sold that data network test product line to Exion. I’m curious what is the, as you alluded to what I’m hearing from all the people in China, CapEx budgets for all of these contract manufacturers are basically non-existent going into next year. I’m trying to understand what the model here is or what the business model will look like on the communications side of the business. Are you deemphasizing certain businesses and going to emphasize others as you move into this LTE transition?
+
+Bill Sullivan
+
+Our core capability in cell phone activity has been at the physical measurement, the signal sources, spectrum analyzers, network analyzers, and taking that technology into what we call one box testing as these products go into manufacturing. We’ve been very clear that our focus has been to continue to maintain our position in the manufacturing environment which is clearly depressed until this change comes but to really focus on the R&D environment.
+
+Our number one position has always been in the physical layer. We have a great position in the bay stations, that’s really where the investment is going right now in the development and the beginning deployment of bay stations. Of course the continued development for the handset technology moving forward. We continue to look at our portfolio, we continue to look at where our competitive position is and a lot of these segments as well as focusing our R&D investment 2009 we have made some strategic decisions to exit certain businesses so that we could focus where we are stronger.
+
+One example that you just noted, the other example of course we exited the optical and x-ray inspection. Its another market where right now they’re non-existent, there are no orders for x-ray inspection. The belief is will people spend that kind of money moving forward and the new reality economy we felt that that type of investment would be very low and so we made a decision to exit those businesses. We will continue to look at our portfolio and make sure that we invest where we have the strongest market position.
+
+Jon Groberg - Macquarie Capital
+
+Moving to the pharma side, on the 1290, you talked a lot about the orders. Has that started shipping yet, can you remind us. Can you talk maybe about what you’re hearing from your CRO accounts? I think you’ve been historically stronger in the CROs and you mentioned pharma was still difficult. Maybe what you’re hearing from some of those accounts.
+
+Bill Sullivan
+
+In terms of the 1290, yes we are shipping the product. The feedback has been very, very positive moving forward and so we’re in the process of ramping that capability into a market is down. The replacement market for LCs is very, very weak, I think that’s the same for our CROs as well as pharma. Really what you’re seeing is a new capability that people are willing to buy, invest in and get the benefits of this new technology. As Adrian had noted, we do see some sequential growth in the pharma market moving forward and we will see how that plays out as we move into 2010.
+
+Jon Groberg - Macquarie Capital
+
+On your initial outlook for 2010, 5% growth organically for both businesses given a really difficult comp. I’m curious, how much of that is the overall uncertainty still in terms of the robustness of the economic recovery, how much is what you’re currently seeing in momentum in the business and how you think that plays out? Can you maybe talk given all the restructuring what kind of incremental margins for the full year you would expect on that type of revenue growth?
+
+Adrian Dillon
+
+I think it is conservatism and uncertainty. You can’t go through a year like we just did and have confidence that we know how quickly our markets will recover. The comment was really around all of you guys have a range of forecasts that average about 5% and that would be our best guess at this point in time. Recognizing that our commitment is to achieving the operating model results, the 30% to 40% organic incrementals around that.
+
+For fiscal 2010 I think you will see much, much higher incrementals then that because Ron Nersesian and his team in Electronic Measurement are doing this profound reset of the break even to the tune of $300 million and so you will see very, very attractive incrementals from that business, in fact we’re already seeing it. I think you see more normal incrementals from the Bio-analytical side of the house.
+
+Bill Sullivan
+
+If you go back and look at the recovery after the tech crash in 2001 Electronic Measurement sequentially grew 17%. For us to ever imagine that in this environment would be probably delusional. That is, as you know, the big debate, what will be the slope of the recovery. Will it be a snap back, which is actually quite traditional, will it be a double dip or the new one is the square root that we’ll see this pop and then flat line out throughout ’10.
+
+I do believe, with Adrian, we will see sequential growth the comparisons just become easier, we have a great product, whole slew of products that we’ve launched into the market so that we believe we will see sequential growth. As you know, no one really knows what the growth rate inherently will be in the economy in 2010.
+
+Adrian Dillon
+
+I think what we demonstrated in the second half of this year and you will see in 2010 is that if demand does come in stronger then we currently anticipate we will react and we will deliver that product. We’ve got a world class team doing sourcing and manufacturing that’s demonstrated time and again that they can really jump through hoops to deliver to customer commitments.
+
+Operator
+
+Your next question comes from Mark Douglass – Longbow Research
+
+Mark Douglass – Longbow Research
+
+Related to the expectation for fiscal 2010, defense aerospace was up quite dramatically in orders sequentially. What do the orders look like, are they blanket orders for the year, do you expect the sales to become strong the first half or do think it should remain strong throughout the entire year?
+
+Bill Sullivan
+
+In the aerospace and defense it does tend to go in cycles, particularly driven by what a country’s budget cycle is themselves. The US has very typical budget cycles so do other countries moving forward. The biggest concern that we had talked about in previous calls was that with the unwinding of the Iraq war, the pressure on the budgets would there be a fundamental change in Aerospace and Defense spending in the United States which is half the world’s market.
+
+As it appears now, again this is public record, that the US Defense budget in fact will not change measurably going into 2010. In addition to that, we continue to do well in China, continue to do well the investment in Japan continue to increase, continue to hold our own in terms of the investment Europe is making. We’re looking at a market that will at worst be flat in 2010 with some potential upside depending on which programs and how much of that that we win. At this point in time we do not see a major restructuring of the industry which I think is really good news.
+
+Adrian Dillon
+
+There’s a strong seasonality between Q3 and Q4 in this business. The fact that it was up 27% was a surprise but the fact that it was up was not a surprise. Year over year orders were up single digit so that’s much more indicative of the secular trend in this business. The only other thing I’d mention is that there is an initiative taking place to modernize the test and equipment installed base within the military. It has been neglected for a long, long time as the focus has been on munitions and troops. As that winds down there is some reallocation and so the level of inquiries around that for us has been pretty attractive.
+
+Mark Douglass – Longbow Research
+
+You mentioned $80 million, make salaries whole in fiscal ’10. How much of an impact are we going to have in the first quarter?
+
+Adrian Dillon
+
+If you were to look year over year its $20 million. If you look from Q4 to Q1 its like $32 million because we also begin each new years 123R related expense that’s front loaded in the recognition so it tends to be lumpy sequentially between Q4 and Q1.
+
+Bill Sullivan
+
+In addition to that we’ll have the normal tax and benefit true up that starts in Q1 as well. There is actually going to be close to a $40 million sequential impact in related salaries.
+
+Adrian Dillon
+
+That’s from Q4 to Q1 again year over year its $20 million.
+
+Mark Douglass – Longbow Research
+
+Year over year its spread evenly.
+
+Adrian Dillon
+
+Correct.
+
+Bill Sullivan
+
+Sequentially its quite a bit a jump from our Q4 to Q1 with the salary restoration and the corresponding tax and benefit true ups and 123R.
+
+Mark Douglass – Longbow Research
+
+You mentioned interest expense might be a little light in some of the models. What kind of quarterly run rate would we be looking at there?
+
+Adrian Dillon
+
+I would point out that we raised $750 million worth of debt. The average interest rate there was 4.5%. We’ve swapped that and so the interest rate is closer to 3% but that’s still a significant chunk of change on $750 million. That’s not reflected at all in the analyst estimates. I understand that, we’re in this surreal area where we haven’t consummated the deal with Varian yet and yet we’ve financed it. You have to forecast as if we’re not going to buy it even though we have the interest expense associated with it. My sympathies but just to get the numbers right you need to reflect that higher interest cost.
+
+Mark Douglass – Longbow Research
+
+I had a couple million in there per quarter. You said you swapped a 3%.
+
+Adrian Dillon
+
+3% annual cost at the moment with our current swap yield.
+
+Operator
+
+Your next question comes from [Savin Inma] – Thomas Weisel Partners
+
+[Savin Inma] – Thomas Weisel Partners
+
+I want to ask about the broadband R&D spending outlook as you go into 2010.
+
+Bill Sullivan
+
+I don’t know the answer other then that we are planning that 2010 will continue to be difficult that we will not see a dramatic increase in capital investment in 2010. We hope that we are wrong. You’re seeing the overall general purpose market increasing but until there’s a catalyst of overall installation and change I think the market is going to remain relatively difficult. We do believe that we’re at the bottom, we may see continued sequential growth but until there’s a real catalyst of change I think 2010 will continue to be difficult.
+
+[Savin Inma] – Thomas Weisel Partners
+
+The $525 million in annualized cost savings, how much of that is yet to be achieved? Does that flow through the cost of sales line or will that be mostly on the SG&A side?
+
+Adrian Dillon
+
+We are about between two thirds and three quarters completed. Only the Electronic Measurement restructuring is yet to be completed. It shows up mostly in the SG&A line because that’s the single biggest line item we have but also significantly in R&D less of it shows up in the cost of sales.
+
+[Savin Inma] – Thomas Weisel Partners
+
+In terms next year, how should we think about the seasonality as you go through the year?
+
+Adrian Dillon
+
+If you think about it as being the converse of this year that the comparisons will get a lot easier towards mid-year from this year hopefully we’ll have another gangbusters fourth quarter. I think its a bit of a reverse of what you saw this year.
+
+One other comment that perhaps back to the Varian financing. Since I mentioned the $750 million that we have raised for that. At this point we are comfortable that we will use our own cash for the other $750 million. There will be no additional fundraising required to consummate that acquisition. Just thought you’d all like to know that for your offline modeling.
+
+Operator
+
+Your last question comes from Richard Eastman – Robert W. Baird
+
+Richard Eastman – Robert W. Baird
+
+Could you talk for a second about the EM order growth being up 18% sequentially. Was there any meaningful difference between the geographies when you’re looking at sequential growth? Are you more or less comfortable in EM about any geography recovering quicker and with a sharper rebound?
+
+Bill Sullivan
+
+The Americas was by far the strongest sequentially.
+
+Adrian Dillon
+
+Part of that has to do with the Aerospace Defense seasonality. The US and Asia showed the strongest order rebound. Europe and Japan continue to be very weak.
+
+Richard Eastman – Robert W. Baird
+
+The same general trend holds true on the general purpose as well as com. The general purpose was kind of the leader here.
+
+Bill Sullivan
+
+The general purpose was by far the story in EM. When you think about it where its much broader industry moving forward. The data is pretty clear, the semi-conductor industry, computer industry is at least stabilizing and moving forward. If you look at it from a breadth of products we have the broadest range of products that address the general purpose Electronic Measurement market so its not too surprising that’s where you’d see the rebound.
+
+The communication market, again is dealing with the first downturn in cell phone sales since the history of the introduction of cell phones. Even the smart phone market can’t make up for just the fundamental weakness in the overall cell phone handset market. The infrastructure for G2.5 and G3 is pretty much there and so you have a void of investment in infrastructure, overcapacity in handsets and so you just have a very, very difficult environment until we move to G4.
+
+Operator
+
+This will conclude the Q&A session. I would now like to turn the call over to Alicia Rodriguez, Vice President of Investor Relations.
+
+Alicia Rodriguez
+
+To everybody on the line I’d like to thank you on behalf of our management team for joining us today. Please call the Investor Relations department with any follow up questions that you may have. We look forward to speaking with you. Thank you very much.
+
+Operator
+
+Thank you for your participation in today’s conference. This concludes the presentation. You may now all disconnect.

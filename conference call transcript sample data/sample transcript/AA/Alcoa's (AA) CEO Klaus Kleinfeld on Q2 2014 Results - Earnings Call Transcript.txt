@@ -1,0 +1,424 @@
+Alcoa Inc. (NYSE:AA) Q2 2014 Earnings Conference Call July 8, 2014 5:00 PM ET
+
+Executives
+
+Kelly Pasterick – VP of Investor Relations
+Klaus Kleinfeld - Chairman and Chief Executive Officer
+William F. Oplinger – EVP and Chief Financial Officer
+
+Analysts
+
+
+Paretosh Misra - Morgan Stanley
+Sal Tharani - Goldman Sachs
+Timna Tanners - Bank of America Merrill Lynch
+Josh Sullivan - Sterne Agee
+Brian MacArthur - UBS
+Mike Gambardella - JPMorgan
+Aldo Mazzaferro - Macquarie
+Anthony Rizzuto - Cowen and Company
+Andrew Lane - Morningstar
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Second Quarter 2014 Alcoa Earnings Conference Call. My name is Whitley and I'll be your operator for today. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. (Operator Instructions) As a reminder, this call is being recorded for replay purposes.
+
+I would now like to turn the conference over to your host for today, Ms. Kelly Pasterick, Vice President of Investor Relations. Please proceed.
+
+Kelly Pasterick
+
+Thank you, Whitley. Good afternoon and welcome to Alcoa's second quarter 2014 earnings conference call. I'm joined by Klaus Kleinfeld, Chairman and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Klaus and Bill, we will take your questions.
+
+Before we begin, I would like to remind you that today's discussion will contain forward-looking statements relating to future events and expectations. You can find factors that could cause the Company's actual results to differ materially from these projections listed in today's press release and presentation and in our most recent SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release, in the appendix of today's presentation and on our Web-site at www.alcoa.com under the Invest section. Any reference in our discussion today to EBITDA means adjusted EBITDA, for which we have provided calculations and reconciliations in the appendix.
+
+And with that, I'd like to hand the call over to Klaus Kleinfeld.
+
+Klaus Kleinfeld
+
+Hello everybody. Let me describe this quarter first and summarize it. I mean the transformation accelerates. All groups improved on a quarter-to-quarter as well as on a year-to-year basis. We really do see two themes, two major themes. One is strong operational performance, and the second one is our transformation is continuing and we are changing the portfolio. So let's start with the operational performance and Bill will go into this in detail.
+
+The downstream has the highest ever profit as well as margin, the midstream profit is up 34%, and on the upstream side we have also show an improved performance. This is now a story that goes on for the 11th consecutive quarter. We see productivity in this quarter $302 million coming from all segments year-over-year. So the net debt and the balance sheet is much, much more healthy at [6.9%] (ph), lowest debt level since September 2007 and a positive free cash flow of $260 million.
+
+So let's talk also about the second theme, the portfolio transformation. About two weeks ago, exactly two weeks ago when we were on the call here and I guess most of you listened in, and announced that we will be acquiring Firth Rixson, this is a great fit to us, it strengthens our already pretty robust aerospace portfolio.
+
+But inorganic growth is not the only name of the game. We also have been very, very strong on the organic growth side. Just to pick out a few things that happened in the quarter, a $100 million investment that we announced to expand our structural engine component offering in La Porte, Indiana and a $25 million investment to further enhance our jet engine blade performance and this one was in Hampton, Virginia.
+
+At the same time, we also continued to work on the upstream side, on the commodity side. We safely executed the curtailments in Brazil, and on top of it we signed a letter of intent to pursue the sale of our Jamalco interest. This is the refinery where we have a 51% ownership in Jamaica.
+
+So with this, Bill, why don't you give us a little more color on the numbers?
+
+William F. Oplinger
+
+Thanks Klaus. Let's quickly walk through the income statement. Revenue increased roughly $380 million on a sequential quarter basis to $5.8 billion, primarily driven by higher realized aluminum prices and higher volumes in our mid and downstream businesses. We saw revenue growth across all of our major end markets. Compared to a year ago, revenue was essentially flat. Cost of goods sold percent decreased sequentially by 80 basis points due to better price and mix for the quarter and productivity gains partially offset by cost increases. Cost of goods sold is favorable 270 basis points compared to year ago basis.
+
+Overhead costs are essentially flat as a percentage of sales on both a sequential and year ago quarter basis. In absolute terms, SG&A was up slightly this quarter due to the Firth Rixson acquisition costs of $13 million pre-tax. Our effective tax rate for the quarter is 38% which is consistent with our expected operational rate for the year as the impact of discrete and special tax items in the quarter was not significant. However, we'll continue to experience swings in the rate given the volatility for our profits within each taxing jurisdiction.
+
+Overall, results for the quarter are a net gain of $0.12 per share. Excluding special items, we have net income of $0.18 per share which is twice the adjusted earnings from 1Q. Let's take a closer look at the special items.
+
+Included in the net income of $138 million is an after-tax charge of $78 million or $0.06 per share primarily for restructuring. During the quarter, we began the initial closure activities of the Point Henry smelter and rolling mills in Australia. This accounted for $49 million out of the $54 million in restructuring charges. 83% of the charges are non-cash, related primarily to accelerated depreciation. Since closure of the Australian plants will continue during the second half of the year, further restructuring charges are expected to be $50 million to $60 million after-tax for the remainder of 2014. Approximately 90% of these charges are expected to be non-cash.
+
+In addition, in the second quarter we recorded after-tax charges of $11 million related to the renewal of the U.S. master labor agreement and an additional $11 million associated with fees incurred for the recently announced acquisition of Firth Rixson. We've completed the restart of the potline at the Saudi joint venture smelter. We experienced unfavorable impacts related to the restart amounting to $6 million in the second quarter. Discrete and special tax items were an unfavorable $2 million in the second quarter. Lastly, mark-to-market energy contracts in the second quarter were a benefit of $6 million, which we've backed out of the operating earnings. So in aggregate, this resulted in net income excluding special items of $216 million or $0.18 per share.
+
+Let's look at the results sequentially. On a sequential basis, LME was a tailwind this quarter as LME prices on a 15-day lag were up $54 per metric ton and Forex went against us largely due to the strengthening of the Aussie dollar and the Brazilian real. As you can see, overall performance for the quarter was $81 million, more than offsetting cost increases. Volumes are higher driven by share gains and EPS, higher seasonal packaging volumes in the rolling business and increases in primary shipments partially offset by upstream curtailments.
+
+The quarter benefited from stronger regional premiums which contributed $22 million after-tax. This was somewhat offset by continued pricing pressure in Rolled Products. All the businesses continued to deliver productivity gains. In addition, we realized a $24 million positive impact in energy primarily driven by higher energy sales in our Latin American hydro facilities. Cost increases for the quarter were largely driven by unfavorable cost absorption in the Rolled Products segment and higher maintenance costs in the refining business.
+
+Turning to the year-over-year look, on a year-over-year basis, LME was a negative as prices on a 15-day lag were down $86 per metric ton. Currency was favorable in the quarter driven by a stronger U.S. dollar. We delivered a $188 million of after-tax productivity gains or $302 million pre-tax, and you can see this has been a huge driver for our performance which outpaced some of the higher cost pressures we've seen.
+
+Volumes are higher driven by aerospace growth in the downstream business and higher aluminum wheel demand. These are partially offset by lower packaging volumes in alumina shipments. Higher premiums, both regional and value-add, contributed to the favorable price mix impact. This performance was somewhat offset by continued pricing pressures in Rolled Products.
+
+Lastly, cost headwinds year-over-year were predominantly driven by inflationary increases, higher maintenance and raw material expenses in the Saudi Arabia startup costs. These costs were partially offset by lower pension expense and lower taxes.
+
+Now let's turn to the segments. The downstream business, EPS delivered their 17th consecutive quarter of year-over-year quarterly ATOI growth. Moreover, they delivered an all-time quarterly record ATOI of $204 million which is up 8% sequentially and up 6% compared to the second quarter of 2013. This segment reported its best ever quarterly EBITDA margin of 23.1% compared to 22.2% for the first quarter of 2014 and same quarter last year and the business continues to grow. Third party revenue was $1.5 billion, up 4% sequentially and up 2% versus the second quarter last year, driven by continued share gains and new products, while also delivering cost savings through strong productivity.
+
+As we look towards the third quarter, we expect the aerospace market to remain strong with the lower U.S. defense spare parts demand. Regarding our non-residential construction business, we'll continue to see a decline in Europe, but we expect continued gradual recovery in North America. Heavy-duty truck will remain strong in North America but will be offset by declines in Europe. So in aggregate, we expect EPS to continue to build on a strong second quarter. ATOI is anticipated to grow by 5% to 10% over last year's third quarter result through continued share gains, stronger market conditions and productivity.
+
+Turning to the Rolled Products business, the GRP segment increased profits by 34% this quarter. While part of that improvement is attributable to the non-recurrence of the mill closure costs in 1Q, this segment did realize significant upside from seasonal volumes in the can sheet business and improved industrial and commercial transportation volumes. However, pricing pressures continued, particularly in the packaging and industrial businesses.
+
+Productivity improvements in the quarter outpaced cost increases, although the segment recorded a large portion of the labor negotiation cost, approximately $4 million after-tax or $12 per metric ton pre-tax. As we look out into the third quarter, we expect GRP to be impacted by the strong order demand for both auto sheet and brazing sheet and the further ramp-up of the Davenport auto line. In total, ATOI is expected to be down about 15% sequentially but this is mainly due to the seasonal impacts we see in the third quarter.
+
+Let's move to the Alumina segment. In Alumina, production volumes decreased 95,000 metric tons from the first quarter to the second quarter due to our partial curtailment at Pocos and a weather related interruption at Point Comfort. Q2 earnings decreased $54 million from the first quarter to $38 million. Three factors primarily drive the change. In the first quarter, we had an $18 million benefit from the sale of our Sur gold interest which did not recur, currency was a negative impact of $17 million due to the strengthening of the Aussie dollar and the Brazilian real, and lower volumes of $10 million due to lower production. Higher productivity only partially offset higher energy costs, maintenance and the pre-operational cost at the Saudi Arabia refinery. Pricing was mixed with LME-based pricing improving while API-based pricing had a negative impact.
+
+Looking forward to the third quarter, lower API pricing in the second quarter will continue to impact the third quarter due to the 30 day lag, LME price contracts will follow the typical 60 day lag, pre-operational costs of the Saudi Arabia refinery will be similar to the second quarter, and production will increase in the third quarter by 75,000 metric tons due to the non-repeating nature of the Point Comfort interruption. Overall, stronger volume and continued productivity gains are expected to offset higher energy and other cost increases.
+
+Move to Primary Metals, earnings in this segment improved $112 million to $97 million in the second quarter compared to a loss of $15 million in the first quarter. Sequential performance improved $66 million, which combined with the Alumina segment marks our 11th straight quarter of performance improvement in the upstream business. LME and foreign exchange combined to improve earnings by $27 million. Overall production volumes were lower due to our curtailments at Sao Luis, Pocos and Massena East. This quarter, improvement in price and mix came from favorable regional premiums of $22 million higher shipment volumes and stronger cast out premiums.
+
+Energy impacts including power costs and power sales improved $21 million sequentially. Power sales from our curtailed Brazilian smelters were a positive $40 million, partially offset by lower generation at our U.S. power assets of $12 million. Productivity gains offset cost increases. Portfolio actions and special items includes the restructuring charges associated with Massena East and Point Henry and lower Saudi Arabia joint venture smelter restart cost.
+
+As we look to the third quarter, our pricing will continue to lag by 15 days to the LME price, the restart of the Saudi Arabia joint venture smelter is complete, the Point Henry closure will reduce production nearly 50,000 metric tons and cost of additional $7 million, and we anticipate lower energy prices in Brazil reducing energy sales $10 million in the third quarter. In summary, we expect productivity gains to offset cost increases in the third quarter.
+
+Turning to working capital, in the second quarter our working capital increased by four days versus the second quarter of 2013 primarily due to an inventory build to support automotive growth and third quarter 2014 sales expectations. Also contributing to the increase was an inventory build to fulfil short-term stocking requirements for both our contingency plans related to the recently completed labor negotiations and recently announced curtailments. As you can see from the chart, these impacts will reduce over time. Since the second quarter of 2009, we have reduced working capital by 18 days. On an average year to date basis which summarizes the results of our working capital management during the course of the year, we were up one day versus last year.
+
+Moving on to the cash flow statement and liquidity, cash from operations totaled $518 million for the quarter leading to positive free cash flow of $260 million. Our ability to generate positive free cash flow was driven by strong quarterly earnings and the absence of incentive compensation and interest payments made last quarter. We continue to contribute cash to the pension plan totaling $282 million year-to-date which represents approximately 45% of our estimated total contribution of $615 million. Lastly, capital expenditures for the quarter were $258 million with $114 million on growth projects. It's important to note that 95% of the growth spend was in the mid and the downstream.
+
+Turning to cash and debt, from a liquidity perspective, we're ending the quarter with $1.2 billion in cash. Gross debt increased slightly in the quarter as we ended the quarter with $223 million of commercial paper outstanding. However, net debt of $6.9 billion is the lowest level since the third quarter of 2007 as we generated free cash flow and increased our overall level of cash on hand. Debt-to-cap ended the quarter at 35.4% and we expect to get back into our target range by the end of the year excluding any impact from the Firth Rixson transaction.
+
+Now let's move to the performance against the 2014 targets. Through the first half, we're on target to hit our full year goals. Year-to-date productivity is ahead of schedule with $556 million of productivity gains achieved in the first half of 2014 against our target, our annual target of $850 million. Growth capital spend has been $206 million and is anticipated to ramp up during the year to meet the $500 million target. Sustaining capital through the first half was $261 million, significantly lower than the run rate of $750 million would suggest, but we anticipate that will also ramp up during the year. Saudi spending of $64 million is essentially right on target, and as I said on the last slide, debt-to-cap is expected to get back within our target range by the end of the year. And lastly, we are still targeting positive free cash flow for the year.
+
+To close out my comments on the quarter, we had a strong operational quarter with continued record results in our downstream segment and improved performance in both the midstream and Primary Metals businesses. We saw significant improvement in sequential free cash flow and ended the quarter in a strong liquidity position.
+
+Turning to the aluminum market, we've not changed our view that market fundamentals are positive and we're reaffirming our global aluminum growth projection of 7% this year. Supply and demand for both the alumina and aluminum markets are essentially balanced. However, both markets have tightened lately. In the case of metal, we're now projecting a 930,000 metric ton annual deficit, up from 730,000 metric tons, and for alumina the projected surplus has shrunk from 2.2 million metric tons to 800,000 metric tons.
+
+The 2014 alumina surplus tightened since the first quarter by roughly 1.4 million metric tons driven by two factors. First, Indian production is not coming online as quickly as we expected, and secondly, China imports are increasing. The change in the aluminum projection is driven by a lower surplus in China reflecting curtailments that have been executed. In the rest of the world, most of the curtailments announced during the first half have been executed and therefore we are maintaining our view that the market is in a deficit of slightly over 1 million metric tons.
+
+Total inventories at the end of the second quarter estimated to have fallen roughly 680,000 metric tons from 10.8 million metric tons ending the first quarter. This decline was broad-based with stock falling in China, the LME and off exchange. Producer held inventories remain near record lows of about eight days. Expressed in days of implied global consumption, inventories have fallen 5.1 days to 70.5 days compared to 76.6 days at the end of the first quarter.
+
+Overall premiums have reached the historical high in the second quarter. At the end of the quarter, the U.S. Midwest now sits at $0.195 per pound with the other premiums also increasing during the quarter. Regional premiums continue to be driven by strong year on year growth in demand as I mentioned at the opening plus the impact of reduced production in some regions tightening the supply/demand balances.
+
+Let me turn it back over to Klaus to discuss the end markets.
+
+Klaus Kleinfeld
+
+Thank you, Bill. So let's go through the end markets and let's start in the usual fashion with aerospace. We expect an 8% to 9% growth. This is pretty much unchanged through the number that we upped in the first quarter and this is supported by a lot of data. By the way, I want to mention that you see a new format here today to make it easier for you to take these things back home, so we included a lot of the things that I typically give you in color on those charts, and you let us know whether you like this format or you like the old one better.
+
+So back to this, so this is supported, the growth is supported by lots of data. I mean we see a large commercial aircraft, the segment is growing with 12.1%, there's a very strong commercial jet order book, it's now nine years of production, the fundamentals according to IATA are very, very good, they are expecting a 5.9% increase of passenger demand, 3.1% increase of cargo demand, and also expect the airline profits to be up, they expect around $18 billion for the industry. It's also reflected on the jet engine side. I mean there the order book is also full and roughly also have kind of the same backlog, I mean with 23,000 engines on firm order. A nice additional thing is the regional and jet markets continue to rebound. We see a growth of 13.2%. This is the highest order book in five years.
+
+Let's move on to the next segment, automotive. In North America, we are seeing, we are believing that we would see a growth of 2% to 5%. This is pretty much unchanged to what we had believed before in the first quarter, then also the start of the year. We see sales up pretty substantially, in June 1.4 million units, this is up 1% year on year and 4% year to date. There's still good pent-up demand sitting there and that's really important to note in reflecting how is this already all or we would see the average fleet age is now at 11.4 years here in North America compared to a 9.4 years of historic average. Inventory is also down 59 days. The historic averages is more around 62 to 65, incentives are steady and production is up, May production is up 4% and the year to date up 3%. That's very good news.
+
+On the European side, automotive we believe we got to see a growth this year between 0% to 4%, unchanged to our beliefs before. The registrations are up 7% and production is slightly up with 0.1%. In China, we believe it grows between 6% to 10%. That's also unchanged to what we saw before and the sales on a year-to-date basis are up 9% so far.
+
+Let's move to the next segment, heavy-duty trucks, also a very good story here in the U.S. We actually are increasing our growth projection for this year. We used to have 5% to 9% and you see we are bringing it up to 10% to 14%. Now the orders are up 20% year-over-year and on a year to date basis even 28%. The order book is very nice set at 119 trucks, the historic average is 114, this is up 39%. Decent fundamentals 3.7% of the freight ton miles are up 1%, freight price up. Production we believe the forecast is increasing. We do think 140,000 units on a year to date basis, this is as a 15% up on a year on year basis.
+
+Heavy-duty trucks for Europe, we believe the market is going to shrink between 1% and 5%. This is unchanged and remember we were seeing currently on a year on year basis a 12% shrinkage, remember this was very much also because of the regulatory change from the EURO IV to the EURO V. It's not yet reached the production level because the EURO IV orders are making it through the books and that's why you see the production up 3%.
+
+China, we see, we believe it's 0% to 4% but slightly up from what we said before, minus 1% to 2%, 3%, and the reason for it is the market is stabilizing. Keep in mind that 2013 was an enormously strong growth year with 30% growth. And also on top of it, we see that the infrastructure that is necessary for the regulatory changes, for instance the low sulphur gas, the ability is now there.
+
+So let's go to the next segment, packaging. North America also our projection is unchanged. We believe the market is going to shrink minus 1% to minus 2%. The demand here is on the one hand declining around 3.7% on a year to date basis for carbonated soft drinks, but there is a counter-position to this on the beer segment that's actually growing in the U.S. by 3.4% but the net is a slight decline we believe.
+
+On the European side packaging, we are projecting 2% to 3%, unchanged from what we saw before, and on the China side we also have not changed our number, it's 8% to 12% and it's very much driven by increased beer and herbal tea. Herbal tea is the largest can segment in China, so that's driving that.
+
+So let's go to the next segment, building and construction. North America, very positive early indicators. Non-residential contracts awarded up 11%. This is usually a good indicator with a lag time between 9 to 12 months until it makes it into spend, and another one, the Architectural Billing Index, also positive with 52.6 in May, up from 49.6 in April. This usually has a lag time of 12 to 15 months. And then he Case-Shiller Home Price Index, plus 10% in the first quarter and this is a very, very nice continuation. So finally the market is coming back. In Europe, it's not yet there. We continue to believe a shrinking between 2% and 3%, this is unchanged from what we saw before, and in China we do believe the growth continues on a 7% to 9% basis.
+
+Industrial gas turbines, the last end market segment, we see minus 8% to minus 12% on the global basis, orders are flat compared to 2012, down significantly from the higher 2011 levels. And also the spares demand, we do see a negative impact from the shift in the energy mix in the usage in key regions, and in North America we also see that natural gas prices have increased partially driven by the harsh winter here and coal has continued to gain share back. In Europe, we see that gas-fired power continues to get squeezed by low prices of coal and subsidized renewable.
+
+So this gives a good overview I think on what we see in the end markets, I think overall particularly how we as Alcoa are positioned and if you match this with the markets that we are positioned in and it's a pretty good picture. So a pretty nice picture for our offerings going into markets that are receptive to that.
+
+So let's also talk now about Alcoa and let's talk about some of the exciting things that are happening here. Probably as a frame, let's put it into the frame of – if you remember that last year we celebrated our 125th anniversary and most of you also know that our founder, Charles Martin Hall, together with his sister Julia Hall, invented the industrial process of aluminum making 125 years ago. But they didn't stop there, they already went into making aluminum applications and also our forefathers then went further and used multi-material solutions and that's also what gives us the foundation for the strategy that we are following. We are continuing the transformation and we are accelerating it.
+
+We are accelerating it with two main themes. The one theme is we are building a lightweight multi-material innovation powerhouse. The second theme is we're building a highly competitive commodities business. So I'd like to give you a little bit more color on these developments and provide you with some examples and also provide you with a quantification of the impact these things have, because very often I mean people ask the question, so what exactly does that mean in terms of where the Company is going.
+
+Let's start with the first one here on the lightweight side. I picked out three examples there. It's a hell of a lot more but I picked out those three examples here. It's kind of also giving you a mix to the whole end market side of things. Let's start with aluminum lithium on the upper left-hand side. I mean we came out with aluminum lithium, the second generation, as a very, very innovative solution for many and we started out with the aerospace industry because we are able with this to provide solutions at 10% lower weight against composites on single aisle fuselage applications, and that's partly and mainly due to the characteristics of aluminum lithium, lower density 5% to 7%, higher stiffness 7%. That all helps for the aircraft makers to achieve their goals for the new airplanes to have a 20% better fuel efficiency. Obviously the jet engines, and we'll come to this, play a major role in that too but also the weight of the plane plays a big role.
+
+Then one really strong argument for aluminum lithium in many applications is the corrosion resistance. It allows for two times longer inspection intervals and the maintenance cost on aircraft are very, very high, particularly in certain parts which you can't reach unless you really take the plane pretty strongly apart. So this allows the maintenance cost to go 30% lower, a great example. And guess what, I mean we already have $100 million contractually locked in as revenues for 2017.
+
+So let's go to another example here on the right-hand side, the Ultra ONE. I've talked a little bit about the Ultra ONE but I'll remind you a bit of this. This is the lightest wheel that exists on this planet. We brought it out this year, it's 40% lighter than steel, it saves up to 1,400 pounds per rig. That allows 3% more payload or 5% lower fuel costs if you don't load it up. So depending on which environment you are in and depending on how your business is going you have a choice, a great short-term payback, a fantastic product. And to remind you again, the wheels business is a very substantial business and we continue to innovate in that. We project $1 billion revenues of this business by 2016.
+
+My last example here on the lightweight side is the AIVs, the aluminum-intensive vehicle, and obviously they go for better fuel efficiency and superior performance. What happens here is they allow the automotive makers to meet the CAFE regulations with the 54% miles per gallon target by 2025, because they reduce weight and we've just seen this Oak Ridge EDAG study early or mid last year that came out where they did the very, very decent job in analyzing it. The midsized sedan can be lightweighted by 28% improving the fuel efficiency by 18%, that's fantastic.
+
+When you look at the F-150 that was launched earlier this year, I mean the F-150 is 700 pounds lighter and what Ford said also is it accelerates, breaks, [tows] (ph) and resists corrosion like never before. That's Ford's words but I couldn't have said it in a better way honestly. And again, auto sheet is one part of the business in our midstream business and this will allow us to have $1.3 billion revenues in 2018. So you get a feel for these things.
+
+So let's look at the next slide. It looks complicated but it's really easy to understand. This is a cut through wing and on the left-hand side you see a metallic wing and on the right-hand side you see a composite wing, and why did I choose a wing, because the wing is probably one of the most complicated, particularly composite wing, is one of the most complicated multi-material application and most demanding, and the reason for this is, I'll come to it, and as you see here, we are depending on let's go to the left-hand side on the metallic wing, obviously the metallic wing the majority of the material is aluminum in there. However there is a lot of other materials that have to be conjoined there too and also the fasteners are not aluminum, titanium as well as stainless steel is meeting here in the main.
+
+And just want to remind you, with all the offerings that we have around aerospace, if you take a classical metallic plane, Boeing 767, our chipset for Boeing 767 has a value of $2.2 million per plane, right. That includes everything, everything that goes in. And I'll go to the right-hand side on the composite wing and that's when it really becomes complicated, because just imagine this, you have composite skin, alright, you have aluminum, you have aluminum lithium and you have titanium. Now all this flies in the air and goes to high temperature changes and high-pressure changes, right, and also because composites by definition are not conductive, therefore there is a real problem with the lightning strikes.
+
+So this is where our multi-material capabilities totally shines and it probably shines most in this thing that looks very small which is the fastener, the Flite-Tite fastener, which is a fastener that we invented to solve the substantial problem of all CFRP planes, and that's basically how do we deal with lightning strike and how do you guide a lightning strike through the wing that carries the kerosene which is highly, can be very easily ignited. And also reminding you on the 787 which is a composite plane, the total value per chipset that we as Alcoa deliver is $4 million. A large chunk of that is coming from our fastener solutions. So let's also look at the innovation, some more of the innovations, much like the lightning strike fastener that I just talked about.
+
+So new innovation, I want to mention the Alcoa 951. 951 is a breakthrough for durable bonding and it's a key enabler for making aluminum intense vehicles happen. That allows the demand for metal to increase by 1 million tons we believe in no later than 2025. It chemically bonds aluminum to the adhesive and it allows the bond to be nine times more durable than any competing solution there. It allows also to go with 20% to 25% fewer rivets, and if it hadn't been for us designing after Ford came to us and said, look I mean, can you please license this to the suppliers, the solutions that what have been there would have by no means been able to match up and solve.
+
+On the upper right-hand side, Dura-Bright EVO. This is another great wheel solution that's specially coated new wheel. It's 10 times corrosion – it's 10 times improved corrosion resistant versus other aluminum wheels and it really requires no cleaning. It looks new longer and it's six times brighter.
+
+Then you go to the lower left-hand side, again advanced coatings here, advanced coatings that we apply to blades. They protect the airfoil against the effects of high temperatures. I mean keep in mind we talked about, those that followed our announcement two weeks ago on Firth Rixson, this is the most critical component together with the disks, they sit in the hot part of the jet engine and they allow the jet engine to increase their fuel efficiency. It increases also the coating life 3x to 3.5x and this allows as I said the higher temperature in the hot part of the engine.
+
+And on the right hand side you see Reynobond. It's a nice product for building and construction markets. It's polyethylene core and between the sheets of aluminum, zirconium, copper or stainless steel. Multiple design options, 50% lighter, 20% less cost, easy to install and fabricate, and all of this, if you put all of this together, this is just a subset together with the fasteners, if you put all of this together, we have clear targets that we put out there and the targets are $1.8 billion value-add organic growth coming from innovation and share gain, right. This is what you see and here you see some examples of that.
+
+Organic growth via innovation is a big driver of all value-add business. That's also reflected in some of the most recent investments that we've made. I mean here on the left-hand side you see our investment in Hampton, Virginia and this is around blades. We invest $25 million, will be completed by the end of next year, it's basically around nickel-based superalloys because this is a jet engine component and jet engine components most of them are not aluminum. The reason for it is because aluminum has too low melting point. It cuts the weight – what we do there, it cuts the weight of the blades by 20% and enhances the aerodynamic performance and it also increases the fatigue resistance and lowers the maintenance cost, a great winner.
+
+And then on the right-hand side you see La Porte, Indiana where it's more around the structural casting components. This is $100 million investment also completed by the end of next year, and most of it is actually supported by contracts and this allows us – this is not just expanding what we normally do but allows us also to do structural cast 60% larger. Why is that important? Because you see that wide-body airplanes are gaining – with wide-body airplanes gaining ground, also larger jet engines are gaining ground. So with larger jet engines gaining ground, the issue is that you would have to have the components but you have to allow the components to be bigger, and that's really what we're doing here.
+
+So a great investment into a great market, and as I said most of it is already secured by contracts, and the facility will have all the high-tech most advanced manufacturing facilities, from digital x-rays, 3D printing of prototypes to automated casting furnaces, and this all falls into what we call Alcoa APP, Alcoa Power and Propulsion business, it's an investment in casting business and the revenue there for 2016 we project $2.6 billion of revenues. So, this all is basically the organic stuff that's happening.
+
+Let's also talk about the inorganic stuff that we recently announced and this is Firth Rixson. Firth Rixson, a nice addition to our already strong suite in the aerospace, particularly in the jet engine side, through the rings, the metals business as well as the disks. What do they bring? They have the largest seamless rings, they have a full range of engines disks with all kinds of diameters, this doubles the Alcoa engine content on key programs basically right away. Their material mix is 60% nickel, 25% titanium ,15% steel and also a little bit of aluminum, and also they use some metal powder technology, and they have the integrated nickel supply structure.
+
+On top of it, the technology that we will be adding there is absolutely leading-edge, particularly the specialized isothermal process, the state-of-the-art not just the process but also the equipment in regards to automation as well as controls that is very important in terms of what innovation capabilities you can have there. It allows for higher operating temperature in the turbine, 70 degrees, and the 70 degrees actually lead to a 40% improvement in combustion efficiency which is a major contributor to the 15% fuel efficiency in the jet engine. So what does Firth Rixson bring? It will bring us $1.6 billion revenues and $350 million EBITDA in 2016.
+
+So, all of this and what I talked about so far is part of what we call building a lightweight multi-material powerhouse, but let's also talk about the commodity business because there's great stuff going on in the commodity side. Let's talk about alumina, right. We are continuing, because this is a commodity business, so here the major focus is cost and that's what you see there. We are really looking at every lever, we're using every lever. So look at on the top left hand side you see the productivity from 2009 on, every year major contribution on productivity, fantastic job and it's working very well.
+
+Then the second thing, optimizing the refining capacity. You see on the one hand, record first half production in our low-cost Australian system. On the other hand you see 1.7 million tons of capacity, high-cost capacity, obviously curtailed, and then you see portfolio actions like the recent announcement of intent for the sale of our Jamalco interest. And then as a third thing you see another type of action which are; number one, continued productivity; number two, bringing San Ciprian further down, we are going to get a pipeline, a natural gas pipeline that's currently built going to San Ciprian and this will allow us to come down substantially $20 per metric ton down on the cost curve, it will be completed by the end of the year, so from 2015 on you would see that reflected there. And I've just come back from Saudi Arabia, two weeks ago actually, and I can tell you we are receiving the first bauxite there to the main site and the refinery is in the last stretch of getting completed. It will ramp up in the fourth quarter as we have always said.
+
+So smelting business, the smelting business, same story basically. By the way, I forgot to mention on the previous one. That's also the reason – let's go back, that's also the reason why when you look at the right-hand side, where we are on the cost curve, the alumina business is pretty nicely positioned on the cost curve. We've been able to move it down from the 30th percentile to 27th and we believe we can further bring it down to the 21st percentile, so 9 percentage points improvement. So this is what you will continue to see. Let's go to the smelting business.
+
+Okay, there it is. Okay, so cost improvement, same story, same story continues improvement on productivity, a really, really good job. Then the restructuring of the portfolio, because here on the smelting side, our general competitiveness which you see reflected on the right-hand side was not as great as on the alumina side because we started out in the middle of the cost curve, 51st percentile. So we had to do more of restructuring. That's why you see 28% of our capacity is closed or currently curtailed and that's a great job to have done in the way that it was done. But we are not at the end here, I mean there is much more happening, productivity gains will continue.
+
+We have at the same time also been able to bring the existing, some of the existing assets further down the cost curve through a very good negotiation like in Quebec where we now have secured a long-term energy agreement, and we are completing our Saudi Arabia smelter and basically starting it up. And what have we been able to do, we started as I said, you see on the right-hand side, on the 51st percentile, we have come down to the 43rd percentile which is a pretty good move already with the actions, and we believe we can come further down to the 38th percentile, so 13 points improvement, this is very, very good.
+
+And this says what I just talked about on the aluminum as well as on the alumina side, this is what we mean when we talk about we are building a highly competitive commodity business. For the commodity business it is not essential what your total volume is but what is essential is that the assets that you have are low on the cost curve, right, and that's what we are doing.
+
+So let me summarize. We are transforming Alcoa and we are creating a compelling sustainable value and we are building out those two components, the value-add which is a lightweight multi-materials innovation powerhouse and you saw some of the examples there and obviously there are hundreds more. At the same time, we are focusing on creating a highly competitive commodity business. So why don't we with this open the floor for questions?
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Our first question comes from the line of Paretosh Misra with Morgan Stanley. Please proceed.
+
+Paretosh Misra - Morgan Stanley
+
+My question is about your GRP segment. Can you give us a sense as to what capacity utilization rate you're running for your aerospace plates and sheets parts and for the beverage can sheet product?
+
+Klaus Kleinfeld
+
+Say that again. I didn't fully get what are you asking for.
+
+Paretosh Misra - Morgan Stanley
+
+The utilization rate for your Rolled Products segment, something that you used to provide for the aerospace products and for the can sheet products if you could?
+
+William F. Oplinger
+
+It's Bill. We typically don't provide the capacity utilization by particular product lines but what we can tell you is that that segment in total is running at around 75% utilization rate currently.
+
+Operator
+
+Your next question comes from the line of Sal Tharani with Goldman Sachs. Please proceed.
+
+Sal Tharani - Goldman Sachs
+
+Klaus, if I look at your aerospace portfolio with this acquisition, $4.8 billion in 2013, looks like it's going to about based on the projections for the acquisition, acquired company, the company acquiring and the ones you have, it's going to be about $6 billion by 2016, very close to what PCP is right now about $6.5 billion, so you're going to be a very major player. I'm just wondering what do we expect in terms of growth in this business beyond that? You mentioned 19% for the Firth Rixson but in your organic business, do we see similar growth rates beyond 2016? And also are there any CapEx opportunities in the Firth Rixson area like you're doing in the organic portfolio right now?
+
+Klaus Kleinfeld
+
+It's a lot of questions, so let me try to answer them one after the other. I think the growth projection on Firth Rixson is very much driven by them just starting up their Savannah operations. So the growth that you see there and the reason for the enormous growth that you see there is that they are just bringing that online, and the good news is as I think I said last time, is that 70% of that growth is backed by contract. You will see good growth driven by the positions that we have and we disclosed the positions now on the planes as well as on the engine.
+
+So all you really have to do is look at the value that we have in there and look at the projections from the aircraft makers what we are seeing in there. We believe that in general, I mean the engine segment is going to grow at 7.2% and the commercial aerospace segment long-term is going to grow with 7%. So then the other question that you had – and we have all intention and all good belief that we will grow with it and if not above it with the way we are positioned, but you can actually see that also in this stuff that we provided in the last time.
+
+So the second thing that you asked is further organic growth opportunities. The answer to this is, yes, and you already see – I showed you two examples of this quarter and one was in La Porte and the other one is in Hamilton and both of those show clearly that we have great opportunities with additional technology there, and frankly we're just putting this and this will come online by the end of next year.
+
+And so, I'm really optimistic on that and I think the other thing that you have to keep in mind is that – I very much believe that when you've got the value proposition of what you're offering right, you will do well and when you think about what is the biggest value proposition of new planes, the biggest value proposition of new planes is 20% fuel efficiency, 50 percentage – 30 percentage points of this comes from the new jet engines, right, and the sweet spot in the jet engine is the combustion chamber and the sweet spot of the combustion chamber are the blades, the vanes and the disks and the shafts, because the higher you can go in regards to temperature, the better you are in regards to combustion efficiency. That's the part that we are in and we now with Firth Rixson will have a totally complete offering. So I mean I couldn't be more optimistic on that. As long as the market stays as it is and with a nine-year order backlog, I mean there are very few markets where you have characteristics like this, Sal. Okay, should we go to the next question?
+
+Operator
+
+Your next question comes from the line of Timna Tanners with Bank of America. Please proceed.
+
+Timna Tanners - Bank of America Merrill Lynch
+
+I have two questions if I can sneak them in just really straightforward I hope, but on the outlook for the Global Rolled Products segment you talked about being down sequentially 15% talking about seasonal impacts but that's even lower than last year’s seasonal Q3 and this is the area where we're supposed to be seeing I would think some benefits of F-150, so can you correct me and help me understand what's going on there? The other question hopefully straightforward as well on Primary, just trying to understand that $40 million in energy sales and how to think about that not just in the third quarter but going forward, is that sustainable as that part of the segment going forward?
+
+Klaus Kleinfeld
+
+Okay, the straightforward question, so you can't just look – if you want to judge the 15% change for the next quarter, you can't just look at the last year, we have to look at it more over a longer period of time because this is really the seasonality that we have in there. And by the way I think we said approximately 15%. So you can never tell 100%. Part of it depends also on the packaging side. I mean if you have a hot summer particularly here in the U.S., you know still even though the market is not growing overall but it's still almost 100 billion cans a year. So this is one impact.
+
+The second thing on the automotive is, you're right, this is the area where the automotive growth falls in, but keep in mind the real big volumes come up – this is currently – we have gone through the qualification phase, we have started the production in Davenport, the auto production end of last year. We are then starting to ramp it up, we are going through the qualification there and the preproduction and then once the cars get into production, come into the shop floor, this is when you would see the real volume coming in there.
+
+In fact, you actually today – and I think Bill pointed that out in the working capital charge, today you actually see a negative impact from some of these things and it's basically reflected in the inventory going up because when you go through this ramp-up phase, this qualification phase, you have to have a little bit more inventory because you are trying out some stuff, I mean Ford is trying out some stuff and others are trying out some stuff. So, I would say the moment the aluminum cars, particularly the F-150, come into the shop floors, you will see this volume is going up, and that's how I would look at it.
+
+Energy Brazil, the other question, Timna, I mean Bill, you said 40 million?
+
+William F. Oplinger
+
+If you don't mind, let me add, let me put some color around that. The Brazilian energy sales benefited us in the second quarter by about $40 million, but offsetting part of that was lower volumes and lower prices that we had in the U.S., Timna. So the net impact between that and the U.S. hydro systems was about $28 million. The Brazilian energy is a sustainable situation because in part we've sold some of that energy forward, we've reserved part of it for capturing spot market opportunities, and it's important to keep in mind that that opportunity is really generated based on the optionality that we created a while back by having both smelting and energy in Brazil. And so we've been able to gain those profits via curtailing the capacity in Brazil to be able to free up that energy to sell in the market.
+
+Klaus Kleinfeld
+
+And it's not the first time, Timna, that we are doing that. I mean part of it is also because operationally we have the capability to even on a short-term basis, which here in Brazil we have not done, we have curtailed a major chunk because our forecast here is that this is a situation that's going to continue for a while, but when you look at places where we have progressed like here in the U.S. Warwick, that are connected to a smelter, we are very, very good operationally in ramping it up and ramping it down and sending the energy into the market whenever this gives us a better profitability. This is one of the things where I would say our primary team has been very, very good in using those types of structural advances coming along also with the operational capabilities. So, this is not – I mean the impact of this is pretty substantial this quarter but this is not a new phenomenon, we've just gotten better with it I would say. Okay, next question please?
+
+Operator
+
+Your next question comes from the line of Josh Sullivan with Sterne Agee. Please proceed.
+
+Josh Sullivan - Sterne Agee
+
+So on the Engineered Products business, the margin profile continues to improve impressively almost 100 basis points sequentially and year-over-year. Can you expand on how you're expanding this leverage, is it the end of aerospace destocking, is it fasteners, and then where can it go as these trucking opportunities in non-residential markets layer in as also next-generation of aircrafts like the A350?
+
+Klaus Kleinfeld
+
+What a loaded question. I'll give you a couple of data points. It sounds to me as though there is really two big chunks. The one is what's happening in this quarter and the second one is what's going to go on for longer term, and I think in Bill's presentation you, maybe we can bring that on the screen for those that are in front of their computer, Page 6 in Bill's presentation, you see – okay we're going back here. There it is. This is Page 9 strangely enough here, Page 9 in your deck, so you see on the left-hand side, up lower left-hand side you see the bridge for this quarter and you actually see what has been happening there. It's on the one hand driven by productivity, on the other hand driven by volumes and basically share gains across all factories, right. So that's one thing. And the second thing, outlook here for the next quarter as you see on the lower right-hand box, we believe this is going to continue. Also on the profitability side we expect an increase between 5% and 10% for the next quarter.
+
+And then when you go to the larger question, are they in growth markets? My answer to this is, yes, absolutely, and I talked already about aerospace, I talked about jet engines in aerospace, I talked a little bit about commercial transportation, I talked about wheels, but wheels is only one part of the commercial transportation offering. Also think about large [forge] (ph) parts that fall into this segment here. Then we can talk about building and construction. We are very strong in the U.S. as well as in the European markets. The good news is the U.S. market is coming back, and the other good news is, with the European market and our product offering, European customers are much, much more interested in higher energy efficiency. So therefore, we have very strong knowledge there. We are bringing some of the knowledge over here to the U.S. because we see the demand is shifting in energy efficiency much like what we've seen with fuel efficiency in automotive is becoming more and more decision criterion also here in the U.S. and this gives us an additional advantage.
+
+So there's a lot going on there and the markets are growing. So I'm very optimistic that we – and the innovation, the foundation for – the foundation really is the market growth, that’s winning out the share, but the foundation of it is the innovation capabilities because the stuff that we are coming up with is really unmatched and I mean it can go from the lightest wheel on this planet to the blade that can stand the most heat in a jet engine or in an industrial gas turbine. That's really what's driving it, Josh.
+
+Josh Sullivan - Sterne Agee
+
+Great, appreciate it.
+
+Operator
+
+Your next question comes from the line of Brian MacArthur with UBS. Please proceed.
+
+Brian MacArthur - UBS
+
+Just two quick things following up on Timna's question, Point Henry going down, I thought it had coal deposits that [indiscernible], was there an energy benefit from that as we go forward that's sustainable too? And second question totally unrelated, just on Firth Rixson, are there pension obligations I need to worry about?
+
+William F. Oplinger
+
+So let me address the first one second, Brian. The Firth Rixson deal includes t we're going to pick up some pension obligations and so that is factored into the acquisition price. So we clearly have that, not big obligations especially in comparison to what obligations we currently have but they are pension obligations in the U.K. So that's the answer to that one.
+
+As far as the first question was, Point Henry does have, it has a coal-fired plant that supplies energy and we're evaluating what the options are to do with that. We have not seen, just to be clear, there's not any benefit built in to this quarter's earnings from the result of selling power at Anglesea because Point Henry was still operating through the second quarter but we are looking at what options we have at Anglesea in the future.
+
+Brian MacArthur - UBS
+
+So there should be an offset as you shut that down and benefit to you?
+
+William F. Oplinger
+
+There is the potential. We need to go through some regulatory approvals and we're in that process. So we're looking at what the options are once it's curtailed.
+
+Operator
+
+Your next question comes from the line of Michael Gambardella with JPMorgan. Please proceed.
+
+Mike Gambardella - JPMorgan
+
+I had a question on the body and weight technology that you have with your providing Novelis with the F-150. How do you protect that technology going forward beyond the F-150 into other model line?
+
+Klaus Kleinfeld
+
+Mike, that's very simple. You're talking about the A-951, so bonding capabilities, and this is very simple. It's fully patented, nobody else has that and others thought they had something like this which showed up and they feared as not the comparable. So if we wouldn't have – we were in a situation where when the customer started to realize that they came back to us and said, look I mean we do not want to single source but at the same time we need these bonding capabilities and so we decided to license it out and make it available to the industry but we also benefit through the profits that we get through the license royalties.
+
+Mike Gambardella - JPMorgan
+
+Okay, so you do get license royalties from Novelis?
+
+Klaus Kleinfeld
+
+Yes, we do, yes.
+
+Mike Gambardella - JPMorgan
+
+Okay, second question if I may, just on aluminum lithium, is the bottleneck there the capacity or the product acceptance?
+
+Klaus Kleinfeld
+
+I would say both at different points. I mean the first one is – I mean you've probably seen that we have invested $100 million over the last year I would say to expand our aluminum lithium capabilities and we now have three facilities that can make aluminum lithium. We originally started with only one and this was outside of Pittsburgh at our tech center where this was developed and where we have this unbelievably great gang of metallurgical experts that came up with that stuff, and we can do that now here also at another facility here in the U.S. and in the U.K. So that's the first thing that had to happen and this was a response to the demand, right. So we were supply constrained but we are digging ourselves out of that with the expansion.
+
+So the second thing is this is an industry, the aerospace industry is an industry where they go through a very rigorous process of qualification and therefore you are absolutely right, and usually you need to wait for a new platform to come online, right. So my expectation here is that the $100 million that we saw, that I mentioned on aluminum lithium, that's really just the start because when you see today what is going on in the aerospace industry and the discussion around the next levels of renovations of planes, you see that in a lot of discussions aluminum lithium plays an enormously important role and the reason for it are the reasons that I just mentioned, I mean the corrosion resistance is an unbelievably strong argument particularly when you talk about the floor panels, all the stuff where things drip on a plane and how difficult it is to rip this out in their maintenance interval if you can, if you can increase the maintenance interval, this is a big, big winner. So I really think that on this end you will see much, much more.
+
+Operator
+
+Your next question comes from the line of Aldo Mazzaferro with Macquarie. Please proceed.
+
+Aldo Mazzaferro - Macquarie
+
+I had a question on the Rixson acquisition as well, on the forecast you made of $1.6 billion in revenues, that's up from about $1 billion now. I think you said there is a major facility that would come online. I wonder if you could just tell us about that. And then as a second part of that question, the $350 million of EBITDA forecast, I don't know if you could help us get that EBITDA down to ATOI or how much is the DA and how much is the interest on that EBITDA?
+
+William F. Oplinger
+
+That was a two-part question, the first part is the growth and the growth, the big part of the growth is Savannah. So I don't know if you want to…
+
+Klaus Kleinfeld
+
+That's very simple, sorry I was distracted for a second here. So the growth is basically the Savannah growth and that's all around disks and it has two components on the disk side. [Indiscernible] we have – the one disk is the normal, I would say normally forged disk, and the other one is the isothermal forged disk and these things are critical parts for the engine makers to get their fuel efficiency up. And on top of it, I mean as I think I said last time, 70% of the growth of this 1 billion, a lot of that comes from the Savannah operation, is backed up by contracts.
+
+William F. Oplinger
+
+And the second question, Aldo, that you asked is the $350 million EBITDA, how do we convert that to earnings? A lot of that is going to be tied up in the purchase accounting, so it's very, very difficult to say. Just trying to think if there's any other guidance that I can give you on that. I don't think there is. I mean…
+
+Aldo Mazzaferro - Macquarie
+
+I'm sorry, I was just wondering, what kind of a depreciation or amortization schedule might you use on the purchase price, it's purchase accounting you said, right?
+
+William F. Oplinger
+
+It will be purchase accounting, it's all going to be based on how much goodwill is associated with the acquisition. So all of that will be determined as we get closer to actually getting the deal closed and when we get there we'll tell you how much DD&A to expect on the deal.
+
+Aldo Mazzaferro - Macquarie
+
+Okay, and just one second question if I could. Did you have any power sales other than the Brazil?
+
+William F. Oplinger
+
+That's what we are saying. When you look at the power sales in Alcoa, we have had power sales for years in Alcoa, we have had power sales associated in Tennessee, we've had power sales in North Carolina, we have power sales occasionally in Indiana, we now have some power sales in Brazil, Brian MacArthur brought up that we've got a power asset in Australia. So the net impact in the second quarter was $28 million. That's because we had some in Brazil and we had lower power sales in the U.S. So the idea of selling power is really not new and I think Klaus alluded to it well, we have had a best practice within the system of being able to modulate the smelters to be able to sell power for quite a while now.
+
+Aldo Mazzaferro - Macquarie
+
+Great, I appreciate that. You're saying $28 million is the after-tax number, correct?
+
+William F. Oplinger
+
+Yes.
+
+Klaus Kleinfeld
+
+You see it actually on the bridge, on the primary bridge also that Bill has in his part of the presentation.
+
+Operator
+
+Your next question comes from the line of Tony Rizzuto of Cowen and Company. Please proceed.
+
+Anthony Rizzuto - Cowen and Company
+
+Could you give us an update of your transformation in your rolling mill system, specifically as you're trying to shift I think some of the mix from Tennessee and I understand maybe you're doing something at Texarkana as well, and also what level of CapEx might require as you shift more to an auto sheet mix?
+
+Klaus Kleinfeld
+
+Let me start with the last part. We are doing nothing in Texarkana. So that is still idle. And in regards to the shift, I mean you're referring to what we are doing in Tennessee or what we're intending to do in Tennessee. I mean as you know, Tennessee is coming online by mid next year and this basically is the backend of whatever we want to start. I mean the cold mill part and the heat treat, that's what we are adding. So the front-end, the hot mill will be used by the packaging part as well as by the automotive part and the investments are around $300 million, and for the time being I mean we are very happy with this and we will continue to monitor the market but we are also very happy with the product mix that we have. I mean what different industries we cater to and how much we are depending on a certain industry, that all plays into it.
+
+So, there is no intention at this point in time to do something, but as I said, we are monitoring the situation but at the same time we have to ramp it up and the good news is our Tennessee expansion is on time, on budget and hopefully ready to go online by mid next year where it is really desperately needed because it's full, I mean even though it doesn't exist yet, and then we'll see from there but we first want to convert what we are putting into the ground there into profits.
+
+Operator
+
+Your final question comes from the line of Andrew Lane with Morningstar. Please proceed.
+
+Andrew Lane - Morningstar
+
+Congratulations on a solid quarter. I have a couple of questions. First I know some of your competitors are exploring viability of using 3D printers to manufacture jet engine components from superalloy dust. So supposedly this will allow for the production of components that are both lighter and stronger. Is 3D printing something Alcoa or Firth Rixson has been exploring or are we a long way off of this becoming a reality?
+
+Klaus Kleinfeld
+
+No, no, no, no, we are not a long way off of 3D printing becoming a reality. I would say in the manufacturing space, we're probably absolutely cutting edge when it comes to using 3D printing in multiple ways, and you saw that I mentioned it in my presentation, I mean that the La Porte facility will also have 3D printing capacity. The main use for it today is prototype, rapid prototyping and this is where it allows us to cut down the prototyping times from what used to be 18 months because you had some time in there for having to make tooling down to weeks. So this is very fascinating.
+
+At the same time, for what you just said in regards to dust that we place [indiscernible] some of the key components that we have, I would say that at this point in time I do not see that because the reason for it is the lightness is not the issue there, it's more the temperature capabilities and the strength, and nothing of that nature currently comes close to what can be achieved through investment casting, but we are monitoring the space, we're not just monitoring, we are in this space. I mean when you come to places like Whitehall, we probably have some of the most sophisticated advanced manufacturing capabilities there and all customers already today benefit from it and they very much enjoy it.
+
+Andrew Lane - Morningstar
+
+Okay great. And then to change gears quickly, I wanted to ask about the impact of the Indonesian export ban on bauxite. Because of the ban, Chinese bauxite imports have decreased pretty significantly and although they had a pretty sizable inventory before the ban took hold, we've seen some refining and smelting closures within the country. So in your view, will China be able to replace its lost imports from Indonesia with supply from other countries or do you think the ban will really have a longer-term impact on the global supply and demand dynamics for bauxite?
+
+Klaus Kleinfeld
+
+On a long term it's always hard to tell with Indonesia and the election day is today if I recall that correct.
+
+William F. Oplinger
+
+Tomorrow. It might be today…
+
+Klaus Kleinfeld
+
+But everybody says that even the person who is most likely to get elected also has made comments already on whether he's going to withdraw or loosen the ban, and he said, no, he's not going to do that, he thinks that that's the right thing to do. So at least for the time being, I am positively surprised about how strict Indonesia is and this is changing the supply dynamics in China and I mean we are seeing that the Chinese are looking for other opportunities. You have seen that at this point in time you are right, they still have a pretty substantial supply for alumina and also the demand there has gone down a little bit with the smelter closures that we saw in China and what Bill showed in his last slide there is there is still a little bit of an overhang in the Chinese alumina market but it's shrinking. So we'll see where that goes but you're spot on with that idiom.
+
+Very good, Andrew. I think this leaves me with thanking you all to having listened in, I mean as you hopefully come to the same conclusion, the transformation of Alcoa truly is in high gear and the results show this. Our strategy is working, the downstream business has reached new profitability highs and the midstream business is capturing demand from many areas including the auto light-weighting that is accelerating. On the upstream side we see, we are relentless in improving our performance and becoming very highly competitive commodities business. So with that, I would say excellent progress and let's stay tuned. Thank you very much.
+
+Operator
+
+Ladies and gentlemen, that concludes today's conference. Thank you for your participation. You may now disconnect. Have a great day.

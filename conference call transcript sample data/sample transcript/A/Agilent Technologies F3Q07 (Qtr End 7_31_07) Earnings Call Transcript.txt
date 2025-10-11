@@ -1,0 +1,452 @@
+Agilent Technologies Inc. (NYSE:A) F3Q07 Earnings Call August 14, 2007 4:30 PM ET
+
+TRANSCRIPT SPONSOR
+
+
+Executives
+
+Rodney Gonsalves - IR
+Bill Sullivan – President, CEO
+Adrian Dillon - CFO
+
+Analysts
+
+John Harmon - Needham
+Deane Dray - Goldman Sachs
+Ajit Pai - Thomas Weisel Partners
+Mark Moskowitz - JP Morgan
+Dave Egan - Lehman Brothers
+Richard Eastman - Robert W. Baird
+William Stein - Credit Suisse
+
+Operator
+
+Good day ladies and gentlemen, and welcome to the Agilent Technologies 2007 third quarter earnings conference call. (Operator Instructions) I would now like to turn the presentation over to Director of Investor Relations, Mr. Rodney Gonsalves. Please proceed, sir.
+
+Rodney Gonsalves
+
+Thank you and welcome to Agilent's third quarter conference call for FY 2007. With me are Agilent’s President and CEO, Bill Sullivan; and EVP of Finance and CFO Adrian Dillon. After my introductory comments, Bill will give his perspective on the quarter and the business environment. Adrian will follow with a review of the financials and the performance of each of the businesses. After Adrian's comments, we will open the lines and take your questions.
+
+In case you haven't had a chance to review our press release, you can find it on our website at www.investor.Agilent.com. We are also providing further information to supplement today's discussion. After you log on to our webcast module from our website, you can click on the link for supplemental information. You will find additional information such as our end market revenue breakout and historical financial information for Agilent's continuing operations.
+
+In accordance with SEC regulation G, if during this conference call we use any non-GAAP financial measure you will find on our website the required reconciliation to the most directly comparable GAAP financial measure.
+
+In addition, I would like to remind you we may make forward-looking statements about the future financial performance of the company that involves risks and uncertainties. These risks and uncertainties could cause Agilent's results to differ materially from management's current expectations. We encourage you to look at the company's most recent filings with the SEC to get a more complete picture of all the factors at work. The forward-looking statements, including guidance, provided during today's call are only valid as of this date and the company assumes no obligation to update such statements as we move through the current quarter.
+
+Lastly and before I turn the call over to Bill, I would like to remind you we will host our bio-analytical measurement investor forum on Thursday September 13, 2007, at Agilent's Little Falls site in Wilmington, Delaware. The investor forum will provide a deeper dive into our fast-growing bio-analytical business and our major growth initiatives. The executives from the bio-analytical measurement group will be presenting and available for Q&A. Following the presentations we will provide tours of the manufacturing facility and product demonstrations.
+
+Now I would like to turn the call over to Bill.
+
+Bill Sullivan
+
+Thanks, Rodney. Hello, everyone. Our Q3 results repeated many of the trends and strengths we have seen in recent quarters as we continue to leverage the strength of our operating model through higher sustainable profitable growth. Orders were up 7% over last year, while revenue increased by 11%. Operating margins reached 16% and return on invested capital was 28%. Bio-analytical markets were strong across the board and performance of our segment was even more robust. Electronic measurement markets were solid in the Americas and Europe, but surprisingly weak in Asia, particularly Japan.
+
+Turning to our results by business, our bio-analytical measurement business delivered excellent quarterly results. Revenue growth was 19% year over year including the impact of our recent Stratagene acquisition. This was in the high range of recent major competitor announcements and reflected strength in both our chemical analysis and life science business units. We also had solid performance across all geographies.
+
+Life science revenues were up 12% organically, 22% with acquisitions. We saw sustained growth in pharma and biotech markets fueled by the 1200 LC and GC platforms and columns. We also saw strong momentum for our LCMS products and CGH Microarray.
+
+In chemical analysis, revenues were up 17% from last year, as we saw strong demand from our environmental, petrochemical, and food safety end markets. Our new GC and GCMS products were well received by our customers as we saw the anticipated Q3 revenue impact as a result of the new product rollouts in Q2.
+
+Going forward, our strategic intent remains the same. Leverage current technologies and existing platforms to create customer-oriented work flow solutions; we will continue to focus our R&D, customer collaboration, and M&A efforts on refreshing and expanding our portfolio; improving customer work flow requirements and providing full application solutions to our customer's needs.
+
+Turning to the other side of the house, our electronic measurement business was up 7% revenue growth over last year. We saw continued strength across all general purpose end markets. We saw improved momentum on the communication side, with particular strength in our wireless and wire line R&D businesses. Strong growth continues in the U.S. and Europe, though we see relative weakness in Asia, primarily driven by Japan. Japanese orders were down a surprising 24%. In addition to weakness in the semi-related markets, we saw an across the board pause in orders. We are expecting a sequential increase in orders in Q4, but the pause in Q3 orders will impact Q4 revenue.
+
+General purpose test grew 9% over last year. We had solid growth in computers and semiconductors, consumer electronics and aerospace defense, where our surveillance business was helped by our recent acquisition of Accuris. Product strength this quarter included oscilloscopes, parametric tests, signal source, and network analyzers.
+
+The communications test business was up 3% over last year. Wire line and wireless R&D growth are being driven by the convergence of IT-based networks for advanced service delivery including video, voice, data, and mobile services. We are well positioned to take advantage of emerging technologies such as WiMax, TD-SCDMA, Nemo, WCDMA, and UWB.
+
+Meanwhile, wireless manufacturing tests remain soft and highly competitive although the rate of decline has slowed significantly. Subscriber growth continues to be concentrated in developing countries and we expect increased opportunities in emerging technologies. Going forward, our electronic measurement strategy will continue to focus on operating complete test application solutions for rapidly growing segments, close customer collaboration and technical innovation.
+
+At a company level, we continue to invest in a set of strategic growth initiatives. In bio-analytical measurement our major focus continues to be life science tools and mass spec instrumentation. In electronic measurement, our investments continue to focus on aerospace and defense, communications, and our core general purpose instruments.
+
+For the fourth quarter of FY07 we expect a softer than normal increase in revenue because of weak Asian electronic measurement orders at the end of Q3. Revenues are expected to be in the range of $1.39 to $1.43 billion, up 5% to 8% from last year. We anticipate adjusted net income to be in the range of $0.50 to $0.54 per share, 9% to 17% above last year's comparable earnings.
+
+Longer term, we anticipate continued momentum in our bio-analytical markets and a return to more normal secular growth in electronics measurement markets next year. We continue to leverage our robust operating model and we expect to benefit from our investments in core products, our growth initiatives and acquisitions.
+
+Thanks for being on the call today. Now I will turn it over to Adrian.
+
+Adrian Dillon
+
+Thank you, Bill. Good afternoon, everyone. As usual, I'm going to offer a few overall perspectives on the quarter; review the performance of our two business segments and conclude with some thoughts about fourth quarter guidance. Overall, Agilent had a solid third quarter performance, despite some very divergent trends in our markets. Bio-analytical markets continued to show solid momentum almost across the board and we took good advantage of it. We also completed the acquisition of Stratagene and we are enthusiastic about the synergies between Stratagene's bio-reagents and Agilent's analytical instruments to better serve customers in both commercial and not-for-profit life sciences applications.
+
+Electronic measurement markets, on the other hand, showed very divergent trends with relative strength in the Americas and Europe, and surprising weakness in Asia, particularly in Japan. Our overall performance in electronic measurement, while solid, it wasn't as good as it could have been with investments in headcount a bit ahead of unexpectedly soft orders in revenues.
+
+Overall third quarter revenues of $1.374 billion were just shy of the $1.38 billion to $1.42 billion revised guidance range that we communicated upon the closure of Stratagene with the shortfall exclusively due to electronic measurements. Operating earnings of $0.48 per share reached the middle of our forecasted range, despite the relative weakness in revenues.
+
+During the quarter, we reduced our expected pro forma tax rate for the year by a point to 22%, which added about $0.015 to our third quarter earnings, while Agilent's strong share price by both encouraging options exercises and by increasing diluted shares outstanding, subtracted $0.01 from our reported results. Adjusting for Stratagene, we brought about $0.31 of every incremental revenue dollars to the bottom line, the low end of our 30% to 40% expected range for operating profit increases because of the relative weakness in electronic measurement.
+
+Looking at the balance sheet, cash generation was a highlight for the quarter. Both receivables days outstanding and inventories days on hand improved by three days from last year. Cash flow from operating activities in the seasonally weak third quarter was $176 million, generating a $140 million of free cash flow from operations after capital spending. Return on invested capital improved three points from last year to 28% despite the addition of nearly $250 million for Stratagene. Despite $677 million of share repurchases, as well as the cash purchase of Strategene, we ended the quarter with nearly $1.5 billion of net cash on hand.
+
+In short, somewhat of a mixed quarter, but one that also allowed us to underline the excellent cash generating capabilities of the company.
+
+Turning to the overall numbers, we had orders of $1.31 billion, up 7% from last year, excluding Stratagene, the growth from last year was 5%. Geographically, Americas were up 10%, European orders were up 16%, Asia-Pacific orders were down 2%, and Japan overall was down 18%.
+
+Third quarter revenues of $1.374 billion were 11% above last year, or up 10% excluding Stratagene. Again, geographically the Americas were strong, up 12%, Europe was up 18%, while Asia Pacific was up 5%. Currency had no overall impact on orders or revenue growth although it hurt reported Japanese growth by about 5 points due to the much softer yen and increased European growth by roughly a point. Compared to last year, currency had hurt our operating profits by the equivalent of about $0.02 per share because of the mismatch of the undenominated revenues and U.S. and European-based costs that were only partially offset by hedging gains. Gross margins of 56.5% were about at last year's levels, with little change in either electronic measurement or bio-analytical.
+
+Operating expenses during the quarter were up about 8% as reported, compared to an 11% increase in revenues. As mentioned earlier, currency hit operating expenses by about 10% due to the yen-dollar production mismatch, and variable pay was up about $7 million because of the 3 point improvement in the company's return on invested capital. Actual discretionary operating expenses were up $22 million from last year, or about 4% compared that 11% increase in revenues. And, of that $22 million increase in operating expenses, $18 million was due to acquisitions made in the past year.
+
+As reported, R&D was a $162 million, up 5% from last year or 11.8% of revenues down three-quarters of a point compared to last year. SG&A at $391 million was up 9% versus one year ago; as a percentage of revenues it dropped half a point to 28.5%.
+
+The company's operating margin at 16.2% was up 1.2 points from last year's third quarter and the best third quarter performance in the company's history. Operating profits of $223 million were up 20% from last year. Other expense at $21 million was down $11 million from last year, that’s of course the combination of $2 billion of repurchases plus the Stratagene cash acquisition on our interest income. Taxes were $50 million or a 20% tax rate for the third quarter as we trued up the full year tax rate to 22%.
+
+Net income of $194 million or $0.48 per share was up $0.09 or 23% from one year ago. Table 5 of our press release financial tables provides a detailed reconciliation from that non-GAAP income of $194 million to our GAAP income. Summarizing, again we have non-GAAP of a $194 million; we had restructuring-related expenses of about $13 million compared to $61 million a year ago. Non-cash amortization of about $18 million, share-based compensation expenses of $27 million; a tax benefit of $45 million because of the lower GAAP tax rate; and $4 million of other benefits for a total GAAP income of $185 million or $0.45 per share. That compares to a $151 million from continuing operations GAAP results, once you subtract out the $65 million gain on an asset sale, or 25% that are earnings per share this year on a GAAP basis than a one year ago.
+
+Turning to cash, I have already mentioned the good working capital performance with inventory days improved by three days from last year. Cash flow from operating activities in the seasonally weak third quarter was $176 million. Generating $140 million of free cash flow from operations after capital spending. Our return on invested capital improved three points from last year to 28% despite the addition of nearly one-quarter of a billion dollars for Stratagene. Despite $677 million of share repurchases, as well as the cash purchase of Stratagene, we ended the quarter with nearly $1.5 billion of net cash on hand. In short, somewhat of a mixed quarter but one that also allowed us to underline the excellent cash generating capabilities of the company.
+
+Okay, turning to the overall numbers, we had orders of $1.31 billion. Up 7% from last year. Excluding Stratagene the growth from last year was 5%. Geographically, Americas were up 10%, European orders were up 16%. Asia/Pacific orders were down 2%. And Japan overall was down 18%. Third quarter revenues of $1.374 million or 11% above last year were up 10% excluding Stratagene. Again, geographically Americas were strong, up 12%. Europe was up 18%. While Asia/Pacific was up 5%.
+
+Currency had no overall impact on orders or revenue growth, although it hurt reported Japanese growth by about 5 points due to the much softer Yen and increased European growth by roughly a point. Compared to last year, currency hurt our operating profits by the equivalent of $0.02 per share because of the mismatch of the undenominated revenues and U.S. and European based costs that were only partially offset by hedging gains. Gross margins at 56.5% were about at last year's levels with little change in either electronic measurement or Bio-analytical. Operating expenses during the quarter were up about 8% as reported compared to an 11% increase in revenues. As mentioned earlier, currency hit operating expenses by 10% due to the Yen dollar production mismatch and variable pay was up about $7 million because of the three-point improvement and the company's return on invested capital. Actual discretionary operating expenses were up $22 million from last year or about 4% compared to that 11% increase in revenues. And of that $22 million increase in operating expenses, $18 million was due to acquisitions made in the past year.
+
+As reported, R&D was $162 million, up 5% from last year. Or 11.8% of revenues down three-quarters of a point compared to last year. SG&A at $391 million was up 9% versus one year ago as a percentage of revenues it dropped half a point to 28.5%. The company's operating margin at 16.2% was up 1.2 points from last year's third quarter and the best third quarter performance in the company's history. Operating profits of $223 million were up 20% from last year. Other expense at $21 million was down $11 million from last year. That's the combination of $2 billion of repurchases plus the strategy and cash acquisition on our interest income.
+
+Taxes were $50 million or a 20% tax rate for the third quarter as we trued up the full year tax rate to 22%. Net income of $194 million or $0.48 per share was up $0.09 or 23% from one year ago. Table five of our press release financial tables provides a detailed reconciliation from that non-GAAP income of $194 to our GAAP income summarizing again we had non-GAAP income of $194 million. We had restructuring related expenses of about $13 million compared to $61 million a year ago. Non-cash amortization of about $18 million. Share base compensation expense of $27 million. A tax benefit of $45 million because of lower GAAP tax rate and $4 million of other benefits for a total GAAP income of $185 million or $0.45 per share. That compares to $151 million from continuing operations GAAP results when you subject out the $65 million gain on a asset sale or 25% better earnings per share this year on a GAAP basis than one year ago.
+
+Turning to cash, I've already mentioned the good working capital performance with inventory days on hand at 102 and receivables days sales outstanding at 48, both three days better than last year. Capital spending during the quarter was $36 million and we are on track for the $150 million for total fiscal 2007 that we had originally guided. Depreciation was $50 million in the quarter. Again, depreciation and amortization this year will be about $195 million.
+
+During the quarter, we spent $239 million basically on the Stratagene acquisition. We repurchased $677 million of shares during the quarter. We also issued $197 million worth of shares. We had net share issuances or repurchases of $480 million. Total cash and short-term investments ended the quarter at $1.49 billion, down $564 million in the last three months.
+
+Finally, a note on diluted shares outstanding. Despite the accelerated $2 billion repurchase program we have not been able to bring the share count down as quickly as we had expected. For example, in the third quarter we repurchased 17.7 million shares under the program. However, we also issued 7.8 million shares for options exercises and the employee stock purchase plan. The $5.20 increase in our quarter average share price also added 3.3 million shares to our diluted share count. So we ended up the quarter with 407 million fully diluted shares outstanding, down 6 million from the second quarter. In the third quarter we have bought back $1.37 billion of shares under the $2 billion repurchase program and we will complete the remaining $630 million repurchases in the current quarter.
+
+Turning to segment information, first a quick note on the segments. Effective mid-year we moved the nanotechnology measurement business from our electronic segment to the bio-analytical segment and all of the segment numbers have been restated for that change in our segment reporting. Starting with bio-analytical, bio-analytical measurement had another great quarter with third quarter orders up 21% from one year ago and up 16% excluding the impact of the acquisition of Stratagene. This marks the fifth consecutive quarter of double-digit orders growth. Revenues of $500 million were up 19% from last year and up 15% excluding Strategene. Growth was solid across all geographies with the Americas up 12%. Europe up 27% and Asia 16% above last year.
+
+Life sciences revenues of $209 million were up 22% from last year, and up 12% organically excluding Stratagene. Sales to pharma and biotech were up 15% year to year fueled by the 1200 series liquid chromatography platform, HPLC Columns, GCs and LCMS platforms, including recent new product introductions in triple quad and QTOF mass spec.
+
+From a market perspective, we continue to see a recovery in large pharma spending focused on new applications and enabling technologies aimed at speeding the time to market for new drugs. We saw strong demand for array-based comparative genomic hybridization arrays, high density arrays, multi-format arrays and for our micro R&A platform.
+
+Finally, contract research organizations were particularly strong in India, China and Japan. Chemical analysis was even stronger than life sciences in the third quarter with revenues of $291 million, up 17% from last year. Shipments of our new gas chromatograph and GCMS platforms begin to roll out in the second quarter and despite production ramp in Q3, we built considerable back log for these new platforms during the quarter.
+
+Revenues in the food safety market were up nearly 20%. Recent food safety issues in the U.S. and Europe, for example, have resulted in increased testing requirements in China and throughout Asia. Petrochemicals revenue was up 23% driven by the strong market acceptance of our new GC including the new 7890 series gas chromatograph and our new GCMS products. High petrochemical industry profits continue to drive capital investment including both instrument replacement and upgrades. Revenue and environmental market segments was up 20%. In Asia, regulations continue to drive test needs for drinking water, solid waste and air monitoring.
+
+Turning to segment profits, bio-analytical segment profits of $92 million were $26 million above last year on an $80 million increase in revenues. Excluding Stratagene, we dropped $0.43 of every incremental revenue dollar to the bottom line. The overall operating margin in bio-analytical improved three points while segment return on invested capital improved 2 points from last year to 29% despite an additional $250 million of invested capital from the acquisition of Stratagene.
+
+Regarding Stratagene, it was about an operational breakeven in the third quarter, as we expected. Initial integration activities are going well and we are enthusiastic about the synergy between Stratagene's bioreagents and Agilent's analytical instruments both in life sciences applications and in the sales channels.
+
+Turning now to electronic measurement. In contrast to the broadly based strength in bio-analytical, trends in electronic measurements were much more mixed in the third quarter. Orders of $810 million were flat compared to last year. Geographically, orders showed steady 5% to 9% growth in the Americas and Europe. Outside of Japan, Asian orders were flat with weakness concentrated in electronics manufacturing. The surprise was Japan, where orders were weak almost across the board down 24% from last year with particular weakness in semiconductor related-markets.
+
+Third quarter revenues of $874 million were up 7% from last year, reflecting in part the strong backlog with which we entered the quarter. The Americas were strong with revenues up 12%. Europe was up a healthy 8% while Asia was up 1%.
+
+By product, general purpose test revenues of $521 million were 9% ahead of last year with strength almost across all market segments. In aerospace defense, where revenues were up 11% from last year we were seeing more investment in the military communications market, secure testing environments, surveillance, metrology, and modernization. With the exception of Japan, all regions experience double-digit growth. As one example, the U.S. army has authorized spending for PSA-based measuring receivers since the maintenance of radar, communications, targeting, and surveillance equipment is considered mission critical for the war effort. Our PSA-based measuring receiver has now been adopted by every direct U.S. military customer and we expect to leverage the success into the U.S. prime contractors and their food chain as well.
+
+Revenues from computer and semiconductor were up 10% year to year. Proliferation of new digital devices and high speed interface standards continue to drive a broad range of oscilloscope and other digital portfolio sales. We continue to see strong sales of the 80,000 series scopes, especially below 8 gigahertz. Our parametric test business had a strong quarter, though we expect that business to soften markedly during the current quarter.
+
+Consumer electronics markets in Europe and the Americas are performing well. We are seeing continued weakness in the Asian markets specifically, consolidation among the major electronics contract manufacturers and efforts to improve asset utilization have caused a sharp drop in near term Asian-based demand.
+
+Third quarter communications test revenue was $353 million, up 3% from last year. We saw particular strength in both the wire line and wireless R&D businesses and the beginnings of a turnaround in wireless manufacturing tests. Our wire line business was up 11% year to year with strength driven by the convergence of all IP-based nodes. Demand for Broadband access drives network intense investments, as do upgrades in enterprise data centers and network backbones. Although handset manufacturing tests was down again when compared to last year -- off 7% -- sequentially the business was up 11% from the second quarter, suggesting the beginning of a modest turnaround as excess capacity gets absorbed.
+
+Subscriber growth continues to be concentrated in developing countries. This growth in lower-cost handsets continues to put pressure on the cost of test. For Agilent, increased opportunities will be in the emerging technologies of WiMax, TD-SCDMA, MIMO, Wideband CDMA, and UWB.
+
+Our wireless R&D revenues in the quarter were up 12% year-over-year as that growth initiative also gains momentum. Market interest in WiMax Mobile continues to be strong. The early R&D phase of the 3GPPLTD is also attracting worldwide attention. Rollout of higher, value-added IP-based services will represent growth opportunities for testing MMS, video audio calls, broadcast and playback. Geographically, we expect growth in India, Taiwan, and parts of China as more R&D shifts to those locations. Finally, wireless monitoring was down 4% year to year with continued pressure on the service provider and NEMs capital budgets as they continue to work through the multiple mergers of the past one to two years.
+
+Third quarter operating profits of the electronic measurement segment of $133 million were up $14 million from last year on a $55 million increase in revenues, a relatively poor 25% incremental, as investments and headcount ran a bit ahead of unexpectedly soft orders and revenues. For example, without the $9 million of additional operating expense related to acquisitions made over the past year, net incremental would have been a far more robust 42% and we'll be focused over the next three to six months on bringing spending into better line with expected revenues. Despite flat gross and operating margins compared to last year, return on invested capital did improve by 2 points to 26% due to continued improvements and asset utilization.
+
+Finally, turning to fourth quarter guidance, we expect a softer than normal increase in revenues because of the weakness in Asian electronic measurement markets I discussed earlier. Because we are unable to adjust costs as quickly as the unexpected weakness in Asian based revenues, our fourth quarter bottom line performance is expected to be weaker than normal as well.
+
+At this point, we expect revenues in the range of $1.39 billion to $1.43 billion, up 5% to 8% from last year. Adjusted net income per share is expected to be in the range of $0.50 to $0.54 per share, 9% to 17% above last year's comparable earnings. We are not yet ready to talk in specific terms about 2008. We do expect that the secular trends that have driven growth in bio-analytical measurement will continue in 2008. After the weakness in handset manufacturing tests and in Asian electronic manufacturing this year, we would expect to see a return to more normal conditions in electronic measurement markets next year. But until we do, we will continue to keep a tight reign on spending and headcount.
+
+With that, let me turn it back to Rodney.
+
+Rodney Gonsalves
+
+Thanks, Adrian. Operator, I'd like you to go ahead and give instructions for the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+Your first question comes from John Harmon - Needham & Co.
+
+John Harmon - Needham & Co.
+
+I would like to summarize in the electronic test business, excluding Japan, the weakness was derived from consolidation by contract manufacturers, and in Japan specifically was a handset test?
+
+Bill Sullivan
+
+No. The situation in Japan is quite frankly the biggest surprise is across the board. If you look at the top 25 customers in Japan they were down universally around 25% so there clearly was a pause in orders in Japan starting to last week of June. Our forecast for Q4 in Japan is a sequential increase in orders. The issue is that we don't think we will have enough time to convert those orders to revenue.
+
+In terms of the rest of Asia, we are seeing some consolidation in contract manufacturing environment, essentially a little bit of overcapacity, so as a result of that it's put a damper on what has been a very strong growth in Asia.
+
+John Harmon - Needham & Co.
+
+I came across an article today that said you had sold one of your businesses, the OSS business you acquired before. Is that correct and does that mean you were downsizing your OSS business?
+
+Bill Sullivan
+
+We had been very open we have had issues in our monitoring business moving forward. We did divest a portion of that business. We are focusing the organization to ensure we get back to profitability and then from there to capitalize on opportunities in this whole Internet protocol market environment.
+
+John Harmon - Needham & Co.
+
+But you're still staying in the business?
+
+Bill Sullivan
+
+That is correct.
+
+Operator
+
+Your next question comes from Deane Dray - Goldman Sachs.
+
+Deane Dray - Goldman Sachs
+
+Bill, did hear you correct that you said the weakness in Japan started in the last week of June?
+
+Bill Sullivan
+
+That is correct.
+
+Deane Dray - Goldman Sachs
+
+So you saw it still carried through July and August? What's been the early read in the past couple of weeks?
+
+Bill Sullivan
+
+As I had said, Deane, Japan is a very large market for us in electronic measurements, over $500 million. We saw the weakness in Q3. Our team believes that there will be a sequential recovery in Q4 and the start of August would suggest that. But again, it's very early.
+
+Deane Dray - Goldman Sachs
+
+What are you baking into your guidance for the fiscal fourth quarter in terms of order recovery?
+
+Bill Sullivan
+
+Typically because of the weak orders in Q3, we have earned $60 million of backlog. Historically our orders tend to be back loaded in the quarter. As a result of that, we are forecasting a relatively normal turn which is slightly over 50% in a quarter and also of course the analysis and the backlog that we have going into the quarter.
+
+Deane Dray - Goldman Sachs
+
+Is there anything seasonal that you're expecting different for the fourth quarter?
+
+Bill Sullivan
+
+From our historical strength in orders in Q4?
+
+Deane Dray - Goldman Sachs
+
+Yes.
+
+Bill Sullivan
+
+We are not expecting anything different at this time.
+
+Deane Dray - Goldman Sachs
+
+Both you and Adrian commented on the beginnings of a turnaround in the wireless manufacturing test. Now it was sequentially up 11%. Anything beyond the excess capacity getting absorbed?
+
+Bill Sullivan
+
+No. Just one of the situations I mentioned last quarter given the difficulty in that environment and the pressure of the organization that we believe that we are hitting the bottom. I personally believe the industry is going to continue to restructure. More and more companies are looking at cell phones as consumer-based devices. There is going to be a movement to eliminate what's called processing. Essentially today every cell phone actually makes a phone call before it is shipped. Given how predictable the chipsets have been, the designs of the cell phone, you are going to continue to see pressure to eliminate the cost of tests given the competitive nature of cell phone manufacturing. Even though in the traditional business we have seen, we are seeing it phase out, I believe this industry will continue to evolve to look like a far more consumer-based industry where there will continue to be less and less tests.
+
+Deane Dray - Goldman Sachs
+
+Last question, on the wireless test side, do you feel you have lost any market share in this downturn?
+
+Bill Sullivan
+
+In terms of that, as I said, we have no fundamental evidence we have lost major market share. That is a very, very competitive environment in parts of Asia. We continue to be committed to the operating model that we have set to the company. Again, we continue to have very, very competitive offerings. As call processing is eliminated from test, we believe we will have very effective test capability moving forward.
+
+Operator
+
+Your next question comes from Ajit Pai - Thomas Weisel Partners.
+
+Ajit Pai - Thomas Weisel
+
+Looking at things from a slightly macro perspective, you talked about the weakness in Asia with the contract manufacturers; you talked about Japan seeing weakness that you are expecting to come back sequentially. When you look at the two markets where you saw strength, in the United States and also in Europe, you are watching somewhat of a credit crisis over there right now.
+
+What gives you confidence when you talk about next year? You said it's too early to talk about next year, but you did mention that you expect things to return to more normalized trends. Watching things get worse in the two strongest markets you have and no signs that things in Asia and Japan are getting better, so what gives you that confidence?
+
+Bill Sullivan
+
+Again, I will comment on this. We are not predicting what the overall world economy is going to be in '08. If in fact events materialize a negative position due to credit and gas and all the other things that people are concerned about, Agilent will be impacted moving forward. If we continue to have existing the economic environment that we do today, and the investments that we are making as a company, particularly given the growth in our analytical measurement, we believe we are going to be well-positioned for '08.
+
+Adrian Dillon
+
+Just to put a little bit of nuance on that as well. I think one thing that Asia and Japan do have in common is they are both more consumer-based and more semi-based. That's clearly where the weakness is. One of the things that Agilent has done, among others, is to become less consumer electronics dependent. If you look at the mix of our businesses, certainly the chemical analysis and life sciences, but even the vast majority of general purpose, is really not directly consumer electronics based. I think we were actually much less sensitive to those than we used to be. But there is no question that it's a volatile environment out there which is why we are being conservative about it.
+
+Ajit Pai - Thomas Weisel
+
+Just looking at the $1.37 billion that you spent in budgeting your own shares. Can you give us idea as to what is the average price paid for those shares and also the $630 million you have left, do you intend to be fairly opportunistic or do you intend to finish off gradually over the quarter?
+
+Adrian Dillon
+
+To answer your second one, we've always taken the opportunity to feather a little bit but don't try to be too cute about it either. It's getting the shares and the money back in the hands of the owners. The average price in the program today has been just over $32.
+
+Ajit Pai - Thomas Weisel
+
+The last question will be the growth opportunities that you talked about, especially in the low cost instrumentation side and electronic measurement, both in the handset side and modular instrumentation. Can you give us some color as to what kind of progress you made over there? How material those businesses have become and are the friends you were expecting in those businesses, particularly the indirect distribution channel playing out the way you expect it? If they haven't, what's been different?
+
+Bill Sullivan
+
+Well, if you look at our electronic measurements, our businesses continue to be dominated by our wireless segment of the business. It's by far large, in fact it's almost as large as all of our analytical businesses. That is the core part of our business. In fact, it continues to do quite well. So from a material standpoint, our movement into lower cost instruments, data acquisition is still a relatively small part of our overall business and it's going to take multiple years to get to something is that truly measurable given how large our wireless business is. Order growth again was in double-digits moving forward and this quarter we were planning a whole range of additional product introductions.
+
+Operator
+
+Your next question comes from Mark Moskowitz - JP Morgan.
+
+Mark Moskowitz - JP Morgan
+
+I want to see if we can shift gears in looking at the Bio-analytical side of the business. It seems as if you are enjoying some pretty good tailwinds from the general market but also from your broader product set. Can you contextualize the GC and the GCMS product introductions in terms of how much legs are still left this those ongoing ramps and what has been the competitive response so far?
+
+Bill Sullivan
+
+The strength of our analytical business continues to be in our instrumentation both in the GC and LC. That has been our work horse. We have a very, very strong market position and over the last year we have completely turned over these platforms. We added additional features to the LC called rapid resolution so that scientists and researchers can get their answer faster, just as we introduced in Q2 our whole new GC family. We continue to leverage what is a strong market with very, very competitive instrumentation.
+
+Coupled with that, we made the announcement last year that we were going to enter into the high performance mass spectroscopy market. We have done that with our triple quad and time of flight and we continue to get very, very good leverage inside of that market. Again, the tide has come in. If you look at our competitors, their businesses are also doing very, very well. We were pleased that we are outperforming the market by a few points.
+
+Mark Moskowitz - JP Morgan
+
+How much of that uptake is because of the tide coming in versus Agilent's improved product specs? It seems you folks have really made great strides in terms of addressing some of the customer needs out there in terms of higher throughput and higher capabilities. Let's say the tide recedes here down the road, could there still be opportunity for Agilent to actually improve its market share position?
+
+Bill Sullivan
+
+We continue to grow our instrument business faster than the market by definition. We will have taken market share in terms of our LCMS where we had essentially a zero market share in the high performance mass spectroscopy, that clearly is either a market share gain or our product offerings expanding the application of the market and the overall market is expanding itself. I am very, very pleased with the progress we are making in our core instrumentation.
+
+As Adrian hade noted, our Stratagene acquisition is going very, very well. We see an enormous amount of synergies of not only their business as a standalone reagent business, but to really be able to couple the reagent business with our instrument business to give really value-added work flow solutions for our customers. Again, we are focused to continue to play out the hand that we have and I'm very confident in the future, again assuming all the normal economic conditions.
+
+Mark Moskowitz - JP Morgan
+
+You mentioned the Stratagene integration going better than expected. I know it's still early, but can you give us some color behind the cross-selling opportunities in terms how you are going to market now with the reagents and the instrument business?
+
+Bill Sullivan
+
+Step one, of course, is to make sure that their business continues as is and we continue to leverage that. One of the problems in every acquisition is that it's easy to get caught up in the internal workings of integration and you lose the sight of your end customers. So today from an order perspective we are very, very pleased they are able to keep their momentum going even through what obviously will be some distraction as we get integrated in.
+
+The second or phase two of this is that we have gotten our technical teams together through our central research lab, the instrument business and strategy team to really identify opportunities, particularly focused in the genomics area where we can really make a differentiation in the marketplace. So we are systematically identifying areas where we can provide a differentiable solution and then we'll invest in those moving forward.
+
+The third part of this which would also be more longer term, Stratagene has a very strong presence in the academic and research environment where our market share is actually relatively low as we tend to sell the big pharma and big biotech companies and of course all the rest of the chemical related industries. So we will be back building their channel with instruments expertise so that we can do a better job of penetrating the instrument part of the academic and government research marketplace.
+
+Mark Moskowitz - JP Morgan
+
+If we can move back into EMG. I was curious in terms of the government recapitalization wave. I know it moves pretty slow at a glacial speed. Where are we in terms of what Agilent will need to do to be a major player? Will there be a requirement for more bolt-on acquisitions as we have seen in recent days to move forward in this recapitalization wave?
+
+Bill Sullivan
+
+I think there are going to be three parts to this. First is the normal capitalization that goes on being in the demands of the government, mostly Department of Defense. Again, as being the largest RF microwave instrument manufacturer in the world, we are in a very strong position as we provide more instrumentation to support electronic warfare, all of the maintenance and support, what it takes to keep the various Armed Services operating, so that's the primary one and that's ongoing. We have said in the past the U.S. Army is one of our top ten customers over the last year. We are well positioned there given the breadth of our products and the quality and contribution we have.
+
+Secondly which we have talk in the past there is an effort to try to simplify instrumentation as we move forward. It's called synthetic instrumentation that has been delayed given the funds that have been diverted to the war but there is still a commitment to do that and we continue to work with that moving forward.
+
+The third area and one that we have been quite pleased with is in the whole surveillance area and this is not only signal intelligence, this is not only the Department of Defense but also Homeland Security, the acquisition of Accuris, our data converters, ADD converters has been going very, very well. We just made an announcement of an acquisition yesterday of a company that gives us more capability in this whole signal intelligence area. That part of our business is going exceedingly well. As we move forward in the whole area of Homeland Security and signal intelligence I believe we have a lot of opportunities for Agilent to make a contribution.
+
+Mark Moskowitz - JP Morgan
+
+Can you help us understand how 3G phones as that traction continues to gain in the momentum it seems, how these smarter phones could impact the cost of tests? Is there any opportunity to reset the downward curve there from the cost of test perspective?
+
+Bill Sullivan
+
+I've been very clear in the past that the markets are bifurcating as you get new subscribers in developing countries it's going to be a lot more pressure on the cost of phone and cost of service. In the developed countries it's about functionality, more bandwidth to these mobile devices As you get into more complicated standards, the cost of tests will be higher. Again, that initially happens on every new technology innovation and over time people try figure out how to get the cost of test out. But as we move into these next generation high bandwidth data transmission, I believe there is going to be a real opportunity for us not only in manufacturing, again, but in our efforts into research and development. The research and development market for the next generation of phone is at least twice as big as the wireless manufacturing.
+
+As Adrian alluded to, if you look at Agilent as being a diversified measurement company, we are doing everything possible to try to take out the volatility we had in the company. Obviously the divestiture of the semiconductor-related business was step one. The second part was making sure we have a very broad spectrum of measurements of tools across a broad industry to take out some of the volatility.
+
+If you just look at this quarter alone, 21% of the company now is in chemical analysis versus 25% in communications. That's just an indication as we continue to grow through investment and other measurements opportunities that we can in fact be even more diverse and stable as we have in the past.
+
+Operator
+
+Your next question comes from Dave Eagan - Lehman Brothers.
+
+Dave Egan - Lehman Brothers
+
+In the same vein about some of the new market opportunities that you are going after, could you describe just how you think that the weakness that you are seeing now is affecting some of your growth opportunities? For instance, the low cost instruments that if I remember correctly, that was going after some of the contract manufacturers.
+
+Bill Sullivan
+
+Actually, the low cost instrumentation is a billion dollar segment in the market. Actually the largest market in the world is in the U.S. and these are light manufacturers. These are out of factory applications. They are in academic applications. Again, I wouldn't think that handhold devices are particularly large investment in contract manufacturers. There they are investing in optical inspection and x-ray inspection and in line testing and final test.
+
+The variable model and again Adrian talked a little bit about that, has allowed us to ensure that the system is able to quickly re-adjust our expenses so even though revenue is at the low end of range, we were mid range in terms of our earnings per share. We are continually focusing on investing in these growth opportunities. Again, even though we had a surprise in Japan starting in the quarter, we are surely not going to take the eye off the ball, change our investment strategy because we have enormous opportunities and our job is to create shareholder value over time and not just direct the company around a quarter.
+
+Adrian Dillon
+
+We have talked many times, Dave, about the variable pay that we have which ties directly the employees variable compensation to the performance of the business, as well as the pay for results, as we call it, the six-month bonus plan for the top 800 people that ties their bonuses directly to targets for ROIC and profitable growth; not just any growth but it must be profitable growth. Those two in combination plus tight expense control do give us a lot more variability and scalability than we had in the past. Obviously it's not perfect but it does help us keep focus on those new markets, those new instruments, those new products and customers so we can stay focused on the bigger prize of leveraging that operating model when these markets inevitably do come back.
+
+Dave Egan - Lehman Brothers
+
+You can lower the cost structure as needed so that you can continue to get the bottom line improvement wherever the revenues are. Two, this is kind of what I was asking about more so, do you still feel like in the near term in addition to the long-term that you're going to see the growth in these new market opportunities and is the weakness perhaps in more of the core existing businesses that you have been servicing for awhile?
+
+Bill Sullivan
+
+There is no indication in my mind that the investments and the places we have investments, their overall potential has changed whatsoever based on the performance of Q3. Again, what we saw was across the board slowing of orders in Japan and in Asia had to be related to the overall contract and manufacturing capacity and cell phones. That's a relatively small part of the overall market. As I mentioned before, if you look at our wireless business, the business was very healthy and they had good year-over-year growth both in orders and revenue. I believe that the growth initiatives that we invested on are absolutely the right ones and we will continue to execute on those.
+
+Adrian Dillon
+
+I think you are on to something on the margin. It's clearly part of our strategy which is we will continue to evolve in the direction where we can create the most differentiation and generate the most contribution and profits and that's clearly in some of the areas such as gradually away from the manufacturing side of handset tests and more into the R&D side of handset tests. I would use the example of our new one box tester for WiMax of R&D applications as an example this quarter of our ability to do that and do that profitably.
+
+Dave Egan - Lehman Brothers
+
+In terms of if we look at where your revenues end up by segment, where your electronic measurement will be in the low single-digits and your bio-analytical will be high double-digits, there was an earlier question about how far we are into your growth opportunity for bio-analytical. I know you guys have clearly indicated in the past this is a multi-year opportunity. But in terms of us thinking about where perhaps the revenues may be next year, is it likely that if we don't go into a recession, let's make that a caveat, that the electronic measurement will see faster growth off a weaker base next year and that the bio-analytical may see some slower growth based upon a more difficult compare?
+
+Bill Sullivan
+
+I think that given the very substantial growth on the analytical side one could imagine that growth will damper so much because of the compares. I think from a macro perspective our growth in the company will continue to come from the analytical side. On the electronic measurement we will continue to see growth in R&D, aerospace and defense and some with communication, and I believe we will continue to be pressure volatility on the manufacturing segment of our business.
+
+Operator
+
+Your next question comes from the line of Richard Eastman - Robert W. Baird.
+
+Richard Eastman - Robert W. Baird
+
+Japan, the order growth, the 24% decline in orders, can you just go through this one more time? Within the EM business, was the decline greater in general purpose or communications? If you just look at the two pieces.
+
+Bill Sullivan
+
+The number one decline was semiconductor related that was on parametric tests. We had a very good revenue quarter in parametric test. We have done very, very well in there. The orders in Japan percentage-wise was the greater. In terms of scopes and sources, business was good. Otherwise, across the board business has decreased as I said, across the top 25 customers.
+
+Richard Eastman - Robert W. Baird
+
+In terms of the shifting of nanotech revenue, is there any change in strategy there? Is there a focus more on the bio-analytical side of that development effort and sales effort? Or is that just for convenience sake?
+
+Bill Sullivan
+
+What's been interesting since the acquisition of Molecular Imaging and our continued understanding of the market that over half of the market is really on the life science side. To balance out the management bandwidth in the company and couple this is an investment that demonstrates the synergy capabilities between the world of photons and electrons and the world of molecules, that it just made a lot of sense to realign it with the analytical business.
+
+Richard Eastman - Robert W. Baird
+
+Adrian, how should we think about this share count for the fourth quarter? When you gave adjusted EPS guidance, what kind of number are you using there?
+
+Adrian Dillon
+
+Down 5 million or 6 million.
+
+Operator
+
+Your next question comes from the line of William Stein - Credit Suisse.
+
+William Stein - Credit Suisse
+
+I want to address something in the wireless market. Bill, I think you said before that the wireless R&D market is twice as big as the wireless manufacturing market. Did I hear you correctly?
+
+Bill Sullivan
+
+That is correct and that's our belief.
+
+William Stein - Credit Suisse
+
+I think this is the first quarter that wireless R&D was a larger portion of your sales then wireless manufacturing. Assuming that's right, is this a shift that we should expect to see extend over time and wondering if you could also talk about the operating profit margin differential between these two segments?
+
+Bill Sullivan
+
+We don't particularly speak of profit margins between segments but you are absolutely right. Our wireless R&D was 8% of the company; wireless manufacturing was 7% of the company. I think as I mentioned before, the whole wireless test is going to continue to go through change. With the elimination of call processing, I think the total cost of test go down, capital investment of test will go down and that change just like it is happening every consumer product that has ever been manufactured to my knowledge, that you are going to see a smaller capital investment for wireless manufacturing test.
+
+The flip side of it is that there are just numerous wireless standards in the world today trying to get more bandwidth on what is obviously a quite difficult frequency and as a result of that I believe that we do have opportunities in LCE and inside of WiMax and WCDMA and we have enormous opportunity to provide R&D solutions and then make sure that we have a very cost competitive, high throughput wireless manufacturing capability for our customers.
+
+William Stein - Credit Suisse
+
+The idea is not to try to exit the market that is getting somewhat more commoditized. It's to attack both segments with different solutions, is that fair to say?
+
+Bill Sullivan
+
+I think you will see much simpler solutions on testing cell phones as we move forward and we have the capability to provide that solution.
+
+William Stein - Credit Suisse
+
+Wondering if we can get the exposure to Japan overall for the company?
+
+Bill Sullivan
+
+Japanese business is $500 million of our total business. It's quite substantial. Again, a very large segment of our electronics measure.
+
+Adrian Dillon
+
+Before we go to the next question, let me correct something I said a little earlier as far as share count. We were assuming in the fourth quarter that our average share count will be down closer to 10 million, not the 5 million to 6 million that I indicated.
+
+Operator
+
+At this time we have no more questions in queue, sir. I would now like to turn the call back to Mr. Gonsalves for closing remarks.
+
+Rodney Gonsalves
+
+Thank you. To everyone on the line, I want to thank you on behalf of the management team for joining us today. We look forward to seeing everybody in Delaware on September 13 for our bio-analytical measurement investor forum. Thank you very much.

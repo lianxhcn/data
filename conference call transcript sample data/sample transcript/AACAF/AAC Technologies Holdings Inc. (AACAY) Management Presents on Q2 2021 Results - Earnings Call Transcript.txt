@@ -1,0 +1,286 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q2 2021 Earnings Conference Call August 25, 2021 3:50 AM ET
+
+Company Participants
+
+Conference Call Participants
+
+Kyna Wong - Credit Suisse
+Arthur Lai - Citi Research
+
+Operator
+
+[Call starts abruptly]
+
+The Precision Mechanics business; the Group expanded smoothly the new business such as notebooks and the tablets.
+
+Now, let's look at the highlights of our cash position and the financial position. As of June 30, 2021, net operating cash inflow amounted to RMB1.2 billion, with a CapEx of RMB2.1 billion. Net carrier ratios stood at a healthy level of 5% with our cash position of RMB7.8 billion. On June 2, 2021, the Group has successfully issued two traunches [ph] of U.S. Dollar-dominated notes, including one note due in 2026, with a total amount of US$300 million, with coupon rates of 2.625% [ph], and other notes due in 2031, with a total amount of US$350 million, with a coupon rate of 3.750% [ph]. The use of proceeds is for financing and the general corporate purpose; this insurance helps to optimize the group's liability profile by increasing the portion of long-term liabilities and extending the duration of overall debt. By monetizing the current low interest rate environment, it will help to support the long-term and sustainable development of the group's business with stable long-term cost of funding. The Group remains prudent in financial management and stringently manages capital expenditures and R&D expenses to conduct active liquidity management.
+
+In June 2021, the Group completed a major milestone equity investment with a strategic partner in the automotive industry, Ibeo Automotive Systems GmbH. Ibeo is a technology leader for LiDAR systems. It's new ibeoNEXT Generic Solid State LiDAR combines two solid state technology with competitive pricing which can meet a critical demand in the automotive industry. The Group's expertise in optics and imaging products will be integrated into the development of Ibeo's future generation of automotive products to further strengthen and improve Ibeo's manufacturing capacity and achieve synergies in both parties supply chain management. The transaction is in line with a good long-term strategy as it will expand the business from the current smartphone industry to other verticals such as automotive industry. This also demonstrates the beginning of the growth focused systems into automotive segments, and we'll see more promising growth in this sector as the Group continues to engage with industry-leading automotive players.
+
+Now, let's discuss -- let's move through the analysis of each business segments. For Optics businesses in Q2 2021; revenue from the optics business was RMB807 million, up by 112.3% year-on-year. Gross profit margin was 22%, up by 8.2 percentage points year-on-year. On the Q-on-Q basis, revenue increased by 19.7% but the gross profit margin dropped by 5.8 percentage points. It was primarily attributed to the change in product mix under the rapid the growth of Camera Module business which impacted the segmental gross profit margin. By leveraging the Group's stronger management in operation and production, the unit cost of plastic lens was down further sequentially, which slightly offset the unfavorable impact of industry as it declined. The gross profit margin of plastic less recorded a marginal decline which was 33.4%, down 2.9 percentage points Q-on-Q. The Group's plastic lens shipment volumes steadily increased by 9.7% Q-on-Q, including the plastic lens sold to our Camera Module business segments. In particular, our shipment mix is moving towards more high-end products with 60 plastic lens taking up 13% of the total shipped units.
+
+Regarding the update of WLG hybrid lens; the Group has already joined forces with a number of customers to explore solutions for the adoption of the WLG hybrid lens, including applications in high-end flagship multiple models. Our major projects including high specification products such as 1G5P and 1G6P, the R&D of 2G products is in progress simultaneously. The completion of test plans will further strengthen our production capabilities in WLG hybrid lens. As for the Camera Module business, the mass production is progressing as scheduled. Average monthly module shipment volume was stable at around 6 million in Q2, representing 57.1% Q2 growth. Gross profit margin remained stable sequentially for mid-to-high end projects. The 48 mega Camera Module product has officially mass produced and shipped. Higher end projects are also in active client engagements.
+
+For the Acoustics business in Q2; the revenue was RMB2 billion, up 7% year-on-year. Gross profit margin was 28.4%, up 2 percentage points. In Q2, the Acoustics revenue was down 2.6% Q-on-Q, and gross profit margin was down 9 percentage points from Q. There were two factors contributing to the lower margins; firstly, the resurgence of the COVID-19 pandemic in overseas markets, which affected the normal production of our Vietnam plants leading to a lower capacity utilization rate. We now projected the negative impact will sustain into the third quarter. The other reason was the seasonal decrease in ASD [ph] of Acoustics products sold to major customers. The gross profit margin of Acoustics products for android customers have been improving sequentially. The Group has upgraded the function of standardized small cavity speaker module with the size reduce by around 30% and improved the sound quality; this will accelerate the adoption of Acoustics products for android customers and help prolong the life cycle of production platform for such products. With more android flagship models adopting zero sum design [ph], we should see mid-to-low end models to follow the design trends soon.
+
+In Q2 2021 for the Electromagnetic Drives and Precision Mechanics business; due to the reduction in SP of haptics models sold to major customer and drop in shipments of the Precision Mechanics business, revenue from this combined segment was RMB1.2 billion, down 29.4% year-on-year. Gross profit margin was 22.1%, down 0.6 percentage points year-on-year. On a sequential basis, revenue decreased by 0.8% and gross profit margin decreased by 3.4 percentage points; this was primarily attributable through the impact of lower yields and the capacity utilization rates during the initial ramp up of new Precision Mechanics products. The haptics feedback solution penetrated further and currently covered most of the mid-to-high end smartphone models. The total shipment volumes of X haptics modules increased over 400% year-on-year in Q2 2021. The Group will continue to promote product upgrades and integration for customers to improve end-user experience. The effect of product upgrades is expected to drive a potential multiple shipment volume growth in 2021.
+
+As for the Precision Mechanics business; it's expanding owing to new customers acquisition and new business development. For the smartphone metal casing business, the customer portfolio was successfully extended. The Group leveraged it's years of accumulated manufacturing skills and sound industry reputation of product delivery and quality to extend into notebooks and tablets market. As metal casing products continue to penetrate into the notebook market, there will be further upside for this segments. The revenue contribution from notebook and tablet business is expected to be over 10% of the Precision Mechanics this year.
+
+Lastly, for MEMS business; the revenue was RMB238 million, down by 7.9% year-on-year in Q2. Gross profit margin was 15.8%, down by 0.2 percentage points year-on-year. Compared to Q1, revenue and gross profit margin declined by 15.9% and 0.8 percentage points, separately. MEMS market size will keep growing with a rising installation of MEMS microphones or smartphones and the trending use of wearables and smartphone appliances. So the Group will continue to expand in this market and sustain the market share gains.
+
+So this conclude the overview of our Q2 financial results. There are more supplementary information in the Appendix Section for your reference. Now, our management team are here to take your questions. You can ask questions in Chinese and English, we have simultaneous interpretation other line from Chinese to English. Thanks.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] [Foreign Language] We are limiting two questions at each time. The first question is from CITIC Securities. Young Lan [ph], please raise your question.
+
+Unidentified Analyst
+
+Can you hear me management?
+
+Operator
+
+Yes, please go ahead.
+
+Unidentified Analyst
+
+And we saw the interim results. And the -- for the Optics -- for the gross profit margins, there was a decrease Q-on-Q. So I want to know more information about the ASP on the lens on Optics, and also the information on inventory. So this is my first question.
+
+Unidentified Company Representative
+
+Sure, I will answer the first part of your question. In terms of the Optics Q-on-Q; and we saw about 5 percentage points decrease Q-on-Q of the gross profit margin because we have a change in the lens modules and the modules in the upgrade trend. And this gross profit margin is relatively lower, and we saw this sales is recorded Q-on-Q growth in terms of the lens and modules. And for lens in the Q2, you also want to know the ASP. Yes, we observed the periods of computation in the market and there was a reduction of the ASP but we are confident in our cost control. The cost control is a kind of trade-off for our gross profit decline. And we also have the very instant review and this is also in line with our prudent internal management. So in Q2 -- and we also have the inventory reserve and this will have an influence of 1 to 1.5 to 2 percentage points on our gross profit margin. And for our overall inventory, it's very stable; and if we compare this number and this can motion convertible [indiscernible] it's also on health and for the optics, and we see inventory conversion a day is decreased. And for the overall sales and the production capacity for the sales of our lens and shipment volume is about RMB700 million [ph], and for our sales, it's also about [indiscernible]. Last year, it's almost the same; so the capacity was almost the same. So, at present it shows it's not a match with our production; so for the mid and the long-term, the inventory is under control.
+
+Unidentified Analyst
+
+Thank you. My second question is about the WLG. So what's the progress of the WLG on cell phones? And for Q2, you also mentioned the automotive lens. So what's the WLG's application in automotive lens?
+
+Unidentified Company Representative
+
+In Optic segment -- and I will invite the Chairman of AAC Optics to answer your question. Thank you for your question. In the second quarter, the WLG lens was released; this was in the model of Xiaomi and for the light intake. And also the transmission of the light has already gained recognition of the users and the many android users showed their interest in our collaboration; so I won't elaborate more details of our collaboration. So, for different modules we have newer project and we are expecting the new projects to be released in the Q4. And the next year, their shipment module also will be better and in the check plant [ph], the module plant is finished in the Q2 in ways the glass plant in mainland and the other synergies of different plants; and we have a strong confidence this WLG's application will be improved and increased. And for the automotive lens -- actually the precision level of WLG in the automotive lens is higher, and especially in the autonomous driving, this precision level is very important and showed interest of our users and the customers, and we also strengthened our communication with different parties. The WLG -- mostly used in the high-end products in this 80 million to 90 million resolutions; so this is -- we also have different collaborations on this WLG lens. So this is the basic situation.
+
+Unidentified Analyst
+
+Okay, thank you very much. Next question is from Frank He, HSBC. I have two questions. The first question is about the plastic lens. The annual shipment volume; do you have any guidance? And you mentioned the 60KK [ph] every month; so what's the target for the third quarter?
+
+Unidentified Company Representative
+
+Thank you for your questions. We don't have a specific guidance but for our products and the penetration in the market, we have the confidence. Therefore going forward, there will be upward trend; it's not only in the amount and the quality and we also emphasize the quality and this is -- for example, this 6P is already accounted for over 13% of the modules and it's over about 20% on the sales [ph]. So we need to match the sales and products of our customers and with the optimization of these products, and we can do better in the competitive environment.
+
+Unidentified Analyst
+
+Thank you. The second question is about the autonomous -- automotive lens. And therefore, the lead [ph], so whether we have the opportunities to enter the supply chain of this laser radar [ph]?
+
+Unidentified Company Representative
+
+I would like to invite Kevin to answer the question. Ibeo's leader -- Ibeo is the leader in this leader, and especially in this solid state radar. And this is a very competitive product and with very high performance. So after the investment, we also strengthened the Tier 1 collaboration with them, and in our agreement we will strengthen the collaboration on the spare parts and module of Ibeo. And this will lay a very good foundation for the long-term collaboration with Ibeo locally; so we will cooperate with them in the sell part, as well as modules. If we have further information, we will share with you in the future.
+
+Unidentified Analyst
+
+Thank you, management. Thank you for the questions.
+
+Operator
+
+Next question is from WATAY Securities [ph]. Please proceed with your question. Yes, we can hear you.
+
+Unidentified Analyst
+
+I have two questions. The first is about WLG. And we talked about WLG many years. If we search WLG online, it's not professional term. For example, the -- what the -- what kind of products -- what kind of products features can make them become a heated [ph] product? So how do the customers comprehend the WLG? And second question is about the pandemic. The pandemic impacted our Q2's performance and the -- you talked about the production capacity in Vietnam. I think most of our capacity is in mainland, and the impact of the pandemic is limited. So how do you minimize the impact of the pandemic in Vietnam?
+
+Unidentified Company Representative
+
+So for the first question of WLG, any features -- any technical features of WLG; I'd like to invite Mr. Chu from our Optic segment to answer. For the first question, the high-end optic lens; there are different features and the first feature is about it's resolution or sharpness. And it's related to it's resolution, and the second is color verification. It's easier to understand the photos you take and the colors in the photos is very close to the real. And third, for example, in the overall picture the pic pixels -- for example, the middle -- the quality of the image is similar to it's quality -- quality of the edge, and this is evenly distributed. So this is the set of features for high-end lens, and the market can accept WLG because it meets the requirements of this high lens, and especially for the optic sensors. And it's easier for WLG to match those optical sensors and to deliver the high quality image experience, and this will be more often used in the different occasions.
+
+Operator
+
+Yes, please ask your questions.
+
+Unidentified Analyst
+
+For the optics, it's not like the -- the third camera or fourth camera, and for the cell phones it's easier for them to do the marketing. But for WLG, the consumers, they cannot see the performance or performance enhancements and their features. From a layman's point of view, I'd only comprehend it's a new product, it's a new class high-breed products. So, can you reach some turning points or tipping points and to let customers know more and accept more in the market?
+
+Unidentified Company Representative
+
+I will add some information, WLG has a higher light intake. With higher light intake if you compare the lens with other lens, and the light intake is higher than 15% to 20%, and therefore there will be big difference in the final image and the photos. Therefore, in the promoting of the WLG; customers -- they will pay more attention to the light intake; no matter it is the end-user or our customers, and this higher light intake will also strengthen the image quality and resolution, and this improved customer experience a lot. Therefore, this is the key technology for the WLG and this is also very important benchmark of metrics for the WLG performance.
+
+You talked about the fourth or third cameras; actually from the perspective of optics, many customers that will see the overall systems, the cameras -- the -- one of the members of the cameras or one of the benchmarks, and actually the number of the lenses won't increase a lot. And our shipment volume; actually, it's increasing than the shipment of 5P to 6P. So for the numbers of those different lenses, it's very hard to achieve; so we have to shut lines and shift our attention to the quality of the lens itself. And as mentioned before, the aperture -- the large aperture or the light intake we have to increase or we will reduce the lens size; so those are the areas we will pay more attention to. And those areas are very important, and for the customers, they are also interested in those areas. And we closely follow the customer's requirements; so I think this is a milestone in the WLG hybrid lenses. And in a very short-term, we have already gained market share. And we have also gained a recognition of the customers, and they are to increase -- have already increased our shipment volume. And we also want to have a better performance and word-of-mouth; so this is our future development trend.
+
+Next question? Please hold -- please hold a moment. And the second question is about a pandemic, I still remember, and I will answer this part. In terms of the pandemic -- and in June, the pandemic impacted our production in Vietnam because we had to follow the order of the Vietnamese government's order, and this impact was on our Acoustics. Actually, the production was less than 20% in Vietnam, and with the control of the pandemic in Vietnam, our production has been almost recovered. It has some impact on our Acoustics, and this sales and also this gross profit in Q3 will be little impacted. But for the overall impact of our Group, it's still very small.
+
+Operator
+
+Thank you. Next question is from [indiscernible].
+
+Unidentified Analyst
+
+Good afternoon, management. I have two questions. The first question; we see this gross profit margin has recorded a decline, especially in Acoustics. And Acoustics is the main contributors in our Group, so I want to know the reasons of this decline? And second question, we also observe there is some electronic companies and they have many uncertainties in the second half of this year. So what's our outlook for the second half of our sales in the second half of the year?
+
+Unidentified Company Representative
+
+First, I would like to talk about the gross profit margin. In Q2, the Q-on-Q decline is about 6 percentage points. And you also mentioned the background and India [ph] smartphones -- actually, the Q2 is the low season, for example, from the IDC statistics. The global shipments volume of the cell phone declined by 10%, and for the overseas customers there was also an obvious decline. So with this impact, and plus the ASP from some main customers; and therefore, there was an impact on our gross profit margin. And the 6 percentage points, most of them are in the Acoustics. And other contributions, for example, in optics, and we also mentioned about the modules and the modules sales is increased from less than 30% to 40%. And this also had some influence on our gross profit margin in Optics.
+
+And another is about the PM; and we are diversifying our smartphones and we expand our business to notebooks and laptops, and also the tablets. So it's increasing, and there will be some influence on our gross profit margin but we still have the confidence for the adjustments and improvement of our gross profit margin. For the outlook of our market in the second half of the year, in order to -- actually, for this global cell phone shipments, it's high double-digit -- high single-digit growth, and we're considering this influence of the pandemic. And the -- for the beginning of the year; our guidance, it's about double-digits and we made some adjustments on this but it's still in the upward trend.
+
+And for our smartphone customers, no matter it is domestic and overseas; and we still observed seasonal growth. And also the ASD can also offset some adjustments off old models of their cell phones. And in Q3 we still hold this prudent attitude that for Q4 we are very optimistic.
+
+Unidentified Analyst
+
+Thank you very clear.
+
+Operator
+
+Thank you for your question. Next question is from Kyna Wong from Credit Suisse.
+
+Kyna Wong
+
+And Benjamin talked about this Q3 and Q4; so whether there will be some influence on the materials. So, whether there will be some delay in the materials, any seasonal impact on your performance?
+
+Unidentified Company Representative
+
+Actually, I'm not sure or I'm not very -- hear clearly about your question. So you are asking about the materials, right?
+
+Kyna Wong
+
+So some people -- so some problems about the yield on materials; so whether this will be any impact on your model [ph] or whether this will influence your outlook in Q3 and Q4 for specific customers and specific projects?
+
+Unidentified Company Representative
+
+We won't comment on the specific projects. And our collaboration with customers are long term, and the production yield as well as the collaboration -- and those are long-term. And the -- for the raw materials, we also observed a little hike on the raw materials but this impact on us is limited. We have already considered those elements.
+
+Kyna Wong
+
+Okay, thank you. Would you please clarify -- and, for example, you want to reach 20% to 25%. So, this is about shipment volume or the cells [ph]? So, this is about the high-end products?
+
+Unidentified Company Representative
+
+So, actually for the shipment it's about 13% for the 6P, and the from sales [ph] -- for the cells, it's already about 22%, and it will continue to improve. And for the specific figures we will share with you in the future, this is 6P.
+
+Kyna Wong
+
+So the original target -- can you reach the original target?
+
+Unidentified Company Representative
+
+Actually, we are progressing towards this target.
+
+Kyna Wong
+
+Understand, thank you.
+
+Operator
+
+Thank you for your question. Next question is from Arthur Lai from Citi Research.
+
+Arthur Lai
+
+My question is about lens. And for this Q2 shipment, it's about -- for example, the lens and the modules is 70 versus 30 [ph] with this different percentage? And the -- for you, you are the -- one of the few companies who can achieve integrated or vertical integration. Therefore, so whether we can reach the 13% gross margin in the Optics? And this is my first question.
+
+Unidentified Company Representative
+
+Thank you. The shipment volume, lens, it's about 170 million. Actually, this is already included the modules, the percentage of the modules is over 80%. So, the events versus modules is about 40% versus 60%. In terms of our modules, so this is the basic situation and development. And you also mentioned the -- we are one of the few companies who can achieve the vertical integration; and actually, we are at a healthy level but we still need to match the customer's demands and requirements. Actually, we have to follow the needs and demands of our customers, and they don't need to use our designated lens. It's important for us to comprehend and understand the customer's needs earlier, and we will provide a total solution to them. And in the future, we will strengthen and enhance our modules performance and upgrade it to the W LG hybrid lens, and to better match the customers' needs.
+
+Arthur Lai
+
+In terms of gross margin; so whether we can reach from 22% to 30%?
+
+Unidentified Company Representative
+
+Actually, we not only rely on gross margin, and gross margin is one of the benchmark of our performance. And we also will pay attention to our addressable amount and the high growth is maintained, and the percentage will influence this gross profit margin.
+
+Arthur Lai
+
+My second question is about your strategy. And the some competitive -- we heard some competitors negotiated or discussed with the customers on 6P. So, how can we cope with this competition?
+
+Unidentified Company Representative
+
+I will answer first. So actually, we didn't receive any discussion on the patents, and we have our proprietary patents, and we have already obtained a 4000 patents covering 5P to 6P to 7Ps [ph]. The specific products I cannot make any further comments on, but truly speaking [ph], our patents can fully protect ourselves and our customers.
+
+Arthur Lai
+
+Any figures added from Mr. Chu [ph]?
+
+Unidentified Company Representative
+
+Yes, those are the basic situation of our patents.
+
+Arthur Lai
+
+Okay, thank you.
+
+Operator
+
+Next question is from Ang Li [ph] of Nomura.
+
+Unidentified Analyst
+
+Actually, I have a follow-up question on the Optics. So, we saw this -- so this is a growth in the Q2. So, what's the target for our short-term development; for example, in the next year or next two years and for the RPMs? So what's the ASPs development; whether there will be an increase in the ASP? So this is my first question.
+
+Unidentified Company Representative
+
+In terms of the modules, and you also talked about the growth, and the growth is sound. And gross profit margin is targeting at good a single-digit growth; and in the end of the year -- we will moderate in the end of this year. And we can reach to 20 to 25 production lines in terms of the production mix. And for the [indiscernible], and this will have a positive influence on our ASP.
+
+Unidentified Analyst
+
+Any supplement from Mr. Chu?
+
+Unidentified Company Representative
+
+For the modules, last year our customers they -- for example, they have to observe stability of our products with our good performance. The reputation of our product is good. So, in the future we will reach more production on the high-end products, and this will also improve our production mix. And this is also in the upward trend.
+
+Unidentified Analyst
+
+So in the end of the year, you talk about the 20 to 25 production lines. So what's about the capacity?
+
+Unidentified Company Representative
+
+At present the 14 lines, so it's about RMB14 million, so you can calculate by this percentage and ratio.
+
+Unidentified Analyst
+
+And in your opening remarks, you also talked about the notebooks and tablets, and this year it will accounted for over 10%. So, for the first half of the year it's about 10%. So in the second half of year, maybe it's 20%? In the next year or the next two years, what's your plan on this regard; so whether this will reach over 50%. And what's your plan for this part?
+
+Unidentified Company Representative
+
+So actually, for our customers -- for our Group, our focus was on the cell phones. And since last year, and we see our strategy, change our customers; we also entered the notebooks and tablets. And also we are progressing this year, the ASP of this part is higher. And also the new customers like Honor or Xiaomi [ph], we have already built a good relationship and collaboration with them, and this part will be increased in the future; so this is a kind of generic usage but we won't decrease our growth of our cell phones. And we also strengthened our collaboration on cell phones to some customers like Honor and Xiaomi [ph]; and I think for their cell phones, this tendency will be maintained. For the notebook and in laptops, there are different projects in progress. Actually, the ISOs percentage is less than 10%; and our target is over 10% or -- so this is our annual target, this is our progressing target.
+
+Unidentified Analyst
+
+So you said less than 10% if it's for the first half of the year, right?
+
+Unidentified Company Representative
+
+Yes.
+
+Unidentified Analyst
+
+Okay.
+
+Operator
+
+Due to the time constraint, we can only accept last question. And last questions is from Morgan Stanley.
+
+Unidentified Analyst
+
+My first question is about WLG. Management also interpret these features but I think markets are more concerned about it's yield and performance. Would you elaborate more details and what kind of size it can reach and will this will become very important contributor to the company, to our Group?
+
+Unidentified Company Representative
+
+For WLG, the revenue contribution is small. The WLG is -- can be regarded as the first year launch in the market. And for the first year we received the positive feedback from the market, and we are discussing the new products with our customers; so in the future in marketing we have the confidence. In terms of the costs; actually, demand and the quantity is small, so it's meaningless to analyze it's splits but we have our internal statistics. We think next year, we will promoted into the 10 million or several 10 million quantity, and this will contribute a lot to our revenue.
+
+Unidentified Analyst
+
+My second question is about the pricing strategy of the AAC. Their shipment volume is increasing and the percentage is certainly increasing but the margin has declined. So whether there will be a fierce pricing strategy for the beginning of the 6P when it is matured, the pricing strategy will be more moderate. So what's your pricing strategy?
+
+Unidentified Company Representative
+
+I think there are two parts. At present our pricing strategy is based on our mature technology for 6P. We think we have already obtained the mature technology and we can enter the competition of the market. And in this competition, we will adopt a relatively aggressive strategy because this is in the entry point. And we saw performance enhancements for 6P; for example, the 108 or the advanced lenses, and our pricing strategy will change. But for our AAC optics, our current strategy is to gain more market share and become the leader in the market. So those are our basic strategy and we are not in the position of maintaining this growth or position.
+
+Unidentified Analyst
+
+Thank you.
+
+Operator
+
+And this concludes the Q&A session. I will pass down to the management for any additional information. We don't have any additional information. Thank you very much for your time. Thank you.

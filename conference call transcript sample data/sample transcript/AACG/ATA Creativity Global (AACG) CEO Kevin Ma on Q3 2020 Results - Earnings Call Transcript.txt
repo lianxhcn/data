@@ -1,0 +1,92 @@
+ATA Creativity Global (NASDAQ:AACG) Q3 2020 Earnings Conference Call November 12, 2020 8:00 PM ET
+
+Company Participants
+
+Carolyne Sohn - Investor Relations
+Kevin Ma - Chairman and Chief Executive Officer
+Amy Tung - Chief Financial Officer
+Jun Zhang - President
+
+Operator
+
+Greetings and welcome to ATA Creativity Global 2020 Third Quarter and Nine Months Financial Results Conference Call. [Operator Instructions] As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, Carolyne Sohn of The Equity Group. Please proceed.
+
+Carolyne Sohn
+
+Thank you, operator and hello everyone. Thank you for joining us. The press release announcing ATA Creativity Global’s or ACG’s results for the three and nine months ended September 30, 2020 is available at the IR section of the company’s website at www.atai.net.cn. As part of this conference call, the company has the accompanying slide presentation available on its website. A replay of this broadcast will also be made available at ACG’s website for the next 90 days.
+
+Before we get started, I would like to remind everyone that this conference call and any accompanying information discussed herein contain certain forward-looking statements within the meaning of the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terms such as anticipate, believe, expect, future, plan, outlook and will and include, among other things, statements regarding ACG’s future growth and results of operations, ACG’s strategy of becoming a leading international education service provider, ACG’s plans for mergers and acquisitions generally, the benefits of the Huanqiuyimeng acquisition, ACG’s ability to operate efficiently and maintain continued financial strength under unusual circumstances, ACG’s growth strategy and subsequent business activities, market demand for ACG’s portfolio training programs and other education services, the impact of a COVID-19 outbreak on ACG and its operations, ACG’s plan and anticipated benefits of the measures implemented in response to the COVID-19 outbreak and the implementation, suspension or termination of the share repurchase program.
+
+Although the company believes that the expectations reflected in its forward-looking statements are reasonable as of today, those statements are subject to risks and uncertainties that could cause the actual results to differ dramatically from those projected. There can be no assurance that those expectations will prove to be correct. Information about the risks associated with investing in ACG is included in filings with the Securities and Exchange Commission, which we encourage you to review before making an investment decision. The company does not assume any obligation to update any forward-looking statements as a result of new information, future events, changes in market conditions or otherwise, except as required by law. Regarding the disclaimer language, I would also like to refer you to Slide 2 of the conference call presentation for further information.
+
+All U.S. dollar amounts in this conference call relating to financial results for the three and nine months ended September 30, 2020, are converted from RMB using exchange rate of RMB6.7896 to $1, the noon buying rate as of September 30, 2020. All historical conversions are accurate as of the time reported, unless otherwise noted. The company reported its financial results under U.S. GAAP in RMB, and all percentages calculated in the presentation are based on RMB, unless otherwise noted. For those of you following along with the accompanying PowerPoint presentation, there is an overview of the company on Slide 3 and management will be referring back to this deck throughout the prepared remarks. In addition, we are more than happy to take investor questions through our webcast portal or via e-mail to the company.
+
+On today’s call, the company’s CFO, Ms. Amy Tung, will provide a brief overview of operating and financial highlights for the third quarter and first nine months of 2020 and then ACG’s Chairman and CEO, Mr. Kevin Ma and President, Mr. Jun Zhang, will conclude the remarks with a discussion of the company’s outlook as well as its long-term growth strategy before opening the floor for questions.
+
+With that, I will turn the call over to ACG’s CFO, Ms. Amy Tung. Please go ahead, Amy.
+
+Amy Tung
+
+Thank you, Carolyne and welcome everyone. Good evening to those in America. We appreciate everyone’s time. With the public health situation in China continuing to improve, nearly all of our training centers have resumed traditional in-person delivery of coursework since late in the second quarter. However, some students continued to pursue their coursework online during the third quarter of 2020. Should any location see a resurgence of positive cases, it will be necessary that we revert to online-only delivery once again. So we remain mindful of the threat that the virus poses and have taken extra precautions to prioritize the health and safety of our students, faculty, staff and employees. Since the pandemic started at the beginning of 2020, we have seen enrollment within our portfolio training program continue to increase with each passing quarter. While some students have decided to postpone their coursework, many have demonstrated an impressive ability to adapt to the unusual circumstances in which we have found ourselves. And we have put forth efforts to ensure that we are fulfilling their academic and emotional needs while our training centers were closed for several months.
+
+Our results for the third quarter of 2020 continued to be impacted by the ongoing pandemic environment, mainly our educational travel services segment as almost all tours were canceled. We continued to partner with different prestigious institutions in offering some short-term online boot camps. During the third quarter, we also launched new internship programs to allow our students to gain experience in the working world at certain globally recognized companies.
+
+For the third quarter of 2020, credit hours deliveries for our portfolio training programs decreased from the prior year period, which was primarily a reflection of the continuing COVID-19 environment. However, there was a 58.2% sequential increase from the number of portfolio training credit hours delivered as reported in quarter 2, which we believe was the result of traditional in-person delivery becoming increasingly available during the quarter and also speaks to the effectiveness of our online platform as many students continue to pursue their studies remotely. We provide a year-over-year breakdown of these credit hours and additional operating metrics on the next slide. Later in the presentation, Kevin and Jun will provide an update on current operations and where they stand.
+
+Student enrollment for the period was 1,225, out of which 666 were enrolled in the portfolio training program. The portfolio training program consists of time-based programs and project-based programs. And we provide a breakout of the credit hours delivered during the period compared to the prior year comparable period in our presentation. Revenue is recognized proportionately per credit hour delivered. However, as the total credit hours of project-based programs are not too determined, the progress of the project-based program, which is measured by credit hours delivered compared against the total credit hours expected to be delivered, is reevaluated at each quarterly and annual financial reporting date.
+
+With that, let’s move to the financials of the quarter. I wanted to remind everyone that for the results shown for this period, we have applied acquisition accounting and made purchase price allocation adjustments, PPA, to various assets acquired and liabilities assumed from the Huanqiuyimeng acquisition. As a result, certain line items will include adjustments from amortization of the difference between the carrying value in Huanqiuyimeng’s book and the fair value assessed from the PPA process applied to the Huanqiuyimeng acquisition. I will highlight where we saw some impact on our financials due to this PPA adjustment for the 2020 third quarter. It is also important to note that the financial schedule includes contributions from Huanqiuyimeng for only a portion of the third quarter in 2019 from August 6 through September 30, whereas we have a full quarter of results for the comparable 2020 period.
+
+Total net revenues for the third quarter of 2020 were RMB42.2 million compared to RMB40.6 million in the third quarter of 2019. Net revenues for this quarter include a PPA adjustment decrease of RMB6 million. Gross margin was 37.4% during the 2020 third quarter compared to 35.9% in the prior year period. Excluding the PPA adjustment to net revenues, gross margin for the 2020 third quarter would have been 45.2%.
+
+Net income attributable to ACG was RMB19.3 million for the period compared to a net loss of RMB25.2 million in the prior year period. This change was primarily contributed by a one-time fair value markup gain of RMB34.1 million recognized for one of the company’s strategic investments, which completed a new round of funding during the quarter.
+
+Moving to financial highlights for the first nine months of 2020, total net revenues for the year-to-date, YTD, period were RMB101.3 million compared to RMB43.6 million in the prior year period. Total net revenues for the period include a PPA adjustment decrease of RMB18 million. Gross margin was 33.7% for the first nine months of 2020 compared to 34.3% in the prior year period. Excluding the PPA adjustment to net revenues, gross margin for the first nine months of 2020 would have been 43.7%. And net loss from continuing operations attributable to ACG was RMB33.3 million in the first nine months of 2020 compared to net loss of RMB56.3 million in the prior year period.
+
+Finally, we continue to be in a solid financial position with $16.5 million in cash and cash equivalents on the balance sheet. Working capital deficit was $19.9 billion and total shareholders’ equity was $38.3 million at September 30, 2020 compared to working capital deficit of $11.7 million and shareholders’ equity of $43.9 million respectively at December 31, 2019.
+
+This past May, our Board of Directors authorized the repurchase of up to $1 million of the company’s issued and outstanding ADS from time-to-time in open market and privately negotiated transactions. As no additional shares were purchased since August, the company had repurchased 450,337 ADS at an average stock price of $1.2631 by November 1, 2020. This share repurchase plan remains in effect until December 31, 2020.
+
+With that, I would now like to turn it over to Kevin who will expand upon our outlook and growth strategy.
+
+Kevin Ma
+
+Thank you, Amy. At the beginning of 2020, the world was faced with the increased grim situation as the pandemic made its way from city to city and then country to country. We all found ourselves needing to adapt to a completely foreign environment. Having completed the acquisition of Huanqiuyimeng just months before the end of 2019, ACG was in the fortunate position of having substantially assimilated the two companies by early 2020 when China began to see the initial devastating impact of the pandemic. Timing played a key role in our successful transitioning of coursework to our online platform as we had worked to develop a technology system that would support Huanqiuyimeng’s daily operations and leveraged our leadership in finance, management and analysis, all of which were crucial elements contributing to our successful navigation of challenges created by the pandemic.
+
+Throughout those pandemic conditions, we have continued to adapt while thinking new ways to leverage our online platform. For example, we have a highly recognized teacher who is an expert in a certain subject based at one of our training centers in a first-tier city in China. This teacher can also be made available to students in other cities within remote learning. We feel that this is a natural evolution of our platform. The pandemic environment has only served to accelerate students’ interest and acceptance of online as a viable learning vehicle.
+
+As Amy mentioned at the beginning of this call, the public health situation in China has improved to a point where nearly all of our training centers have resumed our traditional in-person delivery of coursework and we anticipate this will help drive enrollment growth in future periods. However, I want to emphasize that we remain cautious when it comes to ensuring the safety of our students, faculty and employees as the pandemic is not over. We believe ACG is well positioned financially and operationally to capitalize on our growth opportunities and we are optimistic for the future as we head into 2021.
+
+I would now like to hand the floor over to Jun Zhang, ACG’s President, to provide an update on our current growth initiatives. Jun will make his remarks in Mandarin, which will be followed by an English translation.
+
+Jun Zhang
+
+[Foreign Language]
+
+Carolyne Sohn
+
+Thank you, Kevin. For the third quarter of 2020, we saw significant improvement in enrollments for the portfolio training program from the prior sequential quarter. Enrollment by headcount increased by 50%, while the number of portfolio training credit hours delivered increased by 58.2% from Q2. We believe this was a result of the resumption of traditional in-person delivery of coursework at more and more training centers during the third quarter. At the same time, many students continued to pursue their studies online. While the public health situation in China has improved, we anticipate the pandemic will continue to have an impact on our international educational travel business.
+
+I would like to note that demand for and interest in studying abroad remains high. But the circumstances of the global pandemic have placed many students’ plans on hold for the time being. The following winter do tend to be a lighter travel season, but we continue to work with a few well-known overseas art schools and institutions in offering alternatives to our traditional travel program. As Amy mentioned, these include short-term online boot camp programs and internships at recognized firms in various fields like fashion and architectural design.
+
+While we are now able to resume marketing to prospective students as we would have traditionally, we are seeing increased traction from the diversified new online and mobile marketing initiatives. We continue working to strengthen lead development, sharing of teaching resources between campuses and implementation of what will be an ongoing offering of online coursework. As we continue to focus our efforts on improving our online platform and offerings, we are maintaining conversations with our overseas partners about ways in which we can work together in this pandemic environment. Technology will continue to be an important element in our growth initiatives even after the impact of the pandemic has subsided. And ensuring our students have the necessary access to the resources and support they need, whether in person or online, is a key priority.
+
+With that, I will turn it back to Kevin.
+
+Kevin Ma
+
+Thanks, Jun and Carolyne. To conclude, ACG is optimistic about the opportunities ahead as the year 2020 comes to a close. We continue to be in a solid financial position and have increased our operating efficiency over the course of this year. Our students have proven resilient under most challenging of circumstance. And I am pleased that our institution was able to adapt to meet and hopefully exceed the expectations over the past several months. We continue to monitor the global situation closely as the impact of the pandemic is still being heartfelt in many places around the world. Thank you to our students and our hardworking employees as well as our associates, families and friends for their ongoing support. Everyone, please stay safe and healthy.
+
+With that, operator, let’s open it up for questions.
+
+Question-and-Answer Session
+
+Operator
+
+Kevin Ma
+
+Thanks again to all of you for joining us. If anyone has questions for us, please feel free to reach out directly to us or our Investor Relations firm, The Equity Group. We are always available to speak to investors and look forward to speaking with you all during our next quarterly call. Thank you.
+
+Operator
+
+This does conclude today’s teleconference. You may disconnect your lines at this time and thank you for your participation and have a great day.

@@ -1,0 +1,442 @@
+Agilent Technologies, Inc. (NYSE:A) F1Q09 Earnings Call February 17, 2009 4:45 PM ET
+
+Executives
+
+Rodney Gonsalves - Vice President of Investor Relations
+Bill Sullivan - President and CEO
+Adrian Dillon - Executive Vice President of Finance and Administration and CFO
+
+Analysts
+
+Mark Moskowitz – JP Morgan
+John Wood - Banc of America
+William Stein – Credit Suisse
+John Harmon - Needham & Company
+Ajit Pai – Thomas Weisel
+Richard Eastman – Robert Baird
+
+Operator
+
+Welcome to the first quarter 2009 Agilent Technologies, Incorporated Earnings Conference Call. (Operator Instructions) I would now like to turn your presentation over to Mr. Rodney Gonsalves, Vice President of Investor Relations.
+
+Rodney Gonsalves
+
+Welcome to Agilent's first quarter conference call for FY 2009. With me are Agilent's President and CEO, Bill Sullivan and Executive Vice President of Finance and Administration and CFO, Adrian Dillon. After my introductory comments, Bill will give his perspective on the quarter and the business environment. Adrian will follow with his review of the financials and the performance of each of the businesses. After Adrian’s comments we will open the lines and take your questions.
+
+In case you haven’t had a chance to review our press release, you can find it on our web site at www.Investor.Agilent.com. We are also providing further information to supplement today’s discussion. After you log on to our web casting module from our web site you can click on the link for supplemental information. You will find additional information such as our end market revenue breakout and historical financial information for Agilent's continuing operations.
+
+In accordance with SEC Regulation G, if during this conference call we use any non-GAAP financial measures you will find on our web site the required reconciliation to the most directly comparable GAAP financial measure. In addition, I would like to remind you that we may make forward-looking statements about the future financial performance of the company that involves risks and uncertainties. These risks and uncertainties could cause Agilent's results to differ materially from management’s current expectations.
+
+We encourage you to look at the company’s most recent filings with the SEC to get a more complete picture of all the factors at work. The forward-looking statements, including guidance provided during today’s call are only valid as of this date and the company assumes no obligation to update such statements as we move through the current quarter.
+
+As a reminder Agilent is now including share-based compensation in both its segment and pro forma results. We have restated our historical results to reflect the change and those restatements are available on our web site.
+
+Now, I'd like to turn the call over to Bill for his comments.
+
+Bill Sullivan
+
+Thanks Rodney and hello everyone. In a few moments Adrian will provide you with a detailed analysis of our first quarter results by business and geography. Let me start by acknowledging that in the first quarter Agilent has felt the full brunt of the severe worldwide economic downturn.
+
+Revenues were down $109 million and earnings per share down $0.10 for the mid-point of our December guidance. Due to continuing weakness in electronic measurement and semiconductor board tests as well as slowing in the analytical measurement markets, revenues were down 16% from last year, orders were down 20% a clear indication of the strong headwinds we continue to face.
+
+The fundamental cause of our earnings miss was the very weak orders and revenue in January. We saw weakness across all segments and business units in the company. As a result of January’s order decline it is difficult to give guidance. However, we believe that Agilent’s second quarter revenues and earnings will be flat on a sequential basis. There are several reasons for this.
+
+Number one, Q2 is seasonally stronger than Q1. There are more days and fewer holidays in the second quarter. In Q1 we have both the Christmas and lunar New Year. Number two; there are some bright spots in the market. For example we see strength in two analytical markets, Life Science, Academic and Government Research as well as Food Safety.
+
+Likewise, we continue to be excited about the success of our LTE Test solutions as well as new opportunities in China due to the release of 3G licenses. Number three, aerospace and defense is typically stronger in the second quarter. The Agilent PNA-X network analyzer continues to be very well received by aerospace defense customers.
+
+Four, from a product standpoint we continue to do well in areas such as microarrays and LC/MS. Our copy number variation applications are a major success including the recent Sanger Center deal in partnership with Oxford Gene Therapy for technology. Our LC/MS offerings continue to take market share in a very competitive environment.
+
+Finally, we have several major product launches in Q2. These include Agilent’s 7000A GC/MS triple quad systems which start shipping in the second quarter to strong orders.
+
+While we are hopeful for a flat Q2 we continue to ensure that our expenses are in line with the realities of the market place. At our December Analyst’s meeting we discussed Agilent’s expense structure. In conjunction with our operating model’s inherent flexibility we have been taking aggressive actions to manage the company through this downturn.
+
+In Q3 of last year we stopped all non-critical hiring and dramatically reduced discretionary spending. In Q4 we suspended pay increases, changed the distribution formula for our variable pay program and initiated worldwide shut downs for the holidays. At the beginning of this calendar year we initiated a pay reduction for employees worldwide.
+
+At our December meeting we informed you that these combined actions would project Agilent up to a 15% decline in revenue, equal to the bottom of 2001 technology crash. We have now reached that threshold and are now taking further actions as a result. We have made a decision to exit the inspection business and semiconductor board tests. These include automated optical inspection and automated x-ray inspection.
+
+This is consistent with Agilent’s longer term strategy to focus on our core business in electronic tests. We have communicated with the affected customers, assuring them that we will continue to support their installed products.
+
+We are also restructuring our global infrastructure organization which includes finance, legal, human resources, information technology, workplace services and our central labs. The restructuring will provide a more appropriate size and structure for the current economic realities while ensuring that we are able to operate competitively through the downturn. In addition, in combination these additional actions will result in a headcount reduction of approximately 600 jobs worldwide and provide annual run rate savings of approximately $150 million.
+
+Again, this is consistent with the plans we had shared with you in December. The culmination of actions taken today will reduce Agilent’s annual expenses by approximately $600 million. Our restructuring efforts will enable us to continue funding our sales, service and marketing as well as our investments in Research and Development.
+
+We remain steadfast in managing our cost structure through the downturn and maintaining operating profit increment of 30-40%, consistent with Agilent’s operating model. Thanks for being on the call today. Now I will turn it over to Adrian.
+
+Adrian Dillon
+
+Thank you Bill. Good afternoon everyone. I am going to offer a few overall perspectives on the quarter for Agilent review the performance of our three business segments and conclude with some thoughts about the outlook to the second quarter and the remainder of fiscal 2009. Then we will turn it back to Rodney for Q&A.
+
+As we indicated in our press release, Agilent felt the full brunt of the severe economic downturn in this year’s first quarter. Revenues of $1.16 billion were down $227 million or 16% from last year. We moved quickly to minimize the impact of this unexpected weakness by taking aggressive actions to reduce operating costs across all operations and functions.
+
+As a result, operating profits were down only $69 million and operating profit decremental of 30%. But operating earnings per share of $0.20 were well below our earlier expectations due to the lower activity levels. Revenues were down across the globe with the Americas off 10%, Europe off 21% and Asia down 18% from one year ago.
+
+By segment, semiconductor and board test was hardest hit off 49% from last year while electronic measurement was down 23% and bio-analytical measurement revenues were off 1%. Operating cash generation was seasonally weak during the first quarter and this year was no exception but we did generate $17 million of positive cash flow from operations despite the very weak economy.
+
+While inventories were higher than we would like, working capital remained under generally good control and was reduced by $68 million from last year’s fourth quarter. Return on invested capital fell to 11% this quarter compared to 19% one year ago because of lower earnings. During the quarter we repurchased $125 million of stock and we ended the quarter with net cash and short-term investments of $852 million.
+
+In short, the economic downturn was even more ferocious than we had anticipated and it clearly impacted Agilent’s overall performance. But, given the market conditions we faced we feel we did a pretty good job controlling expenses, managing the balance sheet, generating cash and delivering operating results consistent with Agilent’s operating model. That remains our commitment to shareholder value creation over the cycle, good times and bad.
+
+Turning to the numbers, first quarter orders were $1.15 billion, down 20% from last year. Electronic measurement orders of $560 million were down 28%. Bio-analytical orders of $523 million were down 2% and semiconductor and board test was down fully 66% from last year.
+
+First quarter revenues of $1.166 billion were down 16% from last year or down 14% on local currency terms. First quarter gross margins at 54.3% were about one point below last year. Semiconductor and board test gross margins at 38% were off 13 points due to dramatically lower volumes and electronic measurement margins at 55% were 2.5 points below one year ago on lower volume but adjusting for volume they were actually a bit above last year due to favorable mix. Bio-analytical gross margins at 55% were 2 points better than last year because of improved margins on our newer instruments.
+
+Given the difficult environment we have continued to be very aggressive about controlling operating expenses. First quarter expenses were down $71 million or 12% as reported and down nearly 10% adjusting for currency. A $32 million drop in the pay out from Agilent’s variable pay program was responsible for nearly 45% of the decline in operating expenses compared to last year.
+
+As reported, R&D spending of $164 million in the quarter was down 9% from last year and 14% from revenue. SG&A expenses at $374 million were down 13% from last year’s first quarter and were up 32% of revenue. The company’s first quarter operating margin was 8.2%, down 3.5 points from last year on much lower volumes but a relatively attractive 30% operating profit decremental.
+
+Other income and expense was down $15 million from last year with an $18 million drop in net interest income partially offset by a $3 million pick up in other income. Our tax rate during the quarter was 21%. Pro forma net income of $72 million or $0.20 compares with $0.36 per share one year ago. Parenthetically, share based compensation of $21 million in this year’s first quarter compares with $30 million one year ago.
+
+Moving on to cash, page four of our press release financial tables provides a detailed reconciliation from our non-GAAP to GAAP income. Summarizing, we had non-GAAP income of $72 million. We had restructuring and impairment charges of $56 million in the quarter. Non-cash amortization charges of $12 million. Tax benefit of $60 million leaving us with GAAP income of $64 million or $0.18 per share compared to $0.31 per share one year ago.
+
+Turning to cash, we had a great performance in receivables. Receivables of $630 million or 49 day sales outstanding is $140 million improved from the fourth quarter of this year. Inventories on the other hand were about flat, $9 million higher than the fourth quarter of this year and a ratio of days on hand of 14 days higher than the first quarter of last year at 112 days on hand. Inventories must be a source of cash as sales decline and inventories will obviously be a clear focus of our attention in the second quarter and for the remainder of this year.
+
+Cash from operations was a positive $17 million versus positive $4 million last year. Capital spending in the quarter was $34 million offset by $42 million of depreciation and amortization. During the quarter we repurchased 6.8 million common shares for $125 million and issued 2 million shares generating $26 million largely from our employee stock purchase program. We also had anti-dilution equivalent to 5.9 million shares due to a quarterly average stock price declining from $30.08 in the fourth quarter to $18.32 in the first quarter resulting in 352 million fully diluted shares outstanding.
+
+As I said earlier, we ended the quarter with net cash and short-term investments of $852 million.
+
+Turning to segments, bio-analytical measurement had another great operating performance in the first quarter but also saw signs of weakening market activity. The segment’s nearly three-year record of double digit order growth came to an end in Q1 with orders of $523 million down 2% from one year ago. Revenues of $525 million were down 1% from last year and up 2% on an organic basis.
+
+Both life sciences and chemical analysis were off 1% from last year.
+
+Geographically, the weakness was most pronounced in Europe which was off 11% while the Americas were up 1%. Asia showed the most strength, up 10% from last year with China continuing strong up 37% and Japan rebounding from a weak performance last year up 17%.
+
+By product platform both GC’s and LC’s were weaker while both microarrays and LC/MS systems were both up double digits from last year. Life sciences revenues of $238 million were down 1% from last year and down 4% excluding Velocity 11. Life sciences markets have been weak in Europe, flat in the Americas and mixed in Asia with China strong, Japan flat and India weak due to lower CRO spending.
+
+Revenue from pharma and biotech markets was down 8% year-over-year and off 11% on an organic basis. Capital spending is continuing under pressure in both pharma and biotech with many customers restructuring. Demand for LC’s was lower than one year ago. Consumables and services spending, however, remains relatively steady.
+
+Revenue from academic and government markets was up 20% reflecting continued funding for genomic research in the U.S. and funding for enabling new technologies in Europe. The mix was particularly strong for our high end systems, primarily Mass Spec and for our microarrays which were up 28% from one year ago.
+
+First quarter chemical analysis revenues of $287 million were off 1% from last year. From a product perspective, GC’s were soft while demand remains strong for the 6460 triple quad LC/MS and orders were higher for the new GC/MS triple quad that will begin shipping this quarter.
+
+Revenue in the food safety market was up 13% year-over-year as increased regulation and worldwide food scares continue to drive growth around the world. China remains particularly strong fueled by demand for pesticide and drug residue analysis.
+
+We are seeing slower growth in petrochemical which was up 1% from last year as lower oil prices begin to slow the pace of investment spending. Environmental spending was weak off 13% from last year reflecting continued lab consolidation and reduced government spending while forensics was also soft, down 10% with spending at all levels of government slowing for forensics applications.
+
+Bio-analytical measurement had an excellent first quarter operating performance especially given the softening top line. Operating profit of $101 million was $14 million above last year despite a $6 million decline in revenues. As mentioned earlier, gross margins were up 2 points from last year and operating margins at 19% were nearly 3 points above one year ago. Segment ROIC improved one point to 25%.
+
+Turning to electronics measurement, first quarter orders of $560 million were 28% below last year. Revenues of $596 million were off 23% from one year ago with across the board weakness in general purpose and communications markets. Geographically the Americas were relatively stronger, down 15% while Europe was down 26% and Asia was down 29%.
+
+General purpose test revenues of $337 million were down 23% from last year. Aerospace and defense revenues were down 11% with relative strength in China and a flat U.S. market more than offset by weakness in Europe and Japan.
+
+Computer and semiconductor revenue was off 24% reflecting the capital spending freeze in both manufacturing and R&D markets while other general purpose test markets were down 30% with particular weakness in electronics manufacturing and automotive markets.
+
+Communications test revenues of $259 million were down 23% year-over-year with double digit declines across all end markets. Wireless manufacturing was down 16% from last year with higher demand for SMART phones only partially offsetting overall handset weakness and restructuring at many contract manufacturers.
+
+Wireless R&D was down 27% from last year. We saw a collective spending pause as customers tried to sort out just how bad things are going to get. R&D spending is focused on new technology such as LTE and wireless LAN while WiMax related test equipment spending continues to decline. Broadband R&D and manufacturing was also weak for the same reasons, down 22% from last year.
+
+Finally, network monitoring was off 33% and installation and maintenance was down 29% as many service providers froze spending given the current economic climate. Electronic measurement moved quickly to reduce spending in the face of the sudden severe weakness in revenues. Operating profits of $7 million were down $70 million from last year in the face of $177 million drop in revenues, a 40% decremental. Gross margins were off 2.5 points from last year because of lower volumes but adjusted for volume were actually a point above last year due to improved business mix. Opex was $49 million below last year but operating margins fell 9 points to 1%. ROIC fell 16 points to 3% driven by lower profitability and relatively flat invested capital.
+
+Finally, turning to semiconductor and board tests, activity related to the semiconductor equipment and board test markets came to a virtual halt in the first quarter with orders of $32 million down 66% from last year and revenues of $45 million down 49% from one year ago. All markets and all geographies were down sharply. Agilent previously announced a restructuring of this segment and last week we announced we were exiting the automated optical and x-ray inspection product lines because they were judged unable to achieve results consistent with Agilent’s operating model.
+
+The segment’s first quarter operating loss from operations of $13 million was $16 million below last year’s results on a $44 million decline in revenues or a 36% decremental. Gross margins fell 13 points due to lower volumes while operating expenses declined by $12 million.
+
+Finally, turning to the outlook Bill has already suggested that forecasting in the current environment is almost futile as visibility is virtually nil. Our best current guess is that second quarter revenues and operating earnings which are normally seasonally stronger will be roughly inline with first quarter results. The reality, however, is that we don’t know where or when this downturn will bottom. Our commitment is to delivering performance consistent with Agilent’s operating model which is characterized by:
+
+Each business achieving a 20% ROIC on average over the economic cycle. Two, achieving a 30-40% operating profit incremental throughout the cycle. Three, remaining in control of our economic destiny by remaining operating cash flow positive at every point in the economic cycle.
+
+At our December 2008 Analyst Meeting we laid out the implications for earnings and cash generation consistent with this operating model depending on the depth of the economic downturn and we detailed the additional actions we would take depending on how bad things got. At this point we are assuming that Agilent’s 2009 revenues will be down roughly 20% with electronic measurement off 25% from 2008 results, bio-analytical down 5% and semi and board tests off 50%.
+
+As such we are now implementing the restructuring we indicated would be required should revenues decline more than 15%. This restructuring of our global infrastructure operations in combination with the exit of our inspection business should enable Agilent to achieve annual run rate savings of about $150 million. The cash cost of this program will be roughly $100 million and the costs will be accrued fairly ratably over the next three quarters.
+
+Headcount from this restructuring will be reduced by about 600 and the program should be largely completed by our fiscal year end. With that let me turn things back over to Rodney for the Q&A.
+
+Rodney Gonsalves
+
+Thanks Adrian. Eric please go ahead and give instructions for the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) The first question comes from the line of Mark Moskowitz – JP Morgan.
+
+Mark Moskowitz – JP Morgan
+
+Bill, can you talk a little about the dynamics in your profile in terms of R&D tests versus manufacturing tests? I’m just trying to get a sense if there is another shoe to drop or are you seeing pretty much broad weakness across both R&D and manufacturing tests?
+
+Bill Sullivan
+
+As Adrian indicated as well as myself, we have seen a drop across all the segments in electronic measurement moving forward. How much of this is just delays as people sort out the new year needs to be determined. From an activity standpoint you would expect the manufacturing tests to drop and it did. The slow down in wireless R&D in particular we would like to think of as a pause since there is no evidence that people are re-trenching in LTE and WiMax or the roll out of G3 inside of China or the aerospace and defense but obviously the drop in Q1 we would want to ask your question.
+
+Mark Moskowitz – JP Morgan
+
+As far as the LC/MS drivers could you talk about how sustainable we should think of the up tick there relative to the overall market?
+
+Bill Sullivan
+
+We are in a very, very strong competitive position in this market and we have done a very good job of sorting out opportunities moving forward. If the overall analytical market decreases into 2009 it is hard to believe this product line won’t be impacted. We are focusing this team and all the rest of the teams to make sure we have the best measurement solution for the customers that have the funding to fund their projects.
+
+Adrian Dillon
+
+Just to elaborate on that a little bit, one of the things we discovered is that the application of the LC/MS to food testing has been much stronger than we anticipated where we are actually creating new applications through the unique sensitivity of this instrument. Part of the reason for its strength and part of the reason we think it will be enduring is because it is applying right into the most strong need for these types of instruments on a worldwide basis which is food safety and testing.
+
+Mark Moskowitz – JP Morgan
+
+Given the environment and how you do have so many different moving parts to Agilent, you have been very proactive in addressing and cutting costs, how should investors think about one the rebound in some of your R&D and sales and marketing focus going forward in terms of as you just mentioned food safety doing better? Are there going to be certain areas where you kind of table some R&D development or are you going to continue to be very focused on providing a very broad based, leading edge test and measurement portfolio?
+
+Adrian Dillon
+
+Right now given all the changes that we have made, all of the focus on reducing expenses consistent with our operating model we have not had a major impact to our R&D investment at all. If you look at each of our major business units and segments we have very strong instrument platforms that we need to continue to invest. That doesn’t mean some spectrum analyzers to scopes to Oscilloscopes to LC/MS we are still fully funding the development to make sure we have leading edge technology on each of our major instrument platforms as well as a leading position in each of our segments.
+
+Mark Moskowitz – JP Morgan
+
+Can you quantify, I may have missed this and I apologize, did you quantify the board businesses you are exiting? How much that is of the overall board segment in terms of revenues?
+
+Bill Sullivan
+
+No we did not. Honestly it is very little at the moment because there is a literal fire strike among all contract manufacturers for virtually any equipment so it is [diminuous] at this point.
+
+Operator
+
+The next question comes from John Wood - Banc of America.
+
+John Wood - Banc of America
+
+Adrian, if total revenues end up down 20% like is in your plan in FY09 what free cash flow would you envision for this year?
+
+Adrian Dillon
+
+I would envision order of magnitude $400 million.
+
+John Wood - Banc of America
+
+How should we think about the buy back over the next three quarters?
+
+Adrian Dillon
+
+You should assume a continued reduced rate of $125 million per quarter until we announce otherwise.
+
+John Wood - Banc of America
+
+On the bio-analytical side I guess the plan is now for down 5% on revenue there versus flat. What incrementally has deteriorated if anything? It looked like the orders were only down 2 so holding on pretty well. What has changed from the December Analyst period on the bio-analytical side?
+
+Bill Sullivan
+
+The fundamental problem is, and again hopefully it is an anomaly, is that January orders for our analytical business is a lot less than what the quarter would suggest. As Adrian had outlined we are seeing a slow down in almost every applied market except for food and other than academic and research where we have a very small market share we are seeing decreased orders in the pharmaceutical industry. So again we have this anomaly in the last month of our quarter which typically is our strongest was not. In fact it was weaker than the previous two months and so that really clouds the outlook moving in. Outside of the government and academic research and life science and food industry we are assuming that the rest of the various segments will decrease as we progress into 2009.
+
+John Wood - Banc of America
+
+Bill are you willing to go into any more detail of “a lot less” quantifying that in January in the bio-analytical side?
+
+Bill Sullivan
+
+Orders were down 12% year-over-year.
+
+Operator
+
+The next question comes from William Stein – Credit Suisse.
+
+William Stein – Credit Suisse
+
+Given this new view on the revenue for the year, are you able to talk about what an earnings target would be for the full year?
+
+Bill Sullivan
+
+You want to model it consistent with Agilent’s operating model which is basically a 40% decremental on operating profits and I think you will get very close to our planning assumptions.
+
+William Stein – Credit Suisse
+
+A question on the inventory, I was kind of surprised to see it up in dollar terms. I don’t think there was ever an expectation of increasing revenue in the quarter. Can you help us understand what happened there? Was there something unusual that might have happened to trigger an inventory build?
+
+Bill Sullivan
+
+Actually from my perspective it seemed an incredible job of only having inventory slightly increase from the previous quarter given the dramatic decrease in revenue and of course below the mid range of our expectations. All of the worldwide manufacturing teams all have aggressive plans to reduce inventory as quickly as possible. You just can’t react given the $100 million revenue mix in the quarter.
+
+Adrian Dillon
+
+Let me reassure you that is our area of focus. We intend to get those days on hand back down to the low 90’s as we have characteristically had. That will be a source of cash throughout the rest of this year.
+
+William Stein – Credit Suisse
+
+Around how long are we talking? One quarter? Two quarters? To get to the 90’s.
+
+Adrian Dillon
+
+Let’s say two or three.
+
+Bill Sullivan
+
+I have a comment, our whole demo inventory and our demo’s for customers are included in that number and you just have the mathematical problem of having a higher percent of inventory versus revenue but in terms of the operational inventory that Adrian outlined we will aggressively reduce that over the next few quarters.
+
+Operator
+
+The next question comes from John Harmon - Needham & Company.
+
+John Harmon - Needham & Company
+
+How did your Oscilloscope products do, maybe better or worse than the general purpose category? Where do you stand in terms of refreshing the products in the product cycle?
+
+Bill Sullivan
+
+Overall, our Oscilloscope business did equally as good and equally as bad as the rest of our general purpose. I think the other guy had a pretty good quarter. They had a rebate program to my understanding as well as a product launch, as well as one would expect after decades of our competition we will be also introducing new products as we move forward.
+
+John Harmon - Needham & Company
+
+In a period of weaker demand did you see a shift towards low cost instrument platforms or did they perform about as well as everything else?
+
+Bill Sullivan
+
+Everything was down across the board for first order.
+
+Adrian Dillon
+
+In fact, as I tried to emphasize, if anything the quality of the sales was improved. We had a better mix as we had more software and more higher end instruments. It was the manufacturing oriented instruments that got pounded the most.
+
+John Harmon - Needham & Company
+
+Finally, your decision to exit x-ray tests, you gave three criteria for businesses that you keep. Was it primarily due to the buyer strike as you called it or was the business kind of just barely above the threshold before and then the recent downturn really pushed it permanently below in your opinion?
+
+Bill Sullivan
+
+First of all, it has been a business where the team has struggled to get to the Agilent operating model. We have had major restructuring, moved the responsibility of the product line into our overseas facility in Panang, Malaysia, but you couple that with an environment where for the second year in a row business has been down and the reality is the customer, again the customer just does what their customers say…that the idea of spending money for inspection particularly x-ray inspection versus the risk of warranty or failure people are opting to do less inspection in this environment. So you couple a tough market with our belief and environment of excess capacity and a reluctance to spend more capital money today for inspection it just seemed the right decision to exit the business and focus on our testing.
+
+Operator
+
+The next question comes from Ajit Pai – Thomas Weisel.
+
+Ajit Pai – Thomas Weisel
+
+Just looking at the pricing environment I think you talked a little bit about promoting, etc. from competitors but is there anything you are seeing from some of your larger competitors both on the electronic measurement side as well as the bio-analytical side behaving irrationally in terms of pricing or increased promotional activity?
+
+Bill Sullivan
+
+I won’t say anything disparaging about our competition in terms of pricing but just to say that the big deals that are publicly bid are very aggressive competition to land those deals.
+
+Ajit Pai – Thomas Weisel
+
+Given the conditions and lack of visibility and your talking about the second quarter and guiding it sort of flat in a seasonally strong quarter with the January quarter if things begin to deteriorate further is the current approach of the management team to just wait it out? Even if profitability falls further? Because the portfolio would be valuable in the long run or do you think you will make additional cost cutting steps to ensure the company stays profitable?
+
+Bill Sullivan
+
+Our [inaudible] criteria is very clear and again one of the biggest learning from the 2001 crash is we cannot get into a negative cash flow position and we will make all the appropriate decisions to ensure we are operating free cash flow under any conditions. So we will in fact take additional actions if we believe we cannot be substantially cash flow positive going forward.
+
+Ajit Pai – Thomas Weisel
+
+My last question would be just looking at the two businesses you are trying to shut down, the two product lines the optical inspection and x-ray inspection, will these businesses or the customers per say of these businesses but much more potential acquirers or competitors of these businesses, were these businesses ever shopped or did you try to sell these businesses in the past 6-9 months? Not very recently but prior to that?
+
+Bill Sullivan
+
+There are no buyers for this business.
+
+Operator
+
+The next question comes from Richard Eastman – Robert Baird.
+
+Richard Eastman – Robert Baird
+
+Could you just elaborate for a second or two on the operating profit within BAN? Excellent performance and was that mix or was that trailing cost reductions that generated that?
+
+Adrian Dillon
+
+It was a series of things. One, the profitability of the new platform and new instruments that we have is superior to that which is being replaced. Some of the product lines that are strongest have the highest profit margins. Third, a number of the across the board actions that Bill has detailed in the past apply equally to bio-analytical and the electronic measurements side so those three combined to generate the excellent profitability.
+
+Richard Eastman – Robert Baird
+
+As we go forward the $150 million of annualized savings you have laid out should we think of that as impacting the segments essentially with a weighting that would generate the 40% decremental? I don’t know if that was a real clear question but basically, SBT and EM?
+
+Bill Sullivan
+
+In aggregate obviously it does generate the 40%. You should think that it will be disproportionately to the electronic measurements side to something like 2/3 or 65% EMG, 30% bio-analytical and the remainder on semiconductor and board tests. Do remember that we have a previous announcement of restructuring the board tests already so that is also benefiting.
+
+Richard Eastman – Robert Baird
+
+Bill you had mentioned January orders for BAN were down about 12%. Presumably EM then much…can you give us an EM number?
+
+Bill Sullivan
+
+Over 30.
+
+Richard Eastman – Robert Baird
+
+Was there any geographic difference? When you look at orders in the quarter we can just back up to January was there anything that you can sense that perhaps the Europe downturn is behind us by 6 months or anything from a gauging standpoint that would suggest geographically things will get worse in Europe and maybe better in America first or anything like that?
+
+Adrian Dillon
+
+That is going to be pure speculation. Honestly the U.S. goes into these things first and ordinarily Europe lags. Given the nature of this downturn being a simultaneous global financial meltdown everything has gone down simultaneously. That is part of the unique character of this downturn and further and ironically the Americas has held up the best by a wide margin. Europe has been the weakest by a wide margin although Japan has come fairly close. So this is really pretty uncharacteristic. I think that the U.S. will come out of it first but that is pure speculation.
+
+Operator
+
+The next question comes from William Stein – Credit Suisse.
+
+William Stein – Credit Suisse
+
+I’m just trying to make sure I understand the guidance. I understand it is kind of a best shot at this point but sequentially you are looking for flattish on both revenue and earnings but I would imagine there are some fixed costs that are going to be taken out. Would I be right to think if you hit the same revenue number that profitability would be a bit better sequentially?
+
+Adrian Dillon
+
+Given the band of air I would like to agree with you but I would also remind you that seasonally our expenses go up a bunch between Q1 and Q2 with things like [pit con] as one example of shows and new product introductions like our new GC/MS that require higher seasonal spending. So it is not necessarily so.
+
+Bill Sullivan
+
+We are trying to take a very conservative position. We will get the full quarter’s impact of the salary cuts but we have a very deep product launch set across the company for Q2 as Adrian indicated one of them but we have quite a few others that just cost seasonally more money to launch these products.
+
+Adrian Dillon
+
+This is typical.
+
+William Stein – Credit Suisse
+
+The two businesses you are exiting, can you give us an idea as to how big these were a year ago?
+
+Bill Sullivan
+
+Probably $100-150 million range roughly. They have been dropping for two years. At one time I know they were over $200 million but the drop has been swift and deep.
+
+William Stein – Credit Suisse
+
+Priority of uses for cash in this environment? Have you considered that maybe instead of buying back stock that the positions could be potentially more useful for preventing the revenue slide?
+
+Bill Sullivan
+
+I’m sorry?
+
+William Stein – Credit Suisse
+
+Use of cash at this point? Maybe you could just highlight your priorities?
+
+Bill Sullivan
+
+Number one is to continue to invest in the business. We continue to look for acquisition opportunities. The reality of the situation is that coming to an agreement with a potential acquirer person the valuation is a real issue. People still have very vivid memories of the 52-week high and so the whole issue of valuation much less financing has put the merger and acquisition market I think on hold. So that is task number one.
+
+Task number two right now is to ensure that we are cash flow positive and have sufficient cash to manage the company and make sure we can fund our ongoing investments. The third one is returning to the shareholder and as Adrian said we are doing that at half rate in Q1 and you should expect that in Q2.
+
+Adrian Dillon
+
+I may have misheard you but just in case I understood your question one thing we will not do is dive bomb prices because we are in an advantage cash position. These are inelastic markets and the only thing you do by dive bombing prices is lower the profit pool for the entire industry. That is not something we are going to do even though we are in a very envious net cash position.
+
+William Stein – Credit Suisse
+
+It wasn’t what I asked but I appreciate the color.
+
+Operator
+
+The next question comes from Ajit Pai – Thomas Weisel.
+
+Ajit Pai – Thomas Weisel
+
+Can you give us some color on what you see happening in the emerging markets like China in particular and also eastern Europe and India both on the bio-analytical as well as the electronic measurement side? Any trends? Especially late in the quarter trends?
+
+Bill Sullivan
+
+China the good news is that we continue to do well in the analytical space particularly focused around the food industry. China on the manufacturing side I think is in free fall. So you combine the two of that it is a very difficult environment. India is quite interesting. The full impact of the world’s slow down has not really shown up as much as one would think because they have very little exposure to manufacturing. I was just there a few weeks or a few months ago and you saw the signs of impact moving forward but I think it is too early to tell. I don’t have a very good view on Eastern Europe other than our business in Russia has been surprisingly good at this point in time.
+
+Ajit Pai – Thomas Weisel
+
+When you talk about strength in petrochemical or relative strength there, what is driving that just given what has happened with oil prices and given the massive factory shut downs all over? When you look at Dow Chemical, BSF, all your big customers are shutting plants. What is still delivering those orders?
+
+Bill Sullivan
+
+That is the issue that we have. Again, you go into January and it gives you a different picture and so let’s wait to see what the petrochemical market looks like in Q2.
+
+Operator
+
+We have no more questions in queue at this time. I would like to turn the call back over to Mr. Rodney Gonsalves for closing remarks.
+
+Rodney Gonsalves
+
+To everyone on the line we would like to thank you for joining us today. Again, thank you very much.
+
+Operator
+
+Thank you for your participation in today’s conference. This concludes the conference. You may now disconnect.

@@ -1,0 +1,526 @@
+Alcoa, Inc. (NYSE:AA) Q2 2013 Earnings Call July 8, 2013 5:00 PM ET
+
+Executives
+
+Kelly Pasterick - Director of Investor Relations
+Klaus Kleinfeld - Chairman and Chief Executive Officer
+William Oplinger - EVP and Chief Financial Officer
+
+Analysts
+
+Tony Rizzuto - Cowen and Company
+Curt Woodworth - Nomura
+Brian Yu - Citi
+Paretosh Misra - Morgan Stanley
+Timna Tanners - Bank of America
+Charles Bradford - Bradford Research
+Paul Massoud - Stifel
+David Gagliano - Barclays
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Second Quarter Alcoa Earnings Conference call. My name is Philip and I will be your operator for today. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session. (Operator Instructions) As a reminder, this conference is being recorded for replay purposes.
+
+I would now like to turn the conference over to your host for today, Ms. Kelly Pasterick, Director of Investor Relations. Please proceed.
+
+Kelly Pasterick
+
+Thank you, Philip. Good afternoon, and welcome to Alcoa's second quarter 2013 earnings conference call. I am joined by Klaus Kleinfeld, Chairman and Chief Executive officer and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Klaus and Bill, we will take your questions.
+
+Before I begin, I would like to remind you that today's discussion will contain forward-looking statements related to future events and expectations. You can find factors that could cause the company's actual results to differ materially from these projections listed in today's press release and presentation and in our most recent SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release in the appendix of today's presentation and on our website at www.alcoa.com under the Invest section. Any reference in our discussion today to EBITDA means adjusted EBITDA for which we have provided calculations and reconciliations in the appendix.
+
+And with that, I would like to hand it over to Mr. Klaus Kleinfeld.
+
+Klaus Kleinfeld
+
+Well, thank you, Kelly, and good afternoon to everybody. Thank you for tuning in. Let's start off with the key highlights for this quarter. We continue to deliver a strong underlying performance offset by special items on the performance side. We do see strong revenues despite lower metal prices. Metal price has declined 8% in the last quarter. Record profitability in the downstream, the after-tax operating income was up 23% year-on-year. Alcoa's value add business of first half of the year now makes up for 57% of our revenues and accounts for 80% of the segment after-tax operating income. Productivity strong with $539 million goes really through all business segments. I'll talk about that a little more later.
+
+Days working capital hits another record and we have been able to get another six days down, pretty spectacular. That alone equals $400 million on a year-over-year basis. Cash from operations comes out at $514 million, positive free cash flow with $228 million, strong liquidity when you look at the balance sheet with $1.2 billion cash and that in addition to having paid down $566 million of debt in the quarter. So, that shows you a very strong performance on the special items. The special items are primarily really related to restructuring and resolving legal legacy matter here, so those things and Bill will show you in detail are really targeted to improve our future competitiveness.
+
+And, why don't I immediately hand over Bill to you, so that you can guide us all through this?
+
+William Oplinger
+
+Thanks, Klaus. As Klaus just highlighted, we had strong underlying performance in the second quarter. I will start the financial review with a quick summary of the income statement. As you can see, we held revenues steady on a sequential quarter basis at $5.8 billion, despite $161 per metric ton drop, or 7% in realized aluminum prices and LME cash prices were down 8%.
+
+Revenue levels were maintained by strong sales in the aerospace, packaging, building and construction and automotive markets. Compared to last year, revenues were slightly lower by 2% on a 4% drop in realized aluminum prices. Cost of goods sold percentage increased slightly by 120 basis points due to the lower LME impacts in revenue, largely offset by better productivity across the businesses. The change in other income and expense is largely due to unfavorable mark-to-market impacts on energy contracts.
+
+By now you know that we took significant restructuring and other charges in the quarter totaling $244 million on a pre-tax basis. I'll give further details on these charges on the following slide. Our effective tax rate for the quarter was negative 16.5%, which at first glance may be somewhat confusing to you. In this case, the restructuring charges, some of which had no or very low tax benefits resulted in a pre-tax loss and yet we still had tax expense in the quarter hence the negative rate.
+
+If you exclude discrete items, our operational rate for the quarter is 37%. We'd expect our operational rate to be approximately 35% for the full year. However, we will continue to experience swings in this rate given the volatility of our profit drivers within each taxing jurisdiction. So overall results for the quarter are net loss of $0.11 per share, but excluding special items, we have net income of $0.07 per share. Let's take a closer look.
+
+Included in the net loss of $119 million is an after-tax charge of $195 million, or $0.18 per share associated with special items primarily for restructuring and resolving a legacy legal matter, the Alba matter. Restructuring costs of $113 million relate primarily to actions taken to improve competitiveness. $76 million relates to accelerated depreciation, fixed asset impairment and decommissioning for the announced Baie-Comeau, Soderberg lines and Fusina smelter closure, a $37 million charge was also taken for restructuring across all business segments, including asset retirement of previously idled structures.
+
+Secondly, during the quarter, we proposed to settle the Department of Justice matter relating to Alba by offering a cash payment of $103 million and recorded a charge of $103 million, or $62 million after non-controlling interest. Based on negotiations today, we expect any such settlement will be paid over several years. This legacy legal issue is more than five years old and we are making progress in putting this behind us. In addition, we booked a negative $11 million impact in discrete tax items, primarily due to audit settlements in Spain and prior year adjustment in Australia.
+
+Lastly, there is a $9 million of unfavorable non-cash mark-to-market adjustments on energy contracts. So in aggregate, this results in net income excluding special items of $76 million or $0.07 per share.
+
+Let's move to the sequential bridge. As you can see, the $45 million net income excluding special items decline in the quarter was predominantly caused by lower LME prices offset by better operating performance. The $150 million LME impact caused by an 8% decline in LME cash prices was somewhat offset by the strength of the US dollar versus our key currencies, the Aussie, the Canadian and the real.
+
+Volumes in the quarter were up in the aero, auto and packaging markets in our mid and downstream businesses resulting in a $45 million after-tax benefit. Much of this can be attributed to seasonal demand in rolled products and share gains in EPS. Overall productivity for the quarter was very strong with all segments contributing a combined $44 million after-tax savings for the quarter.
+
+We are well on our way towards achieving our 2013 productivity target. Cost headwinds were driven primarily by mining and power plant outage costs which we noted in our last earnings call. So in summary, our focus on cost control and volume gains have allowed us to offset much of the decline in the metal price.
+
+Now I will move on to the segment results, starting with EPS. EPS continues a string of strong quarters with the best ever quarterly ATOI of $193 million, up from $173 million in the first quarter of 2013 and up from $157 million a year ago. Adjusted EBITDA margin was also a record at 22% compared to 20.9% and 19.2% respectively for the first quarter of 2013 and the same quarter last year. Third-party revenue was $1.47 billion, up 3% sequentially and up 3% versus Q2 2012 driven by share gains. EPS continues to demonstrate significant productivity improvements, quarter over quarter, from every area of the business. Later in the presentation, Klaus will discuss the process productivity example from our wheels business.
+
+As we look forward to the third quarter regarding our nonresidential construction business, we are seeing a gradual recovery in North America but we will continue to see a decline in Europe. We expect the aerospace market to remain strong. However, we anticipate weaker European industrial gas turbine demand. We anticipate continued share gains through innovation. In addition, productivity will offset the European summer slowdown.
+
+Historically, in the EPS segment, ATOI has declined by approximately 10% in the third quarter versus the second quarter due to European summer slowdown. However, due to continued productivity improvements and share gains, we would expect the EPS segment to be relatively flat versus the second quarter on an ATOI basis.
+
+Now let me turn to GRP. In the Global Rolled Products segment, ATOI of $79 million was a $2 million sequential decline as strong volume gains and continued productivity were not sufficient to offset the significant impact from lower metal and market prices. Let me explain this for a second. Much of this segment's inventory is valued on a moving average cost basis. So in the case of a quickly falling LME prices, the customers fall quicker than the inventory cost. Hence the negative impact. That explains approximately $29 million of the $33 million listed here with the rest attributed to tighter scrap spread.
+
+Favorable volume of $30 million was driven by higher seasonal sales in packaging as well continued strong aerospace and auto demand. Unfavorable price and mix relates to a higher mix of lower margin industrial products and weaker packaging mix in North America. This segment continues to deliver productivity gains from improved recoveries and lower repair and maintenance spending and GRP remains focused on cash generation and set a Q2 record days working capital improving by seven days year-over-year.
+
+Transitioning to the third quarter, aerospace demand is expected to be impacted by higher inventories and seasonal shutdowns as well as seasonal decreases in packaging in this segment. Auto demand is expected to remain strong and lastly we expect to see continued pressure on prices and demand in North American industrial products and European industrial products. With that said the overall view of the segment is for earnings to remain relatively flat sequentially, excluding currency and assuming no change in metal pricing quarter-over-quarter.
+
+Now let me address the upstream segments. In alumina, there are a couple of key takeaways. While LME prices were down in the quarter, the continued shift to API pricing, the stronger U.S. dollar and better productivity led to increased segment profitability.
+
+Getting into specifics, production was up slightly in the quarter, driven by an additional day in the quarter. Third-party shipments were down 5%, largely due to more products going to internal smelters in the quarter. We saw a continued positive trend in index and spot pricing versus percent of LME contracts, which drives $34 million improvement in price mix. Essentially alumina prices were relatively flat while the LME declined in the quarter. The segment continues to focus on productivity, generating $19 million of savings primarily driven by raw material usage effeciencies, including caustic in Australia, another strategic raw material.
+
+Lastly, there are two categories of cost increases. First the Myara crusher move and Suriname mining costs which we noted in April. And, secondly, cost increases of $11 million, driven in part by higher energy costs. From a cash perspective, our alumina business has done an extraordinary job of reducing days working capital, a record of 19 days was achieved this quarter which is 12 days lower than the same time last year.
+
+Looking out to the third quarter, 53% of third-party shipments will either be spot or API in 2013, which typically follows a 30-day lag and the remainder of pricing follows the 60-day lag. Caustic cost will continue to improve as lower prices flow through inventory. Higher mining costs associated with Suriname are expected to continue through the third quarter and we expect productivity gains to continue.
+
+I’ll give an overall outlook for both, alumina and primary at the end of the Primary Metals segment. So, turning to Primary Metals, profitability in the Primary Metals segment declined sequentially, driven largely by declining LME prices. Overall performance in the segment was relatively flat as better premiums, mix and productivity offset the additional power plant maintenance cost we had highlighted for the quarter. As we said, LME price was down 8%, sequentially, with realized prices down 7% for the quarter and down 4% year-over-year.
+
+Productivity gains continued in the quarter. Primary generated $13 million from better energy utilization and lower maintenance and other service costs. Energy costs were also favorable, primarily in Spain and Brazil. Note that the majority of the cost increases reflected in the chart are associated with relatively flat alumina API prices in the wake of lower LME prices. As you can see, this is a positive in alumina, but a negative in the Primary Metals segment.
+
+Before I move off to the second quarter earnings commentary on the upstream, it's important to note that the alumina and Primary Metals operations were able to offset higher mining costs and charges related to our power plant outages and end up with a $34 million of positive performance on a sequential quarter basis significantly better than we expected at the beginning of the quarter.
+
+Looking out to the third quarter, pricing is expected to follow the 15-day lagged LME, energy costs are expected to increase in Europe due to peak consumer demand and we expect productivity gains to continue. Lastly, while it doesn't run through the segment, we expect an additional restructuring cost of approximately $100 million after-tax in the third quarter associated Baie-Comeau, due primarily to severance cost of the affected employees. As you can see there's quite a few moving parts in the upstream, but we expect ATOI for the combined upstream to be up $10 million, sequentially, excluding the impact of LME in currency. This would be the eighth consecutive quarter of overall performance improvements in the upstream operations.
+
+So, before moving onto the balance sheet, let me summarize our third quarter guidance. EPS ATOI essentially flat, GRP ATOI relatively flat assuming no movement in metal prices, sequentially, and the combined upstream should be up $10 million again in the third quarter excluding any changes in metal prices and ForEx.
+
+Turning to the balance sheet, regarding working capital, we continue to achieve extraordinary sustainable improvements in our days' working capital. In the second quarter, we attained the second quarter low of 27 days and this is the 15th successive quarter of year-over-year improvement. We have been able to reduce days working capital by 23 days since 2Q of '09 worth $1.5 billion in cash and a six-day improvement from last year's level equates to approximately $400 million in cash. This is testament to the operational excellence in our businesses and positively contributes to our free cash flow target for the year.
+
+Moving onto the cash statement and liquidity, cash from operations totaled $514 million for the quarter, leading to positive free cash flow of $228 million in the quarter. Our ability to generate positive free cash flow despite lower metal prices shows our focus on managing expenses. Cash from Ops improved from last year as normal first quarter outflows such an annual compensation payments and semiannual interest payments did not recur. We continue to contribute cash to the pension plan totaling $181 million year-to-date, which represents approximately 40% of our estimated total contribution of $460 million.
+
+It is important to note that compared to last year, free cash flow for the first half of 2013 is over $180 million better than 2012 and keep in mind this is at much lower metal prices. From a liquidity perspective, we are ending the quarter with $1.2 billion in cash. We reduced debt in the quarter, as Klaus mentioned, by $566 million, including the $422 million tranche that we retired one month early in June. Debt at quarter-end is $8.4 billion, the lowest level since the first quarter of 2008. Debt-to-CAP stands at 34.5%, 20 basis points lower than previous quarter.
+
+Now let me address our 2013 targets. Many of you have asked me whether our free cash flow target is still valid. As you know, our annual planning process occurs in the fourth quarter of each year. So this target was set when metal prices were north of $2,000 per metric ton. But as metal prices have fallen, all of our businesses have focused on meeting this goal by deploying against more aggressive operational targets.
+
+For instance, in the first half of 2013, we have achieved $539 million in productivity improvements on a pretax basis. That is 72% of our full-year target with six months remaining in the year. Klaus will talk in more detail about how we execute against these targets and provides you with examples of actions we have taken to generate cash.
+
+We continue to take a disciplined approach to capital spending. Our target for 2013 was to maintain total capital expenditures of $1.55 billion. On a year-to-date basis, we are well below those targets, having spent $521 million. Our investment on the Saudi Arabia joint venture is well within budget. However the year-to-date number is not reflective of the run rate spend, the budget is more backend loaded in 2013. Debt-to-Cap is within our target range of 30% to 35%.
+
+One of the levers you don’t see on the left is days working capital because when the targets were set, we didn’t expect significant improvement. However the working capital improvements we have seen in the first half of the year are surpassing 2012 levels and exceeding our expectations.
+
+So where does that leave us? Year-to-date, we have had a cash outflow of $77 million. But as I mentioned on the previous slide, we are in a better position than the same time last year by $183 million and are ahead of our internal plan that was set at a much higher metal price. Therefore we stay committed to our target and continue to execute against them.
+
+Now let me cover the alumina and aluminum market. We have not substantially changed our view that market fundamentals are stable. We reaffirm aluminum demand will grow globally at 7% this year, 4% excluding China, and we continue to supply and demand for both the alumina and aluminum market as essentially balanced. However curtailments that have been executed and projections for more have led to a tightening of supply, resulting in our projection of 315,000 metric tons aluminum deficit.
+
+In alumina, we see a slight surplus compared to the 100,000 metric tons deficit in the first quarter due to curtailments in the refining sector not keeping up with smelting curtailments. Note that a 130,000 metric ton surplus is against the 95 million metric ton market. So this is not material.
+
+Inventories have declined slightly due to the production curtailments and continued solid demand. On a days basis, producer held stocks are at a record low expressed in days consumption. China stocks are actually down 99,000 metric tons from the end of the first quarter 2013. It is important to note that nonstrategic reserve Chinese stocks are down 399,000 metric tons as metal from inventories is being consumed. Lastly, off exchange finance stocks declined in the U.S. by 159,000 metric tons as traders liquidated the physical consumers. Regional premiums have remained at high levels reflecting the strength of the physical demand for the metal.
+
+So at this point, I am going to turn it over to Klaus who will address the end markets.
+
+Klaus Kleinfeld
+
+Yes, thank you, Bill, and why don’t we go straight to the end markets. So, let’s start with aerospace. So we confirm our expectations that we are going to see a 9% to 10% global growth for this year in the aerospace market. Over 900 orders and commitments were signed at the Paris Air Show. I will talk more about it a little later. Value of that being $135 billion. The backlog for Airbus and Boeing now makes up 9,900 planes and that equals eight years of production.
+
+We have also seen that the airline fundamentals are improved, passenger demand is up, the revenue passenger kilometer is up 5.3%, cargo up, freight ton kilometers or miles whatever you want to choose 1.5% and industry profitability, the expectation also was up, the expectation now lies at $12.7 billion, compared to $7.6 billion in the last year.
+
+New aircraft orders also translated into new orders for jet engine, and Pratt & Whitney added over 1,000 new engines to their backlog, and GE recorded over $26 billion and engine deals are very, very good and I'll talk about that a little later. What's also important is, segments that really were not doing much up until recently like the regional jet segment is rebounding. We expect a 40% increase for this year. And the business jet, we expect 12% increase, so the only uncertainty that we have in the aerospace market these days really is the defense side, but everything else is really pointing in the right direction, meaning up.
+
+So, let us go to the next segment, automotive. In, automotive, let us start with the U.S. We are upwardly revising our production forecast to plus 2% to 5% from 0% to 4% that we had before. Why did we do that? Because, we see that the new passenger car sales continued strong through June. Actually, we saw 1.4 million units. That's a 9.1% year-on-year growth. The seasonally adjusted annual rate now stands at 15.98 million. That is the best since June 2006, where it was 16.35 million.
+
+The production levels through this are kept strong and we see an increase of 6.1% year-on-year there and most U.S. OEMs have because of this announced that they are reducing the summer plant shutdowns. The sales are outpacing production which is good and we see that inventories are coming down 3.4%. They are now at 58 days compared to 60 days in April, so on top of it, keep in mind the average age of the fleet in the U.S. is still higher than usual, so all of this is good news there is still pent-up demand there.
+
+So, Automotive Europe, a different picture, we hold our forecast to 2.5% decline despite positive April numbers, but when May came in this was really wiped out because it was the worse May in 20 years. So, on China, Automotive, we keep our forecast of 7% to 10% growth. Production in May is up 13% and year-to-date production is up also 13%.
+
+Next segment Trucks and Trailer. North America, we are correcting our view upwards. Previously, we expected a decline of 15% to 19% and we now move that into a range of a decline of 9% to 13%, but listen to how this happens. Because the order rates are up, they are up by 10.9% year-to-date, and if you look at the second quarter, second quarter 26% on a year-over-year basis, so this is the consecutively we were seeing a trending up in the last quarters.
+
+Inventories have decreased to 49,700 trucks that's a reduction of 24%, and but, and that's a really critical point they are still higher than historic. The historic norm is around 42,000 trucks. The production therefore is up in the second quarter versus the fourth quarter at 22%, but still down from the year-on-year comparison roughly 14%, so we expect the production to trend up and this is also supported by the fundamentals in the North American truck business 4.6% year-on-year, freight ton miles up 2.1%, prices up, industry profitability is expected to be up 0.6%. And also, here the average age of the fleet is 6.7 years now, (inaudible) 20 year average of 5.8 years. So, good news in terms of pent-up demand coming to realization at one point in time.
+
+In Europe, the picture is not that pretty. I mean, we expect the production decline upward. We adjusted it, but to the upward readjustment still comes up with a negative number of minus 3% to minus 8%, but before we had minus 6 to minus 10. There's a special effect in here why we have done that which pulls forward the demand and there's an effect to regulation requiring Euro V production and that's preceding the more expensive to fix, which is required by January 2014. That’s why we saw in March, April and May orders were up 8.1%. So that’s kind of an exceptional thing happening there.
+
+China, we are maintaining our forecast that we believe of plus 12% to 16%. Also here there are new regulations in effect starting in July 1 of this year and this was pulling the Euro III engines prior to the new Euro IV models.
+
+Lets move on to the next segment, beverage can packaging. We reduced our projection of global growth to 1% to 2%. Before we had 2% to 3%. As North America struggled through May and there we reduced our projection into a decline of 2% to 3% whereas a 0% to minus 1% before.
+
+Commercial building and construction, North America, we continue to believe that there is going to be 1% to 2% growth this year. All of the leading indicators are shown in the right direction. You can pick and choose nonresidential contracts awarded up 9.3% year-on-year in May. Case-Shiller Home Price Index rose four consecutive quarters. New housing starts up 29%. That’s all good indicators that show that this business is really picking up. In Europe, we expect the market to decline around 4% to 6%. In China we expect it to grow between 8% to 10%,
+
+Industrial gas turbines, we are maintaining our expectations at 3% to 5% growth for 2013 despite a weakening of market conditions going into the second half of the year. In Europe, we have seen that gas-fired power generation is getting squeezed by lower priced coal and by subsidized renewables. In the U.S., we see a little bit of a different picture. The natural gas prices have climbed. So coal has been able to claw back some of the market share that gas had been winning before. As some of you may remember, I talked about it. However, there is a very good news in it for us because we are blade manufacturer. So, for us, it is important to see utilization is up. Gas turbine utilization is up and that bases the influences that the third party demand is robust and that we see that that more than offsets the decline in the new builds.
+
+So that concludes the industrial gas turbines picture, and also concludes the end market overview. So let's now focus on Alcoa and I would like to share a couple of exciting things with you today that are happening here inside of Alcoa and lets start with aerospace. As you remember, just a few weeks ago, actually three weeks ago, the aerospace industry held its most important gathering this year in Paris. The Paris Air Show. It was a big success and as you can see on this slide here, there are couple of highlight. T00 plus new orders for Airbus and Boeing alone, a value of $135 billion, 8 years order backlog. Boeing launch the 787–10, 102 commitments. A-380 also did very well. Boeing announced that they are going to pull forward, accelerate their 737-Max and the big winner, probably, in the Paris Air Show were the engine makers and that’s obviously important for us as we are having a strong business insight.
+
+Alcoa will benefit from all of this as all position in this segment is very, very strong and I will touch upon that a little later too. We also announced some things in addition to that. On the fastening systems side, we announced that with Aircelle engine nacelle latches contract and that’s a pretty big one because it reaches to programs on the A320neo, A380 Sukhoi, RJ100 to Embraer RG or ERJ-170. So that’s a pretty good one. We also announced with Being that we will form a Closed-Loop recycling program and we announced that our Kitts Green facility in Britain, the aluminum lithium expansion is complete. Keep in mind, this is the second expansion. The first one was the build up of our Pittsburgh facility and the third one is already underway which is here in Lafayette, Indiana. That’s progressing very, very well. Also just to get you a feel for why we are doing it, we are projecting that our aluminum lithium revenues will quadruple over the next six years to nearly roughly 200 million there.
+
+So this slide. I showed you last time and I mentioned also aerospace. This is an important growth market for Alcoa. What we did here, this is a metallic aircraft and we basically color coded. When we had this idea of making this slide, we said let's color code all the components that Alcoa makes on the structures in blue and this is what came out of it and we invented the title Alcoa Blue flies from nose to tail which it really is, so some nice factoids here on the right hand side, which kind of make the point more than 90% of all aluminum aerospace alloys that have been developed by Alcoa.
+
+Every Western commercial aircraft to flying today uses Alcoa fasteners and every Western commercial aircraft as well as military aircraft engine uses Alcoa castings. It's very, very good, but as I always say unfortunately not every aircraft uses all of the Alcoa component, so there is room for growth in this and that's good news.
+
+The other good news that we are seeing here is, we are well positioned also for the composite-intense planes. We showed you some numbers last time, but we thought why not make a picture as that has so much so much than all my words and here it is and we did the same logic then we use the time everything in blue. This is what we are making today or what we are in the process of offering and will be making. And, as you can see here, when you study it a little bit more, some of the most complex margin material designs, we are capable of getting these things together and then the composite-intense planes this plays a really important role. The leading titanium fastener position in these planes, leading nickel and titanium casting position in every engine and a leading corrosion resistant and damaged [tire] and aluminum lithium products also on the composite plane and that is why the C-intense planes like the Boeing 787 and the A350 are really a significant revenue generator for Alcoa, so let us take a look what I mean with that to clarify this that I think somehow I have not sunken to understand how we are benefiting from it.
+
+On the left hand side, you actually see a comparison of the Alcoa revenues per ship that and split down into different models, different platforms and we use the 737 to index that and we then put in here the A330 and the Boeing 767 as these are kind of the legacy planes that will get replaced by some of the composite-intense planes like the A350 and the 787 according to what Airbus and Boeing have said. When you look at the numbers, you actually see that and when you compare the 787 to the 737 you see that the ships that value is three times the size of what we had in the 737 and when you compare the 787 to kind of the direct predecessor so to say, the 767 you see 80% higher right? And, when you look at the similar picture on the A350 and the A330, you see it's twice the amount in the composite-intense one. So, you might wonder why is that so, because it is not using the skin and some of the material and then it's just basically because of the innovation that happened in two very important fields for us.
+
+The first one here on the right hand side are all fastening systems and you see here the next generation of new fastening systems applied [side] products, loft ball tread pins, [chlorite] and the installation tools that go with it. Why is that important? Because, it addresses a couple of issues that are supercritical in vehicle deploying, electromagnetic, energy management and what we really mean with that is that a lightning strike protection. That's a big deal. That's a big concern and we help solving it. On top of it was the way we designed it, and the installation tools that come with it. This allows us a 50% lower installation cost and it provides fuel tide join and that's particularly important because you may remember that the wings carry the [kerosene] and you need to make sure that nothing drips there and potentially ignite. So, that's first one.
+
+The second one comes to our next generation investment casting airfoils and coating. This refers to the 3D multiwall core, airfoil coatings, enhanced Equiax, titanium aluminide and what it does that it runs at higher firing temperature. It also has improved oxidation resistance, and it offers weight reduction. This is in the core important for the new engines and the new engines that offer these gigantic advantages fuel burn reduction of 15%, NOX emission down 50%, noise reduction 15 decibel and improve maintenance cycles by 30%. I think that's the reason why you saw what I referred to before on the Paris Air Show, why the engine makers have really been strong winners also there and the good news is we benefit from that.
+
+Let's move on to another exciting segment and that's Automotive. Here again, on this slide, we color coated all parts that Alcoa is making or can make in blue, and as you can see, our content on the car runs from bumper to bumper.
+
+The aluminum body has been around for a while and we, as Alcoa, have been there right from the start but now the exciting thing is that it expands from luxury vehicles into the mass production and to higher volume vehicles and that opens up enormous opportunities. So let's, for a second, talk about those and what we do to capture those.
+
+While we do believe, and actually we don't believe it but we see the contracts are already there and the timeframe between 2012 and 2015, so there is three years here, the aluminum body sheet content per vehicle in North America is going to quadruple. Then we believe in the 10 years coming then we again think that we are going to see an increase of 2.5 times, which means, in absolute numbers, we are talking about 1 million ton from auto sheet alone. So getting an idea of what is the additional pull in the market, also in the primary market but also in the auto sheet market. So this is the situation.
+
+And you know that we are expanding in Davenport. That has not even been completed. The first car is going to run in December but basically the volumes are committed. So we have to decide how are we going to capture the growth opportunities that you see here on the left hand side. We decided to do a second phase of our auto expansion and this time we decided to do it in our Tennessee facility. The total value is $275 million basically its capturing the demand beyond 2015.
+
+The reason why this is, in my view, a very good and intelligent decision is because obviously there is a rolling mill there and it has some capabilities and with this addition we can utilize it really nearly 100% and can use some of the back end assets like the casters and the hot mill in a very clever way. It also allows us the flexible production there. Lower transportation costs, also with the Tennessee location, because it's closer to some of the OEMs that we will be catering to. Much of the volume also of this auto expansion even though we just announced it is already secured and it will be completed by mid-2015. So much about the value add businesses.
+
+So let's also talk a second about our upstream business. The upstream, as you know, it's in the main commodity business. So we focus on bringing the cost position down. Just to remind you what we have been doing, what you have been seeing there, we currently have 13% of all capacity idle. This is 523,000 tons. We permanently closed on top of 291,000 tons of capacity. We just announced that about 460,000 ton are under review. This is another 11% of our total smelter capacity. We immediately concluded in making announcement and saying we are going to close down our two Soderberg lines that we have and Baie-Comeau which is 105,000 tons and we also said that we are going to permanently close our Fusina, Italy smelter which is 44,000 tons.
+
+Now how do we do this. One of the questions these guys have, how do you do that. And we use a process that you have seen us detail over the years that takes into account what maximizes our cash position and ramping it down or ramping it up. It takes into account operational flexibility, power flexibility, things like say, a take-or-pay contract, can we sell it into the market, these type of things. Is there a repowering impact? Is there community impact?
+
+Then on the right-hand side, you do see the steps that we are going through, because it's not really black and white. It has multiple steps and we can choose from those steps. We can start to stop realigning to a permanent shutdown. We use the whole range of this and by the way, similar activity is also underway on the refining side.
+
+So this is basically the last item here on the businesses. I want to address another corporate-wide aspect, which is the productivity because a lot of questions when I sit down with you all are around, hey Klaus, we recognize you have been really good in generating cash, lot comes through productivity, how the hell do you do that?
+
+We really consider this an Alcoa advantage. Then the implicit question is, can you continue to do that? And now we are answering, I hope you will follow me once you have run through this. You will follow me in saying, yes, we will continue to do it because I believe that regular productivity improvements have become a part of Alcoa's DNA.
+
+So, what you see here on the slide is on the left-hand side, the potential levers on productivity and the good news is they are three. So, it's easy to handle. It's process improvement, product procurement and overhead and there are a couple of things how you do it from lean manufacturing lower cost countries, on the procurement side you bundle, you find new suppliers, you change specifications, you have supplier summits. And on the overhead side, shared services, removing redundancies all sort of things and we've done all of this and I would show you three examples. But before I do that, I want to remind you what have we been able to achieve and that's what you see here on the right-hand side.
+
+2009 to 2012, if you add these numbers up, you actually see that's $5.5 billion on productivity that we have really taken out in these years. And, as you well know, we needed it, right? But, we have not stopped doing that and we will not stop doing it. You see again for the first half of this year, we have achieved $539 million of productivity, right? And, we broke it down here also for your leisure that into our different groups from GPP, GRP, EPS and corporate. You see it pretty much spreads across all businesses, so everybody kind of carries their own load, right?
+
+So, all of this is only possible thorough really a disciplined execution which whenever I talk about our three strategic priorities, that is one of the three strategic priorities inside of Alcoa and we really mean it. Because, to get this and to get this on a systematic way and in a continuous way, you have to have a process. This here is our process, right? The process goal is a rigorous tracking of an idea to cash. It starts, you see it here on the left-hand side. We call it degrees of implementation. It starts with target setting then goes into idea generation, then goes into action plan, then goes into monitoring but it stops only once. Bill says the cash is in the bank, right? That's when it stops and it cascades throughout Alcoa. It's part of on every site that we have worldwide.
+
+It's part of our daily operation. It has a very strong element of accountability, because the person that owns the action signs off on it physically. The person that needs to support this action to happen signs off. We currently have 12,900 action plans in our system for this year. This gives us the visibility and I always call it, this is the front view. This is the front view, instead of driving the car with a back view by just getting a good numbers report we know what productivity actions we have in store. That's why we feel very comfortable in making commitments on this and they get monitored these things on the shop floor up to the corporate finance folks. And I want to show you three of those examples in every category, so let's start with the process. One example per category, so in every one of the three categories.
+
+So, let's start with process productivity. And, process productivity, before I go into this example, in total from 2009 to 2012, has been able to get at $1.7 billion of savings, so let's go to this example here. This is the example. This example is from our wheels business and here we changed the process in three fundamental ways. Number one, we in-source the recycling. Number two, we upgraded the recycling process with latest technology. And, number three, we concentrated the process on two facilities instead of shipping it with what we saw on the process tracking was 4,300 freight moves between facilities that were hundreds of miles apart.
+
+Now what's the benefit of this? We are able now for 100 million pounds to do the recycling on site. This takes care of a third of our annual billet demand. This is great, and it allows us, the whole thing allows us 5% savings. We get lower recycling cost, because we are better in doing it in-house. We get improved casting yields, lower process costs. This is also very strongly driven by the latest technology and we get reduced transportation costs. This alone, the transportation cost is a $2.4 million saving per annum. On top of it, we get an environmental benefit, which also is important. 117.3 million pounds lower CO2, which is basically offsetting the carbon footprint for a roughly 500 U.S. households.
+
+The next example I want to show you, it's actually two examples I want to show you is, on the procurement productivity category. This is a big productivity category also. And from 2009 to 2012, we could get $3.3 billion of savings through procurement. Let's focus on the left-hand side where the carbon strategy example, right? Here we really left no stone unturned. It's a big and important category. What did we do? We used supplier diversification, portfolio management and specification management.
+
+From a supplier diversification, we challenged the current position, brought alternative suppliers into the terrain, where the existing suppliers who had not expected that we were able to do that and by that put pricing pressure in line. We optimized the product mix and we also used our own capability, for instance our Lake Charles Carbon plant that we could use to arbitrage make or buy which again can put pressure at certain times on the market.
+
+We also optimized the specifications and obviously when you optimize specifications you always have to balance it with efficiency. Come down on specifications, the efficiencies also come down but that's an optimal point at times and our technical experts have been very, very good in bringing this further down. So what has that done? It saved us 14% and on top of it we had $30 million of working capital improvement, great job.
+
+So on the right-hand side, you see another one, procurement one, facility management, maintenance. Those of you who have run businesses in marginal locations know that that is one of the most difficult thing to optimize because it's hugely fragmented. It's hugely fragmented. It's usually regional. Therefore it is amazing that we were able to do that.
+
+We did it with those three things. Lower scope standardization. So basically saying, we standardized the scope of the work. Second one, is the optimization of the supplier base, consolidating supplier base and doing frequent rebidding. The third thing here is, optimizing the plant maintenance and improved the service provider utilization. That saved us 8%.
+
+So last category here is the overhead cost productivity and that from 2009 to 2012 gave us $600 million of productivity. This one comes from our Spanish upstream business and as some of you may know they are under massive challenges and the team calls that the four plants are one business and it drives overhead savings.
+
+Here on the left hand side you see those are the four facilities on the upstream side in Spain and they are in a three hour drive distance. So what did the team do? The team decided to run this like one business, like one plant. They focused on those four elements. They created the best-in-class standard by zero base budgeting. Basically they said we don’t accept the current state. We want a zero base. Build it up. They basically said we consolidated function, eliminate redundancy, they centralized services, standardized the processes. They also went after utilizing the experienced management and multiple operations as that is particularly important on technical expert side.
+
+Last but not least they trained and deployed skilled engineers across the whole organization. So what did that do? 12% cost reduction. So I hope these examples give you a feel for how we do productivity inside of the company and that this really is a part of our DNA.
+
+So let me summarize and conclude our presentation here. We are building a strong growth platform on the value add business side. We are executing on the cost competitiveness to win in the commodity business and we are continuing to focus on productivity and cash generation.
+
+With that I would like to open the line for questions.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions).
+
+Klaus Kleinfeld
+
+First question, please.
+
+Operator
+
+Your first question comes from the line of Tony Rizzuto from Cowen and Company.
+
+Tony Rizzuto - Cowen and Company
+
+Thanks a lot for all the detail you have provided. I have got two questions. One is, how should we think about the sustainability of the premium over the LME metal prices? See that it widened out to $0.175 per pound and I know there has been some attempts by the LME to try to change offloading requirements. Are you concerned by that at all that it could narrow somewhat going forward?
+
+Klaus Kleinfeld
+
+Yes, well, look, I mean, the rules have only come out recently. They are for discussion, and on top of it, the LME has said, they won't apply that before 2014. I am not exactly sure what the rule wants to achieve because when you look at these so-called inventories that are stuck in the LME, we are really only referring to the cancelled warrants, and the cancelled warrants make up around 2 million, we would expect the total inventories visible and invisible to be around 10 million, so we are talking about 20%. The rest of the metal is really freely moving.
+
+Then when you look at the rules, it's basically really applying to two warehouses, Detroit, Metro Detroit and Pacorini in Vlissingen. So, those are the things that come to mind here and I also believe that probably the majority of the metal that's getting cancelled is probably waiting and these SKUs is going to lower cost of warrant storage.
+
+I feel that financing of the inventory remains attractive. You mentioned the contango has widened, the interest rates are still low. They might go up a little, but at the same time we’ve talked about that before. They would only go up if the economy recovers. That's basically what all of the central bankers have clearly said and I believe that that's what they will do then physical demand will kick in, so I am really not too concerned.
+
+What strikes me is that, the metal availability which I’ve read in some of the coverage, people are complaining about the metal availability. I don't think that that has ever been an issue in the aluminum market. Frankly if there is somebody who hasn't got metal available, I mean, you can send me an email or give me a call and we will solve that. I think there are producers that are willing most of the producers are willing to sign contracts and we've also seen that some of the consumers use the lower cost financing to build some consignments stocks themselves and have acted as warehouses. I think that that's probably what I would see there.
+
+I mean, if I think of the rule by itself or the LME by itself, the economy in general is recovering slowly with different speeds in Europe, as well as in the U.S. and there is some uncertainty around how the quantitative easing will wind down. I think, the interest is that LME really avoids the risk of a disruptive or sudden impacts and rather gradually over time adjusts and so this is our thoughts on this. We will obviously actively participate in the discussion and will provide our view to the LME, so not particularly concerned, but important to study, important that it is not too disruptive, not too sudden and rather gradually over time.
+
+Tony Rizzuto - Cowen and Company
+
+Thanks, Klaus. And, just a follow-up if I may. You have got some very exciting developments going on in the aero fastener side and I was wondering if you guys could provide some color on the growth rate of the aero fasteners in the quarter. However, you may (inaudible) quarter-on-quarter basis or year-on-year basis. That would be helpful.
+
+Klaus Kleinfeld
+
+Well, we have not provided the fasteners and the breakdown on that. I mean, that would be a pretty endless thing, but you've seen we have a growth target for our engineered products and solutions business out there and this is the $1.6 billion of additional organic growth from 2010 on to this year and we said that we are going to do that while we will be achieving profitability above the historic highs and you can see that we are acting against that again in this quarter when you look at our engineered products and systems business and we will continue that.
+
+Tony Rizzuto - Cowen and Company
+
+Thank you very much.
+
+Operator
+
+Your next question comes from the line of Curt Woodworth of Nomura.
+
+Curt Woodworth - Nomura
+
+(Inaudible) some of your supply/demand estimates for China.
+
+Klaus Kleinfeld
+
+Can you speak up a little bit, Curt? Please? Curt? Did we lose you?
+
+Operator
+
+Curt has dropped off from the line.
+
+Klaus Kleinfeld
+
+Okay. Well, we can bring him back at a later point in time, so let's move on to the next one.
+
+Operator
+
+All right. Your next question comes from the line of Brian Yu from Citi. Please proceed.
+
+Brian Yu - Citi
+
+Thanks. Good afternoon, Klaus. On page 14 of the presentation slides where you go through the positive free cash flow target, your year-to-date spending is obviously well below the target. I think you mentioned that the Saudi JV, but that's going to be back half loaded. Is there any components of the managed growth capital and sustaining capital that would be back-half-loaded too?
+
+William Oplinger
+
+Brian, we are essentially not putting out a revised full year estimate for capital expenditures and we will come in under the target and that's what we are trying to signal by way of showing you the half year numbers, but no, we haven't given guidance on what second half will look like.
+
+Brian Yu - Citi
+
+Okay, and then if I follow-up along those kind of same lines, you have got some growth targets that you are well on track. It doesn't seem like much of that is tied to capital spending. What is being deferred? Is that something that you would spend the following year?
+
+Klaus Kleinfeld
+
+Yes, I would say that the growth targets are not at risk. Frankly, we look at every investment here on a standalone basis. We believe the way we have to manage our business is owning quite a number of different businesses. Some businesses are under enormous stress from external factors. So you see that we are shutting down facilities, curtailing them and restructuring them. At the same time, in the same quarter, we are utilizing great opportunities that we see on some ends.
+
+I mentioned two big areas are aerospace and automotive. We are putting capital in there. We are growing in this. We are capturing the opportunities. We will continue to do that. That's how we think about it.
+
+The capital allocation will have to stand on its own. There is no capital investment that has not been grinded very, very substantially through our corporate process. The capital threshold that we have out there, it's just the minimum requirement which we rarely get to, to be honest. Usually it's much, much higher the returns that we are approving.
+
+Okay, we have got to make sure that when Curt comes back online. Okay, next question, please.
+
+Operator
+
+Your next question comes from the line of Paretosh Misra from Morgan Stanley. Please proceed.
+
+Paretosh Misra - Morgan Stanley
+
+A question on your aerospace end markets. As you look ahead to the future opportunities within the aerospace market, which segment would capture that? In other words, historically you were capturing two-thirds of that in the engineered products and one-third in the flat-rolled. Is that expected to continue or with the changes that might change?
+
+Klaus Kleinfeld
+
+Well, no. This is good news. The good news is that we will be able to grow our aerospace business in every one of the segments that caters to aerospace and the segments that you have to think of is on the GRP side, it's basically plate and rolled material, right. So that falls into - it’s a big category in the Global Rolled Products side. On the EPS side, if you go through the EPS you look at forged parts, where it falls into, you look at our engine parts, our investment casting parts, the small and the big ones. We have smaller parts, air foils, as well as big investment casts. Then you look at the fasteners.
+
+So, those are really the segment that it falls into. Then there's a small element of it that even goes into the upstream side which is the high purity aluminum, right, which goes into our GPP side. But that's a very small part, right. But there are some applications, particularly out of space applications that require high purity aluminum. By the way also small alumina part which is rocket fuel. But those are small things, just for completion's sake.
+
+Paretosh Misra - Morgan Stanley
+
+Right, and if I could ask a follow-up? This is about your Tennessee investment. Could you remind me how much capacity it would add and what part of existing infrastructure you can use for this? Basically, I am trying to figure out what would be the barriers to entry into this market?
+
+Klaus Kleinfeld
+
+Yes, well, the barriers to entry is when you go to automotive and the main is heat treating, heat treatment capacity, that's usually the big bottleneck here. So, that's why we are adding this heat treatment here and some other things in Tennessee. What we do have there is already a very good hot mill which we can now leverage in a very, very good cast house, which we can leverage. Tennessee used to be extremely strongly focused on packaging and future it will also allow us to do packaging as well as auto, right? So, this is one of the big advantages of the Tennessee decision.
+
+Okay. Next caller on line?
+
+Operator
+
+Your next question comes from the line of Curt Woodworth from Nomura.
+
+Klaus Kleinfeld
+
+Okay. Good. Curt is back. Okay. Good.
+
+Curt Woodworth - Nomura
+
+Sorry about that. Klaus, I just wanted to get a little bit more color on your thoughts on China. I see you are showing an increased deficit, but when you look at the LME price relative to the average cash cost of produce I think most all these smelters in China are loss-making. So, I guess the question is, why don't you think more production is being cut given where the price is?
+
+And if China continues to produce at what's arguably loss making levels, do you think the global market, you can ever see more meaningful reduction and kind of the inventory overhang that the western world guys are facing? Thanks.
+
+Klaus Kleinfeld
+
+Yes. Well, there's so much we could talk about China. First thing is, we do see that our projection of an 11% demand growth for aluminum in China is really confirmed, right? So, demand continues to be strong, so that's the first thing.
+
+Second thing is, there are curtailments underway and we do see that and you saw it also reflected and Bill had an overview slide that showed also China, when you get a chance they take a look at that and you do see in there that there are curtailments particularly of the high cost smelters on the East Coast, and at the same time there is a slowdown of adding capacity in the West, right?
+
+So, in total the capacity that we see in China, is pretty stable. An important thing that I can't emphasize enough I have the feeling is that, in spite of what China does, I mean China for us in the aluminum industry is living on a different universe, so that universe let's call it earth aluminum and China aluminum and they rarely communicate, right? Because, they are high cost and they are not going to export and that's extremely important.
+
+I believe that we will continue to see the Chinese aluminum industry to restructure. We currently believe 41% of all of the smelters are under water and also keep in mind that the opportunity cost in this industry for China, Inc., are very high because they have to put energy and they have to put water in, they have to put air pollution in, and all of these are things that they really don't have that much of - and the employment impact as we discussed, I don’t know what, I mean, half year or nine months ago of this industry is very, very low. On top of it they import bauxite and alumina, so I am pretty confident that we will continue to see restructuring going on and probably in an accelerated fashion under the new leadership.
+
+Curt Woodworth - Nomura
+
+Okay. Thanks.
+
+Operator
+
+Your next question comes from the line of Timna Tanners from Bank of America. Please proceed.
+
+Timna Tanners - Bank of America
+
+Yes. Hi. Good evening.
+
+Klaus Kleinfeld
+
+Hi, Timna. How are you?
+
+Timna Tanners - Bank of America
+
+Hello. Since last quarter, just a simple question, I just want to get your updated thoughts on the Moody's decision to downgrade the investment-grade rating and with the S&P putting on warning I know you probably prepared to answer this. Just want to get your updated thoughts, please?
+
+Klaus Kleinfeld
+
+Well, look, first is, we were disappointed by Moody's decision. Second, we remained committed to maintaining investment-grade ratings. We are executing on all strategy. I mean, our goal for 2013, again, is that we will be positive free cash flow, you saw how we are tracking against it and I assume that people will see that that's pretty good under the conditions we are under.
+
+The Moody's decision, if you had a chance to read the Moody's report, actually it really says it in a very fair way. It's more a reflection on their view of macroeconomic conditions with volatility of metal prices than a reflection of the financial and operating strength of Alcoa which they do admit, right? They also do see that we have a strong balance sheet and liquidity. There are really limited near-term bond maturities. We control what we can control and you see that, and we cannot control the metal price volatility.
+
+Timna Tanners - Bank of America
+
+Absolutely. I guess, that was the second question that leads into that, right? Given the strong performance in your downstream business, which I think you have done a great job highlighting, would it not make sense to try to address the volatility upstream and maybe consider some hedging or other mechanism to kind of offset that up and down movement in the…?
+
+Klaus Kleinfeld
+
+Timna, that's a good point, and I think probably over the 125 years that Alcoa is around, at least that from the time that hedging was possible, this has been the debate, typically when Bill and I sit down with investors and have that discussion, investors don't like it because typically they want the aluminum exposure.
+
+We do a little bit of hedging once in a while, particularly when it comes around a growth project or a particular structure that we have when we have it tied to an energy contract or those types of things, but other than that our impression is people rather want to be exposed to it. Frankly when you look at some folks that have hedged pretty substantially, it's rather limited with rather limited success, I would say.
+
+Timna Tanners - Bank of America
+
+Okay, fair enough. Thank you.
+
+William Oplinger
+
+And Timna, if you don't mind, if I can just address your first question also. A couple of other points to keep in mind and Klaus did say it, but it's important to note that from a maturity perspective, we have the convertible that we expect to convert next year and we don't have maturities until 2017.
+
+Secondly, since the downgrade, we have been in the commercial paper market, and we have done a sizeable amount of commercial paper. Now you will see on our balance sheet we didn’t end the quarter with commercial paper because we simply had the cash generation to be able to cover it. So I think that's also a good sign that the commercial paper market certainly hasn't been closed to us after the downgrade.
+
+Klaus Kleinfeld
+
+Okay, Timna. Next question please.
+
+Operator
+
+Your next question comes from the line of Charles Bradford from Bradford Research. Please proceed.
+
+Charles Bradford - Bradford Research
+
+Could you talk a bit about Ma'aden and what the current status is of the smelter. It has been operating now at least partially for six months. Where do you stand on some of the other start-ups?
+
+Klaus Kleinfeld
+
+Yes, well, on Ma'aden, I have given you a pretty detailed description last time. Obviously, what we see now, we have progressed. We are now seeing, and overall project is 80% complete, all is on-track. The smelter, as you know, started to operate on December 12 last year, continues to operate. We are bringing it fully online until the end of the year.
+
+We actually do have a solution also on the power side. Some of you that are more familiar know that there is some issue on brining the power station online. This will not affect us because there is even a backup solution and they have been making also substantial progress on that.
+
+The second thing, the rolling mill, we will, as expected, roll off the first coil in end of the year, in December this year. So that also goes very well. The project completion on the rolling mill is currently at 82%. Then, on the refinery, we are also doing well, 57% complete, and the mine, we have just started, this is the last piece and is at 20%. So, all pretty good on-track as expected, and yes, so we are rolling.
+
+William Oplinger
+
+The only think I would add to that, Chuck, is that from a budget perspective, overall, we are on-track.
+
+Klaus Kleinfeld
+
+Totally on-track.
+
+William Oplinger
+
+Totally on-track from a budget perspective, and I think it will be one of the first megaprojects in our industry to be delivered on budget.
+
+Klaus Kleinfeld
+
+Don't jinx it. I mean, that's why I am going to knock on wood here, you know. So, okay.
+
+Charles Bradford - Bradford Research
+
+Yes, let's not jinx it.
+
+Klaus Kleinfeld
+
+Exactly Chuck, thank you for the question.
+
+Charles Bradford - Bradford Research
+
+This sounds good.
+
+Klaus Kleinfeld
+
+Yes, it does sound good. It looks even better, Chuck. Better than it sounds, because it's pretty massive, pretty amazing. Okay, next question, if there is one.
+
+Operator
+
+All right, your next question comes from the line of Paul Massoud from Stifel. Please proceed.
+
+Paul Massoud - Stifel
+
+I appreciate a lot of the color you have put into the slides on some of your cost and your productivity savings, but I guess I was struck a little bit by the fact that you sort of hit 72% of your target and you chose I guess not to increase your target for the year of $750 million. Should we assume that you are coming to the end of cost savings, or can we expect some adjustments there?
+
+Klaus Kleinfeld
+
+No. Yes. That's a good question, Paul. Yes. The target that we have in there is the target that we set at the beginning of the year and we set that target in light of seeing what the productivity improvements were in the last year. Then obviously I am not saying that it's easier to get these things, and then if you look at the last years I mean we achieved this $5.5 billion in productivity, so this year again we set an aggressive target of about $750 million which is a little below last year, but that's the target that we set.
+
+The reason why I showed you where we stand is, because you made the correct calculation. We obviously are ahead of it. What internally is happening, internally what is happening is, people typically are deployed much more substantially than what their target is. Because we know that in our process not every idea gets to realization, there are some things that fall out in this what we call degrees of implementation from idea to cash. That's why people over deploy and trust me I mean, I know for a fact that every one of the businesses already has a very, very different target and that this will not add up to the $750 million, but number will be higher and that's the reason also why we have come out higher, because people are executing against the higher internal target. That is absolutely fine with me by the way if people are giving themselves an additional stretch, because I believe the $750 million already was a quite a stretch and I know how hard people are working on it.
+
+That's why I mentioned also this to you to give you a feel for what's really going on, because this can only get done by basically every one of our 61,000 people working on that and I could have chosen another field. I mean, looking at the days working capital, bringing it down by additional six days. And, Bill said it, when we looked at the achievements that we had done by the end of the year, we thought this is already spectacular and frankly nobody would have thought that this would be possible and we thought if we maintained that we would already be world-class, but you see this is the hangover that is steered by when people see what they can do and people continue to go the next mile and that's what you see here. It chimes through in all of these facts, because it really is the DNA of the firm.
+
+Paul Massoud - Stifel
+
+Okay. I appreciate that. Then maybe just a follow-up on Ma'aden. In the past, you said that's probably going to account for 2 percentage points of the 10 percentage point move in Primary Metals, and so I was just curious when you expect it to hit the low point of cost production? But, I guess you had said before it would be at the low end of the cost curve when it's up and running, but curious when you might get to that?
+
+Klaus Kleinfeld
+
+That's a good question, Paul. We expect it to be fully in operation for the whole next year. We are ramping it up now. Full operation is going to be next year.
+
+Paul Massoud - Stifel
+
+Okay. I appreciate it.
+
+Operator
+
+Last question comes from the line of David Gagliano from Barclays. Please proceed.
+
+William Oplinger
+
+Hey, Dave.
+
+David Gagliano - Barclays
+
+Hi. How are you?
+
+William Oplinger
+
+Very good.
+
+David Gagliano - Barclays
+
+Good. I have a question regarding the profitability of the Primary segment. Just if we could get a sense as to the overall profitability of the segment at various aluminum prices? For example, we've got aluminum prices now below $0.80, but the Premiums are at $0.17. I was wondering, if you could just give us a rough estimate of what percentage of the current Primary aluminum production is profitable on an ATOI basis given those two metrics? And, then what would that percentage be if the combination of those two metrics drops by another $0.05 per pound, for example?
+
+William Oplinger
+
+It's a tough question to answer, Dave. I mean, in aggregate, you can see that at these levels, primary metals lost money in the quarter. Our view is that that's symptomatic of the entire industry. We would say that on a cash basis and you can see that we still made a positive EBITDA in the segment in the second quarter, but if you look at the overall cash cost of the industry, we would say that there is around a third of the cash cost of the industry that's currently under water and that's including the higher premiums and the current metal price, so it's just difficult to answer a hypothetical question at this point but you can see the results that we were able to achieve in the second quarter.
+
+David Gagliano - Barclays
+
+Okay, but out of the portfolio that you have that was producing in the second quarter, against that same metric that you mentioned versus the industry and this is the third, how much of Alcoa's volume was not profitable on a cash cost basis?
+
+William Oplinger
+
+If you go back, we have announced the 460,000 ton review. So you can assume that that 460,000 tons is very close on a cash basis at the current level. So that's why the 460,000 tons are under review. We have already taken action on 105,000 tons of the Soderberg in Canada. We will continue to evaluate anything on a cash basis to determine whether we shut it down over the next few months at the current price levels?
+
+Klaus Kleinfeld
+
+And Dave, it's also not that difficult to figure out which ones are the higher costs here.
+
+William Oplinger
+
+It is very clear. We have got high cost capacity in Australia. We got high cost capacity in Southern Europe. We have got some higher cost capacity in parts in Brazil, depending on what power prices are.
+
+Klaus Kleinfeld
+
+Exactly and we are very committed to acting and I wish that this would be indicative to every company that's playing in our industry, if I might say that and add that as a nice closing remark to your question.
+
+Okay, good. I guess this is all the time we have today and thank you for joining us. We are continuing to turn in strong operating performances and growing our value add businesses, as you saw, as we are improving our competitiveness in the upstream business and putting also legacy issues behind us. So thank you for tuning in and I am looking forward together with Bill to continue to engage with you. Thank you very much. This concludes this call. Thanks.
+
+Operator
+
+Ladies and gentlemen, that concludes today's conference. Thank you for your participation. You may now disconnect. Have a wonderful day.

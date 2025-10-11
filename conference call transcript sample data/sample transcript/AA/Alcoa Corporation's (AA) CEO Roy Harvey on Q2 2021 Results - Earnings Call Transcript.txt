@@ -1,0 +1,667 @@
+Alcoa Corporation (NYSE:AA) Q2 2021 Earnings Conference Call July 15, 2021 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations
+Roy Harvey - President and CEO
+William Oplinger - Executive Vice President and CFO
+
+Conference Call Participants
+
+Michael Glick - JPMorgan
+Curt Woodworth - Credit Suisse
+Lucas Pipes - B. Riley Securities
+Emily Chieng - Goldman Sachs
+Carlos De Alba - Morgan Stanley
+David Gagliano - BMO Capital Markets
+Alex Hacking - Citi
+John Tumazos - Very Independent Research
+Michael Dudas - Vertical Research
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Second Quarter 2021 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today’s presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note that this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, and good day, everyone. I am joined today by Roy Harvey, Alcoa Corporation’s President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company’s actual results to differ materially from these statements are included in today’s presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here’s Roy.
+
+Roy Harvey
+
+Thank you, Jim, and thank you to everyone for joining our call. Before we get started, I want to take a moment and emphasize once again that Alcoa’s actions are always guided by our values. We consistently act with integrity, operate with excellence and care for people. That is true every quarter, but it’s been especially important in this past year-and-a-half as the world has wrestled with unprecedented challenges brought on by the COVID-19 pandemic.
+
+While risks remain, vaccines have helped to move many of the world’s economies forward again. I am proud of the work that our Alcoa employees following our values have done to mitigate these risks, supporting each other, our business and our communities.
+
+I am disappointed, however, that we had two serious injuries during the quarter, a hand injury and a case of heat stress. These are both important reminders that there are numerous everyday risks that we must consistently work to eliminate or reduce. Our most important objective is the safety of our employees.
+
+Now, let me quickly recap some of our results, which Bill will describe in greater detail. We posted our highest ever quarterly earnings per share since becoming an independent company in 2016. It’s also our most profitable first half of the year in the Aluminum segment.
+
+The results demonstrate that our strategic priorities are working to improve this company and deliver results. It’s a very good time to be in the upstream Aluminum business and it’s a good time for Alcoa with a company that is stronger now than any time since our 2016 launch.
+
+We’ve made significant progress on our strategy to strengthen our balance sheet, eliminating all long-term debt maturities until 2026. Importantly, we are now well within our target range of proportional adjusted net debt.
+
+We also delivered above and beyond our previously announced target to generate cash from non-core asset sales. Although, we have reached our target on this program, we will continue to evaluate other sales when it makes sense.
+
+Last month sale of the former Eastalco smelter site in Maryland, which have been closed in 2010, was an example of this. The new owner will use the property for a next-generation data center. This too is an example of our strategic priorities working. It shows that former brownfield sites can bring economic value for our company and the communities where we used to operate.
+
+Across Alcoa, we’ve worked to ensure this company can succeed through all commodity cycles. When market prices plummeted last year, we were resilient because of the strategies we already had in place.
+
+Our plants remained operational and performed well. We stayed focused on the future, continuing to make improvements. Now, with stronger markets, we’re capturing the benefits from much better pricing and driving it to the bottom line.
+
+While we will continue to improve our portfolio of assets, our Aluminum segment saw our companies highest ever third-party realized price. Also, ongoing strength and customer demand and China’s efforts to reform its industry suggests continued strength in global Aluminum pricing.
+
+The metal we produce is an important material for the future and more sustainable solutions. We’re ready for that future through existing low carbon products and the development of breakthrough technologies that we’re working to bring to the market. I look forward to discussing this and more.
+
+But now, I’ll ask Bill to dig deeper into our financial results. Bill, please go ahead.
+
+William Oplinger
+
+Thanks, Roy. It was another great quarter. Revenues at $2.8 billion were steady sequentially and after removing the impact of the Warrick rolling mill sales were up 7%. Revenues were up $685 million or 32% from the same period last year on higher Aluminum prices.
+
+Second quarter earnings per share was $1.63 per share, $0.70 per share higher than the prior quarter and $2.69 per share higher than the year ago quarter. Adjusted earnings per share for the second quarter nearly doubled sequentially to a record $1.49 per share. Adjusted EBITDA, excluding special items, also increased up 19% sequentially to $618 million and more than tripled last year’s $185 million.
+
+The key reason for our record net income this year and a key differentiator from prior years has been the relative contribution of our Aluminum segment with modest income taxes and virtually no minority interests. More Aluminum segment EBITDA translates to the bottom line compared to the other segments.
+
+In the first half of 2021, the segment provided 65% of Alcoa’s total adjusted EBITDA, excluding special items, compared to 28% of the total in our previous best first half 2018. Even though Alcoa’s adjusted EBITDA was $376 million lower in the first half of 2021 compared to the same period in 2018, Alcoa’s first half 2021 net income excluding special items was $20 million higher than 2018. A similar dynamic also holds true for cash flows.
+
+Now let’s review adjusted EBITDA in more detail. The $97 million increase in adjusted EBITDA, excluding special items, was driven by higher metal prices. That $199 million benefit was partially offset by lower alumina prices and unfavorable foreign currency impacts, which together totaled $41 million. Higher production, energy and raw material costs were unfavorable impacts, partially offset by better mix of alumina contracts and higher value-added shipments and premiums.
+
+At the product segment level, bauxite adjusted EBITDA declined $18 million due to lower intercompany transfer prices and higher production costs. In alumina, $22 per ton lower API and higher maintenance and energy costs were only partially offset by improved mix of shipments and contract pricing.
+
+The Aluminum segment benefited from much higher LME and higher regional premiums, especially the Midwest premium, as well as stronger value-added shipments and pricing, while higher production costs, non-recurrence of work rolling mill EBITDA and higher raw materials and energy costs were partially offset.
+
+Now let’s look at impacts in our cash flows. The cash flows highlight many of the major corporate actions have undertaken this year, as well as the benefits from very strong adjusted EBITDA. Given the magnitude of the cash balance change in addition to our normal year-to-date chart, we have bridged from the first quarter ending cash balance to the second quarter cash balance.
+
+It shows the April cash uses following the 2024 bonds and funding the U.S. pension, as well as the quarter benefiting from cash inflows related to non-core asset sales proceeds predominantly the former Eastalco smelter location.
+
+It also shows the benefit of strong adjusted EBITDA, particularly in the Aluminum segment, net of other operating uses, which included a modestly support in capital primarily due to higher metal prices.
+
+On a year-to-date basis, you can see the additional benefit of the strong first quarter EBITDA and the partial offset from the typical first quarter of working capital change. Those cash flows and EBITDAs also impact key financial metrics.
+
+Return on equity increased from 18.5% in the first quarter to 24.6% for the first half of 2021, reflecting the record adjusted net income attributable to Alcoa. First half 2021 free cash flow less net non-controlling interest distributions was negative $371 million, reflecting the strong EBITDA, partially offset by the $500 million pension funding and the working capital increase.
+
+Days working capital increased one day sequentially on higher receivable and inventory valuations. Most importantly, our key leverage metric proportional adjusted net debt is now well within our $2 billion to $2.5 billion target range at $2.1 billion.
+
+Our pension and OPEB net liability has decreased $0.7 billion or 55% from the 2016 year-end balance of $3.1 billion to $1.4 billion. Liquidity is very good. Our cash balance was $1.65 billion at quarter end.
+
+Moving to our outlook for the remainder of the year. Our outlook for the full year 2021 is improving slightly in several areas; shipments, the expected ranges are increasing, 100,000 tons in both the Bauxite and Alumina segments, and increasing 200,000 tons in the Aluminum segment. On the income statement, transformation costs are improving $5 million. In cash flows, there are two expected improvements, pension and OPEB cash funding is expected to be $5 million better, and environmental and ARO spending is expected to be $10 million better than the last time we showed this chart.
+
+More importantly, we expect the third quarter to be another very solid quarter. Operations are expected to continue performing at a high level, current aluminum prices are significantly higher and alumina prices are higher too compared to the second quarter.
+
+We will see some partial offsets these benefits as we are seeing cost inflation in the form of higher raw material costs, energy and transportation costs. Finally, with current market prices indicative of another quarter of substantial earnings, we expect our operational tax expense to be over $100 million in the third quarter.
+
+Now let me turn it back to Roy.
+
+Roy Harvey
+
+Thanks, Bill. Now turning to our markets, as Bill noted, the Aluminum segment has a significant role in our profitability and we saw a continued upward trend and realized pricing last quarter. It grew more than 60% since the low in the second quarter of 2020.
+
+Broad economic recovery, manufacturing restarts and tightness and the physical availability of Aluminum have all continued to support this rally in the LME and regional premiums. We have observed strong macroeconomic trends including positive GDP and industrial production in many of the world’s leading economies.
+
+Also monetary and fiscal stimulus programs both announced and implemented have supported stronger demand in aluminum’s end used markets. That is expected to continue as vaccination efforts advance, lockdown’s are eased and stimulus measures progressed. In addition as noted last quarter we continue to see China moving to constrain supply growth in energy intensive industries like Aluminum to help meet its own goals to reduce carbon emissions.
+
+For Alcoa’s commercial impact specifically, in Aluminum we are also seeing significant year-over-year growth for value-added products. In the second quarter we saw increases in both sales and shipments. The second quarter was the fourth consecutive sequential improvement in shipments, up 11% for the quarter and 40% year-over-year. For full year 2021, we expect continued year-over-year growth in value-add product sales revenue.
+
+Now let me return to the topic of China for a deeper look, as it continues to play a predominant role in global aluminum industry fundamentals. The country is continuing to focus on energy intensive industries to assist with its decarbonization goals.
+
+In its announced 14th five-year plan, which ends in 2025, the government set its highest priority goals, including work to reduce carbon emissions by 18% per unit of GDP and to reduce energy consumption per unit GDP by 13.5%. The Chinese Central Government has set dual control targets for each province on energy intensity per unit of GDP and total energy consumption.
+
+On the left you’ll see a summary of the publicly disclosed first quarter outcomes for this dual control system for China’s 17 Aluminum producing provinces. The colors correspond to a traffic light approach that the government has deployed and as described on the chart.
+
+Results from this snapshot show that provinces that produce close to 65% of China’s primary Aluminum have been rated yellow or red for at least one of the two targets. China’s Central Government has called on provinces not meeting targets to tighten energy efficiency controls.
+
+In response, some provinces are limiting new projects in energy intensive industries, such as primary Aluminum smelting. Inner Mongolia has already curtailed primary Aluminum production in response to this program and other factors. This is on top of other developments we are seeing where Chinese provinces are taking action to limit primary smelting growth as part of their own policy priorities.
+
+For example, Shandong Province, home to around 20% of Chinese Aluminum capacity recently announced its intention to strictly enforced implementation of the reduction principle, which would apply two-thirds of scaling factor to interprovincial capacity transfers.
+
+To give an example, this would mean that for a smelter in Shandong to expand capacity by 100,000 metric tons per annum, it would require a purchase or transfer of 150,000 metric tons per annum of capacity permits.
+
+Finally, in Gansu this year, we have noted that the province canceled preferential power tariffs for primary aluminum smelters. In addition, the Chinese Government also has started the first phase of a national emission trading scheme with the Aluminum industry expected to be included in subsequent phases with other industries.
+
+China is also continuing to work towards its announced limit of carbon and energy intensive primary Aluminum capacity of 45 million tons per annum. A target announced in 2017 as part of supply side reform policies.
+
+Considering all of the ongoing efforts in China, the country is expected to remain a net importer of primary Aluminum with the potential for new capacity to be needed outside of China in the future. Clearly, Chinese policies on carbon emissions reduction and energy have the potential to drive significant positive change in global Aluminum industry fundamentals.
+
+Next, I want to highlight the fact that our three segments continue to perform well, allowing us to capture the benefits from the positive market fundamentals we’re currently experiencing. We have remained focused on strengthening our operations through improved processes and reliability to ensure that we continue to operate with stability.
+
+In Bauxite, we’re continuing to boost our production from majority owned mines and seeing higher tons from joint venture mines.
+
+In Western Australia, we reached a major milestone earlier this year for our Willowdale mine, relocating the hub to a new region known as Larego. Transferring to this new region included a highly engineered process that involved moving an 850 ton crusher. It was an impressive project and I congratulate the team for a safe and successful move to this new region, which will be used for the next couple of decades.
+
+In Alumina, we’re maintaining production at near record levels for the world’s most cost competitive refinery system. We’ve continued to improve our processes to reduce bottlenecks and operate efficiently.
+
+In Aluminum, we’re benefiting from the restart of the ABI smelter in Bécancour, Québec, that was fully completed last year, albeit partially offset by the Intalco curtailment.
+
+Now let’s turn to some of our achievements in the first half of the year. First, as mentioned earlier, we overachieved on our goal relating to the sale of non-core assets, while continuing to evaluate future opportunities.
+
+We also made progress this year in our portfolio review, which includes opportunities for significant improvement, curtailments, closures or divestitures. Earlier this year, we were pleased to announce the repowering of our Portland Aluminum Smelter in Australia.
+
+From a financial standpoint as we noted, our balance sheet is in the best shape since our launch as a standalone company due to the actions we’ve taken. Today, we have more flexibility to execute on Alcoa’s strategies.
+
+From a sustainability perspective, we are well-positioned in an evolving marketplace that is placing greater emphasis on low carbon products. In June, we shipped the first commercial loads of EcoSource, the world’s first and only low carbon smelter grade alumina brand. This particular product which is part of our Sustana family leverages our leadership as the world’s largest third-party provider of alumina with a refining system that has the globe’s lowest average carbon dioxide intensity.
+
+While we have a strong position currently in our industry, with the most comprehensive line of low carbon products, we’re also leading in the development of next-generation technologies. We developed a zero carbon smelting process that helped create the technology basis for our LSS joint venture.
+
+The technology eliminates all direct greenhouse gas emissions from the traditional smelting process, producing instead pure oxygen. Metal produced from this ongoing R&D project has already been used in commercial products, including from the deal we announced earlier this year to supply metal for the wheels used on Audi’s e-tron GT, the company’s first electric sports car.
+
+The ELYSIS joint venture is now ramping up the technology and began construction last month on commercial sized inert anode cells in Québec, which will complement the ongoing work at Alcoa’s Technical Center near Pittsburgh and at the ELYSIS Research and Development Center in Québec.
+
+Also, we announced in May that we’re investigating the application of a technology known as Mechanical Vapor Recompression, which has the potential to reduce our refinery’s carbon footprint by approximately 70%. It would use renewable energy to capture waste heat and produce high pressure steam, which would then be used to provide our refinery’s process heat, displacing the use of natural gas.
+
+The Australian Renewable Energy Agency has provided funding for testing. If successful, by the end of 2023, Alcoa Australia would install a mechanical vapor recompression module at the Wagerup refinery to test the technology at scale.
+
+And now turning to the right-hand side of the slide, we will continue to progress in the second half of the year. We’re continuing to pursue a solution for our San Ciprián smelter in Spain, including working with the workers representatives and government stakeholders on our sales process for that asset.
+
+In the State of Texas, we continue to work on the sale of the former Rockdale site known as Sandow Lakes Ranch. The real estate listing includes more than 30,000 acres with significant water rights.
+
+From a financial perspective, we are focusing on capital allocation, in light of the improvements we’ve made to our balance sheet and the evolution of our product markets. We will remain committed to executing on our advances sustainably priority to our continued development of breakthrough technologies and a focus on growing sales from our Sustana line, which will help our customers lower their carbon footprint. We will continue to improve our business by executing on our consolidated capital expenditure budget for 2021 that includes both sustaining and return seeking projects.
+
+Next month we intend to begin construction on one of the sustaining capital projects at our Poços de Caldas refinery, where we will implement technology we first adopted in Western Australia known as residue press filtration. It saves water and reduces the use of land required to store residue.
+
+From a return seeking perspective, we’re also working on a project at our Deschambault smelter in Québec, boosting amperage to enable lower costs and increase the smelter’s annual production capacity by approximately 10%. The project is expected to be commissioned by the end of the year.
+
+Before we close our formal remarks, I want to emphasize again the significant progress we’ve made not only since the inception of our company but the accelerated progress during these last several months.
+
+Our facilities are consistently operating well, capturing the benefits of this much improved market. We demonstrated resilience to the challenges of 2020 and we have the operational know-how, structure, processes and systems to succeed.
+
+With a significantly improved balance sheet, our company is positioned well for the future. Yet we will continue to push to perform even better. Relentless and continuous improvement is the Alcoa way.
+
+Finally, we are proud to be a values-based company with leadership in environmental, social and governance practices, and we will continue to lead with breakthrough technologies, processes and products for a more sustainable future.
+
+Thank you once again for your time today. Bill and I are now ready to take your questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] And our first question today will come from Michael Glick with JPMorgan. Please go ahead.
+
+Michael Glick
+
+Good evening.
+
+Roy Harvey
+
+Hi, Michael.
+
+William Oplinger
+
+Hey, Michael.
+
+Michael Glick
+
+Hey. Capital allocations obviously top of mind for most of your investors and yourselves included. I mean, can you talk about how you’re thinking about shareholder returns or growth now that you’re in your targeted proportional net debt range?
+
+William Oplinger
+
+Yeah. Michael, let me take that one. But before I do, I wanted to clarify a mistake I had in my prepared remarks. We actually said that, I think, I said in my prepared remarks that Bauxite outlook had increased by 100,000 tons. If you look at the chart, it’s increased by 1 million metric tons, which makes a lot more sense than 100,000 tons. So to get that out of the way.
+
+Now let me address your capital allocation question. As you know, we have a four-pronged approach to capital allocation. We have a net debt target, which for the first time, we are in that target range after the second quarter. One of the prongs is returns to shareholders. Third is the strategic review or repositioning of the asset portfolio. And the fourth is earnings growth opportunity.
+
+And we continue to follow that capital allocation model. We’re happy to be in our target net debt range at this point. And I think over the last five years, you’ve seen that we’re a very disciplined about how we allocate capital. So we are continuing to follow that model at this point.
+
+Michael Glick
+
+Got it. And just given the move in billet premiums and some of the other value-added products, I mean, maybe it’s simply demand. But what else do you think is driving that, give a view on prices and could you remind us how pricing for value-added products flows through in terms of your contracts?
+
+William Oplinger
+
+Yes. So there is -- in the back up of presentations, there is some information I believe on how metal price flows through and how regional premiums flow through. But as far as the value-add premiums flow through, the large majority of North American value-add products are done on an annual pricing basis.
+
+In Europe, we price more on a quarterly basis. So you will see the billet prices flow through on a quarterly lag generally. But in North America, much of that is already priced for the year. Going into 2022, we would be having those negotiations now with our customers for value-add products.
+
+Obviously, if we’re able to pick up spot business from time-to-time, as you’ve seen, we’ve picked up spot business this year, because our value-add products volumes have been growing. We’ve been able to sell more spot market business, but the pricing is largely at least in North America on an annual basis.
+
+Roy Harvey
+
+And just to complement that a little bit, Michael. The fact is right now with demand picking up so much in the U.S. and North America and then also in Europe, what we’re seeing is that spot premiums particularly on billet but also on other products are going up.
+
+And so as we -- in Europe, we can pick that up quicker and like Bill was saying and then in North America as we get into next year contracting season we’ll have the opportunity to pick up that -- those spot premiums as well. So, certainly, a good time to be selling value-added products right now.
+
+Michael Glick
+
+Understood. Thank you.
+
+Roy Harvey
+
+Michael.
+
+Operator
+
+And our next question will come from Curt Woodworth with Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yeah. Thanks. Good afternoon, Roy and Bill.
+
+Roy Harvey
+
+Hey, Curt.
+
+Curt Woodworth
+
+First question, I just want to get your sort of initial take on the EU carbon border tax framework that was announced and how you see that affecting the market, I guess, broadly and then you specifically? And then also kind of in parcel with that, I think, previously you’ve talked about incentive pricing for new smelters around 2,600 metric ton. When you look at the amount of capital that’s going to need to be spent globally to address the carbon issue, I know that there’s some significant capital that potentially could occur for you in the refinery system on the compressors. How do you see this kind of taking into longer-term normalized pricing? That’s my first question.
+
+Roy Harvey
+
+Sure. So let me comment on the EU carbon border tax and I’ll let Bill talk a little bit about incentive pricing. So, obviously, we just started to look through the details. To start at the very beginning, from our perspective, because of the portfolio that Alcoa operates and the fact that we are low carbon compared with much of the industry.
+
+The quicker we can go to a global carbon price embedded inside of the Aluminum price, the better off we can be. And so as we look at around the world regionally and we think about the development of these types of mechanisms, on the whole, they’re going to be positive for Alcoa.
+
+Now, when you start to look at something like the European border adjustment mechanism, there’s a lot of details that we need to sort through to really be able to understand what are the gives and takes.
+
+However, it is a step absolutely in the right direction, it’s going to help to establish the fact that there is a true difference between what is low carbon aluminum and higher carbon aluminum. And to me, that is a very positive step forward.
+
+William Oplinger
+
+And Curt, if I address the incentive pricing question, let me come at it from a slightly different perspective. The -- we think that the Chinese are pretty well committed to the cap that they have set in the future. So if you then consider incentive pricing outside of China, there’s really two areas that you could consider.
+
+The first is restarts. And at today’s pricing, I would think that a lot of the producers are running the numbers around restarts and trying to make a determination whether that restart makes sense for them.
+
+But then on top of that, there’s greenfields and you’ve seen in the rest of the world very few greenfield announcements for smelting projects and they take a while to come online. So at this point, if anyone’s considering greenfields, it’s probably a couple of years down the road.
+
+Curt Woodworth
+
+Okay. That’s helpful. And then I’ll try to take another step at the capital allocation question. Maybe start with the fact that you’ve only spent, I think, $10 million on growth CapEx year-to-date. So, clearly, there’s scope for the company to accelerate more growth spend ahead. But given the free cash flow outlook, it seems like you’re going to have plenty of wherewithal to do both.
+
+So in terms of capital return specifically to shareholders, should we think that a decent percentage of your free cash flow will start to accrue back to the shareholders? Is there any way you could quantify or help frame the opportunity set for the investor around that, because I mean there’s a lot of investors that have been patiently sort of waiting for the net target to be ahead and obviously the recovery in the aluminum fundamentals creates a pretty good opportunity here? Thanks.
+
+Roy Harvey
+
+Yeah. So I’ll just touch upon a couple of facts that you brought up. First of all, we had a great cash generation in the quarter. So we contributed to $500 million to the U.S. pensions. If you back that out of cash from ops, our cash from ops was close to -- was over $400 million after you back that out. So we’re in a position in this part of the market -- this part of the cycle where we are generating significant cash flow.
+
+I’ll come back though to the current capital allocation model. There’s four prongs. We will weigh those four prongs to maximize value, and I am not going to speculate at this point how that occurs over the next few quarters.
+
+But as you alluded to, we do have earnings growth opportunities. We’ve only spent $10 million of return seeking capital. We’re going to ramp that up to $40 million additional by the end of the year, because we’re at a $50 million target as you see in the outlook. So not significant return seeking capital growth at this point, but we’ll use the current capital allocation model to determine how we allocate capital going forward.
+
+Curt Woodworth
+
+Great. Thanks very much. Congrats on the quarter.
+
+Roy Harvey
+
+Thank you, Curt.
+
+Operator
+
+And our next question will come from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Yes. Thanks very much and good afternoon, everybody. And I’d like to add my congrats on good quarter, good outlook and also hitting your -- the net debt targets.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+William Oplinger
+
+Thanks, Lucas.
+
+Lucas Pipes
+
+I want to return to this question as well and I wondered is there a way to quantify the potential capital outlay for a transformation of the portfolio investing in value and creating growth opportunities. Are we talking tens of millions of dollars, hundreds of millions of dollars over the next 12 months? I think that would really help investors kind of set their expectations for last remaining item of the four-pronged strategy the return to shareholders? Thank you.
+
+William Oplinger
+
+So, the return seeking capital budget for the year is $50 million, we spent $10 million year-to-date. We’ll spend an additional $40 million during the course of this year. We have not -- so we purposely not put a size around how much it’s going to cost us to reposition the portfolio. And the reason why we haven’t done that is because we essentially have to treat each plant on a case-by-case basis.
+
+Greatest example is Portland and we put a number out that said, we need to go closer to tail Portland back when we announced the strategic repositioning, we would have fundamentally been wrong. We were able to repower Portland and it didn’t cost us anything to repower Portland and now Portland going forward with a five-year power deal that should position it to be successful over that time period. So we’re trying not to give a view of how much it will cost to reposition the portfolio, because it will depend on how we do that.
+
+Lucas Pipes
+
+That’s helpful. Thank you. And maybe on the transformation, we have discussion today in terms of capital outlays, but this could be a source of capital too. I am thinking of Rockdale, for example. Can you speak to that and how that might fit into this framework?
+
+William Oplinger
+
+Thanks. Thanks for bringing it up, Lucas. Many people tend to think of our legacy portfolio as only cash outflows and we currently manage about 20 closed or curtailed sites around the world. We think of them as in a number of ways.
+
+One, we need to be good stewards of the environment, and so for those closed and curtailed sites, we have to do them -- manage them in a sustainable way for the communities and the environment around them.
+
+But secondly, we look to minimize the liabilities and maximize the value. Eastalco is the best example. Eastalco is a site that we closed a number of years ago. We had been looking for opportunities to redevelop Eastalco and one came along where we were able to work with Quantum Loophole to put a redevelopment plan in place and they bought the site for $100 million and we will move on from there. Rockdale is another great example where we have it for sale for $250 million and we have a group that works to maximize the value of those transformation sites around the world.
+
+Roy Harvey
+
+Yeah. And Lucas, if I can just complement that, I think, one of the reasons I most enjoy working for Alcoa is that we manage those sites all the way from inception down to closure and then redevelopment. And we have a very talented team that is focused on these legacy sites and you can see that very much, and again, in Eastalco. So, just a great opportunity to demonstrate that this entire life of an operation can have value for Alcoa, but also for our communities.
+
+Lucas Pipes
+
+That’s very helpful. Thank you. I’ll follow-up on one other point, the $150 million available, that’s the existing $200 million buyback. How should investors think about that in today’s environment? Thank you very much.
+
+William Oplinger
+
+I would just point you to back to the capital allocation program. It’s part of the four-pronged capital allocation program that we have.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+Lucas Pipes
+
+Thank you. Yeah.
+
+Operator
+
+And our next question will come from Emily Chieng with Goldman Sachs. Please go ahead.
+
+Emily Chieng
+
+Hi, everyone. Congratulations on a good quarter. I just wanted to sort of check in on some of the commentary that you had around 3Q guidance and a number of pieces of cost inflation that you’re starting to see creep through. Do you mind sort of stepping us through sort of the component-by-component pieces and how manageable do you think are some of those cost pressures are going forward?
+
+William Oplinger
+
+So, Emily, thanks for the question. I think we alluded to $10 million in the Alumina segment and that is -- there’s really two components to that. That’s higher caustic prices that are beginning to flow through.
+
+Now you know caustic flows through on a six-month lag. So we are just now starting to see some of the higher caustic costs flow through the cost of goods sold and some higher energy cost. So we do have especially in places like Spain we’ve got natural gas that is linked to oil prices. So the higher oil prices are driving some higher energy costs there.
+
+In the Aluminum segment, really on a sequential quarter basis we’re seeing around $25 million of higher costs. That’s a combination of coke and pitch costs, which are starting to trend up, and some transportation costs. So those are the big components.
+
+I -- it’s not surprising in our industry for the folks who have followed us for a long time that when you see a run up in Aluminum prices that there will be a trailing higher raw material cost and we’re starting to see that today.
+
+Emily Chieng
+
+That’s really helpful. And one follow-up if I may, just around the Alumina market, it seems like that’s sort of trailed aluminum for a little bit of time now. Can you provide an update as to what you’re seeing there? Thanks.
+
+Roy Harvey
+
+Yeah. Emily, I’ll take that one and I appreciate the question. So, I mean, first and foremost, I think it helps to demonstrate the fact that these are two very different markets with very different set of fundamentals. It’s the reason that we started to move to an API pricing methodology rather than simply having it would be a percentage of Aluminum.
+
+I think there is really two main points that I’d bring up. The first is freight, as you look at the increase in freight costs, it’s really driving China to be to import less alumina, and therefore, operate more domestically. And so that tends to, as you see, even those price increases happening inside of China, it tends to incentivize less imports and so that helps to constrain to a certain extent the Aluminum pricing environment.
+
+And the second one, which really ties in with that is the fact that, when you look at the transactions happening on a day-by-day or week-by week-basis, there are buyers, as many buyers as there are sellers and so the market is balanced and in fact probably balance to a slight surplus. So right now you don’t have a lot of very specific catalysts that are driving the price upwards, the same as you don’t have a lot of catalysts to drive the price downwards.
+
+I would also just note as well that Aluminum tends to be driven very much by sentiment and by looking at how that demand changes, and because the actual production of Aluminum is less sensitive, it means that Alumina is a bit less sensitive to some of those macroeconomic trends.
+
+Emily Chieng
+
+Got it. That’s clear. Thank you.
+
+Roy Harvey
+
+Thanks, Emily.
+
+Operator
+
+And our next question will come from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yeah. Thank you very much, Roy, and Bill. Congratulations on the quarter. A couple of questions, one is on the accrued pension benefits on the balance sheet. The drop is around $700 million and yet on a cash basis the payment in the quarter was around $500 million. I wonder if you could explain the difference, is that a revision on the discount rate assumptions and/or this is a settlement that also came through in the special items. I think it was a pension lump sum settlement, which may be linked to the decrease in the $200 million excess decrease in the balance sheet versus the cash flow? And then the second question regarding the market, when would you expect that the focusing China on environmental aspects on emissions reductions will result in lower net exports of Aluminum semi products and what have you, and therefore, start to benefit the balance in the rest of the world?
+
+William Oplinger
+
+Carlos, I’ll take the first one, and that’s a great catch to see that how much we contributed versus the change in the liabilities and that we did contribute $500 million. The biggest additional move between the balance sheet is that we re-measured the part of the U.S. pension plans.
+
+The reason why we re-measured part of those U.S. pension plans is because when we offered the lump sum offer, we’ve had enough people taking the lump sum out of the pension plan that the accounting treatment requires us to re-measure a part of that. So that’s the decline because you’ve seen an increase in discount rates from year end. So in part that’s what drove that change.
+
+Roy Harvey
+
+And Carlos, let me answer your market question. I think it’s -- that is also a very good question. When we look at China today, we’re already starting to see different provinces take active steps to start to meet those targets.
+
+And it’s the reason we highlight of the dual control methodology, because not only is it a pretty, pretty neat graph, it’s also having actual effects and impacts on the ground. And so we’re starting to see China become tighter and tighter, and in fact, we believe China’s in a deficit situation. So while they continue to have pretty steady net exports their imports over these last few months have actually grown.
+
+And so the -- I think the answer to your question is, I think, you’re already seeing the impact of those changes. It’s really impacting less in their production of semi that they then export and more in the fact that they are importing metal to be able to address the demand that they have inside of China. And you can also see that in the release of inventory from the strategic reserves, which is also demonstrating the fact that they are short of metal right now.
+
+Carlos De Alba
+
+All right. Excellent. Thank you very much guys.
+
+Roy Harvey
+
+Thanks, Carlos.
+
+William Oplinger
+
+Thanks, Carlos.
+
+Operator
+
+And our next question will come from David Gagliano with BMO Capital Markets. Please go ahead.
+
+David Gagliano
+
+Hi. Thanks for taking my questions. I just have a couple of sort of questions to address some targets that were set last quarter that seem to have assumed in the guidance this quarter. So, first of all on the Bauxite business, I think, last quarter it was a $59 million EBITDA line and the commentary around the second quarter was flat quarter-over-quarter came in at $41 million and the guidance for the third quarter is flat quarter-over-quarter. Can you talk about what’s changed there in the Bauxite business?
+
+William Oplinger
+
+The biggest change Dave is that some intercompany pricing was reduced between one of our mines to one of our refineries. With the decline in Bauxite prices that we’re seeing globally, we adjusted that. That is approximately and I am going to estimate now approximately $12 million of that change. So that’s the biggest impact.
+
+David Gagliano
+
+Okay. Is sort of that low 40s per quarter reasonable run rate moving forward then or are there other adjustments like…
+
+William Oplinger
+
+Yeah. For the third -- as we said, for the third quarter, we’re expecting that to be flat. We don’t typically adjust Bauxite prices between the mines and the refineries. But we have seen a fairly large decline year-to-date in bauxite pricing. So we made that adjustment.
+
+David Gagliano
+
+Okay. And then it’s actually kind of dovetails into my next question, which is in the Alumina segment. Last quarter the list of special items for consideration for the next quarter, meaning this quarter was a $25 million in total one-time increase in costs. And I noticed or noticed that there wasn’t any commentary around a reduction -- $25 million reduction in cost in the third quarter in the Alumina business. Is there -- should we assume $25 million reduction in Alumina costs in the third quarter?
+
+William Oplinger
+
+No. I think we said alumina costs, I think, we say that, it will be a $10 million negative in the third quarter and that’s related to higher raw materials and higher energy costs. We are spending a little bit more maintenance in the third quarter than what we had anticipated.
+
+Given the strength of the metal markets largely but to a lesser extent in alumina, we are spending a little bit more maintenance than what we had anticipated in the third quarter versus the second quarter.
+
+And as you’re walking down our segments, you’re probably going to get to Aluminum here shortly. So I’ll answer the question in advance. In the case of Aluminum, we are investing a little bit more in the third quarter on part restarts than what we had anticipated.
+
+Given the strength of the overall metal prices, we’re trying to make sure that we have all the parts online that we can possibly have online to be producing metal that paybacks very quickly in today’s prices.
+
+David Gagliano
+
+Okay. That’s helpful. Thanks. And actually just a follow-up on the Alumina side, so then what happened to that $25 million that was supposed to be a one-time increase in costs? Are we talking about then we now have another so it’s kind of $35 million up from the first quarter that were on costs do you think?
+
+William Oplinger
+
+Yes. So $25 million increase versus the second quarter to first quarter and then anticipating a $10 million more increase in the third quarter. Remember that the $10 million includes raw materials. So we are starting to see an increase in raw materials and energy prices. So, yes, that’s the case.
+
+David Gagliano
+
+Okay. That’s helpful. Thanks. Appreciate it.
+
+Roy Harvey
+
+Thanks, Dave.
+
+Operator
+
+And our next question will come from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Yeah. Thanks, Roy and Bill. I have a couple of questions. Firstly, just on slide 13, the guidance for the Aluminum shipments. I mean you did $3 million in the first half. The FY guidance implies a slowdown in the second half. Is that still fair and is there a specific reason for that? And then secondly, I am curious in your thoughts around the Midwest premium. It’s amazingly strong. Obviously, it’s great to see. I mean, I guess how sustainable do you think that is? What do you think of the key forces behind it? Is that just reflecting strong aluminum demand around the world, high freight costs or are there other things going on there that you think may be more structural? Thanks.
+
+Roy Harvey
+
+Let me take the Aluminum shipments. There’s two things that are driving and I would certainly not read the second half being weaker than the first half on Aluminum shipments. The two structural things that are driving that lower.
+
+In the first half, we had some inventory in the San Ciprian facility that because of the labor dispute at the time was hung up and inventory going into the first quarter that we are able to ship out in the first quarter that elevated shipments higher.
+
+Secondly, you have to remember included in those shipments also for the first quarter was the Warrick rolling mill and we’ve subsequently divested the Warrick rolling mill. So underlying shipments is strong in the second quarter. I am sorry, in the second half as to the first half.
+
+William Oplinger
+
+And Alex, I’ll take your question on the Midwest premium and I think you started to answer yourself. I think we need to start off with an understanding that it’s now a duty paid to duty unpaid market because of the 232 premiums.
+
+Outside of that, though the fact is that there’s just unprecedented demand and so there’s just not enough metal inside of North America, which is really what is the very basic structural change that is driving those premiums up.
+
+And being able to divert time to get it into the market it takes time and so from our perspective it is very well justified because it looks at how that dynamics are playing out in the market today and we’ll continue to develop through time.
+
+Alex Hacking
+
+Thank you. Appreciate it.
+
+Roy Harvey
+
+Thanks, Alex.
+
+Operator
+
+And our next question will come from John Tumazos with Very Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you. It’s great to see all the good results.
+
+Roy Harvey
+
+Hi, John.
+
+William Oplinger
+
+Hi, John.
+
+John Tumazos
+
+Hi. How much is the impact of the green Aluminum pricing to-date as it is much as a 0.5% or 1% or 5% of the $460 million of EBITDA from metal? Second question, you described the 10% cost increase in Alumina being driven by caustic, of course, currency and energy is part of that. Bauxite cut unit cost only rose 2%, could you explain how the Bauxite rose so much less, obviously, it has the Aussie dollar and diesel and other things hitting it too?
+
+Roy Harvey
+
+I can answer your green premium and I think the simple answer at this point is that it’s still relatively immaterial. So, while there is a true premium and you can see that in some of the discussions in listed indices, it really so far is a pretty small total of our product portfolio and our sales. It is growing very quickly and I would argue that that premium also has headed upwards, but right now it’s still relatively immaterial, John.
+
+John Tumazos
+
+Thank you.
+
+William Oplinger
+
+And, John, let me try to address the cost question and making sure that I understand the premise of that. The cost structures of Bauxite and Alumina are just fundamentally different. And you alluded to the Aussie dollar and they both have an Aussie dollar component to them, right? So that’s one of the few linkages between the two.
+
+In the case of the refining business, as you can see in the back up, we gave you the cost structure of the refining business and some of the big components there are caustic, natural gas, which is on a lag, underlying labor costs.
+
+So to do a flat out comparison of Bauxite cost to Alumina costs is really difficult. In the case of, as I said, in the case of the Alumina cost, we had some higher maintenance in the second quarter. We’re starting to see caustic prices increase, Bauxite is much more stable.
+
+John Tumazos
+
+Thank you.
+
+Roy Harvey
+
+Thanks, John.
+
+William Oplinger
+
+Thanks, John.
+
+Operator
+
+And our next question will come from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good evening, Roy, Bill, Jim.
+
+Roy Harvey
+
+Hi, Mike.
+
+William Oplinger
+
+Hi, Mike.
+
+James Dwyer
+
+Hi.
+
+Michael Dudas
+
+Just a question on portfolio transformation and non-core affiliates combined in this certainly you’ve done a very solid job of not only you achieving excess, but invisible on what you’re doing here. You highlighted San Ciprian and Rockdale, but in the three-year plus, you’re talking about portfolio transformation. Is there anything in the horizon that’s different changed? Is the 2022, 2023, 2024 outlook or what the portfolio could be much different than maybe what you would have thought in 2017 and 2018 prior to the massive structural and cyclical changes we’ve seen in the markets that you serve?
+
+Roy Harvey
+
+So let me take a first shot at that, Mike. So our -- the purpose behind the portfolio transformation is to ensure that we have really a set of assets that can succeed no matter what’s happening in the market cycle.
+
+And so, of course, we take into consideration the current market impacts and how that might be changing through time. But at the same time, we want to make sure that we have a cost competitiveness position -- positioning that will be successful no matter what. So I would say the purpose behind the portfolio transformation has not changed.
+
+I would also highlight the fact that it is a program that can result in a fundamental change in the overall cost structure and Portland is a great example of that, as well as curtailments and closures or divestitures. And to be quite honest, the going between those different axes might change depending on what’s happening in the circumstances around us. So we still have some work to do.
+
+Part of the reason that you’ve got a five-year period is that some of those step change moments would happen later in the five years. So you really don’t have access if you have a power contract expiring in 2023, for example, until you get to that point to be able to actually make that step change and make a decision about the plant.
+
+So we are still very much committed. As Bill had alluded to earlier in the Q&A session, outcomes might change depending on how the current environment is swirling around you. But the underlying purpose of having very cost competitive plants and having plants, frankly, that are also low carbon and that meet the demands of the future aluminum market are very much top of our minds.
+
+Michael Dudas
+
+And just a follow-up on your less comment about low carbon and such. Over the next 24 months or so, do you see a significant investment or how have you staged or structure some of the progress that you’re seeing obviously with some of your initiatives and when do you think there will be required lot more or accelerate the investment or potential from Alcoa, some of capital to be allocated much more aggressively in those areas, which I think most people would probably appreciative of?
+
+Roy Harvey
+
+Yeah. Mike, the way I would answer that is that, Alcoa has a fundamental advantage in that. The way that we have grown have given us a portfolio that is going to be very rich and very positive from -- when you look at it from a green perspective, which doesn’t mean that we stand still at all.
+
+As you know, we have a target to drive renewable energy up from 78% to 85%, while at the same time moving down the cost curve. We’re just getting started on Mechanical Vapor Recompression inside of Alumina, which is the step change.
+
+We’re already the lowest carbon intensity Alumina refiner in the planet. But as we think about what does the future look like we need to see if we can find ways to start using renewable energy rather than natural gas inside of Alumina refining as well.
+
+And I would also highlight the ELYSIS research and development project, which is that next and most green Aluminum that could be on the planet. Right now that’s a relatively minimal outlay. It’s actually stepping forward. We’re starting construction in the first commercial scale inert anode cells as we speak right now.
+
+However, when you get to be able to prove that and we’ve said that would be done by 2024 when we have the commercial package available, that would open up a question about how that investment would take place and investment for licensing.
+
+Michael Dudas
+
+Excellent. Thanks so much, Roy.
+
+Roy Harvey
+
+Thanks, Mike.
+
+Operator
+
+And our final question today will come from David Gagliano with BMO Capital Markets. Please go ahead.
+
+David Gagliano
+
+Great. Thanks very much.
+
+Roy Harvey
+
+Hey Dave. You’re back.
+
+David Gagliano
+
+Yes. I am. Just a quick follow-up really, just I wanted to ask, you mentioned the value-add a few times here, obviously. Can you just give us how much value-add product is Alcoa producing now? What is like a current value add premium for your -- on an average for your product and can you just give us a bit of a range as to how much you expect that might improve into the context for next year? Thanks.
+
+William Oplinger
+
+Yeah. So value-add products is and I don’t know the exact number is 52%, 53% of our total metal sales and it’s hard to give a range just because the product differential is very wide, right? So the variety of products that we sell are wide.
+
+So you have everything from foundry in North America to slab to billet in North America and Europe. We would be looking to try to drive better pricing going into 2022. As Roy said, the markets are very strong and hopefully that allows us to improve pricing for 2022.
+
+David Gagliano
+
+It -- is there -- I am sorry, perhaps, I mean, is there a way to give a bit of a kind of a bit of a framework around what you’re -- just on average, so you don’t give up any commercial issues or anything like that. Just on average what is a reasonable expectation just so we can kind of model it in?
+
+William Oplinger
+
+Yeah. No. We’re -- it’s too early to give you an expectation around increases at this point. Dave, we will be in the process of negotiating them with our customers between now and the end of the year.
+
+David Gagliano
+
+All right. Okay. Thank you very much.
+
+William Oplinger
+
+Thank you.
+
+Roy Harvey
+
+Thanks, Dave.
+
+Operator
+
+And this does conclude our question-and-answer session. I’d like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you, Cole. And I want to thank everybody for your questions today and for joining us. We’re proud to be a leader in the industry and due to the hard work across our company. Alcoa is stronger today than any time since our launch in 2016. Our strategic priorities are working to bring results. We are doing what we said we do. Making sure Alcoa is successful through all the market cycles. We will continue the strong momentum, stay focused on continuous improvement and operational stability across the Aluminum value chain to capture benefits from improved markets. And with that, please be safe, I look forward to speaking with you again in October for our third quarter results. Thank you.
+
+Operator
+
+Ladies and gentlemen, the conference is now concluded. Thank you for attending today’s presentation. You may now disconnect your lines at this time.

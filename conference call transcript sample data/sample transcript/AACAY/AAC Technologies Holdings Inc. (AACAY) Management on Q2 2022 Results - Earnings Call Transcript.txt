@@ -1,0 +1,300 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q2 2022 Earnings Conference Call August 24, 2022 3:30 AM ET
+
+Company Participants
+
+Kelvin Pan - EVP & CIO
+Dan Guo - CFO
+
+Conference Call Participants
+
+Kyna Wong - Credit Suisse
+Cherry Ma - Macquarie
+Andy Meng - Morgan Stanley
+Kylie Huang - Daiwa
+Frank He - HSBC
+
+Unidentified Company Representative
+
+[Foreign Language]
+
+[Interpreted]
+
+Hello, investors and friends. Welcome to AAC Technologies 2022 Interim Results Conference -- Webcast and Conference Call. And today, and I would like to thank you for your attention. And also -- and I'd like to introduce our management, the Managing Director, Mr. Richard Mok; and the EVP, Mr. Kelvin Pan; and the CFO, Mr. Dan Guo; and the CEO of AAC Optics, Mr. Jack Duan.
+
+And today's meeting will be divided into two parts. And the first time, we introduced AAC Technologies 2022 interim results and the Q2 business performance, and then we will go to the QA session. And you are more welcome to raise your questions based on the company's strategic developments and the business development. And you can also press the raise hand button on Zoom, and you can type the messages on the chat box on Zoom. And we also set the bilingual channel and simultaneous interpreting in English channel and you can choose your language on Zoom.
+
+And therefore the second half of the -- in the second quarter of 2022, the Group realized an revenue of JPY4.52 billion and up 4.6% year-on-year. This is because the increase of the revenue from the Precision Mechanics and the Optics business. And our gross profit margin decreased by 6.7 percentage points to 18.3% and the net profit decreased by 62.8% to JPY145 million. The decline of the gross profit is mainly due to the diversification of the product portfolio and to intensify the competition in the Optics industry.
+
+And overall situation of the first half of 2022, you can see from the figures on the left hand. In the first half of this year, the Group realized the revenue of $9.41 billion a year-on-year increase of 9.3%, and the gross profit was JPY1.78 billion. And the Group has increased its major market share and maintained a second business partnership with key customers.
+
+And according to IDC's latest report smartphone shipment volume in the second quarter of 2022 decreased by 8.2% year-on-year compared with the 8.8% year-on-year declined. In the first quarter, despite the decline in this market demand, the group based on customer demand and through the implementation of diversified the business strategy the company expected to further enhance the market share in key customers, that's promoting revenue growth.
+
+And the Group's sales in the first half of the year is JPY7.57 billion, JPY7.84 billion and JPY8.61 billion and JPY9.41 billion respectively, showing a steady growth trend. And we will have this financial performance by business segments. In terms of Acoustics, the market share of the overseas customers was stable and the revenue increased significant year-on-year. And due to the external factors such as the pandemic resurgence and also the android mobile phone market it was weak.
+
+And for this Q2 and we can see this overseas market share of customers has increased and the company has decades of trust and cooperation with overseas customers and the product quality and the delivery ability have been highly recognized by them for a long time. In future, we will make good use of the advantages of technology platforms.
+
+And for the Android market, the unique SLS speakers have fully covered high, medium and low end models. The company's original NLC low-frequency algorithm has been successfully promoted and applied. And the integral solution of software plus hardware and the sound improvement has been highly recognized by Android customers.
+
+In terms of the Automotive Acoustics, the company can provide a complete algorithm and the -- with a smaller size, better sound quality and a better layout, we can give the smart cars revolutionary acoustic experience. And also in the Q2 of 2022, the Optics segment, so a year-on-year growth of 14% and also the revenue is about JPY1.52 billion. This is year-on-year increase of 24.7% accounting for 20% of the total revenue. And the growth of Optics revenue is mainly due to the increase of plastic lens and optical module business.
+
+And also, we have this VCM production line. The line has started to run -- to provide the shipment in small batch of the products for customers. And also, we provided this Redmi K50 Pro models. And in the second quarter, due to the continuous improvement of Android Moto shipment volume and Haptics (ph) revenue contribution of the Toyo Precision. And the sales volume of this EMD and PM increased by 17.5% to JPY1.43 billion, with the gross profit margin of 21.2%.
+
+And for this Android Motor, the shipment volume is increased by 49.4%. And we also promoted to the AR/VR and the game, and automobile market and the group's Haptics solution have been successfully introduced to the top global VR product supply chain. In Q2, with the Precision Mechanical business, the improvement of the company's product structure enhanced the company's product resistance -- resilience, ability. And we also gain the other products with developments of Toyo Precision and gradually developing to a supplier of a medium high-end models.
+
+Finally, we will talk about the Sensors and the Semiconductor business. It belongs to the original MEMS business division and [indiscernible] segments. And in Q2, due to the increase of market share, the revenue of MEMS division increased by 1.3% year-on-year to RMB241 million. And in Q2, the market share of MEMS products increased, as well as we also have this high end products. And also the MEMS speakers and inertial sensors are the -- and in some products have been send the -- submitted the samples to customers and gain the recognition by customers.
+
+After sharing this financial performance, and we think the management is built on the foundation and Rome is not built in one day. And the company will have a solid foundation. And we will also provide a reasonable improvement and we integrate our sales resources, improve our efficiency and with our continuous cost of control and efficiency enhancement and the group will continue to lay a very good foundation for continuous market share and a sustainable growth in the future.
+
+And the company will continue to reduce the cost increased efficiency and to realize the diversified development. The following are pictures of the company's recent product cases we have referenced. In Q2, the company continued to lead innovation in a mobile own market, launching a number of cost effective or price-to-price -- price-to-performance products provide the acoustics, haptics and the visual multi-dimensional perception solution. And we also have this WLG 100 megapixel for this Redmi K50.
+
+And in the second quarter, the company is constantly strengthening the ability to provide customers with an overall solution. For example, the OPPO Reno 8. The product adopts the full range of the solution of AAC Hardware and Software. The above is the introduction of the interim results.
+
+Now, we will start the QA session.
+
+Question-and-Answer Session
+
+A - Unidentified Company Representative
+
+[Operator Instructions] Kyna Wong, please unmute yourself. Yeah. Please go ahead.
+
+Kyna Wong
+
+Thank you. Thank you, management. Thank you, host. First of all, I have two questions. And the first question is about the Optics, because we can see this surge in the business. But for the GP margin, investors have some concerns. And so for the optics, we recorded this negative growth and you mentioned the reasons, for example, the competition of the industries and the volatilities of the market. So what's your outlook on the GP margin? And what about the product mix? So firstly, change on your expectation or your original expectation and this is the first question.
+
+And the second also, I would like to know the, example, the inventory of our hybrid lens, because we can also see a decline of 3% to 4% in the previous quarters. So whether it is a rebounded and do you have any of this wet (ph) off? And those may reflect some pressures on the ambulatory. What's your view on this regard? Thank you.
+
+Unidentified Company Representative
+
+I will answer the questions. And for this financial part Mr. Dan Guo will make some supplements. And for this -- gross profit, which is negative. We also talk about this reasons and, for example, the volatility of the market et cetera., and on the competition on modules it's becoming more fierce too and modules is that the question from 3% to 4% to below 1%. And for our plastic lens, and the inventory decrease will also impact our gross margin. And the gross margin is about 1% and this is also decline. And we also have some deleveraging measures on destocking measures in the first half.
+
+And for the second half of the year, we will maintain our cash flow and also the sound (ph) and operational level. At the same time, we have to consider the mobile phone market demand [indiscernible]. Although, we also have the double-digit growth, that we will still have the month-to-month on inventory plan and the production plan. So it will help us to maintain a healthy cash flow level.
+
+And our major customers in the domestic market and the android customers are taking the destocking measures. And we estimate that in the end of this year or in the end of Q4, this would reach the bottom after destocking level and after that, the GP margin will be increased. In addition, we are on continuous (ph) to improve our efficiency. And this will also boost our GP margin. And for 6P’s percentage, the percentage is almost the same with last year's at about 10%.
+
+In terms of the inventory, and we have recorded a slide, an increase of the inventory. And by the end of the year, and we also want to reach the target of three months on inventory. And we will control the inventory for three months.
+
+Unidentified Participant
+
+Okay. I also want to ask the precision mechanics and the growth is good. Of course, Toyo's contribution is good. We also see that the company has ordered CNC equipment. So I want to know that in the precision mechanics, what's your strategy? And what's the plan for your expansion? So any expectation of the growth?
+
+Unidentified Company Representative
+
+And after the acquisition of Toyo Precision, last year and we have been starting (ph) our business and also precision in auto parts. And this provides us some new opportunities, and we have already established access on to some customers in the U.S. and overseas market. And we will also integrate our business in Q3 and Q4. So how do we integrate? The precision mechanics products lies will include those precision CNC and also precision mechanical -- mechanics and also and the other precision spare parts. So those are their production lines and our targets are the IoT and the consumer electronics. And the major customer will be in the overseas markets.
+
+And some projects of the Toyo Precision are onboard. And we think next year, the precision mechanical business on this -- laptops and other equipments will increase to about JPY300 million to JPY500 million compared with this year. And for their small parts, and we just started. And this will be realized and also this will increase our revenue in the second half. And this will also strengthen our business partnership in the IOC and also IoT customers. The overseas IoT customers want this integration support and also the spare parts support and also the new transmission equipment and also some small precision mechanical parts. Thank you.
+
+Unidentified Company Representative
+
+Thank you, [indiscernible] questions and the management answer. And Cherry Ma, please ask your question. Yes, Cherry, please go ahead.
+
+Cherry Ma
+
+The first question is about the plastic lens. So what's the -- is the gross shipping margin of the plastic lens and it's shipment volume?
+
+Unidentified Company Representative
+
+Because it is in the spin-off procedures, so we didn't disclose some of the figures. And in Q2, shipment volume, the plastic lens is increased by 15% compared to last quarter. This is Q-on-Q.
+
+Cherry Ma
+
+So the 15% increase is targeting the domestic and overseas market together?
+
+Unidentified Company Representative
+
+Yes. And this is also calculated our modules shipment volume.
+
+Cherry Ma
+
+And I also see a very sound development of the OpEx (ph) and expenditure is reduced and also the staff cost is reduced by 8%. So mostly R&D target, so any -- because we also see some competitors that continues to invest in the R&D and what's the staff reduction? What -- in which department?
+
+Kelvin Pan
+
+And the optimization of the operation is in line with our overall management concept because we think this smartphone market is relatively stable and we will also improve our cost restructure. And in terms of the R&D, we also see the consumption numbers are declining and we also optimize our traditional projects, R&D. And we think by the end of this year and this kind of an R&D will become stable. And some R&D will be introduced to the new market, for example, the precision mechanics. And because it can drive the new market share and another focus is on the automotive segments.
+
+We also see some breakthroughs this year. And for example, the Automotive Acoustics products will be launched this year and we will continue to do the R&D and the AAC Optics will strengthen the collaboration with AAC Optics on AR/VR. So the overall R&D will have some structural shift. The reduction of the traditional business and will be shifted to the increase of the new products and the market R&D.
+
+And for the AR/VR and the auto automotive development and this will have some incremental development. And each part will have over 100 million volume. So the R&D will be contracted or maintain the same level next year. In terms of the R&D, we have a traditional business and the R&D will maintain almost the same. We will also increase the R&D on the AR/VR and the automotive related products. And for this year, the R&D is relatively stable. But the next year, we will and increase our R&D expenses on the AR and VR. Because we have already laid the foundation and those business segments can be expanded.
+
+Unidentified Company Representative
+
+Thank you, Cherry, and thank you, managements. Next question? Welcome, Andy.
+
+Andy Meng
+
+Thank you. I have two questions. And the first, I'm happy to see that the WLG’s mass production, and it is a 1G5P. So would you please share with us the price and also the yields and also the GP margin? And what’s was your outlook the GP margin in the future and what's your strength and advantages on this regard. So this is my first question. And I will ask my second question later.
+
+Kelvin Pan
+
+Okay. For the mass production, they started in May. And different from last year and this year, we used our new modules and new equipments and the shipment volume is increased because we use the new equipments of the four (ph) interest on the equipment and of course, the difficulties is increased, but the efficiency is also enhanced and we also feel happy to strengthen our collaboration with our partners. And the details is that we designed these products in the end of last year and started this mass production and the ramp up that is production this year and meet the requirements of the customers.
+
+And we will produce this single glass lens first. And this type of production is about an over. 1 million per month. And the production capacity is about 1.5 million and by the end of this year and this production capacity can be doubled. So this is for the basic production modules, and we will also increase on other modules production.
+
+In terms of the price, and glass has earned high performance. Of course, the price is competitive and the cost of the VR glass (ph) is higher than that of the plastics, that with the mass production, we are confident the WLG's performance will be higher than the traditional lens module. And our cost will be reduced and also will be lower than the traditional lens. And we are also confident that after the production capacity ramp up, the GP margin can be maintained at good level. So we are confident on the yield and the GP margin. And after the launch of several products and we will commute with you later and the use is also in line with our expectation.
+
+Andy Meng
+
+My second question is related to AR/VR. And Mr. Pan also mentioned this. So for the automobile modules, do you have any plan for the business expansion for the current WLG technology, whether this new technology can be embedded in the future auto mobile related products.
+
+Unidentified Company Representative
+
+The automobile lens and the modules and are, of course, our future plans. And this year, the automobile lens development in the R&D, and the process is smooth and we hope the products will be developed and launch the next year and we also collaborated with the Tier 1 and automakers on modules. It's based on the market demand and the customers' need. And the automobile lens has gained highly recognition from our customers in terms of the R&D and the product development.
+
+For the WLG, we are exploring and also developing with technology and we will also use our traditional technology to enter the market. And with the stable delivery of our modules, and we will also introduce that the LTE technology into those modules. And nowadays, the most tenants are the glass modules because they -- it can bear the stability and the reliability of the cards demand that's for the [indiscernible] glass. WLG, we think it has great potential. So after the mass production of WLG, we will plan to introduce WLG technologies into the automobile lens and modules next year.
+
+Dan Guo
+
+Andy, I also want to make some supplements, you talked about advantages, right? For the WLG hybrid lens, the color differentiation is low. So for example, compared with the 6P plastics and we can reduce the color differentiation and this can be optimized by 40% and the light intake is higher and this is from the glass and this is the difference between the glass lens and the plastic and other features, for example, the large aperture and also the glare performance and compare with the 6P, the performance and experience of the users are better and from sensors perspective. For example, the sensors noise can be reduced, and the pixels can be also increased about 15%.
+
+Unidentified Company Representative
+
+Thank you. And next question is from [indiscernible].
+
+Unidentified Participant
+
+I'm [indiscernible]. Thanks for thanks for the information. Maybe just referring to the financial statements on Page 5. The mention about gross profit margin decrease contributed by Acoustic and Optic business. I just want to confirm that the – for the period of first half, the Acoustic gross profit margins actually improvement. Let's just to check the numbers.
+
+Unidentified Company Representative
+
+Hello?
+
+Unidentified Participant
+
+Yes.
+
+Unidentified Company Representative
+
+I didn't hear your question clearly. You say, you wanted to break down optics gross profit margin?
+
+Unidentified Participant
+
+Acoustic as well, is there a decline in the gross profit margin of Acoustic in the -- during the period or…
+
+Unidentified Company Representative
+
+Yeah. For Acoustics, for the first half, actually, for the gross profit margin, there is actually a year-on-year decline. This is mainly attributed, as mentioned earlier, mainly due to the ASP impact from the major customer. However, we maintain a very strong relationship with the customer as well as market share.
+
+In terms of Optics, as mentioned, I think the earlier chat, actually, we are in the process of applying for spin-off listing. So we haven't actually disclosed a lot of the details on the gross profit margin breakdowns, et cetera. But it's also mentioned earlier for Optics, the gross profit margin impact in the second quarter is mainly driven by the inventory provision is conducted. In terms of the normalized gross profit margin, we actually see a slight increase from Q2 versus Q1 for the plastic lens business.
+
+Unidentified Participant
+
+Normalized. So, okay. Got it. Maybe I just quickly have two more questions to follow-up. Firstly, what will be the CapEx requirement for this year? And then secondly, what’s the impact of a stronger dollar on the business operations and financials? Thanks.
+
+Unidentified Company Representative
+
+Yeah. Thanks for the question. In terms of the CapEx, actually, we actually implement a very stringent CapEx review system with the goal of allocating resources more promptly and also set aside resources for long-term growth opportunities. So we've seen actually the first half, there's almost 50% reduction on a year-on-year basis, so around JPY1.06 billion CapEx overall. And we'll see second half, we intend to keep it similar to the first half's amount, so full year total of around JPY2 billion.
+
+And to answer your next question, on the balancing FX exposure. Generally, speaking, we have a pretty balanced, I guess, customers' portfolio. Our revenue generally has a significant contribution both from domestic as well as global customer. So our revenue generally provide a good natural hedge for our dollar debt. So generally, we manage FX exposure on the liability side by matching the net asset side. And on the cash flow side, we also monitor exposure quite closely.
+
+Unidentified Participant
+
+Okay. Thanks.
+
+Unidentified Company Representative
+
+Thank you.
+
+Unidentified Company Representative
+
+Next question is from [indiscernible]. Please go ahead.
+
+Unidentified Participant
+
+Can you hear me?
+
+Unidentified Company Representative
+
+Yes, please.
+
+Unidentified Participant
+
+I have two questions. And the first question I want to know, the AAC Optics. So what's the spin-off situation and what kind of financial standards you have to meet for your spin-off listing? And the negative GP margin will impact the spin-off listing?
+
+Kelvin Pan
+
+I’ve answered part of your questions, and we'll let the Mr. Guo to add.
+
+Dan Guo
+
+And we are in the Jan Board. (ph) And in May and June, we made this application and the listing procedure recent ago (ph). And we also held our AGM special meeting. And your second question is about the negative GP margin. whether it impacts spin-off listing. And from the listing criteria, there is no negative impact and also we have our sales quality. It depends on the sales quality. And no matter it is a positive or negative GP margin and also it will focus on its R&D and the technology development.
+
+Unidentified Participant
+
+Okay. Thank you. Second question, is to Kelvin. So many people are discussing Mr. Zhang Hongjiang (ph) from [indiscernible]. So how to survive in the next three to five years?
+
+Kelvin Pan
+
+I was wondering, what's your view on the macroeconomy in the future. So when the winter is coming and what's your preparation. Okay. And from Q2 to Q3 and after the communication with the market, we still see that the smartphone and consumer electronics markets are relatively stable. It also means there's no significant growth in this market and even it will be contracted under some circumstances. So this is the conclusion. We communicated with the market. I think it's related to the global market and also some market discussions nowadays. So in this environment, so we will strengthen and optimize our efficiency and management's efficiency.
+
+And the previous question also mentioned the staff reduction. We will increase and increase our equipments and upgrades or the equipment and cash flow is our focus in the future development and we pay more attention on the cash flow, can show and management. So we will control our CapEx as well as the overall management. If you see the customers supply chains, the orders -- reduction is larger than on our decline. And the inventory of our customers are very large. So in Q2, Q3, even Q4, they will take destocking measures. So we also face the pressures from them and we will follow this destocking measures from the supply chain to customers and partners. We think it will return to the normal lies the situation in terms of the demand and the supply and the overall supply chain efficiency will be one of their focus. The high efficient suppliers will gain more market and the customers.
+
+And the second is the operation and also competition ability. The production capacity and suppliers are over supplied. So there are some integration happen nowadays -- in the future, the suppliers with the scale and also the strong innovation compacity will become our key partners. Therefore, we maintained our adjustments in the market. And after this change in the market, and we can still be a stronger player and this is for the consumer electronics. And for the IoT and AR/VR, and even the metaverse is the future trend. And we think, we need the further plan and deal, so the distributions in advance and on the AR/VR. And also the [indiscernible] sensory lens and as well as Acoustics and the Haptics products. So the AR/VR are the long-term track for the future developments. And the near term, we will also focus on this new energy of VR course and they have some upgrade on the new energy vehicles.
+
+And for example, for this smart equipment, and they will have some upgrades. And this will also increase our development and increase -- and this year, we have over 100 people in the R&D. At the present, the R&D line and R&D, our strategies and the plans are increased. So for this R&D and the products, on those products, we will be enhanced and we will guarantee on our development in the consumer electronics. And after the change of the market, and they also to enhance our development and strengthen our new development in some new charts and some new business segments.
+
+Unidentified Company Representative
+
+Thank you. Next question is from Kylie Huang.
+
+Kylie Huang
+
+I have several questions. And Mr. Pan talk about the pressures on the consumer electronics? And of course, we have some big customers and other customers sometimes their demands are [indiscernible]. So what's the future trend of the GP margin in the second half of the year?
+
+Kelvin Pan
+
+I agree that the big clients in the second half of the year will become better, so for the revenue, we think it will be an increase compared with the first half, but we also need to consider the challenge from the android, destocking. No challenges, as well as its overcapacity on production and this will impact our android and products. And in Q2 and the Q3, many android products are degraded. And this will impact our overall GP margin in the second half of the year. And then maybe this will also, -- like the also [indiscernible] with our overstated GP margin and we have some innovative products.
+
+And India's cell phones, we will optimize the speakers and motors. And this kind of optimization is very efficient and with lower cost. And we are promoting those optimization to our android customers. And in this process, in the second half of the year, and we think and this will contribute our profits for -- in the next year and we think it will help the android products and return is a normal chat. Our customers still hope the high performance products. And we think innovation of our products and promotion of those new products will help us to change. And after the acquisition of the Toyo Precision and also this metal casing promotions and this will be increased in the second half of the year.
+
+And we think the precision mechanics will become better in the second half of the year and some new products and the projects will be launched. Therefore, the revenue of the cellphone related products will have some improvement. And this is for next year, because we will strengthen on our operation and the cost reduction in the second half of the year and all these financials will return to the normal level.
+
+Kylie Huang
+
+Okay. Thank you. And the second question is about the AR and VR? So many are emphasized this adoption of the immersive experience. So whether you will upgrade this Acoustics and Haptics products?
+
+Kelvin Pan
+
+So AR/VR, the market is potential. And it's about 10 million to 12 million units this year. And for the immersive experience we will create new opportunities. And, yeah, for example, the motor will be upgraded to the PS5 Linear (ph) motor. And on this regard, we have already obtained our overseas partners and games. So in each VR, it will have 1 to 1.5 product. So we think with the upgrade of this equipments, it will create new opportunities. And for the top AR/VR equipments with the $400 or above.
+
+Those are the high end products, and they will have over -- it will have about four speakers. And the price is about $3 to $4 and it depends it's pack (ph), and we are also promoting some innovative products to the customers. And we hope it will have the mass production next year. The AR/VR, as well as technologies, on the motor technologies. And this will increase our sales and we have this expectation on the sales increase. And we also heard AR/VR shipment volume would be higher than the shipment volume in the second half. Of course, we have to observe the market.
+
+Kylie Huang
+
+Thank you.
+
+Unidentified Company Representative
+
+Our time is constrained and we will welcome the last question. Frank, please go ahead. Frank, can you hear us?
+
+Frank He
+
+Hello? I want to know the android and haptics, the management cost is about 49%. So what’s the drive behind it?
+
+Unidentified Company Representative
+
+In terms of the Android and linear motor, we made some breakthroughs. And this year, we launched the higher end 1016. And also 0626 linear motors, we have some -- this collaborations and the upgrades on this regard. We think this kind of upgrade is very obvious and the customers will use these high end products with the x-axis and haptic motor because it provides better performance, and it's very normal. And this is the big drive. And for some equipments and machines, for example, PS5, they also have those functions, and they will also drive this linear motor's penetration.
+
+As mentioned before, the overall markets are facing supply and the price pressure because the overall cellphone market is not increased. So in the second half of the year, we will promote some performance, a price to performance products. And those kind of products will help us penetrate into this high end android market. So next year, we think we will cover this medium and low end products quickly and maybe in the future the products above 800 will equipped with -- will be equipped with this kind of motors. So with this penetration and the introduction of this motors, this business segments will be expanded.
+
+Frank He
+
+So you also talk about Acoustics business, any process? So any design and cooperation with your partners.
+
+Unidentified Company Representative
+
+Of course, Acoustics, we relied on them for design and we produced for them. And by the end of this year, the production will be -- production line will be ready and we have already communicated with the designers in the overseas market. And for the AR and we are discussing the POC. And those products are in the -- very in advance. And after several generations, we think by the year of 2024 and 2025, there will be more mature products launched in the market. We also applied our own technologies on sensors and the lens. And AAC and optics proactively collaborating with them. So in the Optics, we will use this technology to help our customers to develop new models. At present, just three of four companies confirmed, we are also communicating with the overseas clients. Acoustics partnership is confirmed in Q2. So we are still in the preliminary phase and to discuss this with them.
+
+Frank He
+
+Okay. Thank you.
+
+Unidentified Company Representative
+
+Thank you, management. Thank you for Frank's question. And due to the time, QA session comes to its end. So any additional remarks from the management?
+
+Kelvin Pan
+
+I also see some questions on the supply chain, the global supply chain, so apart from the overseas customers and domestic customers, we know that the overall supply chain that it has a plan to go to the Southeast Asia. And in Southeast Asia, we have already said to manufacturers and in Vietnam, we have a three manufacturers, and in Malaysia, we have one factory. So for the new demand, like IoT, AR/VR, we see the trend from the customers to relocate some manufacturing centers in Southeast Asia. So in the future, we will increase the scale in our factories in Vietnam.
+
+Unidentified Company Representative
+
+Okay. Thank you. Thank you, Mr. Pan's remarks. And due to the time, the interim results announcement conference of AAC Technologies comes to a close. You are welcome to contact investors IR team and thank you for your support. Thank you.

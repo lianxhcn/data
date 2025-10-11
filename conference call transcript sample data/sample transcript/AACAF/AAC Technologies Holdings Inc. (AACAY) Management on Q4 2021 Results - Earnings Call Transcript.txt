@@ -1,0 +1,341 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q4 2021 Results Conference Call March 23, 2022 5:00 AM ET
+
+Company Participants
+
+Maggie Wang - Investor Relations
+Kelvin Pan - EVP and CIO
+Dan Guo - CFO
+Jack Duan - CEO, Optics
+
+Conference Call Participants
+
+Frank He - HSBC
+Jiajun Hong - CICC
+Kyna Wong - Credit Suisse
+Tao Xu - CITIC
+
+Operator
+
+Ladies and gentlemen, welcome to AAC Technologies 2021 Q4 Financial Results Conference Call. Today's presentation will be conducted in English and QA session will be English and Putonghua. We have simultaneously interpretation in interpretation channel. Now, all participants are in listen-only mode. If you wish to ask questions, please raise your hand through Zoom link to be in the question queue.
+
+Now, I'd like to leave the floor to our host today, Investor Relations Director of AAC, Ms. Wang Maggie, Welcome.
+
+Maggie Wang
+
+Sorry. Can you hear me now?
+
+Operator
+
+Yes, we can hear you. Yes. Please go ahead.
+
+Maggie Wang
+
+Sorry about disruption. Good afternoon. Welcome to AAC Technologies Q4 2021 results conference call. I'm Maggie Wang, Investor Relations Director of AAC. I'm glad to have our EVP and CIO Mr. Kelvin Pan; CFO, Ms. Dan Guo; and CEO of our Optics Business Group Mr. Jack Duan joining us today.
+
+Before we start, we would like to remind you that copies of our result announcements and the presentation are both available on our website. We would also like to draw your attention to the disclaimer on the last page of this presentation. Some information we discuss today may contain forward-looking statements.
+
+Now, I'm going to present our results for the quarter and the full year 2021. In 2021, the Group's revenue was about RMB17.67 billion, up 3.1% year-on-year. Gross profit margin was 24.7%. Net profit was RMB1.32 billion, down 12.6% year-over-year. For Q4 2021, revenue was RMB4.81 billion, up 0.6% year-on-year.
+
+Gross profit margin was 20.5%, down 7.6 percentage point year-on-year. Net profit for Q4 2021 was RMB212 million, down 72% year-over-year. The Company's performance was affected to a certain extent by continued operational headwinds such as supply chain disruption due to the ongoing pandemic.
+
+The increase in operational costs in China and weaker demand due to a chip shortage. The overall gross profit margin was also adversely affected by fierce competition in domestic and overseas markets. And the decrease of net profit was attributed to the lack of a singular exceptional exchange gain and reduction in government subsidies.
+
+Here are some highlights on our business segments in Q4. For Acoustics business, strong shipments grew from overseas customers during the peak season help to offset weaker demand from Android customer base. In terms of the acoustic solution for automotive market, the Group is actively engaging with domestic new energy vehicles, OEMs, and we already have projects under development.
+
+For Optics business, the total shipments for plastic lens and camera module increase the Q-on-Q. WLG hybrid lens projects are progressing smoothly. The Group is focusing on 1G6P high end hybrid lens projects, and it will be with mass-production and delivery in the second half 2022.
+
+For electromagnetic drives and precision mechanics business, the total shipment volume of x-axis haptics motors for Android customers reached 67 million, increased significantly year-on-year. It is expanded that the shipment volume will continue to have a multiple growth this year. Leveraging our Toyo Precision rich experience in overseas customers, the Group will continue to expand customer base to improve revenue and overall profitability of this business segment.
+
+Regarding the cash position and the financial position. During the reporting period, operating cash inflows were RMB4.54 billion and the capital expenditures amounted to RMB3.55 billion as of 31st of December, 2021. Net gearing ratio was 8.9% and cash on book was RMB6.05 billion. The Group remains prudent in financial management and the stringently manages CapEx and R&D expenses to conduct active liquidity management.
+
+While maintaining our prudent financial policy, the Group will actually look for new development opportunities to lay a solid foundation for long-term development. In addition to automotive market, we have also strengthened our strategic footprint in the growing wearable markets besides the investment in Ibeo, SWIR and the acquisition of Toyo Precision.
+
+Recently, the Company and Dispelix the leader in see-through waveguide displays forAR/VR announced the strategic partnership. We will combine Dispelix unique see-through optical web guide technology with our expertise in large scale efficient operating expenses and our highly complex, web level manufacturing technology to provide the highest quality web guide display for customers globally.
+
+Now, we'll share more about our development in the automotive market. With respect to automotive acoustics, the Group has been working with the leading Chinese electric vehicles OEM to co-develop products with mass-production, which is expected to commence at the end of 2022. Meanwhile, the Group has also obtained an acoustics software and tuning project for a high-end automotive OEM and the products currently under development.
+
+With a respected to automotive lens and lighter sensor markets, the Group's product portfolio has covered front-view, surround-view, OMS and the DMS vehicle lens. The development of more premium products are also in good progress. In the future, the Group will integrate acoustics, optics and haptics products to help customers create intelligent cockpits with multidimensional experiences.
+
+Next, let's move to the analysis of each business segment. For our Optics business, in 2021, the Group's Optics business revenue was RMB2.39 billion, up 46.2% year-on-year. Gross profit margin was 17.2%, down 1.6 percentage point year-on-year. For Q4 2021, revenue from the Optics business was RMB530 million, down 4.2% year-on-year. Gross profit margin was minus 2.1%, down 23.5% year-on-year.
+
+On a Q-on-Q basis, revenue increased by 31.3% and gross profit margin dropped by 16.9 percentage points. It was primarily due to one-time adjustments and industry ASP decline of the plastic lens. In Q4, the shipment volume of plastic lens increased by 52.7% come true, and the shipment volume of 60 plastic lens accounted for 12% of the total shipments. Due to the declining ASP as well as the impact from long time adjustments, the gross profit margin of plastic lens decreased by 13.8% percentage points to minus 6.1% in Q4.
+
+As for the camera module business in Q4, the average monthly module shipments was around 6 million units representing a Q-on-Q increase of 13.9%. It is expected that the shipment volume will continue to increase in Q1 2022. There will be more need to high end products to be manufactured and delivered this year. The WLG hybrid lens business is progressing as scheduled.
+
+The Group is focusing on 1G6P high-and hybrid lens project, which will be mass produced and delivered in the second half of 2022. Regarding the acoustics business in 2021, the Group's acoustics business revenue was RMB8.58 billion, up 13.5% year-on-year. Gross profit margin was 29.7%, up 1.8 percentage points year-on-year. For Q4 2021, the acoustics business revenue was RMB2.24 billion, up 8.4% year-on-year.
+
+Total shipment growth from overseas customer during the peak seasons helped to offset weaker demand from Android customer base. The gross profit margin was 26.8%, down 5 potential points year-over-year, mainly from ASP per share. In Q4, the acoustics revenue was up 2% Q-on-Q and the gross profit margin was up 0.5% percentage points Q-on-Q. The revenue and gross profit margin of Android acoustics products will increase stable in 2022. As we are seeing zero design gradually penetrates from flagship smartphone models to meet to low end models. And increase shipments of standardized small cavity speaker modules will further improve the profitability of Android acoustics products.
+
+In terms of the total acoustic solution for that, we have successfully obtained the overall acoustic solution project from a leading domestic New Energy Vehicle OEM. In addition, the Group is actively engaging customers regarding partial application of our speaker module and has reached agreement with one of their customers to provide a speaker module for their car headrest. The project is planned to undergo mass-production and it will be delivered in first quarter 2023.
+
+For the EMD and PM business. In 2021, revenue from this combined segment amounted to RMB5.64 billion, down 17.7% year-on-year. Gross profit margin was 21.6%, down 2.1 percentage points year-on-year. For Q4 2021 given the reduction in the ASP of haptics sold to major customers and ceased production of stepping motors. Revenue from this combined segment was RMB1.8 billion, down 6.2% year-on-year. Gross profit margin was 19.8%, down 8% year-on-year.
+
+Compared to Q3, due to the increased shipment for precision mechanics and haptics motors and consolidation of Toyo Precision, revenue grew by 28.8% Q-on-Q while growth profit margin decreased by 0.5% Q-on-Q. In 2021, the total shipment volume of x-axis haptics motors for Android customers reached 67 million increased by 235.3% year-on-year with x-axis haptics motors gradually penetrating into mid- to low-end smartphone models, and it is expected that the human volume of the Group's Android access haptic models will have a multiple growth in 2022.
+
+In Q4, the utilization rate of the precision mechanics segment, particularly the metal casing products has improved the due to increased demand, from major customers and the optimization of product portfolio. The gross profit margin increased significantly Q-on-Q. The Group has consolidated the financial results of Toyo Precision, as part of the precision mechanics segment, reinforcing the Group's production capability. Leveraging on Toyo Precision's rich experience in serving European and American customers, the Group will continue to expand customer base to improve revenue and overall profitability of this business segment.
+
+Lastly for our MEMS business. In 2021, the growth MEMS business revenue was RMB1.01 billion, down 6.4% year-on-year, and gross profit margin was 15.1% down 2.4% year-on-year. In Q4, the MEMS business recorded a revenue of RMB238 million, down by 7.1% year-on-year. Gross profit margin was 12.5%, down 5.2% year-on-year. Compared two Q3 revenue decreased by 5.9% and gross profit margin declined by 2.7% points, this was mainly due to the declined ASPs from major customers and the increased proportion of low-end products in the product mix. In the future, while maintaining a stable and high market share in the smartphone market, the Group MEMS microphone products will continue to expand into other markets such as TWS, smartphone, speakers, tablets and automotive markets.
+
+So, this concludes the overview of our Q4 financial results. There are some supplementary information either appendix for your reference. Now our management team are here to take your questions. You can ask your questions in Chinese and English. We have simultaneous interpretation in other line from Chinese to English. Thanks.
+
+We can start the Q&A session now.
+
+Question-And-Answer Session
+
+Unidentified Company Representative
+
+Thank you. Thank you so much for Ms. Wang. And thanks for presentation of 2021 Q4 financial results and feature roadmap.
+
+Operator
+
+Introduction for our Q4 performance review and also forward-looking insights into the future. And hopefully in the future, you can enjoy more prosperity and now we'll have Q&A session. This will be conducted in Mandarin and Chinese. So, we provide simultaneous interpreting service as well. If you want to read the questions, please do this in Zoom. You can apply through Zoom link and then our staff will help you to manage your questions. Thank you for your corporation. And also please identify yourself, your agency and who are you before you read your question. Due to stressful time, you can raise only one to two questions. From now, we will formally start our Q&A session. First of all, we have our first question here.
+
+Frank He
+
+Thank you management. I'm from HSBC, Frank He. Thank you very much for giving this opportunity. I have two questions. First of all, I want to ask about the updates. How about your outlook into this year for updates? I have noticed as from the Q4 performance reviews, you have lots of pressure for pricing and the gross profit margin. So how about the optics business in this year? How about your shipments or price, and your stock? Can you please updates with us about optics and lens?
+
+Unidentified Company Representative
+
+Management please. Management please.
+
+Unidentified Company Representative
+
+I want to identify. Mr. Dan Guo, can you hear us?
+
+Dan Guo
+
+So first of all, thank you very much friends for your question. I believe that you all pay lots of attention to our Optics business and the future developments. So as you can see from a slide in Q4. The Optics business has been significantly challenged by the market and also the adjustments to the margin as well. So, the unit price for these lens influence about a 10 percentage gross profit margin, and also we have the stock decrease these lead to 20% decrease.
+
+So currently we see the negative 6%. In general, we have about 14% to 15% level for updates. So if you ask about our overview for this year, we will also face these challenges. But we will keep adjusting the structure as our product portfolio and also move up our value chain to focus more on the safety. With the portfolio optimization we would combat these challenges.
+
+Frank He
+
+Thank you for your answer. So my second question is about your new business. The expansion of your new business, as you mentioned previously, in the vehicle especially the vehicle acoustics devices, you have lots of uptrend, right? And also you are making preparations for the VR headset that. So if you have outlooks into 2022, 2023 what segments would drive more profits for you. Can you please give us outlook or rent?
+
+Kelvin Pan
+
+Thank you, Frank. I am Kelvin. Actually, in terms of our new markets our priority is our vehicle segments. I believe that all of you know that's intended the market share for any of this in Chinese market. In January, this year has reached 19%. So we believe that the NEV and its upgrade has been the promise in China. So in general, our positioning is in the acoustics and vehicle. As we have mentioned with you, now we are cooperating some projects with the leading NEV makers.
+
+And by the end of this year, we will have the mass-production projects, in terms of our business expansion, hopefully. We can corporate more with our clients and to finish the mass-production, we aim to have a 10% or so projects with the unit scale of RMB100 million. So, we aim that this year we have reached mass-production and from 2022, '23 we'll gain profits. So for the vehicle mounted services, our priority with the acoustics as our key product. So this would be our entry into the automotive market.
+
+For high-end market, it's about ¥2000 and for low-end markets, about ¥700. So this is what we see currently. And also as you know, lately, the automakers are launching lots of the new models. So, we will have our marketing as well. And we have seen a very positive feedback from our clients and from the end users as well, very positive feedback. So generally, the speakers and vehicles and acoustics, speakers and vehicles would be our footprint. We would use this as entry level including the interactive microphone, in the car and also the bachelors BASEL III motor related products as well. This will be all involved in our plan.
+
+Our general trend would be starting from 2022 to have the mass-production and then to the launch into 2023 as well. Yes ask the AR/VR, I believe that you have got a lot of the information about this Dispelix, for the Dispelix is a leader in this see-through waveguide. Dispelix core is about to design -- sorry about the in resonance in the sound. For the Dispelix is about the design of history waveguide and Dispelix is cooperating with lots of global top tier AR/VR companies and these companies are Dispelix clients.
+
+So, we are still there early in this industry. So from us, possibly from the end of this year, we will start to prepare for the pilot line with it. And from the end of this year and starting the next here, we will start to produce, and we aim that, the explosion of this industry will start from the second half of 2022 and beginning of 2023. In addition to the mid- and long-term train, we have also made loss expressions in the EV wearables devices including the smart speakers and the smart watches and wearables like this. So, we are quite active in the expansion to this market. In terms of the process in the next one year or two years, we will see their positive things well.
+
+Unidentified Company Representative
+
+Thank you very much. For the answers from our management -- sorry to wait for awhile -- sorry, some signal weakness from my site. I like to add something for the question. In terms of Optics business in this year 2022, we will aim to improve our market share and also to work as important base for existing clients, for the phones, smart phones and for the phone business. I'm very confident and comfortable for shipments in the Optics business.
+
+In terms of stocks, as you mentioned, in quarter four, our stocks has lost the challenges, for sure. But with our efforts over the past quarter, we have reduced it to four to five months. By the end of this year, we will control the stock at about three months. So this is our target for Optics business. Thank you.
+
+Operator
+
+With your answers, we know that the vision is to drive business within the vision from our company. Now, we have the second question from [indiscernible].
+
+Unidentified Analyst
+
+Thank you, dear leaders. I am from [indiscernible]. I have two questions. The first one is also about Optics. I see very surprising that's in your slides. The Optics gross profit margin is negative. I'm not sure. What is the reason behind it, because from the morning, I know from your competitors, GMP, sorry, the gross profit margin. Also not very optimistic, so I'm not sure what the reason behind it. Maybe you're working for Android phones.
+
+So in general, it's not a very positive market this year. Possibly, this is reason and also we know that the Taiwan manufacturers enter the market. So what is the reason for this negative gross profit margin? And also for WLG, we'll talk about WLG for seven years, right? I'm not sure what is the process for WLG, any new consumers or any new clients entering this WLG segments?
+
+Jack Duan
+
+So for our GMP TTM in quarter four, the gross profit margin decreased, yes. The main reason is the stock adjustment. And our management, so I just answered the first question, we know that we have adjustments for the stock. In terms of outlook into this year, we know the competitions are fierce. So we have lots of pressure for ASP. And for us, we have done a lot. First of all, as I have said before, we have more strategic cooperation with our clients. The benefit for us is that we will move up the value chain of our Optics including the 6P, 7P share. And even higher end Optics segments. So ASP will gain the positive influence.
+
+On the other hand, the cost, in terms of cost, we will develop our technology and to do better for design and lean management, lean operation. In the past several years, we have focused on these aspects a lot. So, these will help us to further drive down our cost, the lean operational management. So first of all, we need to restructure and to be a strategic corporation relationship with our clients and second lean operation. And we have some overseas clients, especially with South Korea. We will better maintain a sound relationship with them, so that we have a balanced structure of our clientele, and this will pose a positive impact on us as well.
+
+So, be it for restructuring or to gain more clients or to reduce the cost, we will control the GTM at a sound level. It's about the '25. This is a figure for last year. So we aim to optimize this figure this year as well. Thank you. I'm not sure whether your question has been answered.
+
+Unidentified Analyst
+
+So on one hand, you move off the right off of your stocks. So, what is your real GTM? How about mechanics lens? And certainly, what about your WLG situation, the shipment of treatment of WLG, or how about your clients for WLG?
+
+Jack Duan
+
+Right, I'll start. The adjustment influenced 20% in lens business. The module is about a single-digit gross profit. For this year, we will take some measures for lean operation, lean management, and we will see whether we will move it up to reach 5 to 10. So for WLG, this year, we have seen the boom taken off of WLG, to reach the over 10 million level for WLG. The mono will even higher. So from the second half of this year, we will see the shipment increase for two platforms. And, our key clients will use our WLG devices. Thank you.
+
+Kelvin Pan
+
+I'd like to answer your question as well. So Mr. Duan just answered it us for lens. From the question one, for lens in quarter four, this is about negative 6%. As Mr. Dan answered us, we have some the 110 adjustment. This influence is about 20%. And for a quarter-to-quarter, we have ESP impact. This brings us about 10% impact. So, this is our general breakdown for quarter four. And when it comes to this year, our outlook for this year, actually we have lots of measures to take. First of all, we have the upgrade of internal technologies. This will drive the better restructuring of our products portfolio.
+
+So, we would target some high-end products and to increase the share of high end and to combat the external challenges. And also, we're also has mass-production for these devices to reach the 10 million levels. And our clients are very interested in this and we're very comfortable and the confidence with us. So for the gross profit margin for less, our targets would be higher than the general figure of 2021. For 2021, it's about 25. So this year's figure would be higher than 25. Thank you.
+
+Operator
+
+Now, we will continue our next question from Jiajun Hong, please.
+
+Jiajun Hong
+
+Dear management, good afternoon to hear me. I am from CICC. I have two questions. First one, for turn rate for optics, how about the capacity output for the optics or phone lens? And how about your development trend for the second half of the year?
+
+Jack Duan
+
+I will take this. The capacity output, first IP, it's about 120 million to 150 million. And for the plastic lens, we will spend our capacity, but the scale would be limited to 150 million would be fully executed. So in terms of total, we will see no significant changes this year. And in terms of module, single month we have about 2 million -- I'm sorry, 20 million. So throughout the year, this will be about 200 million or 260 million capacity outputs. And looking to the second half of the year, we will have some adjustments according to the need or demand from our clients. So, our target for this year would be about 270 million. We need to consider the competition in the market for module lens. And the long-term strategy, forward looking strategy and value generation would be important. So this is our, the plan for the year. Thank you.
+
+Jiajun Hong
+
+My second question about the sense for the new business. So I know that you have LiDAR and vehicle lens. So you have lots of times as you said before. Can you please show me this for these kinds of vehicle amounted devices and products. How about your client's expansion or any mess produced products to share with us any more details about this?
+
+Unidentified Company Representative
+
+In terms of market expansion for these kinds of use segments, especially for the vehicle mounted devices. I have made, we have made personal introduction with you. By the end of this year, we will have the vehicle acoustics device, mass-production and we will deliver this production line. We aim that in April in during Beijing Auto Show, we will have a joint marketing campaign with our clients. So, during the Beijing Auto Show, our clients well launch their new technologies and the competitiveness and customer experience together with us.
+
+So in terms of the client expansion, by the end of this year, we will reach the mass-production. And for strategy for clients, I should say that, we have very healthy interaction with our clients currently, and due to team building reason, we mainly focus on the China's NEV makers. The leading players in China and also some new vehicle production lines from the traditional automaker in China as well. So in this regard, currently we are having communications with 5 to 10 leading car makers in China. So, we will search about 5 to 10 projects with them this year.
+
+Within that, the shipment approximately, we will reach over 200,000 for each project. And we believe that, this is their reasonable expansion. Of course, we have more to opportunities to accelerate this pace. But considering the allocation resources, we will do some adjustments and strategy management. In the future, we will further input more in terms of the team building to have our positioning, to attract more talent and to expand our markets in some key areas in key sectors. And also the production lines would be upgraded as well.
+
+So for your question, we will start from the acoustics devices in car for the automotive market. On this combining our advantages in the intelligent cockpit and microphones and the button-less devices, we will further expand our market and we believe that, lead by new energy vehicle, we will see the very obvious development cars in this sector. In terms of non-vehicle margin VR and AR and lighter, as you mentioned, we believe that, these markets will see rapid growth from 2024 to 2025. So, we will start from the strategic positioning with our clients.
+
+We have efficient communication with our clients, for our first phase, and to guarantee that we can sell it to the reasonable production line and astrology. So, if VR/AR will be clearer by 2024, '25, it means that we still need to finish some earlier research. We believe that, the strategic corporation is a better choice. The EV is the same. Now we have a strategic corporation with EV automotive system. So EV now has the authorized some devices to us for R&D, its LiDAR products.
+
+Now we are in the R&D phase for the advanced LiDAR and next generation LiDAR. We believe that for the automotive markets, we will see the preparations and R&D phase. And next year, we will see the mass-production for automotive. So this is our general, these trends for automotive markets.
+
+Operator
+
+Now, we will continue for the next question from [indiscernible].
+
+Unidentified Analyst
+
+Thank you very much. Good afternoon. I have two questions. My first question is. We noticed that in January and February, I see that your orders have been slowed down. So my question for the management that, we also have Android clients. So these trends for the orders in the next two to three months. What about the orders in the next two to three months for this client? And what will be the impact on your business? How about the profit growth? Well, the profit growth slowed down? This is my first question.
+
+Unidentified Company Representative
+
+In terms of our overview for the phone market in 2022, we believe that this will be at the same, on the same page with 2021 or see slight increase. But as you've mentioned, it's true that we know that from the quarter one, the January and February and markets now we see a kind of adjustments. So we see that from quarter four last year to quarter one this year. With the 10% or so decrease in shipments in Android markets.
+
+We will see from Q3 and Q4, the market was returned to kind of healthy states. In general, our production line positioning is very balanced. We have internal Chinese domestic and oversea clients at the same time. So I think that's our general, the selling or general positioning, which is very balanced. So we are able to come back the volatility in the market. And also we have lots of other products that are non-phone. So these will offsets, the volatility in phone markets.
+
+Unidentified Analyst
+
+I have the second question for you. Toyo acquisition, so we see that this any obvious impact on your business for Toyo acquisition? What about your outlook for the precision mechanics? We know that after the Huawei events, the margin in the center would not be very optimistic. So maybe can you share with us about auto precision mechanics and how about the situation of these two sectors respectively?
+
+Unidentified Company Representative
+
+I will answer you the Toyo first. The beginning this year, we just closed out the Toyo acquisition we just finished. From the beginning of this year till now, we have been very active in terms of communication with Toyo. So in general, we think that Toyo business is very healthy. Looking to the future, we would have more layouts for business and to strive for more orders and businesses, based on the upgrade of Toyo's manufacturing capability. As you know, Toyo in this industry has very positive feedback. So, we will better leverage Toyo's capability and this positive feedback. We will input more into the capacity output.
+
+On this basis, we estimate that this year's layout would be optimized and we will see their positive feedback from this year and next year and later on this as well. Our mechanics after Huawei's restructuring, we have diversified our clients. As you can see this year, we will have the very obvious increase from the South Korea clients. So in this year, the mechanics business will be recovered to the pre-2020 level. By doing so, we believe that to generate the capacity of mechanics and our relationships with our clients and also the GPM would be recovered to a very healthy state. Thank you.
+
+Operator
+
+Now, let's continue for next question. Kyna Wong, Please.
+
+Kyna Wong
+
+Thank you very much for giving me this opportunity. I'm from Credit Suisse. I have two questions. Quarter four R&D fees see decline, I'm wondering for 2022, how about the fee management expense management? How about your expenditure into R&D? You have lots of emerging business, right? So, I'm wondering for R&D, any adjustments for R&D.
+
+And second question, as you mentioned about automotive acoustics markets and business, from press release, we have noticed that by the end of this year, you will enter the production for acoustics automotive. So production will start from the end of this year and from quarter one next year, you will deliver the production to your clients, right? And you will start these deliveries from quarter one next year, right? I like to affirm. Thank you.
+
+Unidentified Company Representative
+
+I'll answer your first question. In terms of R&D, for every quarter, we have different fluctuations for R&D. In terms of long-term strategy of our company, we pay very high attention into R&D. Over the past several years, this will be maintained at about 9% to 10%, and this is very steady for us and also the speed would be slight changes. But in general, our input and support for R&D maintain the same, prioritize R&D a lot. But pay attention to efficiency improvements for quality, strategic positioning for technologies and the other sectors alike. These are the KPI for our R&D guide.
+
+Our first mass-production projects will be finished by the second half of this year. So, we will start the delivering by the end of this year. And for the revenue mainly showcase from next year, not from the second half this year. Innovation, this year we will strive to gain more projects. So this is our general layouts for the alternative acoustics. Considering market demand and our sense we will aim to gain the size to try for this year, 5% to 10% this year.
+
+In terms of the feedback from clients and demand of market, we think currently these segments is okay we can reach our target in the segments. Looking to the future, we think that the revenue from these acoustics in automotive markets, we'll see obvious improvements from next year.
+
+Kyna Wong
+
+Thank you for your answer. 5% to 10%, so you will have updates quarter by quarter or you will do this from the second half of next year or this year?
+
+Unidentified Company Representative
+
+Well, we have we this information every quarter. In vehicle, in automotive sector, the models are really verified. So every quarter, we have our updates. And our clients will do a selection with us every quarter as well.
+
+Kyna Wong
+
+I have more questions about investments projects. Capital expenditure, as Jack mentioned previously, capacity out to see expansion, so 500 million CapEx is harmonious with our estimation rates and how about your CapEx level this year?
+
+Unidentified Company Representative
+
+You have more input into the lens about 2021 project, it's about these 2.5 billion and Optics is less than 30% in total for last year. And for this year, we have certain control for CapEx. In addition, we will also consider the needs from the market and our clients to improve gradually. We estimate that on the basis of 30% reduction last year. We will reduce further 10% to 15% this year. So for Optics, this occupation now is still less than 30%. And for less, we have basically finished our input.
+
+So this year maybe we have more investment in modules. So far modules markets, investments and sales and development, and the improvements of gross profits, very positive. We will consider the demands of the market to input in module gradually. And for mechanics this year, we see a lot of market opportunities. Last year, Toyo from quarter four last year contributed to less than 100 million sales. It's gross profit margin stayed very positive. In the industry for Precision Mechanics, Toyo's GPM is leading across the industry.
+
+So, if we consider this year, we will see more opportunities for new projects. So, we are very active in expanding more opportunities for oversee market. We will optimize our general gross profit margin for mechanics, and we will input gradually more. But we will consider the demand of the markets and the clients, and the speed of development to the project.
+
+Kyna Wong
+
+Yes. Thank you. I still record that you have 30% tax in the beginning of the year, so maybe due to pandemic impact or the nature of the market, you will adjust this figure.
+
+Unidentified Company Representative
+
+We will consider our plan as previously, and we also have the controlled implement measures, very segmented. So our inputs are very prudent. Thank you.
+
+Kyna Wong
+
+Thank you very much for your answer.
+
+Operator
+
+Next one from Tao Xu, CITIC.
+
+Q - Tao Xu
+
+Thank you. I'm Tao Xu from CITIC. Two questions. What about the model of a corporation with Dispelix, what are the clients? Second, what is your outlook into 2022 acoustics?
+
+Unidentified Company Representative
+
+Thank you, Tao Xu. I will take your questions. Our corporation with Dispelix is a kind of joint manufacturing corporation. Dispelix itself is famous for design of see-through waveguide and this is their core business. Currently, their main clientele is U.S. and European market, especially the leading metaverse and leading devices in this regard. They are leading player mainly. So, Dispelix is now has POC development, the concept development very early, but on the basis of our plan in the future, one to two years, we will have introduction of the new products. We aim that by end of 2023 and early 2024, we will see nice production.
+
+On this basis, we believe that Dispelix needs a joint co-operation model. Dispelix is based in Nordic country, North Europe. So they have their limited resources in terms of labor and the other resources alike. But for us, we have the optics WLG and the other technologies very advanced. We also have our factories and facilities. So we are the best partner from Dispelix view in China. On the basis of this positioning, we're making several plans with Dispelix time. We're in that by the end of this year.
+
+We will finish the building of pilot line. So, this was support Dispelix expansion in China to serves more Chinese consumers, Chinese clients. In terms of the production volume and the demand for new production, this everything is smooth. We will see how to expand our capacity up to its next year. So this year, we'll focus on the small scale pilot line to supports the development of their new products. And see the layout for next year's mass-production.
+
+For your second question acoustics outlook, we believe that the strong acoustics, the standardization is very important. We see from dynamic adjustments in the market. As for example, the highest margins still are mainly occupied by U.S. and South Korea clients. In China mainly medium to low end, a competition is very fierce. So we think that the opportunity in this segment is on the same level of price, how to create a better experience for our clients and consumers for several opportunities that we have discovered.
+
+First of all medium level machines models, especially the younger generations, the netizens, and the gaming devices, gaming scenarios, these consumers will enjoyed better experience. So they have certain demands for the quality of the sound and the volume. In this regard, we're cooperating with our clients for the medium and smaller. So in this regard, technologies, prices, pricing will be balanced. And I think these in are very good migration in the market.
+
+Second, the affordable machines and larger machines like laptops, tablets, and smart display. In these sectors, we see very obvious trend for upgrades, which and also the work from home and remote work at home has brought about loss of the pain points. So we see the needs in this regard and tablets and laptops and smart display as I mentioned before and smartphones was the obvious upgrade trend.
+
+So we will have expansion for the multiple speakers and the consumers and clients will enjoy a better speaker and acoustics experience. So these are the key trends that we will see in the acoustics business, but of course the smartphone products iteration and the dynamics would be important for us to consider, but we believe that, our clients are making iterations continuously and we will try our best to cooperate. Thank you.
+
+Operator
+
+Due the stressful time, now we have the last question. The other question, if you have further questions, you can reach our IR team who will answer your question offline. So last question from [indiscernible].
+
+Unidentified Analyst
+
+Can you hear me? Offline progress, you have done R&D for a lot of the years for VCM. So, how about your current results and especially which VCM especially products are better than the other makers?
+
+Unidentified Company Representative
+
+Thank you for this question. This is the beginning year for the VCM product. We have passed the verification of our clients. So, for auto focus markets last year, we have lots of products. This year we will focus on the online pixel and even higher end, and we have lots of the orders. From Q1, Q2 this year, we will see the delivery. For R&D, we focus on OS, and we have spent lots of energy and efforts as from second half this year, you will see our remodel product, especially for medium and low-end markets.
+
+The demand is huge, and the clients are quite interested in the OS products with high cost to benefit, cost performance. For front end development, we also have advanced products in the market and our clients introduce our products as well in the different campaigns. So, this year we will see further corporation with our clients, for these products, and to give the iteration for this product. Thank you.
+
+Unidentified Analyst
+
+For VCM, how about the pricing strategy, I know that, for lens you are very active. How about VCM? How about volume? Thank you.
+
+Unidentified Company Representative
+
+VCM for us, cost performance is most important thing. OS, the main barrier for large scale application from our clients, our clients wants to have the major breakthrough, especially for medium phones and high-end phones. So for us, we focus on technology to tackle some barriers. Automation would be helpful for us to further reduce the cost and to be the best in the cost management to offer the plan high benefits and for guidance of shipments this year. The shipments will be not very high. This will be about a 10th of the median this year.
+
+Unidentified Company Representative
+
+Thank you very much for your passion, enthusiasm, and also thank the management. We will make a short summary here. Thank you very much for acoustics questions. The apps for acoustics or precision mechanics or Optics, you have physiological questions. And you also have some questions for our new business. So now I'd like to make a very brief summarization. And this will conclude our today's Q&A.
+
+If we have the overview about this year or if they have almost about this year, we'll see single-digits to growth for the phone markets this year. So in general, currently, our markets for shipments to the North American market very positive with state, we maintain very steady market share as always and we are very confident and comfortable for the sector. And we maintain the steady growth in this sector as well.
+
+As we have mentioned in terms of Android acoustics business. This year, we have some performance. 2021 versus 2020 acoustics androids improved about 16% and at the end improved significantly as well. In this year, we have zero multi channel development and smartphone business developments and also we have lots of standardization, automation in-house. So this will drive up the efficiency as well.
+
+And this will be helpful for the profits increase. Our management I believe that we will be very confident. For the Android the motor business in 2021 versus 2020, this sector drives enjoys the three times growth. This year, we will see further growth, we have a total solution as our methods to better assess younger consumers. And this freight house in terms of growth profit, also very positive.
+
+As you said before, I know that you're very concerned you're very, the focus I also told you. Now, I can tell you that Toyo have been totally intuitive and to our, the statements and we follow they're the shifts as well. So, we will leverage their resources and their experience to better serve the clients.
+
+In addition to Toyo, in the mechanics we have some introduction from the overseas, the consumer. So this year, we will see significant increase and this is our very positive business. WLG, mass-production and the other business sectors will witness the positive developments. So from 2014, 2015, we started the transitioning from purely acoustics to motor and then to the precision mechanics and optics, currently we see precision mechanics occupy about 15% to 20%, optics 15% to 20%, and the modules occupation would see further improved as well.
+
+So as you see, we have strategic layout and now we have a very balanced portfolio, including our clientele. Our clientele has been diversified. This is a very important foundation for us. I believe that these go further support our long-term development, and that to counter the external volatility. So be it for the phone or non-phone business, laptop or IoT for the automotive opportunities, we will have some certain opportunities and the future VR/AR has it with our investments will see more promise in opportunities. So we are very confident. This is my brief summarization. Thank you.
+
+Unidentified Analyst
+
+Thank you very much. This is very detailed. Wish you a steady foundation and prosperity in the future. Any more information from the management?
+
+Unidentified Company Representative
+
+No. Thank you.
+
+Operator
+
+So, this concludes our AAC Technology Holding for this on call. Thank you again. See you next time. Thank you.

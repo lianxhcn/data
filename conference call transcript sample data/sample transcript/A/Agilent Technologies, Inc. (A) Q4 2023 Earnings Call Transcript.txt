@@ -1,0 +1,451 @@
+Agilent Technologies, Inc. (NYSE:A) Q4 2023 Earnings Conference Call November 20, 2023 4:30 PM ET
+
+Company Participants
+
+Parmeet Ahuja - IR
+Mike McMullen - President and CEO
+Robert McMahon - SVP and CFO
+Sam Raha - President, Agilent Diagnostics & Genomics Group
+Padraig McDonnell - President, Agilent CrossLab Group
+Phil Binns - President of the Agilent Life Sciences and Applied Markets Group
+
+Conference Call Participants
+
+Vijay Kumar - Evercore ISI
+Patrick Donnelly - Citigroup Inc.
+Matt Sykes - Goldman Sachs
+Rachel Vatnsdal - JPMorgan
+Derik De Bruin - Bank of America
+Jack Meehan - Nephron Research
+Puneet Souda - Leerink Partners
+Josh Waldman - Cleveland Research
+Daniel Brennan - TD Cowen
+Dan Leonard - UBS
+
+Operator
+
+Ladies and gentlemen, welcome to the Agilent Technologies Q4 2023 Earnings Conference Call. My name is Bo and I will be coordinating your call today. [Operator Instructions]
+
+I will now hand you over to your host, Parmeet Ahuja, Vice President, Investor Relations. Please go ahead, sir.
+
+Parmeet Ahuja
+
+Thank you, Bo, and welcome, everyone, to Agilent's conference call for the fourth quarter of fiscal year 2023. With me are Mike McMullen, Agilent's President and CEO; and Bob McMahon, Agilent's Senior Vice President and CFO. This presentation is being webcast live. The news release for our fourth quarter financial results investor presentation and information to supplement today's discussion along with a recording of this webcast are available on our website at www.investor.agilent.com.
+
+Today's comments by Mike and Bob will refer to non-GAAP financial measures. You will find the most directly comparable GAAP financial metrics and reconciliations on our website. Unless otherwise noted, all references to increases or decreases in financial metrics year-over-year, and references to revenue growth are on a core basis. Core revenue growth excludes the impact of currency and any acquisitions and divestitures completed within the past 12 months. Guidance is based on forecasted exchange rates. We will also make forward-looking statements about the financial performance of the company. These statements are subject to risks and uncertainties and are only valid as of today. The company assumes no obligation to update them. Please look at the company's recent SEC filings for a more complete picture of our risks and other factors.
+
+And now I'd like to turn the call over to Mike.
+
+Mike McMullen
+
+Thanks, Parmeet, and thanks, everyone, for joining our call today. Before we get into discussing our results and outlook, I want to mention that we're joined today by Padraig McDonnell, President of the Agilent CrossLab Group; and Sam Raha, President of the Agilent Diagnostics and Genomics Group. We're also joined on this call for the first time by Phil Binns, President of the Agilent Life Sciences and Applied Markets Group. Phil’s name may be new to some of you, but he's well-known at Agilent and in the industry. Phil has been with us for more than 13 years, coming over with the Varian acquisition and overseeing our market leading spectroscopy business. We’re extremely pleased to have someone with Phil’s knowledge, experience and proven leadership strength heading up our LSAG business. In his short time in the role, we’ve already seen Phil add tremendous value as a member of our senior leadership team. Welcome, Phil.
+
+Now onto our fourth quarter results. The Agilent team once again continued to perform well under challenging market conditions. Revenue of $1.69 billion declined 9.7% core after increasing 17.5% last year. This is at the high end of our guidance. Our proactive approach to managing our cost structure in this market environment helped us deliver healthy fourth quarter operating margins of 27.8%. Q4 earnings per share of $1.38 exceeded our guidance. While this was a decline of 10%, it comes against a tough compare last year when EPS grew 26%. While the market continues to be challenging, we believe we are starting to see signs of stabilization. As an encouraging data point, for the quarter our book-to-bill ratio was 1 for the company and greater than 1 for our LSAG instruments.
+
+Let’s take a closer look at our Q4 performance, starting with our regional results. During the quarter, while down year-on-year, we delivered sequential growth except for China, as expected. In China, our business declined 31% year-on-year after growing 44% in Q4 last year. While China was down sequentially, these results were very much in line with our expectations. And the year-on-year monthly performance improved slightly as the quarter progressed. In addition, orders were slightly higher than revenue for the quarter. While it is too early to call these two data points a trend, we see this as an encouraging sign of potential stabilization.
+
+In late September, I traveled to China for the first time since the COVID outbreak to meet with the Agilent team, key customers, and government officials. I was reminded of both the sheer size of the Chinese economy and our market there. I saw first-hand the work being done to bolster economic activity in the near-term and create an environment that will support continued growth into the future.
+
+I remain convinced China will continue to play an important role in life sciences and I’m confident that the China market will return to growth. In looking at our largest end market, pharma declined 14% driven by continued caution among customers on capital expenditures for new instruments. Within pharma, biopharma performed better than small molecule. Geographically, our biopharma business outside of China grew high-single digits.
+
+Looking at our performance by business unit, the Life Sciences and Applied Markets Group delivered revenue of $928 million, down 18% core versus a tough compare last year of up 22%. Customers continue to hold off on capital expenditures, particularly in the pharma segment of LSAG’s business, which declined in the high 20% range. This is against growth in the low 20s last year.
+
+On the other hand, we continue to see strong customer demand and growth in our PFAS solutions, as well as continued strength in the advanced materials segment. These are two secular trends we’ve highlighted before and we remain optimistic about future growth in these market segments. While the market environment remains challenged, we continue to innovate and provide unique solutions for our customers. The new products we launched in June at ASMS, in particular the 6595 LC triple quad, which is focused on key applications like PFAS, continue to generate positive customer interest and new orders. We’re also bringing innovative new solutions for customers across the biopharma value chain. We have installed a number of our online UHPLC systems with large biopharma companies. The systems are easy-to-use, reliable, and deliver significant value by providing fully automated analysis of critical quality attributes and allowing real time decision making outside the lab.
+
+The Agilent CrossLab Group posted revenue of $404 million, up 4% core and 6% on a reported basis. ACG delivered growth across all end-markets, and in all regions except China. The contract services business was up double-digits, offset by the services associated with new instrument placements. Our strategy of increasing the connect rate continues to pay off. In the quarter, the contract services business represented 65% of ACG revenue, a number that has grown nicely over the years.
+
+The Diagnostics and Genomics Group delivered revenue of $356 million, flat on a core basis and up 1% reported. DGG’s results were led by the pathology and NASD businesses, which both delivered low double-digit growth. These strong results were offset by the continued market challenges in genomics in both consumables and instruments. Our NASD portfolio and capacity expansion are continuing as planned. We’re confident in the long-term growth prospects for the markets we serve.
+
+Before I finish covering DGG, I want to thank Sam Raha for his contributions over the years and for helping us build a strong foundation for the DGG business. I wish Sam well.
+
+In addition to these business group highlights, during the quarter we were recognized for our commitment to sustainability. Agilent’s near and long-term targets for reaching net-zero greenhouse gas emissions have been approved by the highly regarded Science Based Targets initiative.
+
+A year ago, we entered 2023 sharing a view of economic and industry uncertainty, as we guided for moderating growth in the second half of 2023. We had not anticipated, however, the significance of the market headwinds the industry eventually faced, particularly in the pharma market and China.
+
+Despite the challenging market conditions, we delivered full year revenue of $6.83 billion, growing 1.5% core. While our full-year growth was lower than initially expected, we met or exceeded every quarterly guidance range we provided, a solid testament to the team’s execution ability. Including FY23 results, our 4-year compound annual growth rate is 7%. This is at the high end of our long-term growth guidance. In FY23, we delivered operating margins of 27.4%. This is up 30 basis points this year and up more than 400 basis points in the last four years. Earnings per share of $5.44 are up 4%, delivering leveraged earnings growth for the year. Our 4-year compound annual growth rate for EPS is 15%.
+
+Looking back, 2023 was a challenging year. What I’m particularly proud of is the Agilent team’s ability to quickly pivot and take action to address these challenges while staying relentlessly focused on our customers. While we’ve worked to significantly reduce expenses, Agilent’s customer satisfaction ratings remain at all-time highs. At the same time, our employee engagement continues to be excellent as we achieved a number of best employer awards over the last year. All of this helped us deliver another year of leveraged earnings in an extremely difficult market environment.
+
+Before turning it over to Bob for more details, I want to provide some high-level perspective on FY24 and beyond.
+
+For 2024, we anticipate a slow, but steady recovery, throughout the year. In our initial outlook, at the high end of our guidance we expect revenues to return to growth. At the same time, our range for EPS in the year ahead has us again delivering leveraged EPS growth.
+
+As we look ahead, we remain convinced the market challenges being faced by the industry today are transient. Our end markets are powered by investments in improving the human condition. The pace of science, innovation and discovery continues to increase, which will fuel further growth. We remain focused on winning in the marketplace. Our differentiated products, services and most importantly our One Agilent team, are all essential to the success of our customers. We are well-positioned for long-term growth. Bob will now share more detail on the quarter and the year, along with more specifics on our initial view for fiscal 2024 and Q1.
+
+Thank you for joining us today. And now, Bob, over to you.
+
+Robert McMahon
+
+Thanks Mike, and good afternoon, everyone. In my remarks today, I will provide some additional details on revenue in the quarter and the year, as well as take you through the income statement and other key financial metrics. I’ll then finish up with our guidance for fiscal year 2024 and the first quarter. Unless otherwise noted, my remarks will focus on non-GAAP results.
+
+Agilent finished the fourth quarter with core growth at the top end of guidance and EPS exceeding our expectations as we executed well against challenging macroeconomic conditions. Q4 revenue was $1.69 billion, down 9.7% core and 8.7% on a reported basis. This is after growing 17.5% in Q4 last year, when we benefitted from the recovery from the Shanghai shutdown in Q2 of last year. This created an estimated 1 point of headwind in the year-on-year results this quarter. As expected, we saw weakness in capital purchases in LSAG with the biggest impact in our China business.
+
+Now, I’d like to share additional detail on our end markets for the quarter. Revenue in our largest market pharma, declined 14%, versus 20% growth in Q4 last year. BioPharma declined 2% while small molecule was down 23%. However, biopharma ex-China was up 7% in the quarter and grew solidly for the year. And while small molecule was down, the decline was most pronounced in China. And outside China, small molecule was up sequentially in the quarter.
+
+Chemicals and advanced materials declined 11% versus growth of 27% last year, while flat sequentially. Our chemicals and energy subsegments were down 15% while advanced materials were down roughly 2% globally and up 4% in the Americas and Europe combined.
+
+The food market was down low double digits against a tough 20% growth comparison last year. High single digit growth in the Americas was offset by declines in all other regions. In the Americas, PFAS testing is emerging as an important growth area in food testing, helping drive the high single digit growth. We expect testing for PFAS chemicals will continue to be a growth driver across multiple end markets over time.
+
+The environmental and forensics market declined 3% versus 18% growth last year. Similar to the food market, the Americas region continues to experience strong growth, up double digits driven by PFAS. This strong performance was primarily offset by softness in China, which was down year-on-year, but up slightly on a sequential basis. Our business in the diagnostics and clinical market declined 4%. While we delivered low double-digit growth in our pathology-related businesses, it was more than offset by continued weakness in genomics.
+
+The academia and government market was down low single digits with strength in the Americas driven by government funding offset by weakness in China and Europe. Results were pressured across all geographies in the quarter. As Mike mentioned, China was down 31% year-on-year after growing 44% in Q4 of last year, in line with our expectations coming into the quarter. The rest of Asia was down mid-single digits and both the Americas and Europe declined low single digits in the quarter.
+
+Before turning to the rest of the P&L, I’d like to quickly summarize some full year highlights by end market and geography. From an end market perspective, all markets grew low to mid-single digits for the year except for pharma, which was down 2% globally. In addition, all geographies grew, except China which was down 5%.
+
+Back to the P&L for the quarter. Despite the revenue declines, our team continues to execute at a very high level. Fourth quarter gross margin was 55.8%, and our operating margin was a healthy 27.8% in Q4, which was slightly better than our internal expectations. Below the line, we benefitted from stronger than expected cash flow generating incremental interest income in the quarter. Our tax rate was 13.75% and we had 293 million diluted shares outstanding, both as expected. Putting it all together, earnings per share were $1.38 for the quarter, exceeding our expectations, albeit down 10% from a year ago when EPS grew 26%.
+
+As Mike mentioned, our Q4 results capped a year where we grew 1.5% core on the topline, increased operating margins by 30 basis points and grew EPS by 4%, while overcoming a couple of points of currency headwinds. This is a real statement on the team’s ability to quickly adapt to market changes while still delivering leveraged earnings growth.
+
+Turning to cash flow and the balance sheet, I’m incredibly proud of the Agilent team as Q4 continued a string of very strong quarterly cash flow results. In Q4, we generated operating cash flow of $516 million, well over 100% of adjusted net income, and invested $84 million in capital expenditures. CapEx spending is driven by our ongoing NASD capacity expansion, which remains on track. For the year, we delivered $1.5 billion in free cash flow, an increase of 44% over last year. Our balance sheet continues to remain healthy as we end the fiscal year with a net leverage ratio of 0.6 times.
+
+With the current challenges in the market, it is great to be a company with a fortress balance sheet and strong cash flow. In the quarter, we paid out $66 million in dividends and spent $80 million to repurchase shares. And for the year, we returned $840 million to shareholders through $265 million in dividends and $575 million in share repurchases. Looking forward, you may have also seen that we recently announced a 5% increase in our quarterly dividend providing another source of value to our shareholders. It’s worth noting that we have increased our dividend every year since we first began issuing them in 2012.
+
+Now, let’s move on to our outlook for the upcoming fiscal year and first quarter. As Mike stated, we expect to see a slow but steady recovery throughout fiscal 2024. However, we also acknowledge the continued market uncertainty, high interest rates, volatile exchange rates and depressed capital spending. Like several of our peers, we expect the markets to be down slightly for the year, while we expect to perform better.
+
+Given the expected slower market conditions, we have taken additional steps to adjust our cost structure. Incorporated into our guidance is roughly $175 million of cost savings. Given the significance, I want to provide a little more detail on these actions. Roughly 30% of the savings are related to portfolio optimization decisions we have taken in DGG, the largest of which was the exit of the Resolution Biosciences business. Another 25% is related to materials and logistics cost savings as well as optimizing our real estate footprint, with the remaining savings tied to continued reductions in discretionary spend and optimizing our workforce. Along with these actions, we have taken a $46 million charge for restructuring and other related costs in our Q4 GAAP results. These reductions, while difficult, are necessary to ensure we continue to fund our most critical investments as well as fund the variable compensation resets from this year. These actions help ensure the company delivers leveraged earnings growth in FY24 and will enable us to emerge even stronger when our markets inevitably return to their long-term growth rates.
+
+As Mike noted earlier, we exited Q4 with some potential signs of stabilization with a book to bill ratio of 1 for the company and greater than 1 for LSAG instruments. While this is positive, we are going to be prudent in our initial guidance. For the full year guide, we expect revenue in the range of $6.71 billion to $6.81 billion. This represents a core growth range from a slight decline of 0.5% at the low end to 1 point of growth at the high end. Currency is a headwind of 1.2 points while M&A is also a slight headwind of 10 basis points related to Resolution Bioscience.
+
+On a reported basis, we are expecting a decline in the range of 1.8% to 0.3% year-on-year. From a geographic perspective, we expect modest growth in the Americas and Europe. While we expect to see recovery during the year in China, our initial view is it will still decline for the full year. From a business group perspective, we expect growth in both DGG and ACG, while LSAG instruments will still be pressured.
+
+In terms of phasing, we expect the first half of FY24 to look similar to the second half of FY23, with growth in the second half of next year. We are projecting modest operating margin expansion for the year. Below the line, we expect interest income and expense to offset each other, a tax rate of 13.5%, and 293 million shares outstanding. Fiscal 2024 non-GAAP EPS is expected to be in the range of $5.44 to $5.55. This range represents flat to 2% growth versus FY23. From a cash flow perspective, we expect another robust year. We are expecting roughly $1.6 billion in operating cash flow and $400 million in CapEx as spending increases on NASD’s Train C and D expansions.
+
+Looking to Q1 2024, we expect revenue in the range of $1.555 billion to $1.605 billion. This represents a core decline of 11.3% to 8.5% with currency and M&A having a minimal impact. At the midpoint, we are expecting growth that resembles what we just delivered in Q4 and assumes no significant budget flush during the end of this calendar year. This is against another difficult comp of 10% growth in Q1 of last year.
+
+First quarter 2024 non-GAAP earnings per share are expected to be between $1.20 and $1.23 as the cost savings fully ramp through the quarter. As Mike indicated, while we are expecting low growth in 2024, we remain optimistic about the future of our markets and our long-term prospects. Our business remains very profitable and healthy, and I know we will come out stronger as a company when market growth returns.
+
+And now I will turn the floor back over to Parmeet for your questions. Parmeet?
+
+Parmeet Ahuja
+
+Thanks, Bob. Bo, if you could please provide instructions for the Q&A now?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] We'll go first this afternoon to Vijay Kumar at Evercore ISI.
+
+Vijay Kumar
+
+And some helpful comments here. Mike, maybe starting with those book-to-bill comments here. Overall company 1 turn LSAG instrumentation looks like it's turned. Curious what those book-to-bill numbers for ex-China? And if instrumentation has turned, that Q1 guidance, comps get easier. Why is Q1 assuming no benefit from this turn in instrumentation?
+
+Robert McMahon
+
+Yes, Vijay. Let me take that. I think if you look at the book-to-bill ratio, it's -- for LSAG instruments, it's actually very similar to both including China and excluding China. China was actually slightly positive as well. So that's a good sign. And as we mentioned in the prepared remarks, we're taking a prudent approach to our first quarter. And certainly, we see this as a positive. We did have some -- we typically do have seasonality from our Q4 to Q1, but we're taking it kind of one quarter at a time.
+
+Mike McMullen
+
+Yes, I think part of the big story, too, Vijay, is the 10% comp from last year as well. But as we said it in the call, we were -- it was encouraging to see some initial signs of stabilization with that kind of book-to-bill on the instrument side.
+
+Vijay Kumar
+
+Understood. I'm glad to hear prudency and right off the bat here.
+
+Mike McMullen
+
+We got that into the script, Vijay.
+
+Vijay Kumar
+
+On -- just one more related on guidance here. What are you assuming for NASD in China for fiscal '24?
+
+Robert McMahon
+
+Yes. So for China, we are thinking mid-single-digit decline for the full year. So very similar to this year. And then for NASD, right now, we're expecting low single-digit -- mid-single-digit growth.
+
+Mike McMullen
+
+Mid-singles. Yes.
+
+Operator
+
+We go next now to Patrick Donnelly at Citi.
+
+Patrick Donnelly
+
+Maybe kind of a follow-up on the 1Q guide. It seems like, again, the order's encouraging. Maybe a little bit prudent on the guide, as you said, I guess when you think about just the implication for the ramp 2Q to 4Q, is it optimism in the market based on some of those order trends is that obviously the comps get easier in the second half as you work through it. And can you just talk about the visibility into the recovery and kind of what gives you the confidence in the ramp as the year progresses here?
+
+Mike McMullen
+
+Yes, sure, Patrick. I want in lead off, Bob, and then you can add any additional comments you'd like to make here. But when we think about these comps around what we described as a gradual recovery and grow. I think is, first of all, important to remind the audience that we do expect the first half of the year to be very much like what we saw in the second half of '23. But looking forward, why do we think that things are going to be different in the second half which is though it's initial and still early, there are some early signs of potential stabilization that you see in our order book. The fact that book-to-bill for the company was above 1, the fact that we had the same result in our instrument business, which has been the most pressured part of the company. And listen, while it's too early for customers to be confirming their 2024 budgets with us, let's go back to the sales phone, which is a predictor of potential growth, right? So our sales funnels continue to show a lot of interest from customers. And we know that at some point in time of things will start to release. The funnels remain healthy.
+
+And listen, an environment like this, we've seen these things before, which was healthy capital spending has been constrained. So some release can be expected. And we hear -- I don't want to get too down my skies on this, but we hear customers talk about some new focused investments. And I think we're not calling for a big broad-based market recovery, but certain segments of the market are going to be better. We're talking about some investments in R&D tools, what's going to PFAS testing capacity expansion plan we're hearing from our customers, Advanced Materials. And then as you mentioned earlier, Patrick, there's an easier compare in second half '24 as well. So we do expect this return to growth. And I think as -- it's not simply a hope. We've got some information to be kind of back up our thinking there. Again, we'll know a lot better about how things look when we get to the budgeting phase of our customers in early 2024.
+
+Again, right now, the markets for capital -- instrument still remain quite challenged. And as I mentioned, we are seeing encouraging signs of potential stabilization, but it's going to be a journey for our return into growth. And I think our guide reflects that. And again, I think we're -- we've got a high degree of confidence this is what the back half of the year will look like.
+
+Robert McMahon
+
+Yes. And Patrick, you asked about Q1, as I mentioned in the prepared remarks, I think we're taking a prudent approach here. but we're also going up against last year where we did have a budget flush and happened earlier in the year but for delivery in November and December, and we're assuming that we're not seeing that or building that into our into our estimates. So that happens, then it would be -- that would be a nice thing for all of us.
+
+Mike McMullen
+
+Yes, absolutely, Bob.
+
+Patrick Donnelly
+
+That's helpful. Bob. And maybe, Bob, just on the margin side, helpful to hear you talk through a few of the different moving pieces. It sounds like some cost savings in DGG, among others. I guess can you just give a bit more color on kind of the moving pieces, where you're pulling levers, the ability to take out some additional costs to hit these margin numbers. Obviously, you talked about margins being up a bit. I think there are some headwinds like incentive comp, things like that. So maybe just talk about the gives and takes there and confidence in terms of some of the cost outs.
+
+Robert McMahon
+
+Yes, that's a great insight there, Patrick. Yes, because we do have some add backs, I would say that -- so don't take that $175 million and drop it to the bottom line because we have some resets, I would say roughly half of that is kind of a reset between our sales comp and variable pay. If we think about it is really across the P&L, the biggest piece actually is in DGG with the exit of the Res Bio business, but we've also taken some tough decisions in other product lines to streamline the portfolio there. And I would say roughly a little over 30% of that is associated with that. The other 25% is really within our COGS. Our OFS team has done a phenomenal job of really kind of leaning into reducing our costs around logistics and material costs. And then I talked about the site consolidation as well, which will show up and down the P&L. So we've taken a look at our real estate footprint and have actually closed several smaller sites between -- around the world really. And then the final piece is really kind of infrastructure optimization, which would be discretionary spend but then also headcount reductions that would be focused on areas where we've rightsized it to the demand.
+
+Mike McMullen
+
+And Patrick, this is Mike, I stated about the confidence about the growth recovery. I think when it comes to hitting the $175 million, high degree of confidence, we control this 100%, and we'll deliver on this.
+
+Operator
+
+We'll go next now to Matt Sykes at Goldman Sachs.
+
+Matt Sykes
+
+Maybe just on NASD, I noticed just over the past, call it 1.5 years, we've kind of gone from high double digits, low double digits next year, mid-single digits, which it's probably just some level of normalization as you ramp capacity. But just given the step up in CapEx you're guiding to next year, is there some wiggle room in terms of how you guys lay that capacity out? Or is the confidence in that market growth enough to keep investing in that area next year?
+
+Mike McMullen
+
+I'll jump right into that one. So I tried to make that come out in the script. But our plans to continue to invest for the future long-term growth this business remains high. We're going full steam ahead on the capital expansion and they're tracking according to plan. In fact, I think we'll probably do a little bit better on the cost side when all said and done relative to the CapEx that's involved. And Bob, maybe you can talk a little bit about some of the things we're seeing relative -- I think we commented on this before, but what have we seen in the marketplace relative to 2024 relative to NASD.
+
+Robert McMahon
+
+Yes. I think, Matt, it's a great question. And so if we look at the details of kind of the mix, actually, I would say we have the most healthy mix of portfolio in NASD and '24 than we've had. So a significant increase in the number of programs that we are going to have been going through. Now it's a bigger component of clinical volume versus commercial volume, which I actually think bodes very well for the future going forward. We have seen some, I would say, some pausing of certain customers as associated with IRA but we think that, that's transitory. So as Mike said, we're not at all concerned about the long-term growth prospects of this market. And in fact, many of the programs that we're seeing come into our portfolio are actually as what we had talked about in previous calls, much larger targeted patient populations, which really speaks well to the volume. And then as Mike mentioned, we're actually expanding our portfolio, our technologies. And so it's not just siRNA, but we're having the ability to continue to grow our CRISPR -- GMP grade CRISPR business as well as antisense. So we're continuing to do that as well.
+
+Mike McMullen
+
+Sam, I know this will be your last call, would have thought it might be interesting for you to jump in here for a second. As part of your transition, you've been talking to a lot of our key customers. And I think we're hearing the same story from them about long-term growth continued investment here.
+
+Sam Raha
+
+Yes. Absolutely, Mike. I'll just add a couple of things to your and Bob's comments. One, we are now on contract with more major pharma than we ever have been. And it's very promising. If you look at publicly the percentage of their overall R&D budgets that they're now spending on therapeutic oligos, and we are in the driver's seat to win those opportunities. And just in the last couple of weeks alone, I've spoken with a number of our lead pharma partners, and they've reaffirmed. So there is a slight navigation through the IRA, as Bob mentioned, the conviction on their end of the market potential remains unchanged and in the leadership position to pursue that.
+
+Matt Sykes
+
+Got it. That's a great amount of detail. Maybe just, Bob, for you, just on pricing. Kind of what's embedded for next year as you think about pricing? And how has pricing kind of trended over the course of this year? Are we back to sort of normalized levels of pricing that you guys have historically achieved? Or is there still some pricing gains to see sort of as we move into next year in certain areas of your business?
+
+Robert McMahon
+
+Yes. Matt, that's a great question. And we ended the Q4 at just a little under 3% and actually for the full year was greater than that. So it actually continues to be hold up very well. What we're building into our plan for next year is roughly 2 percentage points of price, which, as you know, is greater than our historical kind of pre-COVID levels. And so what we've been able to do, I think, is -- really speaks to the value proposition that we have as well as the emerging mix of our businesses as well.
+
+Operator
+
+We go next now to Rachel Vatnsdal at JPMorgan.
+
+Rachel Vatnsdal
+
+So first off, I just want to ask on China. You mentioned that the region is down 30% this quarter. That was in line with your expectations. You're expecting it to decline mid-singles again next year. So I guess, just how much of a function is that really due to some of the comps and starting to lap the easier comp late into next year versus is there anything structurally wrong with that market? And how do you expect China to continue to grow on that medium to long term?
+
+Mike McMullen
+
+Do you want to take the first part, Bob, I think it's...
+
+Robert McMahon
+
+Yes, yes. So well, I think from the standpoint of the comps, what we would see is, obviously, if you looked at what we did in the first half of this year, we had very strong growth, and then we're going up against, extremely difficult comparisons this year. I mean, as I mentioned, we were down -- up 44% in Q4 of last year, so down 31% this year, we're still up over the 2 years. And as we think about this similar to the rest of the kind of the guide, we're expecting kind of declines in the mid-20s in Q1 and getting better from there. And some of that, it will be an easier comp. And I'm sure Mike will talk a little bit more about this, but we don't see anything structurally changing in the Chinese marketplace for life science tools.
+
+Mike McMullen
+
+Absolutely, Bob. Why don't pick up from there. So I made a few comments about this in the prepared remarks, but I may first trip to China since October 2019 when we're there for the [BCIA] show. And what did I see, first of all, I'll just remind how quickly things can happen in China. Electric vehicles everywhere, a lot more green, digital adoption was just amazing. I don't think anybody uses cash there anymore. And then you also remind as you travel around the country, just how big a country is, how big the economy is and how big the markets are for Life Sciences. But to your specific question, here's what I was hearing from customers and my team when I have seen as well, which was why do we think this market eventually will return to growth, all the things that have been driving this market over the years, which is primarily the Chinese government's 14th 5-year plan. They're still on it. They're pointing to long-term growth, improving the quality of life in China.
+
+We're hearing stories of new environmental regs coming from PFAS. The anticorruption impacts that we've seen in the health and the pharma space look to may have peaked, with a lot of the actions occurring, which could ultimately long term, lead to more R&D investments because there'll be less money being spent in the SG&A area. But I don't want to be too short-term optimistic about this expansion of growth because the business is bouncing along at a certain level. And that's why we call it stabilization in our prepared remarks. So what we're seeing, what we're forecasting, what we're hearing is from our teams and our customers don't expect any significant near-term improvements but don't expect any significant near-term deterioration either. And I think that's why when you look at the year-to-year numbers in terms of growth rate, Bob, was probably a comp -- payer issue. But we've had a couple of months now just run at a certain level, and that gives us the sense that what -- I think we used were potential signs of stabilization. So I hope that helps.
+
+Rachel Vatnsdal
+
+Yes. No, that's helpful color. And then I just want to dig a little bit more on your comments around next year. So you mentioned that you expect the first half to be similar to what you're seeing in the back half of this year. So I guess, can you just walk us through in a little bit more detail what exactly you mean by that? Should we be expecting similarities from an organic growth perspective? Or are you really talking about more from a revenue dollar standpoint. And then same type of question on the trajectory of the rebound on margins and EPS next year. Should we expect kind of that similar ramp given the cost dynamic as well?
+
+Robert McMahon
+
+Yes. I think if -- I'll try to answer all that in short order, Rachel. As we think about the first half of the year, yes, we think that we -- as we look at our business and look at that kind of book-to-bill, we've kind of troughed in Q2. Q3, I think we mentioned actually was a little better. It was less than -- still less than 1 and then Q4 continue to improve. And our expectation is that, that kind of performance will continue. Now we're going up against difficult comps when we were actually bleeding down our inventory. And that particularly happened in Q1 and Q2 of last year as we were talking about it. And so I would expect us to have the trough of '24 be in Q1, Q2 being a little better and then growing out of that as we benefit from the easier compares. And I would expect our P&L and the EPS to look very similar to that. Q1, we are -- we've taken most of the actions they will have all been taken in the first quarter, but they won't have a full quarter. And so we'll have full quarters of the cost savings in Q2 through Q4. And so as that business kind of improves as the business improves, we'll get more and more leverage on the bottom line.
+
+Operator
+
+Moving on now to Derik De Bruin at Bank of America.
+
+Derik De Bruin
+
+So can we talk a little bit about pharma? That market was up and down all year, not a lot of visibility. Are you seeing some of the orders that were sort of stuck in the funnel starting to come loose, right? I mean, how are you sort of looking at the pharma market going forward?
+
+Mike McMullen
+
+Yes, I think the answer is the deal funnel still remain elongated. So…
+
+Padraig McDonnell
+
+So yes, I think what we see from our funnels is that they're growing, but the velocity in closing deals from the point of funnel to order is still static on that side -- elongated.
+
+Robert McMahon
+
+Yes. And Derik, I think if we think about the pharma end market, we're assuming very low single-digit growth for next year. And some of that is actually getting past the tougher comps in China. If we looked at actually our pharma business ex China, we grew in FY23. And actually, our biopharma business grew in total. And we think about small molecule was the area that was dragging the pharma business down as you know very well, that typically has a replacement cycle. We are well into that replacement cycle. We were up very high. We kept calling it. And we've seen that be very depressed, and our expectation is that will start coming back in earnest in '24, but probably in the back half of '24.
+
+Derik De Bruin
+
+So this goes -- sorry to beat this up, but your China got going down. Pharma, you just basically said you've got -- not -- you don't have a ton of visibility, hope things have come back. I'm just not -- I'm curious why you can put a little bit more cushion in the guide, like that. It just seems like -- it still feels like it's a little bit -- it still feels like it's a little back end. Well, it's not a little a lot back-end heavy, given where we are soaring in the cycle?
+
+Mike McMullen
+
+Yes. I think as we said earlier, Derik, there's reason to believe that you have the comps working in our favor for the second half, there’s real. And we know that customers want there's interest in the products. And I think they've got a step -- and by the way, we're not calling for this miracle snapback in 2024. But we're also saying that small markets continue to decline 20%, 30% on the numbers we're seeing this year, particularly, that's where the pressure has been. But we know that biopharma, they need some tools for R&D. We know that those replacement cycles only last -- can only be held up for so long. So there's confidence relative to what we see in the funnel. Deals aren't coming out of the funnel. And then although we are focusing here on pharma right now in his commentary, there's a lot of other strength in some of the other secular markets and applied markets, in particular, which is a nice diversification we have on the instrument side as well. And Bob, I don't know if there's any additional thoughts on the pharma story.
+
+Robert McMahon
+
+No.
+
+Derik De Bruin
+
+And just one final one. Just what were bookings. I mean, I know you said the book-to-bill was greater than 1, but I'm just curious in terms of bookings. And do you often see a spike in bookings in Q4 Basically, I'm just trying to get the sense of like what you saw as a head fake or you've got -- where you think you've got real demand here?
+
+Robert McMahon
+
+Yes. So we don't give the absolute dollars rather than to say it was greater than 1. It was -- roughly 1 for the total company and then instruments were higher. Typically, we do see a where it is higher. So this kind of goes back to kind of our historical performance where orders are a little higher, particularly because we have October in our results. And so last year was actually an aberration, so to speak, as we're working down the backlog and this kind of gets back to our normal process.
+
+Mike McMullen
+
+Yes. And through the quarter, Derik, we saw a normal seasonality. So there wasn't anything unusual about the order pattern to kind of say, is this a head fake or not. So I think that also is one of the reasons why we say, okay, early signs of some stabilization here. Again, not huge growth. We're seeing stabilization.
+
+Operator
+
+We'll go next now to Jack Meehan at Nephron Research.
+
+Jack Meehan
+
+So I wanted to dig a little bit more into LSAG in the quarter. Can you break down the growth between instruments and consumables and just any commentary across product lines.
+
+Robert McMahon
+
+Everything I would say for the quarter was pressured, although consumables performed better than the instrumentation. Our consumables business was down kind of low single digits and against a very tough comp of almost 9%, 10%. And if you looked at it ex-China, that was largely influenced by China, we grew low single digits in consumables.
+
+Jack Meehan
+
+Okay. And so does that imply instruments may be down over 20% in the quarter?
+
+Robert McMahon
+
+They were down, yes.
+
+Jack Meehan
+
+Okay. Yes. And I guess maybe just a follow up on Derik's question. I think everybody is trying to think about the right way to interpret this book-to-bill commentary, but just is there any additional color you can share on the magnitude were orders down in the quarter? Or I guess, just trying to understand because there was an easy or a difficult comp on revenue like are orders kind of more -- don't have a similar level of volatility. It should have mathematically been over 1, right?
+
+Robert McMahon
+
+Yes. So the orders were down year-on-year, but obviously down not as much as revenue down year-on-year. And so when we look at it, I think that kind of shows though, the stabilization because we had some pretty significant revenue last year because of the recovery in the first thing Shanghai shutdown. So I don't think that, that -- we actually think that this is the best way to kind of look at it on a go-forward basis because we don't have the play of the backlog happening much anymore. And so actually, as we look at it on a quarterly basis, we've seen a nice, steady progression up back to historical numbers.
+
+Mike McMullen
+
+And Jack, I think it's fair to say, Bob, that one of the things we were conscious was a lot of commentary about how significantly things we're getting in terms of being worse. And as you know, we've been out for some time, calling for no year-end budget flush, constrained capital environment. We came into the year actually guiding for a slower growth in the second half. So what we're trying to intimate in the call today is what we've been saying for the last several quarters is exactly what we're seeing right now. And I thought -- we thought a proof point was the book-to-bill -- listen, it's not great out there in terms of robust growth, but the sky is also not falling either.
+
+Operator
+
+The next now to Puneet Souda at Leerink Partners.
+
+Puneet Souda
+
+First one on CrossLab. Bob, with 65% of your business being a service contracts, could you elaborate on what sort of growth contribution we should expect here for full year? And also, I don't know if you provided the LSAG expectation contribution for 2024 as well?
+
+Robert McMahon
+
+Yes. For ACG, we're expecting kind of mid-single-digit growth as we are -- with the contracted services piece being double digit, but then being pressured by the instrumentation. So that will be moderated. And for the LSAG business, right now, we're looking at kind of low single-digit decline. Again, with a greater decline in the first half of the year and the return to better performance in the second half of the year.
+
+Puneet Souda
+
+Got it. Okay. And then on -- if I could ask a little bit on am I onshoring that's point that you're pointing -- that's not something we are focused on in prior calls. And I hear you that you're growing on the PFAS side, but just wondered -- could you elaborate a little bit on both some onshoring as well as the environmental gains that you're having? And why shouldn't that contribute more to your instrumentation growth in 2024.
+
+Robert McMahon
+
+Yes. It has the potential to do that. And as we talked about it, we're at the beginning of the year, and so we want to be prudent there. But there's nothing out there that doesn't say that, that should continue given the macro economic environment and the incentives that governments are providing to continue to invest. And actually, what we're seeing is nice business in Southeast Asia as well as India. And I would expect that to continue. That's where we're placing incremental investments to continue to drive and capture that demand. I would expect the same thing in the environmental area as well. But we're not going to build all of that in right now at the beginning of the year.
+
+Mike McMullen
+
+But I think we saw some trends too that we're starting to see, PFAS is also now driving some testing in the food marketplace as well as every country that we talk to is in the process of further enhancing their own reg. So we wanted to have some other areas of potential growth for the company beyond the story around pharma.
+
+Operator
+
+We'll go next now to Josh Waldman at Cleveland Research.
+
+Josh Waldman
+
+Maybe one for Bob and then one for Mike. Bob, maybe circling back on Derik's question, I wondered if you could provide more context on the forecasting process this round or the puts and takes that went into the organic guide. Could you take a step back, were there segments in the business that were like decelerating or slowing as you went into the guide or maybe areas where you're still trying to find bottom? And if so, how did you expect that in the guide?
+
+Robert McMahon
+
+Yes. Obviously, this year has been one for the ages in terms of being able to try to manage the forecasting. And so we've taken a number of different angles at it to look at it. So not only growth rates, which I think is the focus here, but also actually if you looked at it on a sequential basis and look at the actual dollars, I think that that's probably more instructive, particularly as we were looking at the bleeding of the inventory. I would say what we've seen over the last couple of quarters is that signs of stabilization. There are always puts and takes across the various businesses. And we think that we've tried to do that. We've built in feedback based on the field's projections, the funnel that Mike and Padraig talked about and then an assumption around the conversion of those funnels. And we haven't seen the funnels slow down. There's still modest growth, and we're starting to see the slowing of the elongation. I'm not saying that it's stopped or accelerated in terms of the purchase but we are starting to see that slowing and you're actually seeing that in that book to bill. And when we look at the orders on a sequential basis, we're starting to see that kind of stabilization as well. And so that's kind of how we're looking at continuing to go forward. if you kind of just built that going into next year, you would start seeing a challenging first half and then better performance in the second half. Hopefully, that gives you some flavor.
+
+Josh Waldman
+
+Yes, that's helpful. And that was actually going to be my follow-up. And maybe I don't know, Bob or Mike, if you want to take it. I was curious if you could maybe quantify where the funnel stands entering '24 versus maybe where it typically is entering the year? And just how correlative or how much do you think it is a predictor of near-term demand? I mean is that -- is better funnel conversion at all kind of part of what drives the improvement as you progress through the year?
+
+Mike McMullen
+
+I think pursuant to Padraig and Bob, kind of the same rates, right, no significant improvement.
+
+Robert McMahon
+
+Correct. We're going up against -- the first half of this year, actually, what you saw was the elongation of those cycle times. And so what we're seeing right now is kind of -- like I said, it's not necessarily fully stable, but it's not decline -- or increasing at the rate that we saw in the first and second quarters of last year. And so you're starting to see that. And so all things being equal, that conversion is actually improving slightly versus a year ago. It's still not back to historical numbers. And that's what we're trying to handicap here as we look at our forecast going forward.
+
+Operator
+
+We'll go next now to Daniel Brennan at Cowen.
+
+Daniel Brennan
+
+Great. Maybe just on China. I know you mentioned, I think, in the prepared remarks like month-to-month pacing had improved in the quarter. Just any more color or anything on exit rates in China. And if you could, I'd be entered to get like some more color on the end market trends in China. I know you gave some color on biopharma, but could you discuss pharma overall and any other interesting color from an end market basis?
+
+Mike McMullen
+
+Sure. Bob, maybe we'll tag team on this, which was -- I think the -- relative to the order book, I think we were slightly above revenue for the quarter. No really unusual pacing through the quarter from China. We've been calling -- I know a lot of our conversation today has been about pharma, but we've been saying for some quarters overall for China, it's been a broad-based slowdown. And that's what the business has been, and that's how we ended the year in terms of the end market performance. I will say that we were pleased that we were in line with our expectations for the business. So again, we described earlier that the business was moving along at a certain overall level. I think we do have a view of China that we will still be down in terms of the revenue for the year. But reflective of where we are, where we're seeing the business right now. So…
+
+Robert McMahon
+
+Dan, and to build on Mike's point, just a couple of other additional data points. we were down pretty significantly in all end markets in Q4, as you would expect because we were up 44% in Q4 of '22. And so that's probably not as relevant because we were catching up relative to some of the catch-up of the Shanghai shutdown. Another data point, though, is if we looked at kind of year-on-year growth actually, we exited October, the year-on-year performance. It was still a decline, but it was much better than what we saw at the beginning of the quarter. And so we actually saw a sequential improvement. I think Mike mentioned that in his prepared remarks. And then if we looked at kind of absolute dollars, they've been pretty steady month-on-month.
+
+Daniel Brennan
+
+Got it. And then Chemical and Advanced Material was like a tale of 2 cities. It looks like C&E was down 15% in the quarter, you said and you talked a lot about PFAS. And so is there any more color like what you're seeing on kind of both sides of coin there? What's kind of baked in on the core chemical and energy side for the year and just anything on trends there? And then obviously, it sounds like you guys still remain really constructive on the Applied Materials side or Advanced Material side.
+
+Mike McMullen
+
+So how about Bob lead here a few comments. And then I've been dying to pull Phil in on here as well. And maybe talk about some of the things he's seen on the Advanced Materials side, which is a real area of expertise for him, so. But I think your word of tail of 2 cities is really quite appropriate, both in terms of breakout by segment, also by geography. I think we posted 70% growth, if I remember correctly, in China last year. So I mean that's a tough comp. I don't care who you are. But we're seeing continued slowness on the C&E side. Our major customers here are really conservative in terms of their deployment of capital. Many of our largest customers are on cost control. So that's been -- that's what you're seeing reflected in the numbers, and that's why we expect a constrained outlook on that side of the business for a while. The different story on the Advanced Materials, and I think Bob, you pointed to good growth geographically globally outside of China.
+
+And then Phil, I know you and the team got a whole bunch of initiatives around the applied markets, particularly not only PFAS but Advanced Materials. And I thought a good opportunity for me to introduce you to the audience and have you share your perspective on what we're doing on the applied on the Advanced Materials side.
+
+Phil Binns
+
+Yes. Thanks, Mike. Yes, certainly, we've mentioned you've talked around the activity within labs being ex-China, at least being reasonably robust. But on the applied market side and certainly around Advanced Materials. We're certainly relatively strong in those markets, and we're seeing good really good generation around the batteries market. And of course, we've spoken about the onshoring process around there in the Advanced Materials area. So globally, that obviously comes into the onshoring. And globally, we're in strong positions in those markets and have been historically and continue to innovate strongly around those markets and stay close to those customers.
+
+Operator
+
+We go next now to Dan Leonard at UBS.
+
+Dan Leonard
+
+I wanted to circle back for a moment on the Q1 guide. You spoke about a challenging year-on-year comp a couple of times. But as you're thinking about the Q4 to Q1 sequential ramp in dollars, how much of that decline forecasted is what you chalk up to seasonality versus prudent if you could give us a flavor.
+
+Mike McMullen
+
+Great question, Bob.
+
+Robert McMahon
+
+Yes, Dan, that's a great question. If you look at last year and our revenue went down roughly $90 million; $90 million, $95 million from an extremely strong Q4 to also a very strong -- if you look at the midpoint of the guide, it's a little over $105 million, $110 million. So there is an element of looking at what we did last year, again, not assuming a strong budget. I don't want to kind of parse it out to give you a percent, but that kind of at least gives you kind of how we were thinking about the Q1 guide relative to what we saw in Q1 of last year.
+
+Dan Leonard
+
+Appreciate that. And then as a follow-up, can you remind me in 2024, when do we lap the headwinds on the genomics side? And what is your appetite continued investment in genomics as part of the DGG portfolio.
+
+Robert McMahon
+
+Yes, I would expect us to -- we will have a difficult Q1 and then starting to get better from Q2 and beyond, not dissimilar from the rest of some of the businesses. And then I'll let Mike talk about the kind of the investment.
+
+Mike McMullen
+
+Yes, I think first of all, just to remind the audience, when we talk about the genomics mix business, what are we talking about? We got a $500 million business, probably 50% of it is in QA/QC instrumentation, where we are the undisputed leader here, a lot of appetite to invest here. Our TapeStation product, particularly the consumables business is on fire right now. Capital side is constrained as we've seen across the marketplace. And then I think we all believe in the view that NGS will continue to be a growth market for us. And for the industry, I think that people are dying on back their expectations about how robust it is for a period of time. And I think we're seeing that in our business. So why do we make some of the structure changes we made in the portfolio because we want to ensure that we've got the ability to have a healthy P&L while at the same point in time invest in growth. So there's a reallocation of R&D dollars happening as a result of some of the changes we made that we talked about over the call. So answer the story is we have a lot of appetite for focused investments in areas where we think we can win in genomics.
+
+Operator
+
+And ladies and gentlemen, that is all the time we have for questions this afternoon. I'd like to turn things back to you Mr. Ahuja for any closing comments.
+
+Parmeet Ahuja
+
+Thanks, Bob, and thanks, everyone, for joining the call today. With that, we would like to end the call. Have a good day, everyone.
+
+Operator
+
+Thank you. Again, ladies and gentlemen, that will conclude the Agilent Technologies Q4 2023 Earnings Call. Again, thanks for joining us, and we wish you all a great evening. Goodbye.

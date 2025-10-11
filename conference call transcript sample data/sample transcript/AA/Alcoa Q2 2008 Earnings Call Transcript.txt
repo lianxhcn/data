@@ -1,0 +1,576 @@
+Alcoa Inc. (NYSE:AA) Q2 2008 Earnings Call July 8, 2008 5:00 PM ET
+
+Executives
+
+Greg Aschman - Director of Investor Relations
+Charles D. McLane Jr. - Chief Financial Officer, Executive Vice President
+Klaus Kleinfeld - President and Chief Executive Officer
+William F. Christopher - Executive Vice President; Group President - Engineered Products and Solutions
+
+Analysts
+
+Michael Gambardella - J.P. Morgan
+John Hill - Citigroup
+Oscar Cabrera - Goldman Sachs
+Anthony Rizzuto - Dahlman Rose & Co.
+Mark Lanoma - Analyst
+Charles Bradford - Bradford Research
+John Redstone - Desjardins Securities
+John Tamozli - Analyst
+Joe Thorton - Analyst
+Brian Macarthur - UBS
+Leo Larkin - Analyst
+
+Operator
+
+Good day, ladies and gentlemen and welcome to the Q2 2008 Alcoa earnings conference call. (Operator Instructions) I would now like to turn the presentation over to your host for today's conference, Mr. Greg Aschman, Director of Investor Relations. Please proceed, sir.
+
+Greg Aschman
+
+Thanks, Kim. Good afternoon, everyone. Thank you for attending Alcoa's second quarter 2008 analyst conference. On today's conference: Chuck McLane, Executive Vice President and Chief Financial Officer, will review the second quarter financial results; Klaus Kleinfeld, President and Chief Executive Officer, will highlight current market conditions, industry fundamentals and review Alcoa's strategic priorities. Bill Christopher, Executive Vice President and President of Alcoa's engineered products and solutions business, will provide an overview of his business, including performance improvements and growth potential.
+
+Before I turn it over to Chuck, I would like to remind you that in discussing the company's performance today, we've included some forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements relate to future events and expectations and involve known and unknown risks and uncertainties. Alcoa's actual results or actions may differ materially from those projected in the forward-looking statements. For a summary of the specific risk factors that could cause results to differ materially from those expressed in the forward-looking statements, please refer to Alcoa's Form 10-K for the year ended December 31, 2007, or Form 10-Q for the quarter ended March 31, 2008 filed with the Securities and Exchange Commission.
+
+In our discussion today we have also included some non-GAAP financial measures. You can find our presentation of the most directly comparable GAAP financial measures calculated in accordance with generally accepted accounting principles and our related reconciliation on our website at www.alcoa.com under the invest section.
+
+At this point, let me turn it over to Chuck.
+
+Charles D. McLane Jr.
+
+Okay, thanks, Greg. Before I move on to the financials, let me first give you a brief synopsis of industry fundamentals. Aluminum prices have continued to show strength and those higher prices are supported by a host of factors.
+
+First, global supply and demand is essentially balanced, even though North America and Europe are experiencing significant weakness in specific end markets, global consumption remains robust. Secondly, energy costs and input prices have continued to escalate for the industry as a whole. In fact, as you know, energy supply constraints have caused smelter curtailments as well as postponements to greenfield expansions. And lastly, global mega-trends will continue to increase the per capita consumption of aluminum, as well as provide a catalyst for material substitution.
+
+With that as a backdrop, let's dive into the financial results.
+
+Earnings for the quarter were $546 million, or $0.66 per share, an 80% increase sequentially. All segments contributed to revenue and earnings growth and each segment had double-digit percent increases to profitability.
+
+Our Iceland smelter is complete, it's running at full capacity and will reach mature profitability levels over the next couple of quarters. Russia is showing productivity improvements and our engineered products and solutions segment achieved record revenue and profitability results. Cash from operations generated $1 billion in the quarter as we achieved significant reductions in days working capital. We continue to operate within our target debt-to-cap range and our Bloomberg ROC stands at 12.1% excluding the growth projects.
+
+Now let's move to the income statement. Excluding the packaging divestiture, revenue increased 11% on higher prices and volumes, and total segment ATOI increased 27%.
+
+Other income showed a significant improvement sequentially, yet most of the improvement is offset by items in the revenue and cost of goods sold categories. An example of that is currency translation. Currency translation was a favorable net income impact of $49 million in other income, yet this is essentially offset in cost of goods sold by a negative economic currency impact.
+
+For taxes, the operating tax rate for the year is now projected to be 28.6%.
+
+Lastly, the combination of higher prices and volumes led to a significant 80% rise in net income.
+
+Turning next to our sequential bridge, improvements in volume, pricing and productivity more than offset input cost increases, as well as the energy disruptions in Australia and Rockdale. Higher LME prices improved results by $238 million and includes the impact of both alumina and primary pricing.
+
+Higher raw material and energy costs reduced profits by $107 million. Caustic, carbon, natural gas, fuel oil and transportation costs continue to climb. In addition, we had two significant events in the quarter which exacerbated these results. First, the gas explosion on our supplier's pipeline in Western Australia caused an immediate reduction in our production capacity, as well as requiring us to buy alternative fuels at a much higher cost than the natural gas it displaced. Meanwhile, unreliable electricity supply at our Rockdale smelter forced us to purchase power at market rates frequently during the six-week period. The combination of these two reduced profitability by $39 million in the quarter.
+
+We like others have been communicating the rise of energy and raw material costs. Let me take a minute and review some of the specific price changes the industry is experiencing.
+
+We would like to make four major points to this slide: the composition of our costs, the magnitude of the increases, our relative cost position, and actions we are taking. First, the composition of the cost; as a reminder to you, caustic energy and bauxite account for approximately 65% of our refining costs, while alumina energy and carbon account for approximately 70% of our smelting costs.
+
+Next we'd like to point out the sheer magnitude of the increases. From the first half of last year to the first of this year, these costs have increased between 35% to over 80%. In addition, the U.S. dollar declined versus a market basket of the A dollar, the Real, the C dollar, and the Euro by approximately 15%.
+
+So third point’s our relative cost position. Although external benchmark data has not yet been published for 2007, our own research indicates that the industry cost curves for both refining and smelting have seen double-digit increases in both 2007 and 2006. Through brownfield expansions and operational improvements, we see our position on the refining cost curves improving by approximately [eight points] from 38 to 30 over the last two years while we maintained our midpoint status on the smelting cost curve.
+
+Lastly, what are we doing to combat these significant increases? We expect both of these cost positions to improve as expansions in São Luís and Iceland are fully reflected in our performance in 2008 and 2009.
+
+We are also continuing to analyze the total cost of ownership for every one of our strategic raw materials. Examples include joint ventures, backward integration, specification optimization and technology improvements to name a few. And as Klaus will reiterate later, one of our three strategic priorities is disciplined execution. We anticipate significant savings as we identify best practices, both internally and externally.
+
+Let's now move to the individual segment results, starting with alumina.
+
+Production for the quarter decreased 50,000 tons, primarily as a result of the unexpected gas outage in Western Australia. ATOI in the alumina segment increased $21 million sequentially. The positive effect of higher prices was reduced by increased costs for caustic, natural gas and fuel oil, as well as a continued deterioration of the U.S. dollar to the A dollar. The impact of currency alone reduced profits by $17 million sequentially in this segment.
+
+The incremental costs in the quarter arising from the disruption to our gas supply in Western Australia cost the company approximately $17 million in net income. We are working with our insurers to determine the recoverable amounts for the increased costs and lost revenues and we will net these reimbursements against any cost in future periods. As we look to the third quarter, our current estimate is a cost to Alcoa of approximately $45 million in net income. That estimate is dependant upon our gas supplier restoring partial supply midway through the third quarter. We are currently running at 100% of capacity, albeit at a higher cost base.
+
+Now let's move to the primary segment. Production improved 3.5% from the previous quarter as our new Iceland smelter reached its rated capacity and as I said, we are going to continue to see efficiency gains from this operation as we move through the year. ATOI increased to $121 million sequentially, driven by higher prices and volumes. The increase in the realized price in the quarter was $257 per ton, whereas the LME price on a 15-day lag increased $237 per ton. As you can see, we were essentially in line with the 15-day lag, which is where we stood at the end of the first quarter.
+
+Offsets to the higher pricing and volume were increased costs for energy, carbon and alumina. The impact of the weaker dollar reduced profits by $18 million on a sequential basis.
+
+In June, we announced the curtailment of 120,000 tons of annual production in Rockdale. This was driven by an increasingly unreliable power supply that created financial and operational hardships to a point where we could not justify continuing full operation. The financial effect in the quarter of higher power costs, employee costs and lost production was $22 million. We intend to bring this production back online when we are confident that the power supply has been resolved and is sustainable. If this outage continues through the third quarter, we estimate the effect to be approximately $22 million.
+
+Moving next to the flat rolled product segment, the flat rolled product segment experienced a 3% reduction in overall shipments. North American industrial products are extremely weak in advance of entering their normally weak third quarter. In fact, North America's sheet and plate shipment levels through May were at their lowest point in this decade. In Europe, the latest data shows that new orders for sheet and plate products are down 10% compared to 2007. However, sequentially profits improved $14 million. Improved Russian results and productivity gains in North America and Europe helped to offset a negative volume impact of $21 million.
+
+Looking ahead to the third quarter, we would expect a seasonal slowdown between European industrial holidays and North American automotive shutdowns. The effect of this typical seasonal effect is evident in the FRP segment results over the last two years, where on average the third quarter ATOI levels were approximately 35% lower than the prior quarter.
+
+Now let's move to the engineered products and solutions segment. EPS continued its outstanding performance by once again posting all-time record revenues and ATOI results. This segment more than offset softness in the North American automotive market with market strength in aerospace, industrial gas turbine, commercial transportation and commercial building and construction. This combination led to a record revenue of $1.9 billion for the quarter. Additionally, productivity improvements in the aerospace and forgings business enabled the record ATOI performance of $157 million. To put in perspective, this quarterly performance would place this segment’s return on capital in excess of 13% on an annualized basis.
+
+Looking ahead to the third quarter, we would expect a seasonal slowdown between European industrial holidays and the North American automotive shut down. The effect of this typical pattern is evident in EPS results for the last two years, where on average the third quarter ATOI levels were approximately 25% to 30% lower than the prior quarter.
+
+Now let's move to the cash flow statement. Cash from operations was a $1 billion, driven by higher profits and improved working capital. Significant improvement was achieved in our days working capital outstanding. On a year-over-year basis, days working capital improved 6.4 days and on a sequential basis, the improvement was 5.7 days.
+
+Capital expenditures stand at $1.5 billion on a year-to-date basis and we are expecting to total approximately $3.6 billion for the year. Cash received from minority partners would take the net CapEx down to $3 billion.
+
+Growth capital represents 52% of the capital expenditures in the period and nearly 60% of the gross spend is invested in two projects; the São Luís refinery expansion and Juruti bauxite mine. Debt-to-cap stands at 30.6%, which is very positive given the spending on CapEx and shares repurchased through the first half of the year.
+
+Let's move to the next slide and summarize the share repurchases. We continued to repurchase shares in the quarter. On a year-to-date basis, we repurchased 18.3 million shares at an average price of $32.97. Total repurchases stand at 10% against our board-authorized level of up to 25%.
+
+Now that I have covered the financials, I would like to turn the presentation over to Klaus.
+
+Klaus Kleinfeld
+
+Well, thank you, Chuck for providing a very good overview on our second quarter performance. Let's now look at the industry challenges and the opportunities. On a global basis, we see 2008 being another growth year. In our view, aluminum consumption will increase by approximately 8% and given the supply interruptions in China, South Africa and the U.S. to name a few, we see the global demand/supply picture to be generally in balance. The picture varies, however, substantially by industry and region. Let's go through that.
+
+The North American industries in which we participate are declining significantly this year. North American automotive production is projected to be at its lowest level in two decades. Similarly, heavy truck and trailer production are anticipated to remain below already weak 2007 levels. Commercial building and construction activity is showing signs of the decline that we have been anticipating due to the slowing business cycle and also to the tighter credit conditions.
+
+Europe -- the end markets in Europe have held up, although with signs of softness, especially in building and construction and truck and trailer, are becoming evident. Automotive production has held up and is expected to show some increase for the year. European C02 regulations are forcing OEMs to look at alternative solutions to comply with recent legislation. This is creating more and more opportunities for light weighting and here we can leverage our experience and technology.
+
+End markets in China continue to be showing strength. We expect consumption in China to increase approximately 20% this year. We've lowered our projection slightly due to the earthquake relief effort but the projected increased activities in building and construction and to more application and transportation-related areas such as auto and bus platform.
+
+Looking at aerospace and industrial gas turbines, IGT, in general we forecast continued global strength. In the aerospace industry, however, we do see marginally softer demand over the remainder of the year for some specific applications. We believe the 787 and A380 scheduled revisions will cause inventory adjustments for both fasteners as well as engine components as the supply chain is well-stocked at this point.
+
+Additionally, the engine side will see supply chain adjustments to account for lower spare demands caused primarily by fleet reductions. We do expect increased build rates for [single I] planes and we remain bullish for the next several years, even if we see some order deferrals or cancellations as new platform build rates increase.
+
+On industrial gas turbines, demand from Europe and the Middle East continue to strengthen. North America is also forecast to grow, fuelled by decreasing capacity margin and increasing spare sales.
+
+In summary, while sluggish end markets in North America and Europe negatively affect our midstream and downstream volume potential, we see the overall aluminum industry generally in balanced supply/demand position for the year.
+
+Let's talk about some industry fundamentals. Aluminum continues to combine a lot of characteristics like lightweight, high strength, durable, highly conductive, corrosion resistance, easy formable, recyclable and last but not least, a great relative price compared to other materials. In fact, given these very unique characteristics, aluminum is increasing as a material of choice in numerous industry and applications. Let me give you some examples for that.
+
+In the transportation business, light weight without compromising on strength provides obvious advantages like fuel efficiencies and safety, as well as driving dynamics. We are continuously invited to participate in the design of new auto, truck and bus platforms.
+
+For the packaging business, logistics costs, robust handling, good consumer appeal as well as high recyclability are crucial. That is why aluminum is highly valued here. The durable, high strength and corrosive resistant aspect of aluminum make it a natural fit for those looking for maintenance-free and aesthetically pleasing surface finishes, as well as the high recyclability. This is especially important in the building and construction and the more consumer-oriented markets such as consumer electronics.
+
+Also, the defense industry reaps benefits from aluminum almost since the date of aluminum's invention with increasing applications. These examples illustrate the fundamentals behind the predicted growth and make us confident about the future.
+
+We project that the amount will grow at 6% annual rate over the next decade. The growth will be fuelled by Asia, particularly China, with an anticipated growth rate of 9% over the next decade, and one could see this as a rather conservative estimate as it reflects only half the rate experienced over the last 10 years.
+
+One thing is also sure; serving this additional 30 million tons of aluminum demand will not be easy. Access to reliable power supply and quality bauxite reserves will be the most critical factors, as demonstrated almost on a daily basis and as we've seen again in the last maybe 48 hours.
+
+Energy demand surges in most regions of the world. The ability to secure clean, affordable energy is increasingly an issue the industry will continue to encounter. This year alone the industry had nearly 1 million metric tons of capacity curtailed due to energy or infrastructure-related issues. These have spanned the globe from China to South Africa to the United States.
+
+Many in the industry have seen natural gas as an efficient and relatively clean energy source for new smelters. Natural gas was once seen as stranded energy. With the emergence of liquid natural gas, it became transportable. This has made it much more difficult to ensure supply agreements of natural gas that are secure enough to base long-term investment decisions on it.
+
+Finally, there have been several smelter delays announced over the recent months; the common theme among all of them have been the inability to secure necessary economical long-term power supplies to justify the significant investment. As Chuck mentioned, our Fjardaál smelter is operating at full capacity and this happened now less than a year after opening. While we have efficiencies yet to gain, this has been a very successful project and it will help us with our operating cost position and support our profitable growth in the upstream business. Our success there gives us real confidence in other projects which we are currently evaluating.
+
+During the quarter we have made notable progress in three areas, and I'd like to run you through the highlights. Our relationship with the Icelandic community can be seen by the national and local governments’ agreements to extend our MOU for a second smelter in Iceland, most likely powered by geothermal energy. The feasibility study should be completed by September 2009.
+
+In Greenland, the Parliament endorsed moving to a second phase of a possible smelter construction and is funding studies covering economic, social and environmental aspects of the proposed smelter. These studies will be conducted throughout the next 18 months.
+
+From a mining and refining perspective, we are working with Vietnam's premier minerals development company. We are jointly reviewing the feasibility of bauxite mining and refining in the region.
+
+These projects, together with several others, are in a feasibility stage. Each one has a stage gate attached with specific decision-making criteria. And we consider aspects like margins, construction costs and various risks. You can be absolutely assured that we will make our decision based upon one criteria only: our confidence in creating shareholder value with the respective investments.
+
+While our competitors are taking projects offline, we are moving forward. A lot of this is founded on consistently demonstrating a commitment to our communities and employees. We are committed to safety, the environment and our communities. This commitment comes in actions every day, not just words. Our safety record is truly world-class and in 2007 alone, the Alcoa Foundation and the company combined provided $50 million in grants to the communities in which we operate.
+
+Furthermore, we have taken a leadership position in sustainability issues throughout the world. All of this did not go unnoticed and has been recognized again this year by several organizations as depicted in this slide.
+
+Ensuring and demonstrating that we live our values everyday is a strong factor to make Alcoa a worldwide partner of choice.
+
+The energy situation, along with the inflationary pressures on many materials, has increased the cost of alumina refining and aluminum smelting by about 20% to 35% between 2005 and 2007, and we would expect a similar rate increase this year. Alumina pricing has doubled over the last three years, responding to the increased operating costs and the strong supply/demand fundamentals. The forward curve reflects long-term forward prices that have increased over 40%, a significant change from just a year ago. This reflects the input cost pressures, the supply challenges as well as the increasing demand.
+
+Our strong growth pipeline and our enviable mining as well as refining position established a solid foundation from which to move forward.
+
+One thing you can be sure: we will take on the challenges and turn them into opportunities. Our three strategic priorities reflect this: profitable growth; disciplined execution turning ideas faster into cash; and ensuring the Alcoa advantage as a value generator.
+
+I continue to be encouraged by the energy and passion of the employees that I meet in all of our businesses, all around the world. They are engaged in these strategic priorities. They are working hard towards a well thought-out three-year plan, setting goals for each individual business to be among the best in the industry, and they are specifying programs and actions on how to reach these. By the end of this year, we intend to have a three-year financial target by business that we will publicize. So much on the strategic priorities.
+
+Chuck mentioned that our engineered product and solutions business, EPS, has produced another record-setting quarter in terms of revenue and profit, and continues to drive productivity improvements to the bottom line, and we believe there continues to be significant profitable growth opportunities in these businesses that are included in EPS. Therefore, I've invited on this call Bill Christopher, who is our Group President for engineered product and solutions and Bill will provide a deep dive on his businesses. Bill, the floor is all yours.
+
+William F. Christopher
+
+Thank you, Klaus. I would like to -- three things I would like to cover today: I would like to start with an overview of the businesses that are inside the group; I would like to talk about the improvements we've driven across the group and how they are contributing to the profit growth we've delivered; and finally, I want to talk about the opportunities I see moving forward to continue our track record of improvements and profitable growth for the company.
+
+Our group is a diversified industrial products portfolio with leading market positions in aerospace, commercial transportation, energy, non-residential building and construction markets. Talk about each of the businesses a little bit -- our fastening systems business is a combination of two of the best brands in the industry in Huck and Fairchild. It is number one, especially fastener aerospace systems globally, and offers the broadest range of proprietary and patented products.
+
+Our power and propulsion business is a combination of Howmet investment castings and our aerospace and industrial forged products. Howmet has the number one position in air coils for both aerospace and industrial gas turbines in the world, and on the forging side, they are the leading producer of aluminum structural forgings and aircraft wheel and brake.
+
+Our wheel and transportation products combine our wheel business and what was our transportation systems business which is where our space frame technology resides. Our wheel business is the number one supplier of aluminum truck wheels globally and the most recognizable brand.
+
+On the building and construction systems side, we participate in the non-residential segment focusing on the exterior of buildings -- curtain walls, windows, entry systems and our Reynolux and Reynobond architectural panel products. Our Conair North America business is the number one supplier to the commercial building exterior systems in North America and they are recognized for best-in-class customer service. Finally, our electrical and electronic solutions business, EES. This was formerly our AFL business. They make electronic distribution systems and electronics for the automotive, heavy truck and specialty vehicles. One of the areas we focused hard on in growing has been our position in heavy truck and we are now the number one supplier in North America to the heavy truck segment.
+
+We talked a little bit about where we have been. I believe we have delivered a strong track record of profitable growth, driven by three things: one is sales gains, two is productivity growth, and three is aggressively managing our portfolio.
+
+On the sales side, when you adjust our sales increase for the divestitures and exits that we've had and for the impact on pricing of raw material pass-through that we have, we've had $850 million of real organic growth. $400 million of that came from being well-positioned in markets that we are growing in aerospace, IGT and in building and construction. However, in each of the businesses we have been able to deliver significant share growth, contributing $450 million of additional sales. That’s been driven by new products, regional expansions and driving the penetration of our current offerings like our truck wheels around the world.
+
+To give you an example, new product development is essential to our businesses. Over the timeframe 2005 to 2007, we introduced 140 new products and they delivered $250 million of incremental sales in 2007 with yet a lot of significant runway yet to go. Three of our businesses have delivered double-digit annual growth over a five-year period -- our fastening systems business, power and propulsion, and building and construction systems.
+
+On the profit growth side, what's driven this is our ability to consistently deliver productivity in excess of inflation. That's allowed us to expand our margin to sales by 36% over this period. One of the parental advantages we bring to the businesses in my group is the Alcoa Business System which is our lean implementation. The system was developed in the capital intense portion of the company -- smelting, rolling and extrusion -- and we have been able to take and adopt that system for the capital intense portion of our businesses. We have adapted the tools and methods on the more labor-intense side of my businesses and we are delivering some very significant productivity improvements.
+
+One of the best examples I can give is in our Howmet investment castings business at Whitehall, Michigan, our largest casting facility. Over a two-year period of aggressively implementing our lean methodology, we increased the capacity of that facility by 30%, meeting very much-needed capacity for our customer demand increases for almost no capital.
+
+We have also invested in cost advantaged positions around the world. We have opened two fastener facilities in China, one to service the aerospace market and one to service the industrial products markets. We have also expanded capacity in fasteners and investment castings in Mexico and in Hungary and we have expanded our wheel production capacity. We are also bringing online two great facilities in Russia for aerospace forgings and industrial products, our Samara facility, we have great capability and an outstanding cost position. And in [Valia Calipva] we are bringing on wheel production as we speak.
+
+Finally, we've aggressively addressed our portfolio. Over the last few years we've exited $300 million worth of non-strategic positions, most of which were in the automotive segment. We've invested in aerospace expansions in investment casting and in fasteners, and we've invested in the global wheel growth. When you pull all that together, we've been able to move our portfolio in 2003 from being 40% automotive sales down to by the end of this year I expect it to be at 20%.
+
+As Chuck and Klaus both mentioned, we've been able to continue that trend of significant improvement through the first half of this year, delivering record results. Our sales are up 6% and inside of that though we've had good market growth and share growth in our IGT building and construction and aerospace positions, offsetting very weak North American truck and automotive markets.
+
+Our productivity improvements have been accelerating. Our margin to sales are up 19% year over year. Last year we announced aggressive restructuring in our EES business. Those actions are on-time and delivering the cost improvements we expected to get, and our lower cost facilities are continuing to ramp up to capacity.
+
+On the portfolio side, not only have we've gotten the advantage of the exits in divestitures that we've done, but we have some very, very cost and capital efficient brownfield expansions that are beginning to pay off. Again in our Howmet business, its customer demand was increasing dramatically beyond our ability just to deliver capacity for ABF. We've invested $20 million in growing capacity in that business. That $20 million will deliver over a $120 million of additional capacity.
+
+Let me start now and shift to moving our look forward. As Klaus mentioned, we have three major strategic priorities for us: profitable growth, and that will be driven by our positions in growing markets, plus major trends that favor our capability to develop new products and we'll continue our productivity improvements.
+
+The second area is leveraging the parental advantage. This is especially true in technology in leveraging our corporate procurement capability and in leveraging our corporate business systems. Two things our corporate business systems do for us: one is it allows me to keep my business unit leadership focused on markets, customers, products and productivity, and the second is it gives us tremendous overhead efficiencies in our businesses.
+
+Finally, while we've established a culture and capability for execution across these businesses, we're going to continue to build on that and accelerate our ability to deliver cash to the bottom line.
+
+Let me move and talk about some of the markets that we are in and the outlook that we have. I will start with aerospace because that represents 35% of our portfolio. While Klaus talked about we see some short-term softening in market demand, we are still very bullish on the cycle. When we look at large commercial aircrafts greater than 100-passenger build rates, we expect about 920 aircraft to be built this year. When you add to that the announced increases by Airbus and Boeing to increased single-aisle production and the ramp-up of the A380 and 787, we see continued expansion through this cycle. They have a seven-year backlog which gives us some sustaining power and the A380 and 787 are especially important to us in fasteners and investment castings as these are new programs with new products and proprietary products for us, so a very, very strong outlook through 2011.
+
+Our heavy truck positions, we have in four of over five businesses across my group. We will continue to see heavy truck production increasing, especially driven by the BRIC countries. But beyond that, we are also at a low point in the North American market right now. We expect to see that begin to recover in 2009, ‘10 and ‘11. When you combine the market recovery, along with the new economics of close to $5 a gallon diesel fuel in North America, these things play to our ability to deliver lightweight and durable solutions to the industry that increase payload and the fuel efficiency of heavy trucks.
+
+The other area we have for significant growth remains in our truck wheel business. When you look at the penetration of our aluminum truck wheels in North America, it now stands at 55%, but in Europe it is 24% and in Japan 15%, so substantial runway for additional growth and that is going to be exhilarating because of the economics of higher energy prices.
+
+On the non-residential part of our business in building and construction systems, Global Insight continues to forecast accelerated increases in non-residential structure spend. That is giving us opportunity for significant expansion opportunities in our systems business in the Middle East, Russia and India. And also, when combining that with the major trend for energy efficiency, it is allowing us to develop new products that not only are more thermally efficient but also integrating those products into exterior systems that will provide higher energy efficiency as a system than the individual products will by themselves, giving us continued growth prospects for our building and construction systems business.
+
+The other markets that we are in fact very excited about is the energy market. We play in this market in two different places. First in industrial gas turbines, if you look at the heavy duty turbine builds, there has been a moderate increase from 2003 to 2007, but we are now starting to witness a very accelerated increase in new turbine builds, driven by Europe and the Middle East. However, on top of that we're starting to see the U.S. increasing activity in this area. Power generated by natural gas in the U.S. increased 20% 2008 over 2007, and 66% over 2006. Now, that's not all driven by just new equipment installations but it is also showing the capacity that was installed during the peak of 2001 and 2002 is now operating at capacity and that's very good for our spares demand in our investment casting business.
+
+The other area where we're spending a lot of time on right now is oil and gas, specifically on the exploration side. The chart on the upper right-hand corner shows growth in active drilling and production rigs globally. But it's not just about drilling activity; it's about going after reserves that are farther and deeper away.
+
+Existing steel technology limits the range and depth and we are developing aluminum systems that can cost effectively extend the capacity of existing drilling infrastructure. I'm going to talk more about this specifically later on in the presentation.
+
+New products have been a very, very big part of our growth to-date and they will continue to be moving forward. Our current portfolio of products that are in our pipeline, we expect to deliver $1.3 billion of sales when they are at full maturity, both in the markets we are in today and in new and adjacent markets. This is not by chance. We have a very disciplined approach in every one of our businesses to review product positions in the pipeline annually. We identify regional preferences, new market trends and we combine strong underlying technology with strong customer relationships and a core competency in application engineering to deliver new products.
+
+I'd like to talk about a few of these. One of those in industrial gas turbines is a new, high gradient single crystal casting technology that will extend the life of air foils significantly in the hot section of those engines. We are just now starting with our first commercial applications. We expect this to grow significantly as we move forward.
+
+On the ground transportation side, we have products that are coming out like our ABDC door system and the Fifth Wheel, which connects a tractor to a trailer that both take weight out and improve energy efficiency or increase payload. We are also developing fastening systems that are fasteners combined with installation tools that are significantly reducing the assembly time for our customers in building trucks and trailers.
+
+Finally on the electronics side, we are investing in power management technology that will allow our customers to either increase the content or the efficiency, or reduce weight at our harnesses. We are also working on a new starting system that has the potential to reduce up to two batteries at 45 pounds each in each truck.
+
+I've talked about our position in aerospace. On the fastening systems with the A380 and the 787, it's also worth noting that Howmet has a majority position on every new engine program that will be coming out in the foreseeable future.
+
+I'd like to now move on and specifically talk about two areas, and that is oil and gas and defense. The chart here shows the landscape of exploration drilling equipment, and this is a great example of leveraging capability across the entire company, not just my group, to develop aluminum systems that can really make a difference in the industry. We are taking unique capabilities in large press extrusions and forgings. We are combining that with our alumina materials and joining technology at the tech centre and our depth of experience in the aerospace industry in structural performance, modeling and corrosion management. We take all those and put them together and we are developing aluminum drill pipe systems and riser systems that will extend the capability or depth or range of existing equipment by up to 50%.
+
+To give you a perspective on that value proposition, today if you wanted to purchase a new rig that would allow you to go to the depths you would like to be able to drill to, it is $500 million to a $1 billion and it is a four-year lead time. By contrast, we believe we have a system in the aluminum riser system which connects the ship to the ocean floor that can extend the range of that ship by 40% to 50%, so if you are limited to 6,000 feet you would be able to go up to 9,000 feet for $40 million to $50 million and be able to do that in six to nine months. We think this is a compelling value proposition for the industry, an exciting area of growth that you will see us talking more about in the future.
+
+I think another area that represents the Alcoa Advantage at work is the Joint Strike Fighter. This starts with having strong customer relationships and credibility in the markets, so you get a seat at the table not only during early design but I think everybody is aware this is a program that had some rather significant weight challenges midway through the design of this program. Because of our relationships with the customer and our credibility, we got a seat at the table to offer up potential solutions.
+
+In this case, we found we are able to take an alloy, 7085, that was developed at our tech centre for commercial aerospace applications in sheet and plate structures and adapt that for forging applications and combining that with our unique capability to do very, very large closed die forgings in Cleveland, Ohio. The 7085 alloy allows us to go to thicknesses that we are able to take the bulkhead forgings to one piece, say about 200 pounds in part weight when you take the system weight over 400 pounds for the structure, which was a material and important weight savings for the program.
+
+The other thing that was key to this was our speed to market. For us to be able to make a mid-design change and get from design to prototype inside the timeframe, we had to cut our production cycle in half, from 48 weeks at the industry standard to 24 weeks. This program, when we combine with that our position on the engines and investment castings and our fasteners that we have developed specifically for this program, will at full run rate deliver $130 million of sales for our group and it also will ramp up and come on about the same time we anticipate the commercial build cycle to start to weaken, helping to mitigate the impact across our group.
+
+We are now extending this capability into land-based systems, specifically right now on the Joint Light Tactical Vehicle, or the JLTV, and are working with people on designing options for that also.
+
+Disciplined execution is going to continue to allow us to drive productivity gains as we move forward. For all the progress we've made in putting our lean manufacturing system in place, there is still a significant runway both in productivity and capacity improvements.
+
+We've got a great foundation of cost advantage positions in Hungary, China, Russia and Mexico and we have the ability to grow upon those now. We still have some very, very capital efficient expansions that we can make as we continue to drive this growth. We believe we can double the capacity of our [Valia Calipva] wheel production for less than $5 million and we have great brownfield opportunities to increase our industrial gas turbine investment casting capacity in Hampton, Virginia.
+
+We will continue to leverage the cost-efficient Alcoa business systems and we will be addressing the structural changes in the North American automotive market demand in our EES capacity. Most of that will be done early in the third quarter of this year.
+
+So in summary, we think we have built a strong track record of improvement based on disciplined execution. We like our positions in growing markets and in complex products and processes because these give us great opportunities for product differentiation and cost reductions.
+
+From a priority perspective, we are dealing with a very target rich environment on the growth side, so our focus right now is making sure that we adequately resource these and we have a disciplined deployment and execution to hit those growth targets. We will continue to manage our portfolio. We will move our automotive portfolio to advantage positions and restructure to the realities of new demand patterns. We'll make sure that we understand and take advantage of major market trends and capitalize on those mega trends, specifically in transport and the energy ends of the business, and building and construction. And finally, we have some great opportunities in our asset base to optimize our global presence and to continue to take advantage of efficient brownfield expansions. Thank you.
+
+Klaus Kleinfeld
+
+Well, thank you very much, Bill, and I hope this gives you all out there who are listening a little more color on our opportunities and how we are driving on those three strategic priorities: profitable growth, Alcoa advantage, rigorous execution through all of our businesses. And as Bill just said, there is a lot of profitable growth we can generate from the EPS businesses and we are absolutely determined to doing so.
+
+Also, I want to make one other point here to avoid any misunderstanding -- all of our actions are driven by a clear commitment to generate value. We look at all opportunities in all of our businesses. The reason why we asked Bill to be here is because we wanted to give you a little bit of color on EPS and this was just one example among many others that we have inside of Alcoa.
+
+So with this, I think we should open the line for questions and answers.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question comes from Michael Gambardella. Please proceed, sir.
+
+Michael Gambardella - J.P. Morgan
+
+Yes, good evening. A couple of questions for Chuck; one, in the second quarter there was about $155 million positive improvement in other income from the first quarter. Can you go through some of the highlights of how that improved and also how the tax rate was somewhat lower?
+
+Charles D. McLane Jr.
+
+Sure, Mike. I briefly alluded to it when I talked about it but all but $30 million of the improvement, there are offsets to that in other places on the income statement, both in revenue, cost of goods sold and GASE. One of them is currency. There is currency translation fees in other income, but if you look at the economic piece impact, you would see on our bridge that the net currency favorable for the quarter is 17. There are -- there’s differences between a metal activity between corporate -- excuse me, between the business, downstream businesses and upstream businesses that are upsetting -- offsetting trading positions and they have zero impact on the net between corporations. And then there’s some company-owned life insurance offsets because of a deferred compensation, which are offsets as well. So even through there’s a big improvement there, most of it is offset between three other categories on the income statement.
+
+And the tax rate is -- to get to the 28.6 on an annualized basis, the second quarter was lower than the first quarter. You know, each quarter we do a look at an annual rate for the company based on income by jurisdictions and we make our most recent estimate. It just so happened to be that looking at an annual run-rate now of 28.6 that we had a lower tax rate in the quarter to bring that on a level basis.
+
+Michael Gambardella - J.P. Morgan
+
+Okay, but the other income -- you said $30 million, there’s a positive $30 million in the quarter? Is that incrementally from the second quarter? Because the second quarter was an expense. Or is that just in the -- the first quarter was an expense, the second quarter is a big income. Is the $30 million just in the --
+
+Charles D. McLane Jr.
+
+Did you add for the change between the two? The $30 million is the change between the two, net impact.
+
+Michael Gambardella - J.P. Morgan
+
+So the whole 155?
+
+Charles D. McLane Jr.
+
+Yeah, 30 of the 155.
+
+Michael Gambardella - J.P. Morgan
+
+Okay. Thank you.
+
+Operator
+
+Your next question comes from the line of John Hill. Please proceed, sir.
+
+John Hill - Citigroup
+
+Thanks and thank you for a very informative presentation across the board. There’s a fair bit of detail in the presentation about input cost escalation, caustic soda, coke, freight, gas, et cetera, yet these are couched in industry terms. Of these industry cost pressures, roughly how much showed up in second quarter and how much kind of pent-up lag effect increased costs can we expect to see as we go ahead?
+
+Charles D. McLane Jr.
+
+John, if you look at -- just to refer you back to something, on a sequential basis you can see that we had cost increases from the first quarter excluding energy of -- excuse me, excluding currency of $51 million for energy and $56 million for other raw material cost. And we try to put it -- yeah, they were market indices we were using and you can, you know, without giving the specifics of what we have incurred in each one of those categories, we tried to put in perspective on what we’ve done on the cost curve. So we’ve looked at our position and tried to give you our relative position on alumina and refining that we’ve moved down eight points from 38 percentile on the cost curve to 30, even in light of the industry receiving all these cost increases. And in smelting, we stayed about at the midpoint based on the number of smelters we have all the way across the cost curve.
+
+We also made reference to the fact that Iceland, once it’s mature, its profitability level and its costs should help us to leverage that down from where we are at the midpoint.
+
+Klaus Kleinfeld
+
+The same thing, if I may add, on the refinery side. [inaudible] for São Luís and the ground extenders that we are doing.
+
+John Hill - Citigroup
+
+So the response is that the vast majority of the increase in the market price of these inputs is already reflected in the cost structure of the company and there will be minimal further escalation, should these remain at current levels?
+
+Charles D. McLane Jr.
+
+No, I didn’t -- you know, these will depend on market factors. Is fuel oil going to increase in the third quarter over where it is today? Is natural gas going to increase in the third quarter? But the costs that are on that market basis right there that is shown first half to first half, yes, those costs are in our results.
+
+John Hill - Citigroup
+
+Great, great color. And then if I --
+
+Operator
+
+Your next question comes from the line of Oscar Cabrera. Please proceed.
+
+Oscar Cabrera - Goldman Sachs
+
+Good afternoon, gentlemen. My question has to do with your plans and expansions on your smelting capacity. Basically primary is one of the most important ATOI contributors and I just want to get an idea, I have two things here; first, are you planning to the balance in terms of your alumina and aluminum production? And secondly, can you give us an idea of what type of increases in capacity and your aim in terms of the cash cost curve going forward, assuming we stay somewhat constant? Where do you want to be? What’s the target?
+
+Klaus Kleinfeld
+
+Well, first of all, and you know that very well, we are currently long on alumina and that has been traditionally a situation that we have been in. With our expanders that we are doing in Juruti and in other places, this situation will most likely not change significantly. And at the same time, we aim on the cost curve side -- and Chuck just said it, what we have been doing on the refining side has been a very, very good achievement. We’ve moved from the 38 percentile on the cost curve down to the 30 percentile and as I just said, in São Luís the expander that we are currently having underway will most likely move us even further down.
+
+On the smelting side, we are kind of at the midpoint and we believe that when you look at the smelting cost curve and the factors that are driving the cost of aluminum, you kind of have a natural floor of the LME price with the structural increases that we have been seeing there. And at the same time, you’ve seen also in the last quarter we have been very nicely managing price, volume, and productivity to allow basically to offset, to offset the cost inflation in that period, and the very fact I gave you a little color on some of those projects that are currently in the stage of feasibility and I think that is pretty unique. I mean, when we use the same slide that we showed you last time and that we’ve been using also in investor presentations and the very fact that you see -- I mean, the projects there are absolutely real and we are moving them further and we are pretty fast in moving them further. Greenland and Iceland, which are particularly interesting because they are based not only on stranded power but on very lean power. I think a very important factor going forward and we believe that this gives us -- first of all, it’s in line with the values of Alcoa; secondly, it gives us a great advantage going forward and the very fact that we could secure to move those projects into the next phase is a good thing. Vietnam, pretty much the same thing. That doesn’t -- and you’re around long enough to understand that we are not saying that each of their projects will actually come to fruition but all we can do at this point in time, moving it into the next phase and I think that’s a great achievement.
+
+Oscar Cabrera - Goldman Sachs
+
+No, no, granted, but are you looking to just capitalize costs as we see energy prices increase? Or are you looking to have to go down the cost curve? What is your strategy?
+
+Klaus Kleinfeld
+
+Can you speak up a little bit?
+
+Oscar Cabrera - Goldman Sachs
+
+No, I was saying that is the strategy to capitalize costs or is it to go down the cash cost curve?
+
+Klaus Kleinfeld
+
+Well, we are always trying to go down the cost curve. I mean, that’s absolutely clear. And as I outlined, on the refining side we have achieved that in a very, very nice way going eight percentage points down on the cost curve. On the smelting cost curve, you just have to see that we have a very, very large system and to move the system percentage point wise is much more difficult, obviously, because we have a pretty strong variation. And I think you outlined already that Iceland is going to bring us further down on the cost curve. At the same time, you have to see, and I showed that one slide, that the cost curve itself is moving upwards, which is very much dependent on where the oil price and all the other significant input cost factors are going to go.
+
+But it’s very, very clear our goal is to move down the cost curve, absolutely.
+
+Operator
+
+Your next question comes from the line of Tony Rizzuto. Please proceed, sir.
+
+Anthony Rizzuto - Dahlman Rose & Co.
+
+Thanks very much. Good afternoon, good evening, gentlemen. I’ve actually got two questions here; on slide 42, where you have your investments in Russia, Bohai and Kunshan, you seem to be generating greater losses, yet your comments were talking about productivity improvements. I wonder if you could just describe the disconnect there, maybe help me to understand that better.
+
+And then a question on commercial aerospace; you alluded to marginally softer demand and some dislocation in the supply chain for engines and fasteners. Do you expect the same for heat treat sheet and plate?
+
+Charles D. McLane Jr.
+
+I’ll take the first one, Tony. Actually, we also started breaking out Russia in the flat -- the Russia/China and growth on the flat roll products and if you look at it on a sequential basis, it’s an improvement in year-over-year. It’s negative but really what you have to look at that’s a little different right now is Bohai is just getting into a start-up mode where it’s bringing people online and bringing up the equipment, so there was an improvement in Russia and on a sequential basis, there was an improvement overall but you’ll start to see Bohai entering some start-up costs.
+
+I’ll let Bill take the other one on the commercial piece.
+
+William F. Christopher
+
+Tony, on the commercial aerospace side, the two big drivers to the process we see going forward are driven first by the 787 delay and the ramp-up. There was a lot of demand for product in the first half of this year for supply chain and that really didn’t impact substantially the sheet and plate side of the business because it’s predominantly a composite aircraft. While they do have some content on it, it’s not nearly to the extent we have on fasteners.
+
+The second part is the spare demand in the jet engine market, which wouldn’t impact sheet and plate either, so generally I would expect sheet and plate and extrusions to perform pretty much in line with the build rates, and as the build rates expand on single aisle and things of that nature, they will be much less impacted by the same things we are seeing in the jet engine, supply chain adjustments and impact of the 787.
+
+Anthony Rizzuto - Dahlman Rose & Co.
+
+Bill, that’s great. Thank you very much.
+
+Operator
+
+Your next question comes from the line of Mark [Lanoma]. Please proceed.
+
+Mark Lanoma - Analyst
+
+Good evening, guys. You highlighted in your outlook 20% typical seasonal weakness in the downstream segments. Would it be fair to expect any offset because of performance improvements in the downstream?
+
+Charles D. McLane Jr.
+
+Well, we looked at that and took that into consideration, Mark, to tell you the truth and I would say that would -- we may -- there will be some underlying productivity improvements in there but when you are looking at the weakness in the markets in both North America and Europe right now that truly are weaker than just the normal seasonal decline, it will eat up that productivity.
+
+Mark Lanoma - Analyst
+
+Okay, thanks. And just, if you could comment, there’s been some trade press articles about shortening up payment terms with customers. Is there any read across into things that you are seeing in the U.S. market that could be weaker than as discussed?
+
+Charles D. McLane Jr.
+
+Well, that was done for -- that was in the primary side of North America and that was done for some very specific reasons because of the credit situation has changed. And if you looked at the freight increases, we didn’t think the Midwest premium was taking that into consideration, nor the transaction price, the interest rate underlying the transaction price. And plus if you looked at primary, [inaudible] 20 is priced in other regions. We basically were just getting it on an even basis, so we think that’s eventually going to be accepted in the marketplace.
+
+Operator
+
+Your next question comes from the line of Charles Bradford. Please proceed, sir.
+
+Charles Bradford - Bradford Research
+
+Good afternoon. There’s been some comments in the trade press about the smelter in Iceland producing a fair bit of off-grade material. Is that just the standard start-up that you would normally expect?
+
+Charles D. McLane Jr.
+
+That’s right. When we talked about Iceland being at full capacity right now, they have reached 100% capacity in this quarter, but as part of the start-up costs, there will be some off-grade metal. You know, there are maintenance issues in getting some of the supplies up to speed right away, as well as the training that takes place on the people, so that’s why we said even though it’s at 100% capacity, it probably won’t reach mature profitability levels for a couple of quarters.
+
+Charles Bradford - Bradford Research
+
+Okay. Can you talk about what the difference would be between the mature level of profitability and what you achieved in the second quarter?
+
+Charles D. McLane Jr.
+
+Not specifically for one client, no.
+
+Charles Bradford - Bradford Research
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of John Redstone. Please proceed, sir.
+
+John Redstone - Desjardins Securities
+
+Good evening, gentlemen. Two quick questions on the flat roll product; coming back to Tony Rizzuto’s --
+
+Klaus Kleinfeld
+
+Can you speak up a little bit, John?
+
+Charles D. McLane Jr.
+
+We’re having a hard time hearing you.
+
+Klaus Kleinfeld
+
+Yeah.
+
+John Redstone - Desjardins Securities
+
+Most people do. On the flat roll products, yes, coming back to Tony Rizzuto’s comments for Russia, China, and other, certainly the ATOI is improving but I was wondering if you would give us some guidance when you expect to actually see profitable results from those operations.
+
+Klaus Kleinfeld
+
+Right. Well, I mean, look; on Russia, we obviously see that there’s significant improvement in 2008 compared to 2007, but we remain in a loss position, as you correctly pointed out. At the same time, you have to see what is the general perspective on this investment, which we always considered a growth investment in a market like Russia that we continue to be optimistic about. We just visited the plants again the week before last. We took our whole board there for a second time to see the progress there with their own eyes. It’s very clear we have in Russia unique assets in the way of the physical location and the capabilities, but it’s at this point in time not coming fully out there.
+
+When you look at the packaging side, we are increasing the can sheet production and we are making good results there. We were putting the new [N and tap] line in there and we will be starting to go online and the demand, the packaging demand for aluminum cans is increasing in Russia, continues to increase in Russia and you see that also the can makers are investing pretty substantially over in Russia.
+
+We have the world’s largest exclusion press. We have the world’s largest forging press. A couple of examples were given here in Bill’s presentation, I mean, the capabilities that we have in oil and gas, some of that unique capabilities come through exactly those things that we have in Russia and also the experience that we have in Russia.
+
+The same thing holds true when it goes through the aerospace market. I mean, the aerospace market, not just the Russian aerospace market but the worldwide aerospace market, I mean, we have good capabilities there, particularly in [Valia Calipva] where we are finishing the upgrade of the aerospace capabilities. We’ve just gone through a major upgrade of our hot mill in [Tamara]. We’ve received the qualification from Boeing. We’ve signed a memorandum of understanding with the United Aerocraft Corporation in Russia. So all of that is really going into the right direction.
+
+We are about 75% complete with the total capital investments over in Russia and we see that the Russian society, as it becomes wealthy, I mean, along the line of what we see pretty much in all of the societies, continues to consume more aluminum. So we believe we are at a very good spot and if you now compare this and just see what the capabilities of the Russian facilities once they will be fully established are and then you compare it to how much money we are making with facilities that are comparable to this in established markets like in Europe and the U.S., you will be seeing that those businesses are earning well above cost of capital and as we continue to believe that the Russian market is going to be growing, we also see no structural reason why this will not turn out to be a positive development and eventually come to a good cost of capital earnings.
+
+John Redstone - Desjardins Securities
+
+Well, put it to you this way then -- given that the Russian demand seems to be growing on track, around double-digit, maybe as much as 11% a year, could we perhaps see positive numbers next year?
+
+Klaus Kleinfeld
+
+Well look, we’re working as hard as we can to get things online and -- I mean, we are there to create value as fast as we can. The management attention is there at a maximum. We will clearly do our utmost best to get it to the best possible level.
+
+Operator
+
+Your next question comes from the line of John [Tamozli]. Please proceed, sir.
+
+John Tamozli - Analyst
+
+John Tamozli, independent research -- could you explain please the $57 million credit item on the income statement in the business restructuring category? Thank you. I’m sorry. I was looking at last year. I’m sorry. Thank you. No question at all.
+
+Operator
+
+Your next question comes from the line of Joe [Thorton]. Please proceed.
+
+Joe Thorton - Analyst
+
+I just have a quick question with respect to smelting and refining and potential expansion -- what do you anticipate the cost now would be to add either brownfield or greenfield refining or smelting capacity?
+
+Klaus Kleinfeld
+
+Well, I would think that the current situation is different from what we’ve seen for quite a while because there is quite a contraction in the availability of construction capabilities, as well as engineering, and I don’t think that we are absolutely certain in what the established market price for those construction is. It very much varies also where you do it and under what circumstances you do it, whether you do it in Iceland or in Greenland or whether you do it in the Amazon in Brazil. And when you look at the recent projects that some of our competitors have completed, you do see that there is quite a bit of variation there. So I really don’t think that we want to put a number out there.
+
+Joe Thorton - Analyst
+
+Because the reason I ask is because when you look at some of the numbers from some of your competitors, it would auger for I guess materially, potentially materially higher for longer aluminum and alumina prices if these guys want to get returns for their investment.
+
+Klaus Kleinfeld
+
+I absolutely agree. I mean, that’s what I meant with -- this whole thing is going to -- this increase is going to, and the demand increases for natural resources, going through the whole value-add chain, that’s what I meant when I said there are strong regional differences.
+
+If you, for instance, go into the Amazon region where we are currently finalizing the build-out of our Juruti mine, it’s literally a competition around getting the caterpillars there at the time after the rainy season and getting the people that drive the caterpillars, getting the engineers that overlook those resources, getting the project managers there because those are the scarce resources and unfortunately it’s not only Alcoa competing against that. And you see some of the hot spots around the world where those type of situations are pretty common these days, and I totally agree with your view that it fundamentally shifts not only the cost but also the return expectations and is a driver in our view of the metal price, as well as the alumina price on a long-term basis.
+
+Operator
+
+(Operator Instructions) Your next question comes from the line of Brian Macarthur. Please proceed, sir.
+
+Brian Macarthur - UBS
+
+Good evening. Two quick questions; just following up on Russia, if I recollect there were some issues about getting equipment into Russia that was going to basically help you going forward. Can you tell me whether everything is in place in Russia that you need going forward?
+
+And secondly, on a totally different issue, you talked about insurance for the explosion of the [Depashi] pipeline but is there going to be any insurance related to Rockdale as well? Thanks.
+
+Klaus Kleinfeld
+
+Well, on Russia, I’m not sure whether I fully understood your question. If the question is how we are doing in terms of bringing the equipment into Russia --
+
+Brian Macarthur - UBS
+
+Yeah, I could be wrong but it seems to me that there was some material -- one of the problems before, there was a delay getting equipment into the plant. It was supposed to be there by mid-year effectively, which obviously isn’t there. Now you should --
+
+Klaus Kleinfeld
+
+Brian, you remember this absolutely correctly. This was one of the things that we have been struggling with for a variety of reasons. The equipment is pretty much there. We are now in the process of bringing the rest of the, as I said, 75% of the capital investment is there. We are pretty much now in the process of getting the 25% installed, so this is not about the issue of bringing equipment into Russia or into the plant. That part is absolutely taken care of. This is now getting it operationally done, pouring the parts of the concrete and getting the machines assembled and then ramping it all up and we are fairly -- I mean, what we’ve seen so far, we are fairly optimistic that this can be done.
+
+And on the second question on Rockdale, there isn’t any insurance on Rockdale.
+
+William F. Christopher
+
+Well, we’re evaluating our opportunities for compensation, Brian. Let’s put it that way right now.
+
+Klaus Kleinfeld
+
+Correct. But there are other means, Brian.
+
+Operator
+
+Your next question comes from the line of Leo Larkin. Please proceed.
+
+Leo Larkin - Analyst
+
+Good afternoon. Could you give us any guidance, even just direction for capital spending in 2009?
+
+Charles D. McLane Jr.
+
+Not yet. As Klaus said earlier on, each business is going through a three-year strategic planning process right now, coming up with targets and the like that we hope to go public with. So we will -- the capital expenditure level and the forecast around that will be made public at the same time.
+
+Leo Larkin - Analyst
+
+Okay. Thank you.
+
+Operator
+
+Your final question comes from the line of John Hill. Please proceed, sir.
+
+John Hill - Citigroup
+
+Thanks for your patience. Just a quick follow-up; Chuck, if we could go through the currency one more time. It was obviously a benefit on the bridge but could you first provide for us what was the non-cash translation gain --
+
+Charles D. McLane Jr.
+
+Hold on just a second, John. The translation impact was a net income impact of $49 million.
+
+John Hill - Citigroup
+
+Okay, and then the economic?
+
+Charles D. McLane Jr.
+
+The economic would have been 17, less than that, so 32.
+
+John Hill - Citigroup
+
+Great. Got it. Thank you very much.
+
+Klaus Kleinfeld
+
+Thank you, John. I guess that closes the Q&A session and we thank you very much for attending this and we are looking forward to sitting down with you in the next weeks. I mean, there’s a lot of investor activities going on and we are all looking forward to that and I hope you’ve got a little bit more color on the great value of the company we present. Thank you very much, talk to you.
+
+Operator
+
+Thank you for your participation in today’s conference. This concludes the presentation. You may now disconnect. Have a great day.

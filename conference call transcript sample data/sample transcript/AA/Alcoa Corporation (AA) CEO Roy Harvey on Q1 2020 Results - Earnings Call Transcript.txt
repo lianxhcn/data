@@ -1,0 +1,716 @@
+Alcoa Corporation (NYSE:AA) Q1 2020 Earnings Conference Call April 22, 2020 5:00 PM ET
+
+Company Participants
+
+James Dwyer - VP, IR
+Roy Harvey - President & CEO
+William Oplinger - EVP & CFO
+
+Conference Call Participants
+
+David Gagliano - BMO
+Curt Woodworth - Credit Suisse
+Timna Tanners - Bank of America
+Carlos De Alba - Morgan Stanley
+Chris Terry - Deutsche Bank
+Alex Hacking - Citi
+Lucas Pipes - B. Riley
+Paretosh Misra - Berenberg
+John Tumazos - Private Investor
+Andrew Cosgrove - Bloomberg
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation First Quarter 2020 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to hand the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, operator, and good day everyone. I'm joined today by Roy Harvey, Alcoa Corporation’s President and Chief Executive Officer and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA.
+
+Finally, as previously announced the earnings release and slide presentation are available on our website.
+
+With that here is Roy.
+
+Roy Harvey
+
+Thank you, Jim. And thanks to everyone for joining our call. We will discuss our first quarter results in a moment. But first I want to pause in memory of Paul O'Neill, the former CEO of Alcoa Inc. He passed away on Saturday here in Pittsburgh. Mr. O'Neill was a visionary leader and mentor including to many in our company today. His legacy lives on at Alcoa. His principle to always focus first on safety and the protection of human life is timeless, especially as we face the current challenges. Our sympathy goes out to all who loved and respected him.
+
+Now this earnings call is going to be different. While we had a solid quarter and we'll take the time to explain our results we are living in unprecedented times. So before we discuss the quarter, I will talk about the impact of COVID-19 and what we're doing as a company in response. The pandemic has affected not only the way we work and interact with our global economy as well. While a lot has changed in the world our Alcoa values serve as unwavering guideposts. Those three values are fundamental to everything especially in times of crisis. We've kept them at the forefront. There is significant uncertainty due to the pandemic and its effect on the world's economy. As such we’ve decided to withdraw our full year projections on global supply and demand balances while we expect aluminum demand to be affected by government lockdowns and temporary closures from some end-use manufacturers the range of scenarios is too broad to forecast projections with a high level of confidence.
+
+We are closely monitoring our markets and we'll talk today about what we're seeing in our three market segments and how these changes impact Alcoa. In addition to our third-party sales of bauxite and alumina we produce a final commodity product aluminum that can be sold into the terminal market.
+
+Thus, shipments can continue unlike some other downstream industries, but given the build of commodity inventories, current dynamics can create longer term supply demand impacts once we see demand return. Just as our values have guided our response efforts, staying on course with our strategic priorities has enabled Alcoa to enter this period from a position of strength. Over these last several years we’ve taken numerous actions to improve our business and we implemented a number of actions earlier this year to continue that momentum.
+
+Today, we'll detail some additional actions to effectively manage our cash in 2020 due to the uncertainty of this pandemic. Taken together these new and existing initiatives including the sale earlier this year of our former Gum Springs plant will total $900 million in cash actions for the year. This will enhance our ability to weather this crisis and continue to improve for the future.
+
+Finally, as you recall it has been our practice to report any serious safety incidents as part of our quarterly earnings announcement. I'm deeply saddened and disappointed to report a workplace fatality, a tragedy unrelated to the current health crisis.
+
+On February 10th a contracted worker died after sustaining injuries at the Poços de Caldas facility in Brazil. This is unacceptable and we are working to make sure this doesn't happen again. While much focus is currently on COVID we are reinforcing to everyone at every location that safety is our most important priority and I would like to thank all of our employees for their efforts through this health crisis.
+
+The everyday actions to protect the safety of their fellow workers and to keep our plants operating makes me proud.
+
+Now I will discuss Alcoa's specific actions related to COVID-19. Our first and most important objective is the health and safety of our global workforce. Across our facilities we have comprehensive measures to minimize the risk of exposure to this virus.
+
+We have implemented response and preparedness plans to protect our people, our business and our communities. We are following protocols that align with the US Centers for Disease Control and Prevention, the World Health Organization and other public health authorities where we operate. Measures to protect our people include adjusting shift patterns, instituting additional hygiene protocols and ensuring the exercise of social distancing measures.
+
+Most of our administrative offices are closed as we've authorized employees to work from home where practical and possible. We also acted quickly to restrict all non-essential business travel. Beginning in late February and currently continuing. Our company's global crisis response team is meeting frequently and is continuously tracking any reported cases and ensuring that those who may be ill or were exposed to the virus observe quarantine protocols.
+
+In addition to the protection of our employees and our operations we are supporting our communities. The Alcoa Foundation has allocated a total of $4 million that can be used in our local communities for humanitarian aid projects. Our locations are working with qualifying non-profits to allocate this funding for the greatest impact.
+
+Now turning to our operations, we are still running our current portfolio of bauxite mines, alumina refineries, energy assets and aluminum manufacturing facilities. We continue to provide essential products and materials that are fundamental for society in the world's economies.
+
+Given the uncertainty of the current climate we're taking prudent steps to manage costs without compromising the safety of our facilities. First, we have instituted restrictions on new hiring, focusing only on what is essential to support the continued safe and effective operation of our facilities. Second, we are reviewing all non-critical maintenance activities that can be safely deferred. And third, we are also stopping or delaying the relining on some of our smelting pots depending on the individual circumstances at specific facilities.
+
+At the ABI smelter in the Becancour, Quebec for example we've slowed the restart which is currently 85% complete to comply with restrictions in the Canadian province. The return to full operation was originally expected to be fully complete in the second quarter of 2020. And the timing for the full completion will be evaluated in the months ahead.
+
+Now let's discuss our three product segments and the impacts caused by the pandemic. Starting with bauxite, throughout the first quarter we saw steady demand outside of China as refineries largely operated without disruption. From a cost standpoint most of our bauxite mining expenses are fixed in nature apart from diesel fuel which we purchased at market rates.
+
+As noted here on Slide 7, our bauxite shipments and pricing in the first quarter were largely unaffected and we expect Alcoa's third-party bauxite shipments and pricing for the second quarter to remain relatively stable.
+
+Turning to alumina, our shipments were largely unchanged in the quarter. We have a strong cost position due to our integrated bauxite position and given the quality of Alcoa's bauxite and Alcoa's refinery design that is specific to each type of bauxite we use less caustic soda on a per ton basis than competitors. We also have an advantage in that when customers are impacted with curtailments we have the ability and commercial presence to shift to spot sales.
+
+For alumina shipments are continuing but with substantial pricing decline in the second quarter. This is a dynamic I’ll discuss on the next slide as well.
+
+In aluminum, Alcoa prices its products using the London Metal Exchange aluminum price, having relevant regional and product premiums for delivering into the markets to which we sell. From a cost perspective energy represents one of the largest input costs approximately 70% of our smelting production is linked to aluminum prices or short term wholesale power markets. Also as prices fall other input costs typically do as well, such as carbon, which we purchase quarterly.
+
+We produce a mix of higher margin value add primary aluminum products as well as lower margin commodity grade products at our smelters and integrated cast houses. In our products we have seen demand impacts. So we have started to shift some of our sales from value add castings to commodity grade products, and we will see this trend continue. In the second quarter we anticipate converting around 20% of previously allocated production from value add product sales to commodity grade ingot sales as some customers request shipment postponements or declare force majeure.
+
+Most of the decrease in our value add product sales is due to weakening demand from customers serving the transportation sector followed by customers in building and construction. This mirrors trends in the broader market as these are the two aluminum end use sectors most likely impacted by the economic impacts of COVID-19, the shift from value-add to commodity grade adversely impacts our revenue. This loss of product premium will be coupled with the substantial decline in aluminum pricing over the first quarter which I will discuss next.
+
+Considering the current uncertainty in the markets I believe that it is appropriate to lay out the facts and trends from the first quarter to explain what we are seeing. Lower prices, inventories that are higher than last year and a growing number of producers underwater financially. Aluminum demand is likely to be impacted significantly by government lockdowns and plant closures starting in China and moving around the world to two of our major markets Europe and North America.
+
+As I noted earlier out of the different aluminum end use sectors this impact is likely to be felt most strongly in the transportation sector where automotive plants have been shut down for varying lengths of time followed by the building and construction sector where the projects have been slowed or delayed in the first quarter.
+
+While aluminum demand is likely to have decreased in the first quarter of 2020 in particular in China primary aluminum smelters continued to produce without significant interruption for most of the quarter. This resulted in an over 2 million ton increase in global inventories largely seen so far in China.
+
+While we normally see some stock building in China in the first quarter due to the Chinese New Year holiday this year's increase in inventories was likely three to four times the size of the Chinese stock build we saw during the first quarter of 2019.
+
+Given these dynamics aluminum and alumina prices decreased over the quarter. With the lower prices have driven significant levels of production into cash negative territory. We estimate that 60% of Chinese smelters and 20% of smelters in the world outside of China were in a cash negative position for the month of March. We also estimate that 40% of Chinese refining production was cash negative for the same period. In turn we have started to see the beginning of a supply response.
+
+In aluminum it has been reported that smelters have cut 1 million tons of annualized capacity in China and 400,000 tons of annualized capacity outside of China between March and April. In alumina Chinese refineries cut 6 million tons of annualized capacity in February with 2.5 million tons remaining in a curtailed status today.
+
+I would call your attention however to the fact that these dynamics and prices can change dramatically. Since March we have seen a decline in alumina prices which creates a larger group of underwater refineries but with corresponding input cost relief and smelting. Most important however is the relationship between supply, demand, inventories and pricing. There is near-term support to the industry given the ability to deliver aluminum into inventory.
+
+However this release can quickly become a long term drag given the new demand fundamentals. Looking forward what is clear is that the ultimate supply demand balances this year will be determined by a few factors. First and foremost how fast the spread of COVID-19 is brought under control.
+
+Second once the pandemic is under control the speed at which economies recover will depend on how governments lift lockdown measures and implement stimulus programs. With a return of economic activity aluminum demand will pick up across its broad set of end use markets which includes transportation, construction, packaging machinery, electrical and consumer durables.
+
+Third, the entire aluminum value chain will respond to the pricing and demand environment as it shifts and changes. This is where we could see further capacity curtailments depending on the strength and demand. It is clear however that the current market is in an oversupply situation. Alcoa will continue to monitor this situation and may need to mix further curtailments if this supply and demand situation persists. Needless to say we will discuss these trends in more detail as the year progresses and as more clarity develops about the ongoing situation.
+
+Next, I wanted to lay out a simple timeline that summarizes the actions we've been taking to further improve our company, including the most recent initiatives associated with our response to current market conditions. We have been consistently focused on acting smartly through the cycle including preparing for downside scenarios, and we have worked tirelessly to strengthen our balance sheet.
+
+We have initiated programs to strengthen our portfolio and company for the long term. I am pleased that we started deploying these actions during better times, they provide a solid foundation and clear pathway during the current challenges.
+
+Let's turn to the information on slide 9. First starting on the left, in October of 2019 we announced key strategic action that included a new operating model that reduced overhead and made us a leaner organization. That is important because it enabled faster decision making. The model is now fully implemented and will provide $60 million in annual savings beginning in the second quarter of this year. At that same time we announced a plan to generate between $500 million and $1 billion through the sale of non-core assets.
+
+In January of this year we completed the sale of our Gum Springs plant in a deal worth $250 million and we will continue to pursue the remainder of this target. Our other strategic action was the launch of a multi-year review of our operating portfolio focused on 4 million metric tons of global refining capacity and 1.5 million metric tons of smelting capacity which is approximately 50% of our aluminum portfolio.
+
+Today we're announcing an action connected to our portfolio review, the curtailment of the remaining capacity at our Intalco smelter in Washington State. While our employees have worked tirelessly to improve the facility, the smelter faces significant cost challenges that have only been exacerbated by these poor market conditions. In the first quarter of 2020 Intalco lost $24 million and aluminum prices have fallen more than 20% down 45% from highs in 2018.
+
+We recognized the impact this decision has on our workforce so we will ensure appropriate support as we work to safely curtail the facility. As I've said before we owe it to our employees and communities to work through this portfolio review as quickly as possible and we will strive to accelerate this process to provide clarity for the future.
+
+Next in the middle of this chart in February we announced two planned programs to further our improvement in 2020. First, driving leaner working capital that should result in savings between $75 million and $100 million by reducing inventory and optimizing contract terms.
+
+Second, we continue to expect approximately $100 million in sustainable and annual productivity improvments. These previously announced actions provided a head start on what we're doing next, implementing comprehensive actions to conserve and manage our cash during the current down cycle that is magnified by the impact of COVID-19.
+
+On the right hand side we have our COVID-19 related actions to date. We are reducing our annual capital expenditures effectively stopping work on most return seeking capital projects for the remainder of the year. We are evaluating various governmental programs in the jurisdictions where we operate and we intend to use provisions in the US Government Cares Act to defer this year's pension contributions. We will also implement other across the board spending cuts which Bill will discuss with more details shortly.
+
+Importantly, all of these initiatives including the one completed asset sale are expected to total $900 million in cash auctions this year. Again, our work to hone our strategy gave us a head start to manage through this downturn and we will move aggressively to strengthen our company so we can thrive in the future. So, with that I'll turn it over to Bill to dig into the details on the first quarter results and our cash management strategies.
+
+Bill, please go ahead.
+
+William Oplinger
+
+Thanks, Roy. We streamlined the financial results section and this first slide provides key financial highlights. Detailed slides are in the appendix. First quarter 2020 revenue was down $55 million sequentially on seasonally lower alumina volumes and by resell activity in aluminum and lower realized aluminum prices.
+
+Net income attributable to Alcoa Corporation was $80 million or $0.43 per share and includes the gain on sale of the Gum Springs treatment facility. Adjusted EBITDA excluding special items was $321 million generating an EBITDA margin of 13.5%. The adjusted net loss was $42 million or $0.23 per share also on an adjusted basis, the operational tax rate was 78.5%.
+
+Let's look closer at factors driving adjusted EBITDA. Adjusted EBITDA excluding special items declined $25 million in the first quarter. The strength of the US dollar combined with favorable energy impacts and lower raw material costs more than offset lower alumina and metal prices. First quarter EBITDA includes a $36 million benefit from revaluation of receivables and payables due to substantial changes in the quarter and currency rates.
+
+In the operating segments bauxite and aluminum EBITDA’s declined sequentially but were more than offset by improved alumina earnings. Lower bauxite prices on intercompany sales impacted bauxite segment earnings, but resulted in lower bauxite costs in the alumina segment.
+
+The stronger US dollar created benefits mostly in the alumina segment, which also saw lower caustic and energy costs. In the aluminum segment lower realized metal prices were partially offset by lower alumina and carbon costs. Price mix was unfavorable sequentially on the mix of smelter grade alumina contracts and lower chemical grade alumina pricing as well as lower external bauxite price.
+
+Volume was down in all segments on seasonal factors but driven largely by scheduled maintenance activities in alumina and bauxite. Production costs were unfavorable in aluminum primarily at work rolling. In other transformation costs were higher sequentially due to no longer receiving certain energy revenues and the addition of Point Comfort closure due to no longer receiving energy revenue and the addition of point comfort closure costs. Intersegment eliminations declined $48 million sequentially as more stable alumina prices meant no further profit was released from inventory.
+
+Moving to the key financial metrics and cash. Difficult for the first quarter are our days working capital increased sequentially up four days to 31 days but improved four days year-over-year and was an encouraging start to our working capital reduction efforts. Capital spending was $91 million up $22 million year-over-year primarily due to a mine move occurring in Australia. These factors combined with lower EBITDA to generate negative free cash flow less NCI distributions of $212 million.
+
+Our key balance sheet metrics, proportional adjusted net debt was flat this quarter and appropriately does not reflect the remeasurement of pension and OPEB assets and liabilities that occurs at year end. We ended the first quarter with cash of $829 million down $50 million sequentially.
+
+A quick review of our major cash sources and uses for the first quarter of 2020. Our total cash sources were $520 million consisting of $321 million in adjusted EBITDA and a $199 million in net proceeds from asset sales, our largest outsourced cash were $150 million working capital use, $91 million of capital expenditures, $70 million of tax payments, including $32 million in payments of prior year income tax, net distributions to our joint venture minority interest partner of $31 million as well it's $75 million of pension, and post-employment benefits funding made in addition to $15 million related expenses with an adjusted EBITDA.
+
+Outflows also include approximately $37 million in restructuring payments primarily for implementing the new operating model in Spanish smelter divestitures.
+
+Now let's take a look at our pension and OPEB net liability which has impacts on the balance sheet and cash flow. Based on many questions from you we have summarized the balance sheet and cash flow impacts from our pension plans, pension and other post-retirement benefits have important balance sheet and cash funding impacts. On the balance sheet there is three key points to consider.
+
+The net pension liability is completely re-measured at year end, not every quarter. Factoring in all payments funding, asset returns, demographic changes and discounted using year-end rates. The OPEB liability is similarly remeasured at year end using a similar year end discount rate.
+
+The pension funds are invested across numerous asset classes including fixed income, returns were negative approximately 7% in the first quarter. The pension OPEB discount rate approximate a 10 year to 15 year investment grade corporate bond even while Treasury bond rates fell in the first quarter, discount rate rose roughly 20 basis points from year end to the end of the first quarter.
+
+In sum our asset returns and discount rates are variable and subject to change. If we assume that we received our expected return on assets for the last three quarters of the year and we assume that no change in the discount rate occurs from March 31 and funding and other normal adjustments are in line with our outlook we would anticipate our year end 2020 pension OPEB not net liability to be approximately the same as the balance at year end 2019.
+
+There are several factors that dictate the amount of pension and OPEB funding required every year and especially in 2020. Funding requirements for 2020 are set and based on smooth asset performance and 25 year average segment rates mandated by the IRS. This year the CARES COVID-19 stimulus package allows deferment of a $220 million of pension payments until January 1, 2021, and we have elected that option, thus funding for pension and OPEB from cash flows in 2020 is estimated to be a $108 -- $180 million down from $400 million.
+
+Next year we could use our $382 million pension pre-funding balance instead of funding the pension entirely with operating cash flows. Let's now look at our debt and cash position. First we have a very solid credit position with no significant debt maturities until 2024. At quarter end we had cash of $829 million and no borrowing against our two credit facilities.
+
+This month we amended our revolver to temporarily increase borrowing base availability for the next four quarters. That can't -- while in February, we disclosed working capital and production cost reduction programs targeting up to $200 million in 2020. And we just mentioned the CARES deferment until 2021 of $220 million in pension funding.
+
+We are taking several more actions to improve our cash position; they include reducing capital expenditures of $100 million, deferring environmental and ARO spending of $25 million and a number of other cash conservation measures that are expected to total $35 million.
+
+Let's see how it all adds up, our cash actions announced so far this year add up to an approximately $900 million benefit in 2020, some cash impacts are ongoing and it have an annual run rate some are onetime savings and some are deferrals until a later year, but all of them are designed to improve our cash position in 2020.
+
+Of the $900 million of cash benefits related to our three key strategic actions totaled approximately $300 million and include overhead reductions, our Gum Springs asset sale and the Intalco curtailment. The 2020 programs for working capital and production cost reductions target another $175 million to $200 million. Another approximately $400 million comes from our newly announced COVID-19 response.
+
+While $900 million is impressive start, we're not done. For example, while Gum Springs is our first completed non-core asset sale we continue to pursue the remainder of our $500 million to $1 billion target. We realize that these exceptional times require continued efforts to maximize all of our cash programs.
+
+Finally, let's review our full year outlook for 2020. Our full year 2020 outlook although being subject to change based upon the evolving COVID-19 situation is our best current estimate and reflects the actions described earlier. For example, the curtailment of Intalco is expected to reduce our full year aluminum shipments. So, we are adjusting that full year outlook approximately 100,000 tons to arrange a 2.9 million to 3.0 million tons.
+
+Earnings related impacts reflect lower spending. We expect transformation EBITDA impact to improve $10 million to approximately $75 million. We also expect other corporate EBITDA impacts to improve $10 million to approximately $90 million. We expect interest expense to increase slightly to a range of $125 million to $130 million as lower capital spending will mean lower interest capitalized as part of major projects.
+
+Finally, until further notice we’re not providing an outlook for the full year operational tax rate. With the current situation so uncertain we cannot predict with sufficient confidence the 2020 taxable earnings across our businesses. The largest changes in our outlook can be seen in our cash flow impacts.
+
+Minimum required pension and OPEB funding is expected to decrease from $400 million to $180 million, a result of the Care pension funding deferral until 2021. We're cutting our estimated capital expenditures of $100 million effectively stopping return seeking capital spending for the rest of the year and reducing sustaining capital spending.
+
+We are also reducing environmental and ARO spend of $25 million to a targeted $125 million. In the appendix we also listed additional consideration expected for the second quarter. They include, in the bauxite segment adjusted EBITDA it's expected to be $10 million lower primarily due to non-recurrence of an annual sales contracts true up.
+
+In the alumina segment we are expecting lower raw material costs to yield $10 million sequential benefit. In the aluminum segment lower alumina costs are estimated, it's produced sequential benefit of $15 million and benefits from lower smelter power costs will be more than offset by lower Brazil hydro sale prices while lower value-add pricing and volumes will be partially offset by production cost improvements yielding an expected $10 million sequential decline.
+
+Due to an unusually large change in quarter end exchange rates first quarter 2020 adjusted EBITDA included a balance sheet revaluation benefit of $36 million and a $41 million sequential benefit compared to the fourth quarter of 2019. Currency changes related to balance sheet revaluations are not incorporated into the current key sensitivities provided for EBITDA.
+
+So now let me turn it back to Roy.
+
+Roy Harvey
+
+In closing as we move forward through this period of instability and uncertainty we will continue to execute against our company's three strategic priorities. First, we remain focused on being a low cost produces which means reducing complexity to better compete through all parts of the cycle in our commodity markets.
+
+Second we intend to improve our margins and invest drive returns when markets offer us this opportunity. And finally we are working to advance sustainably which includes actions toward a strengthened balance sheet, a cycle proof portfolio, and an enhanced reputation for environmental and social excellence.
+
+There are three major points I want to leave you with today. Most importantly we are focusing on meeting the fundamentals of this crisis. That means continued vigilance and mitigating risks for our people and operations. We are prioritizing in keeping our people safe and healthy, keeping our operations running, and helping our communities navigate this crisis.
+
+Next our early action helped us prepare for the economic challenges presented by the COVID- 19 pandemic. With a stronger balance sheet, we are well positioned to act smartly and to continue executing on our strategic priorities and the actions that we announced prior to this crisis.
+
+Finally, we are adapting to this unprecedented situation quickly, having a clear direction ensures that our short term reactions will help accelerate our long term direction to enhance the competitiveness and profitability of Alcoa. And with $900 million of 2020 cash improvements already underway it gives us a solid foundation to continue to build our future.
+
+And with that, Bill and I are ready to take your questions.
+
+Question-and-Answer Session
+
+Operator
+
+We will now begin the question-and-answer session. [Operator Instructions] And our first question will come from David Gagliano of BMO Capital Markets. Please go ahead.
+
+David Gagliano
+
+Okay, great and thanks for taking my questions. My first question is really just a bit of a clarification question, on the $36 million that was included in the $321 million adjusted EBITDA, where is that in terms of the segment results? Is it most of that in the alumina segment or if not can you -- or can you break that out by segment too? That’s my first question.
+
+William Oplinger
+
+Hey, Dave. Yeah it’s mostly in the alumina segment. So let me give you a breakdown, $2 million in bauxite, $28 million in alumina and $7 million in aluminum and I know that it doesn’t round to $36 million but it's just around it.
+
+David Gagliano
+
+Okay, All right, great, thanks and then just a bigger picture question. I mean obviously if one -- plays with the sensitivities in plugs and spot even after giving all the -- the benefits for the operating model, the Intalco shut down, productivity improvements or costs, it's still a very low run rate EBITDA at least on the numbers that were coming up with on an annual basis I'm guessing a lot of that -- the aluminum segments. So my question is what other actions is Alcoa considering at the moment. If -- given the backdrop with the big drop in all three of the main drivers, premiums included.
+
+Roy Harvey
+
+Yeah, let me hit that one first Dave and then probably it’s worthwhile for Bill to chime in as well. I mean the fact is that we’re trying to look at this in a very staged methodology. We’re trying to read a bit what we’re interpreting from the markets and then take actions that correspond to what we see both in the immediate term and further out.
+
+At this point and you've seen the list of things that we've already put into place I'm assuming -- I'm assuming that you're looking for what else could be done. You know we've been trying to focus on doing what does not have long term or create long term issues or even medium term issues.
+
+So good example are the mine rules, we're continuing with the mine moves because those have immediate impact if you choose not to do them just on grades and then also on haul distances. So right now because we're in the cash position that we're in, and as we project that forward because of the liquidity, we feel that we do not need to take actions that cut deeper into some of those sort of emergency measures that we could take.
+
+Now the fact is and depending on when we start to see demand return, we're starting to see more of a supply response that starts to bring balance back in and then with the resulting change in pricing. We have a series of actions that we can continue to take, and those actions run the gamut from additional curtailments looking at each plant on a specific operation by operation basis, it also steps into further capital reductions defer -- choosing to defer more maintenance et cetera.
+
+So there is you know realistically there is a pretty large set of actions that we have chosen, specifically chosen not to move forward with and thus as conditions change and as that pricing environment changes we'll be ready to start stepping into those case as that is needed. I don't know Bill if you want to add to that.
+
+William Oplinger
+
+I don't know there's a whole lot to add Roy, other than the fact that, Dave you've seen us over the course of about three and a half years now and we take action and we've laid out, and we started back in October and where we announced the strategic review, we've taken action on the strategic review between the Point Comfort closure and now the Intalco curtailment.
+
+You know we're stripping out the overhead and then today we announced a series of COVID actions to enhance liquidity. And you know we’ll continue to do what needs to be done to improve the business. And as Roy said, we're doing it with an eye towards the long term, but we clearly understand the situation in the near-term. And it's just -- it’s the management team that doesn't sit back and I think we've seen that over the last three and a half years.
+
+Roy Harvey
+
+No, no…
+
+David Gagliano
+
+Okay.
+
+Roy Harvey
+
+I'm chime back in with one more comment Dave, if you don't mind. You know I think as we sat here a year ago, and we're really getting deep into some of those strategic reviews and thinking through where does Alcoa need to be for the long-term. And obviously and I'll be the first to tell you we had no expectation that there would be a global pandemic that would then create the knock-on market impacts.
+
+However when we looked forward we did really think about what is necessary in order to make our portfolio and stable of operations be as cycle proof as possible. And so I would argue that the fact that we started moving in October and that we have been taking we have essentially a head start and have been taking phased actions since then.
+
+I am really, really pleased that we did that at that point because it helps us react more quickly and gives us more space and more liquidity so that we can make our actions thoughtful and also make them as powerful and impactful as they need to be. I think since separation I remember one of the things I had been consistently saying is that we as a company we want to do smart at the uptimes and we also want to do smart at the downtimes as well.
+
+And so that is exactly what we intend to do, and like Bill said I’m not thinking but he could say it better. We are a team that chooses to take actions on our own terms, so that we can make this company better.
+
+David Gagliano
+
+I appreciate that. Thanks for those comments. Just if I could just jump in with one more that the follow up there, if you know we've got an inventory problem, we've got a demand problem, and if that continues to bleed into a lower for longer pricing problem like we saw you know for years a while back you know can you -- can you give us a -- just a sort of a framework about how much capacity on the smelting side Alcoa is willing to take out of the market, either on you know on a percentage or production basis.
+
+Well, obviously without going smelter by smelter but just can you give us a sense of things the way they are on pricing say for the next six months what should we expect in terms of the next moves on smelting capacity cuts.
+
+Roy Harvey
+
+Yeah. It’s hard to quantify -- hard to quantify that Dave, and specifically because it’s you know it is very dynamic, and as you can imagine pricing changes depending on what's going on with some of our -- some of our competitors and around the aluminum industry.
+
+The fact is that we announced a million and a half tons of review. And so that is -- that is the list of places where we are -- where we need to be taking action and those actions can result in improvements to the bottom line. And as you can imagine there is a bunch of changes going on in some of the input costs that can mean new power contracts but it can also mean curtailment or shutdown.
+
+So we take that very, very seriously, and as you’ve seen we've taken a couple of steps already Intalco being the one that has the impact on an actual operated tons. And Bill go ahead, if I interrupted you.
+
+William Oplinger
+
+No. I think that’s exactly what I was going to say, I mean you've got to go back to the 1.5 million metric tons, out of that 1.5 million I believe around 900,000 is operating today we announced Intalco. And you know we continue to move forward on the strategic review and the current market conditions make that strategic review even more important, and you know really push us to make decisions quicker.
+
+David Gagliano
+
+Okay. That's helpful. Thanks very much.
+
+Operator
+
+Our next question comes from Curt Woodworth of Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yeah. Thanks. Good evening.
+
+Roy Harvey
+
+Hi.
+
+Curt Woodworth
+
+Hey guys. I'm hanging in there. From a modeling perspective it's pretty challenging at least on the smelting side right now because you've got you know a lot of delays in your cost structure and from I think about 70% of your power costs are only linked you know, alumina flows through on a month lag, and then you know right now obviously you're going to see much better shape premium if you go more and get away from cast house products.
+
+So you know I guess you know the question and then you have Intalco on top of that. So could you estimate or give us a rough sense for if you were to assume kind of spot assumptions for these things kind of what the profitability of the smelter business would look like today?
+
+Roy Harvey
+
+No. Kurt, we don't provide that. I think the best thing that you can do is what you alluded to and that is you know take a look at both the sensitivity page and the cost structure page, and the cost structure will help you model through -- how the cost flow through for the smelting system.
+
+So you know and then on top of that we've given you an indication of how much profitability Intalco will contribute this year by the fact of having it I should say on the run rate basis by having it curtailed. So you can factor that into the model and like you said unfortunately premiums and value-adds have come down so that -- that's a negative. But we don't provide necessarily a breakeven per se or a breakout specifically around the aluminum business.
+
+Curt Woodworth
+
+Okay. And then with respect to the pension and OPEB liability I mean that the fact that there could be flat this year despite what we're seeing is pretty remarkable and I realize that part of that is the benefit of the CARES Act. But you know since quarter end S&P is up I think roughly 12% so you know it seems like they're in a pretty healthy position relatively speaking from what I think a lot of us have thought.
+
+Could you look to do anything further with your pension funds amortizations and as you get more proceeds from asset sales are there other things you're looking at with regards to derisking your pension exposure?
+
+Roy Harvey
+
+Yes. So and I'm glad to make the point. When -- and just so I clarified my comments because I think today as you pointed out there -- it's a pretty interesting perspective. So when we look at the March end discount rate and when we look at the March end asset return rate and we all know that the first quarter on asset returns weren't great and I believe our asset returns were about minus 7% and then we factor in that we think we can make our expected return on assets for the last nine months of the year.
+
+So we need to earn a 9 -- I’m sorry a 6% of -- on the rest of the year assets which if you consider how low they were at the end of March is probably viable, and we bake all that in and assume the discount rates don't change the pension and OPEB liability would be pretty close to flat year-over-year.
+
+Now clearly in this very volatile market returns are changing daily, discount rates are changing by the minute. And so you know that's just a moment in time projection, but it gives you an indication of where our pension is. So could we do more? Yes, we have the opportunity to do more annuitizations, we consider it from time to time.
+
+And you know it's -- as you know we've got a two year to four year plan to get our adjusted net debt down to $2 billion to $2.5 billion and the way we're most likely going to do that is through the pension. And so, I guess to summarize my comments the pension is a focus area for our company, it has been since the first day, we originated and we've continued to work it down and will be continued to work in going forward because it’s part of the capital allocation model that we've laid out pretty clearly.
+
+Curt Woodworth
+
+Okay. And then just one follow up. You said the pre-funding balance, I think was $380 million close to $220 from CARES act, I was -- of the understanding that you could -- you had a $500 million in pre-funding from the debt you get in 2018 so is some of that pre-funding is effectively being completed by the CARES number or if you just kind of update from that? Thank you very much.
+
+Roy Harvey
+
+Yeah, so a little bit of -- a little bit of the pre-funding was used during the course of the year to keep the pension at the level that they're at. I just want to make it clear the Cares Act allows us to defer any contributions CARES Act allows us to defer any contributions into the US pensions without using the pre-funding balance. So we will come into the year with -- not having made the pension contributions this year we'll have to catch them up next year but we will have our full $382 million pre-funding balance available to us.
+
+So as you look at next year if we, if we do choose to push out all of our pension contributions the pension contributions next year are high and then we can use that pre-funding balance to offset that -- to offset much of the pension contributions next year.
+
+Curt Woodworth
+
+Okay, thank you very much I appreciate that.
+
+Operator
+
+Our next question comes from Timna Tanners of Bank of America. Please go ahead.
+
+Timna Tanners
+
+Hey, good evening and hope everyone is healthy and all right. I wanted to ask two questions. The first one is -- heading into this call we were struck, our whole metals and mining team was struck with how aluminum was the one commodity maybe or the commodity with the least supply response so you've taken a dent to that with the Intalco difficult decision, but I just wanted to first ask if you could explain or remind us when you curtail that permanent or is that temporary and how to think about that. And then in the same vein do you expect other actions by other participants because that has been kind of striking how little supply response we've seen relative to other commodities?
+
+Roy Harvey
+
+Yeah and thanks for the question Timna. I'll try and answer the best that I can so Intalco is, a decision to temporarily curtail so it doesn't mean or we don't mean to project forward and say whether it will return to operations or won't return to operations. What I will say is, is that when we make a curtailment decision we do it not just with the current pricing in mind but also looking forward a number of years and so it is -- it's not necessarily just meant to represent the world as we see it right this very second, and we do look forward at least 12 months to 18 months.
+
+And so when we then transition it over to a broader what do we -- what do we think is going to happen across the market, and I'll be the first one to tell you that we certainly can't project or indicate where our competitors or what they're going to do.
+
+When we look at the facts as they sit today, and you see it with the 2.5 million tons of inventory that was put into place over the -- over the course of Q1, the fact is, is that we are -- that we are in an oversupply situation. And you are seeing the price response which I realize is very complex and not just supply demand but that is obviously the most important long term aspect of it. It means that we are continuing to -- we as an industry are producing more then as required by our customers. And so that would argue with basic economic theory that pricing is going to incentivize that we see curtailments.
+
+And when we look around the world and as you can imagine this is -- this moves pretty quickly because as we saw alumina prices come down over the last couple of weeks, it changes the dynamics inside of smelting. But as you look around at what's happening with pricing on both China and the rest of the world, the fact is there is a pretty significant chunk of underwater capacity.
+
+And so you see -- as you saw that in the presentation I mentioned that it was, it had changed over the course of these two weeks, but the fact is the longer that we remain in oversupply condition the longer we build up inventories, the longer that the pricing issues could continue.
+
+Now we do expect and hope that demand will come roaring back as some of the social distancing measures come off, some and all of those social distancing measures cannot or if we find a treatment or in the end if we find a vaccination, so I think there will be some demote, but certainly as we look at it today, there is a -- there is an incentive because pricing and because of this oversupply condition that will create a pretty serious issue if we don't see that supply response.
+
+Timna Tanners
+
+That’s it. Thank you. And the other question I wanted to ask and hopefully just get a little more clarification on is the comments you made about the Castro products premium and to get a little more color about how long that could last. How that transition moves? It is just a function of some of your higher end applications for aluminum or not, demanding as much like auto and aerospace for example and therefore you are making more commodity grade because there is demand there or and like that just lasts as long as that condition lasts, or is there anything I’m missing.
+
+Roy Harvey
+
+So, so on that one you know I -- and let me hit it a sort of qualitatively and then Bill can jump in from a quantitative perspective. You have to divide it into two different pieces. There is the premium impasse that we were seeing and this is particularly on a cast product side. We were seeing already some pressure on premiums coming in to 2020.
+
+COVID has exacerbated that to a certain extent because of you have -- we’ve seen a pretty significant demand production but you were already seeing those pressures because you because of the short in North America because that Midwest pre-news had come up even when you consider the fact that a lot of imported metal have to pay the duty, you saw a lot of metal come into North America specifically and that created a long P1020 position and a long product position which started to then have an impact on premiums and in the end on -- on both Midwest and then product premiums. And something simple -- similar in Europe where you're seeing that you saw more production come online than you had demand.
+
+So that is what essentially is driving some of -- some of the product premiums that you're seeing. Some of that will cure itself and if you see real curtailments on and you see those cast houses come down well with the smelters as well but it also -- it also means that that could last a bit longer than just when there are specific COVID impacts.
+
+And I'd also remind you that in Europe you typically are negotiating on a quarterly basis and in the US you’re typically negotiating on the annual basis. However there is a lot of distortions to that this year because you have some decisions being made around push outs or forced [indiscernible] etcetera.
+
+William Oplinger
+
+And just if -- if I can add just really simply in the -- I mean you see it all over the place. Automotive manufacturers are taking curtailments just not everywhere. Our downstream customers took the better part of March and April off or shut down so what we're seeing is things like extruders not need bill it, foundry alloys you know with the wheel manufacturers not needing foundry alloys.
+
+So instead of making foundry alloys instead of making billet we're making commodity grade aluminum and we sell it to either traders or ultimately if we -- if we needed to we can sell it to the LME but what that means is you're not earning that value add premium and I think for that I think Roy had talked about a 20% decline second quarter or first quarter so that's the impact of that.
+
+Timna Tanners
+
+Okay great. Thanks a lot.
+
+Operator
+
+Our next question comes from Carlos De Alba of Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yeah. Hello. Good afternoon, everyone. So first question if maybe Bill can you clarify on the slide 16 can you clarify on slide 16 the comments about leaner working capital that one-time $75 million to $100 million and presumably this is for this year. We saw in the first quarter working capital change what’s driving to cash flow generation so can you maybe give a little more color as to how you see these playing out throughout the year. That will be my first question.
+
+William Oplinger
+
+Sure. It's really two things going on this. They are just naturally with lower alumina and aluminum prices and raw material prices we should see our inventory values go down. So essentially what we're suggesting to you here is that if you look at the hard dollar days working capital at the end is 2019 which I believe is around $700 million, we're telling you hey, we should be -- we should be able to see $75 million to $100 million reduction off of that working capital level that we ended 2019 which results in a cash generation for the year.
+
+Now we say that's one-time because we don't know what we're going to do in 2021 but that ultimately ends up as a generation so as I said there's two things going on, one is just naturally working capital will come down with lower prices assuming that lower prices stay where they're at the rest of this year. But on top of that the new organization structure that we put in place is looking at our supply chain from end-to-end.
+
+So we are now -- now that we've eliminated the business units we are looking at all the raw material, all the work in progress inventory, all the finished goods inventory, all the receivables, all the payables from an end-to-end perspective with one organization and they've been tasked with driving out working capital so the combination of those two naturally lower prices and the task that they're doing $200 million.
+
+As he said we were up in the first quarter, we’re always up in the first quarter. It's a replenishment of the pipeline because we tend to see everything get drawn down in the fourth quarter, but we're singling to you that we’ll recover from that first quarter and get to a lower level in the fourth quarter again assuming the prices -- they stay where they're at today.
+
+Carlos De Alba
+
+Great. And thank you. And the second question is other than the reduction in the -- net worth reduction in the cash flow generation and performance of the business. Is there any room for our core to reduce the contributions poor to non-controlling interest given what is going on in the market and in the economy?
+
+Roy Harvey
+
+Yeah. So and I'll address that one Roy, the non-controlling interest, Carlos it's very simple, it's 40% of the AWAC joint venture gets paid out to our partners. And so the cash flow implications of that is essentially the netting of any investments that we're doing on capital expenditures and the earnings that we make in that section. So there's really no -- I should say flexibility on our ability to pay NCI out to our partners.
+
+There's a defined you know a cash management system. We make eight dividend payments a year -- and when I say we -- AWAC makes eight dividend payments a year to Alcoa and to a Alumina Limited so there’s a very limited flexibility there, which you know from our perspective is fine. I mean that’s the way the joint venture was set up.
+
+Carlos De Alba
+
+Right okay. And if I may squeeze one more. Roy any comments that you can make on ongoing conversations with any given specific on the asset sale front, given what is happening right now? Are you even able to engage potential buyers what is happening right now, and you’re even able to engage potential buyers, or all of these has been pushed out to when we return to some sort of normality.
+
+William Oplinger
+
+Roy, you want me to take…
+
+Roy Harvey
+
+Yeah.
+
+William Oplinger
+
+Since that's my area.
+
+Roy Harvey
+
+Yeah. Go ahead, Bill.
+
+William Oplinger
+
+Yeah. So Carlos, it’s a great question. We got Gum Springs done, right. And thankfully we got Gum Springs pre COVID, we got a great value, just to put it in perspective, Gum Springs you know has valued at $250 million. We got cash of $200 million. There's a contingency of another $50 million that will come over time, and recall that's an entity that had negative EBITDA, all right.
+
+So it had a minus 12 EBITDA. All right. So we'll take a victory lap real quick on Gum Springs. But as we look forward, yes, the COVID-19 has made things go slower, right. And quite honestly with the volatility in the market they've made the asset sales a little bit more difficult. That doesn't mean we've let up at all, so we're continuing to push forward.
+
+But I would admit to you that things are going slower because you know I mean you well know if you were to take an asset to market today you can't even really have meetings, you can't have you know can't have reviews of the ads. So things have gone a little bit slower.
+
+Roy Harvey
+
+Thanks, Carlos.
+
+Operator
+
+Our next question comes from Chris Terry of Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Hi, Roy and Bill. A couple of questions for me hopefully short and sharp, just wanted to start on slide 15, if I may. The $100 that you highlight in reduced production cost year-on-year, is that your forecast of what will be the benefit from low overall materials being caustic carbon diesel et cetera, or is that something you've achieved regardless of that and there’s more -- up there’s more potential cost cuts beyond that if raw materials decline from here. Thanks.
+
+William Oplinger
+
+Yeah. I'll jump in that the $100 million is not raw materials Chris. The $100 million is when I say not raw materials it’s not the price of raw materials if we use less cost then. If we are smarter about carbon consumption that counts towards the $100 million but this is real blocking and tackling on taking cost out, its productivity improvements.
+
+It's looking at MRO and services spend and you should see this in two places on the bridge right, you'll see it in the production cost section on the bridge so when you see at the end of the year how we did against this you'll see the production cost and you may see some of this benefit in volume. So for instance if we're able to make more tons with the same cost structure, with the same amount of people that we're getting productivity out of that.
+
+So you'll get a little bit of a benefit there but it has nothing to do with lower raw material cost. At this point we would be projecting lower raw material cost on a year-over-year basis to be a couple of hundred million dollars. So we are really taking up some of the benefits from the lower raw material cost versus what we saw last year. So it’s around $200 million in lower raw material costs on a year-over-year basis.
+
+Chris Terry
+
+Okay.
+
+Roy Harvey
+
+And Chris I’d like to jump in just to complement Bill's comments you know I think we had constructed this program prior to COVID and of course we had our pricing issues that don't seem like pricing issues anymore that were happening before COVID ever hit us.
+
+One of the things we're trying to do with the new operating model is be very clear about what is in fact in the control of our operations when our plant managers and department managers et cetera and so this target is very much looking towards driving improvements that can be sustainable and that are not just base of the current maintenance et cetera.
+
+And so it’s exactly as Bill said, these -- these are meant to be stocked at our absolutely in our control, and that drives productivity which is more production or lower cost than our plant, and so I can’t stress it enough, it’s we see our job as commodity producer. We continue to drive our way down the cost curve and we will -- we will go after every lever that we can and we are trying to unleash all of the intelligence we have in our plants and the great work forces that we have to capture those for the long term.
+
+Chris Terry
+
+Okay. Thanks. That’s clear. And then slide 16 quickly, just in terms of the 225 focusing on the run rate bucket, how -- how can you split that up into what’s inside AWAC JV and what’s not.
+
+Roy Harvey
+
+No. I don't think we're prepared to Chris at this point.
+
+Chris Terry
+
+Okay. And then the $100 million of CapEx, is it some of that deferred or is that you decided you can call it saved that $100 million from your previous guidance.
+
+William Oplinger
+
+Yeah, maybe some of that will be deferred. We'll assess that going into next year, but I mean it's a good point to make. We're being pretty aggressive around lowering capital spending and as Roy said you know we're putting on hold the return seeking projects given the market situation that we're in and we're really aggressively going after the sustaining projects in order to drive cash this year.
+
+Chris Terry
+
+Okay. And then the last one for me, the -- just to square a few different things you've said, so you're obviously pulled the total market outlook for the company but you are retaining your own volume guidance and you haven't -- you haven't pulled that in itself is a methodology that just the path that you see visibility on because I’m just surprised that people wanted that for the other given your acknowledgement that the markets over supplied and further adjustments has to be made do you just wait until you’ve made those if you made those and then make the changes after that.
+
+Roy Harvey
+
+Yeah, I think that’s how you should look at it. Chris, I mean the fact is, is that its -- if market conditions drive us to another curtailment we will then modify whichever of the -- whichever the shipments forecasts that we've given here. So this is meant to look at our business as sort of a growing concern with the portfolio that we have, it incorporates Intalca shutting down in the third quarter into those numbers and if we move to another, if we move to another curtailment we’ll incorporate it at that point.
+
+Chris Terry
+
+Okay that’s it from me guys, thank you.
+
+Roy Harvey
+
+Thank you. Chris.
+
+Operator
+
+Our next question comes from Alex Hacking of Citi. Please go ahead.
+
+Alex Hacking
+
+Yeah, thanks. Thanks Roy and Bill and good evening. I guess you mentioned in the slides that you're going to convert about 20% of your value added sales to Inga [ph]. Is that a rough proxy for where you see US and European ally demand right now? Or that value added sales is into certain segments that are being hit either worse or better then why you think the overall market is.
+
+So I guess anything that you have where you could kind of quantify where you see the different segments would be helpful and I think also you mentioned earlier in your comments that construction demand was, it was quite weak. Maybe you could follow-up on that because -- some other players in the construction supply chain or say in that construction markets have remained relatively stronger. Thanks.
+
+Roy Harvey
+
+Yeah. So, Alex let me take a swing at those two. So, from the 20% in value added product sales, I think that is very much meant to be a book into second quarter, and it's specifically looking at second quarter because we typically are bringing in our what we have our actual sales orders come in somewhere between one, two or three months before they actually materialize.
+
+And so at this point you know finding our sale, so two thirds of the way through the first month of the quarter, we have a pretty good insight into what's going to happen over the course of Q2. And so I would say that it gives us visibility there.
+
+Now when we start projecting forward you know depending on where that particular business is located and how it is deemed, or how it chooses to start coming back with -- as we start to get past some of the worst times around COVID-19, we would expect that to start to -- to start to return.
+
+However, we just don't feel that we have the confidence to -- we don’t have the confidence to predict when that will be and exactly how quickly that recovery will be at this particular time. So look at that very much as a Q2 indicator and then we will give you more information as we get into -- as we get down the -- down the path.
+
+On your question on construction you know I’d argue it is a very -- it's a very similar type of analysis. And we really were looking at what -- what are we seeing right now in our building and construction segments. And while I think that there is -- there is a push to get a lot of that we started or to get back to more normal times, it does connect over with what we're seeing actually in our customer order book.
+
+And so from a Q2 perspective we are seeing that there is some weakness inside construction. How much of that is using is using aluminum and so it’s -- that’s that sort of what we find right now although we do -- we do barrels of recovery.
+
+Alex Hacking
+
+Okay, thanks. And I guess one quick housekeeping question. I think last quarter you guided that bauxite EBITDA was going to be about $35 million lower. You did quite a bit better than that was that just FX or there were other factors there as well? Thanks.
+
+Roy Harvey
+
+Combination of FX and there was a contractor that we alluded to where we sell bauxite during the course of the prior year and then at the end of the year you true up for the actual tons that were mined because we're getting a royalty payment from one of our competitors and that royalty payment ended up being that true up ended up being about $7 million and so we didn't know that when we gave the guidance. So it's a combination of the strong USD and the true up payment.
+
+Alex Hacking
+
+Thank you.
+
+Operator
+
+Our next question comes from Lucas Pipes of B. Riley. Please go ahead.
+
+Lucas Pipes
+
+Hey. Good evening, everyone. I hope everybody is doing all right. I have another question on the customer side in terms of aerospace roughly what percent of revenues that could have be including value added and everything and then just to follow kind of up on some of the earlier question what sectors are stickier on the demand side maybe packaging for example what percent of revenue is there. Thank you.
+
+Roy Harvey
+
+Yeah. Let me -- let me answer the first question on aerospace maybe a little bit different than you are asking. Aerospace is a very small percentage in looking at North America as an example of the larger world, it’s a -- it’s sort of a 1% to 2% of the total aluminum demand. So, I think there is a value that fits inside of there for the downstream producers because these are pretty specialized alloys. But from an overall demand perspective of aluminum, it really isn’t going to have, it isn’t going to have a large impact. So, it’s not one of the key drivers and what sectors are stickier?
+
+You know I think we're seeing the other sectors outside of building the construction and automotive being a lot stickier than what we're seeing inside of -- inside of those two particularly. So can business tends to be able to cope with this and in fact you're seeing an increase in demand year-on-year. And then when you look at -- when you look at how things are consumer durables, electrical, overhead wires, et cetera, et cetera, I think the fact is that you're finding things to be relatively sticky.
+
+The next question obviously is, is how quickly do we see recovery and do you actually see some of that catch back up as some of those supply and production hiccups occur. And not when I don't think we put an opinion out yet. So we'll have to see how that recovery continues.
+
+Lucas Pipes
+
+And then in terms of the percentage of revenue of the stickier parts of your customers roughly what’s the ballpark?
+
+Roy Harvey
+
+I have to admit which is off top of my head I don't recall what percent of revenue packaging is, we can revert back to you.
+
+Lucas Pipes
+
+Yes. That would be great. And then just sort of the second question in terms of the international trade flows, are you seeing any changes there depreciated thoughts, it’s something that’s come up occasionally, would -- would be helpful to hear your thoughts on that. Thank you.
+
+Roy Harvey
+
+And Lucas is that in reference to anything specifically or just sort of general trade moving around the world.
+
+Lucas Pipes
+
+General trade moving around the world.
+
+Roy Harvey
+
+Yeah. I think what I would comment there is that there was a lot of concern that -- that with China being shut down, you’d see just a lot of issues around trade flows and particularly when you're bringing in components from China into the rest of the world, North America and Europe.
+
+So, I think all of a sudden, all of that became a lot of speculation as China starts to ramp back up again and it’s the rest of the world and US and Europe in particular where you're starting to see some of these -- these COVID related impacts.
+
+So, I don't think we have data that’s outside of our markets that would be particularly helpful. I think when you look at Bauxite, when you look at Alumina flows around the world, when we look at how our Aluminum products are moving outside of the conversion to our value add products into commodity grade which typically will go into either -- either license to warehouses.
+
+I don't think we've seen a lot of distortions outside of freight prices. We've not seen a lot of distortions to trade. Now, once you get into components and things like that I think you'll need to be asking some of the downstream producers but from our perspective we still have materials that are flowing and we do not have any serious risks on our horizon about getting raw materials into our plants either.
+
+Lucas Pipes
+
+Very much appreciate all the -- all the color, and best of luck during these challenging times. Thank you.
+
+Roy Harvey
+
+Yeah. Thanks, Lucas.
+
+Operator
+
+Our next question comes from Paretosh Misra of Berenberg. Please go ahead.
+
+Paretosh Misra
+
+Thank you. When you look at the aluminum futures curve these days and looking at the low interest rates do you think this is an attractive market for commodity traders to put on some financing deals either in China or outside China similar to what happened in '08 or '09?
+
+Roy Harvey
+
+Yeah to make that a very simple answer to what can be a complex question, the fact is as we've seen that aluminum futures curve adapt to make sure that, that warehousing play that essentially that storing of metals is the contango it essentially reasserts itself so that that is possible.
+
+And so whether that, whether you look at data the total price going up or which would be much less -- much less agreeable the stock price coming down and the fact is as we have never seen -- we have never seen an environment that has lasted very long where you don't have an attractive trade on putting metal in the warehouses. So right now we simply don't see a bottleneck in that the banks or other traders are not willing to take that -- take that inventory on.
+
+Paretosh Misra
+
+Okay and then just going back to bauxite is there any other comment you could provide let’s say about the pricing as you see it in bauxite business for the rest of the year, like if there any other contract that is coming up for true up in the six to nine months?
+
+Roy Harvey
+
+Yeah you know a lot of our contracts tend to be longer dated and we do have some spot cargoes and those spot cargoes will get priced based on the prevailing market but a lot of times those will be in places where they'll be closer to apartment price at MRN or CBG etcetera. And so it's a bit of a rarified market. I think you're talking specifically about bauxite going into China which is where you have most of the material going.
+
+I think what you've seen in China is that you've seen domestic prices start to come down and I think part of that is going to be the fact that our aluminum refineries are -- you've had a good number of alumina refineries in the first quarter and now you're starting to see some of the logistical bottlenecks disappear inside of China. And so you started to see there that some pretty significant downturns in domestic pricing.
+
+That said from an import bauxite price you know I think -- I think it has made relatively steady and in fact one could argue that there might be some downside if there are linkages back over into the alumina price whether that is the Chinese or global alumina price. But from our perspective really the pricing environment and the volume environment we haven't seen a lot of distortions even in Q1 because of COVID so it's for the most part steady as she goes from a Alcoa realized price perspective.
+
+Paretosh Misra
+
+Thanks, Roy. I appreciate the color.
+
+Roy Harvey
+
+Yeah. Thanks, Paretosh.
+
+Operator
+
+Our next question comes from John Tumazos, a private investor. Please go ahead.
+
+John Tumazos
+
+Can you give us a flavor of what are some of the asset sales that might be possible 6 months or 12 months or 18 months out when things warm up a bit. Maybe The Point Comfort property in Texas is big and valuable for example and would you be a candidate for the federal bailout fund that's intended for airlines or other hard hit industries and are there any other federal initiatives that might be practical for Alcoa
+
+Roy Harvey
+
+I think I'll try to take all of those John. As far as the asset sales go we haven't announced specific assets and recall that we have a program that’s $500 million to a $1 billion and we have already done the $250 million, the one asset that is publicly for sale is the Rockdale land and you know it’s -- it has a list price of $250 million, and we have been working to sell that now for a while, so that is one of the assets that we have publicly said is for sale.
+
+As far as your comment around Point Comfort, yeah, there is value in some of these curtailed sites, and we actively tried to maximize the value of those curtailed or closed sites, and in the case of Point Comfort we have moved to closure and so we will be looking at opportunities to maximize value out of -- out of that facility.
+
+Your question around specifically federal bailout funds, the presentation that you see today is our best view of the opportunities that we have with the programs that have been placed -- put in place with the US government today.
+
+So, some of the things that you're seeing in the presentation say the deferral of the pension contribution is because of the CARES Act, some of the deferral around some of the cost specifically in you know hiring, traveling, other trends -- other restrictions, we would be taking advantage of deferring Sika contributions. And that's I think all companies are doing that currently and that just came out with -- with one of the new -- with the CARES Act also.
+
+So, what you see today is our best view of what we think we can -- we can do with the existing programs. And as far as other programs or other opportunities you know I'm not aware of them, I don't know if that addresses your third question.
+
+John Tumazos
+
+So, we shouldn’t think that there is $100 million or $500 million loan potential the way that Boeing or General Motors or Ford, or an airline might consider supposedly is like have to trade or fund.
+
+Roy Harvey
+
+Yeah. Not to the best of our understanding at this point, John. These things evolve fairly quickly, but to the best of our understanding we are taking advantage of what we can at this point.
+
+John Tumazos
+
+Thank you.
+
+Operator
+
+Our last question will come from Andrew Cosgrove of Bloomberg Intelligence. Please go ahead.
+
+Andrew Cosgrove
+
+Hi gentlemen. Thanks for taking my question. I hope is all right. Just real quick on alumina, it came in quite a bit above where you kind of thought it would land pricing that is. I was just curious if you could elaborate a little bit if there were any kind of fixed costs or index lags associated with pricing in the first quarter?
+
+Roy Harvey
+
+No. Nothing unusual. I would say again alumina -- the alumina segment gets a benefit from the stronger US dollar. So you see a little bit of that in the results but nothing unusual on the revenue side.
+
+Andrew Cosgrove
+
+Okay, great. Yeah. And then the next one was just around the pension again, and just to kind of belabor at this point, but just to clarify, so next year I believe the number was between $350 million to $400 million just on the base. So you have the $220 million carryover. Are you saying that is there a limit to the prefunding balance you can use to apply against this grand total?
+
+And then secondarily the -- are you saying that the -- you know if the return assumption and discount rate that you walked through before kind of holds, are you saying that that would eliminate that $220 carryover, or I'm just kind of curious how that kind -- well kind of shakes out?
+
+William Oplinger
+
+Yeah, sorry. Now they -- it doesn't eliminate the $220 million carry over. So let me just parse my comments.
+
+Andrew Cosgrove
+
+Yes…
+
+William Oplinger
+
+The comments I was making around the pension and OPEB liabilities purely from a balance sheet perspective. So you do all that math with the returns at the end of the year if nothing more were to change for March. We would be at the same balance sheet position which is good right. That's great news for us.
+
+As far as cash contributions which are run under a very different calculation on pension contributions, the cash contributions we would be deferring this year and we don't have to use our pre-funding balance to defer this year. So the minimum required contribution of $220 million we can push out into 2021. But as you alluded to we've got and I don’t have the numbers in front of me something like $350 million to $400 million of pension contribution that we have to do in 2021.
+
+So at that point if we choose we can use our pre-funding balance to not make those contributions and there is no limit to the amount of pre-funding balance that we can use in a particular year. The only limit that you have is that it's only there for the US pensions. It's not there for the overseas pensions but we could use that $380 million next year to offset the large scale pension contributions that we're going to have because we're deferring this year.
+
+Andrew Cosgrove
+
+Okay, great. Thank you so much for that. Yes, very clear. Thanks so much for clarifying.
+
+Roy Harvey
+
+Okay. Thanks.
+
+Andrew Cosgrove
+
+Stay Safe.
+
+Roy Harvey
+
+Thanks.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you, Andrea. And I'd like to thank everyone for your time today and for your questions. We're acting aggressively to improve Alcoa and make it through this uncertain time better and stronger. And as I said, I’m pleased that we were able to get started early to drive improved competiveness for this company, and that we can build on that strong foundation.
+
+With that we look forward to discussion our second quarter 2020 results in July. Please stay safe and healthy everyone. Back to you, Andrea.
+
+Operator
+
+The conference is now concluded. Thank you for attending today's presentation. And you may now disconnect.

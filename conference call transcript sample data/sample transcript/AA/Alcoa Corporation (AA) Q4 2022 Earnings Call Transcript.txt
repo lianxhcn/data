@@ -1,0 +1,379 @@
+Alcoa Corporation (NYSE:AA) Q4 2022 Earnings Conference Call January 18, 2023 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations
+Roy Harvey - President and Chief Executive Officer
+William Oplinger - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Emily Chieng - Goldman Sachs
+Alex Hacking - Citi
+Carlos De Alba - Morgan Stanley
+Timna Tanners - Wolfe Research
+Lucas Pipes - B. Riley Securities
+Michael Dudas - Vertical Research
+John Tumazos - John Tumazos Independent Research
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation Fourth Quarter 2022 Earnings Presentation and Conference Call. [Operator Instructions] Please note this event is being recorded. I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you and good day everyone. I am joined today by Roy Harvey, Alcoa Corporation President and Chief Executive Officer and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company’s actual results to differ materially from these statements are included in today’s presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced the earnings release and slide presentation, are available on our website.
+
+With that, here is Roy.
+
+Roy Harvey
+
+Thank you, Jim and thanks to everyone for joining our call today. As you saw from the fourth quarter and full year results that we released today, we returned $572 million in capital to our stockholders through buybacks and dividend payments in 2022. We continue to be well positioned with a strong balance sheet, ending the year with $1.4 billion in cash and proportional net debt of $1.2 billion.
+
+In 2022, we also progressed strategic restarts of capacity and worked to mitigate the impact of high energy costs. That said it was a challenging year. World events influenced costs for raw materials and energy. Our markets saw significant variances in pricing between the first half of the year and the second half, demonstrating once again why we are so focused on reducing complexity and continuing our improvement initiatives. As we progress through this year, we will continue to act to drive operational and commercial excellence, disciplined execution and rigorous cost management.
+
+Before we get into more details though, I want to emphasize, as always, our most important priority, safety. We strive to protect the safety and health of those who work at our facilities or visit them. In 2022, we did not have any workplace fatalities. This however is not an achievement, it is simply an expectation. And we always have areas where we can and will improve. We recognize that maintaining a fatality-free workplace requires constant vigilance to identify and eliminate critical risks. In fact, every employee at Alcoa has the authority and my permission to stop a job and seek help if they are unsure if it’s safe to proceed. There is never any production goal that will take priority over safety.
+
+Now on to our financial results. In the fourth quarter, we had a net loss of $374 million and $29 million in adjusted EBITDA. For full year 2022, we had a net loss of $102 million and adjusted EBITDA of $2.2 billion. It is clear from our fourth quarter results that we are confronting a challenging market and operational situation and we are taking action to be sure that we are firmly focused on driving improvements across our operations and company. Bill, who will become our Chief Operating Officer on February 1, will provide the full detail on our financial results in just a moment. Incidentally, this will be Bill’s last earnings call as our Chief Financial Officer. Molly Beerman, our current Senior Vice President and Controller, is being promoted to CFO. She has tremendous financial experience and has been a strong leader for Alcoa. She will join me for our earnings calls beginning in April as she takes over Bill’s former role and he takes his skill and experience to operations.
+
+Now turning to some operational highlights. Last year, we advanced several restarts that will bring economic value to the business. We also acted swiftly to reduce production capacity when and where conditions warrant it. Last month, we completed the safe restart at our Portland aluminum joint venture smelter in the state of Victoria in Australia. And we continued to advance the restart of the Alumar smelter in Brazil.
+
+To mitigate the rising cost of gas and electricity, we reduced output at the San Ciprián alumina refinery in Spain and curtailed one-third of production at our Lista aluminum smelter in Norway. Separately, over these last couple of weeks, we adjusted production at the smallest of our three refineries in Western Australia due to natural gas shortages that continue to persist in the region. We have a strong foundation across this company with the know-how and expertise to drive continued improvement. We are ready to address short-term challenges while remaining focused on our future, one where aluminum will become even more important as the world works to decarbonize.
+
+As we progress into the year, it’s also worth reinforcing the work we are doing on our ESG objectives. Alcoa has a clear purpose and a vision that guides our actions and decision-making. We are producing and delivering products that support our customers’ own sustainability ambitions and we are creating shared value for our communities and our other stakeholders. Just recently, in fact, we were once again named a top tier industry producer by the Dow Jones Sustainability Indices. We also continue to pursue growth opportunities via projects that can creep our production. And we are excited about the progressing development of our transformative technologies, which align fully with our vision to reinvent the aluminum industry for a sustainable future.
+
+So with that, let’s dive into the numbers. Bill, please go ahead.
+
+William Oplinger
+
+Fourth quarter 2022 revenues declined $188 million compared to the third quarter to $2.7 billion on lower aluminum and alumina prices. At this point in the cycle, input costs were not yet declining and the result for the fourth quarter was a net loss of $374 million or $2.12 per share. Special items in the quarter totaled $251 million and included $196 million of tax items, primarily related to a valuation allowance on Brazilian deferred tax assets, $30 million of smelter restart costs and $26 million from mark-to-market energy contracts.
+
+After special items, adjusted net loss was $123 million or $0.70 per share. Adjusted EBITDA, excluding special items, was $29 million. For the full year 2022, year-over-year revenues increased $299 million to $12.5 billion and net income decreased $531 million to a loss of $102 million or $0.57 per share. Adjusted net income changed from $1.3 billion in 2021 to $890 million in 2022 or $4.83 per share and adjusted EBITDA, excluding special items, moved from $2.8 billion to $2.2 billion.
+
+Let’s take a closer look at the quarterly change in EBITDA. For fourth quarter adjusted EBITDA compared to the third quarter, the largest driver of the decline was $98 million of lower metal and alumina prices and includes higher raw material costs and higher production costs in alumina and aluminum. Energy improved $9 million as substantial Lista smelter and San Ciprián refinery improvements were partially offset by CO2 compensation adjustments in Norway of $35 million. Thanks to actions taken at the Lista smelter and the San Ciprián refinery, Lista and San Ciprián EBITDA improved to combined $67 million compared to the prior quarter. The other category is comprised primarily of a $25 million ARO charge in Brazil and $22 million of intersegment eliminations.
+
+In the segments, bauxite improved $9 million on better volume, favorable foreign currency and broad cost improvement. In the Alumina segment, the $42 million EBITDA decline was due to lower index prices as well as a $25 million charge to increase the ARO reserves at Alumar, partially offset by the $27 million improvement from the San Ciprián partial curtailment. In aluminum, the $121 million EBITDA change was due primarily to lower metal prices, but also due to broadly higher costs, partially offset by favorable foreign currency and lower alumina costs. Below the segment level, transformation, intersegment eliminations and other corporate expenses increased a total of $27 million.
+
+Let’s move to cash flow. The fourth quarter cash balance declined $69 million sequentially to $1.36 billion as releases of working capital, CO2 credits received, and quarterly EBITDA did not fully fund outflows. Capital expenditures, cash income taxes and environmental and ARO spending were the largest uses of cash in the quarter. Dividends paid were $17 million. On a full year 2022 basis, uses outpaced sources by $451 million. Our largest use of cash was returning capital to stockholders, followed by cash income taxes, capital expenditures and increased working capital.
+
+Now for our key metrics at year end, return on equity for the full year 2022 was 17.2%. In 2022, we returned $572 million of capital to investors, $500 million of share repurchases and $72 million of quarterly dividends. The balance sheet finished with proportional adjusted net debt of $1.2 billion, while DWC working capital improved $111 million sequentially primarily due to higher accounts payable. Lower revenues kept days working capital flat at 50 days. Free cash flow less net non-controlling interest distributions was negative $49 million in the fourth quarter and the full year 2022 number was positive $177 million.
+
+Let’s take a closer look at the cash and liquidity position. We are proud of the improvements we have made to our cash and liquidity position. In the three charts you see over time are cash position, debt maturities and key cash outflows. Year-end 2022 cash on the balance sheet was a substantial $1.4 billion, consistent with the average level for the previous 5 year-ends. After redeeming higher rate debt with maturities in 2024 and 2026, our debt has a lower rate and scheduled maturities are inconsequential until 2027. Our revolving credit facility has improved terms, has been extended to 2027 and has no borrowings against it. Pension and OPEB cash needs were low in 2022 and are expected to remain low in 2023 and beyond and are now mostly OPEB, which as you know, is pay as you go.
+
+Turning to our 2023 outlook. First, we are simplifying our reporting structure for 2023. Beginning in January 2023, the company will combine its Bauxite and Alumina segments and report its financial results in two segments: Alumina and Aluminum. In future reports, segment information for prior periods will be updated to reflect the new segment structure. In 2023, we expect alumina shipments to range between 12.7 million and 12.9 million metric tons due to lower refinery production, driven by the partial curtailment of the San Ciprián refinery and lower bauxite quality at the Australian refineries.
+
+The Aluminum segment is expected to ship between 2.5 million and 2.6 million metric tons as increased production at Alumar and Portland is offset by lower buy-resell activity and modern shipments. In EBITDA items outside the Alumina and Aluminum segments, we expect transformation costs to increase to $80 million on higher demolition expense and other corporate expense to be virtually unchanged from 2022 at $130 million. Below EBITDA, we expect depreciation to increase to $645 million primarily due to the weaker U.S. dollar. Non-operating pension and OPEB expense is expected to improve $45 million to $15 million and the $110 million interest expense is comparable to 2022’s level.
+
+For cash flow impacts, we expect 2023 pension and OPEB required cash funding to be similar to 2022 at $75 million. The majority of that spend is U.S. OPEB. Our current capital expenditure estimate is $115 million of return-seeking and $485 million of sustaining capital and we will continue to review it based on market conditions. We expect $150 million lower prior period income tax payments in 2023, down to $175 million. Environmental and ARO spending is expected to increase to approximately $195 million. Finally, capital returns to stockholders will be aligned with our capital allocation framework.
+
+Looking specifically at adjusted EBITDA, excluding special items for the first quarter and excluding impacts from index sales prices or foreign currency. In Alumina, we expect approximately $25 million higher costs from a Western Australia gas supply disruption to be offset by the non-recurrence of the Alumar ARO adjustment. In Aluminum, we expect alumina cost to be favorable by $15 million. We also expect Norwegian smelter costs to be favorable by $70 million from the non-recurrence of CO2 credit adjustments and lower energy costs. Additionally, we expect $15 million lower raw material costs and $15 million lower production costs.
+
+Below EBITDA, other expense is expected to be unfavorable by $45 million sequentially on equity contributions to ELYSIS and lower modern equity income. Based on recent pricing, the company expects 1Q ‘23 operational tax expense to approximate $5 million to $15 million. Beyond the first quarter of 2023, the company is reducing the available alumina grade at the Huntly mine to provide additional time for an extended mining approvals process. This grade change is isolated to the Huntly mine that supplies the Pinjarra and Kwinana refineries. Operating the refineries with lower-quality bauxite decreases alumina output and increases input costs.
+
+Starting in the second quarter of 2023 and continuing through the fourth quarter of 2023, we expect lower Alumina segment adjusted EBITDA of approximately $55 million per quarter in comparison to the fourth quarter of 2022, after excluding $35 million of non-recurrence for the Alumar refinery ARO adjustment and certain other non-recurring expenses in the fourth quarter of 2022.
+
+Now I’ll turn it back to Roy.
+
+Roy Harvey
+
+Thanks, Bill. Next, I’d like to provide some brief commentary about the current global market environment for alumina and aluminum in 2022. Even given the clear change in pricing from first to second half of 2022, these markets were balanced or even in a slight deficit across the year. But differently than we have seen in previous cycles, the cost for raw materials have remained stubbornly high throughout the year, and it is only here in the beginning of 2023 where we are starting to see some minor relief in market pricing.
+
+In fact, we saw some of our highest ever costs for raw materials in the second half. All direct materials increased in price since the end of 2021, driven by multiple raw material supply disruptions that have kept market balances tight. In Alumina, we saw a 39% increase in the market price for caustic soda in the fourth quarter of 2022 compared to the same period in 2021. Caustic soda is used in the digesters in our refineries. In Aluminum, we saw more than a 70% increase for the market price of pitch and a nearly 30% increase for coke compared to the fourth quarter of 2021. Both products are used to make anodes for our smelters. Meanwhile, recent smelter curtailments announced across the U.S. and Europe, have only marginally influenced calcined coke prices. We have however mitigated supply chain disruptions by maintaining an agile and diversified global sourcing portfolio, which also closely manages our inventories to avoid market-driven supply disruptions.
+
+As far as global supply-demand balances, the market for alumina was mostly balanced in 2022. And in aluminum, the global market was in a deficit, including in China and the rest of the world. China has continued to enforce its 45 million metric ton smelting cap and we saw approximately 2.5 million annualized metric tons of smelting capacity curtailed in the country in 2022 due to power constraints in southern provinces. And we entered 2023 with the likely constructive impacts of a loosened COVID policy in China and the increased application of stimulus measures in China and globally.
+
+Next, let’s spend a bit more time on what we are currently seeing in aluminum over a longer time horizon. We continue to see evidence that supports our positive view on aluminum. Although 2022 was an unusual year with global events influencing energy and raw material costs, we remain bullish on the long-term fundamentals for aluminum. Even in a challenging market like what we saw during the second half of last year, there was continued evidence of the growth of aluminum demand for the future.
+
+Let me illustrate this point with two of aluminum’s end-use markets, transportation and packaging. Since Alcoa became an independent company in 2016, these two sectors have experienced significant growth rates. First, the share of electric and hybrid vehicles is on a solid trajectory to experience nearly a sevenfold growth rate in a 6-year period by 2023. These vehicles contain more aluminum in their construction versus traditional internal combustion engine vehicles. Electric vehicles, for example, contain approximately 40% more aluminum. Several recent reports from industry analysts have reported on this strong growth for EVs, which is occurring even faster than some had earlier predicted. And key auto manufacturers such as BMW and Ford have taken significant steps to increase their mix of battery electric vehicles relative to their total output.
+
+At the same time, China, the largest automobile market in the world, saw one of the largest year-over-year increases in 2022 electric vehicle production with 6.9 million units confirmed. Current estimates would add an additional 2.1 million new electric vehicles to be produced in China in 2023, bringing that total to 9 million units on an annual basis. The transition to these vehicles is also supported by several major countries and regions that have announced bans on new internal combustion car sales in the years between 2030 and 2040, including the UK, France and Canada.
+
+The second market to watch is packaging, which is expected to see a 41% growth rate in aluminum can stock consumption between 2016 and 2023. For Alcoa, packaging was one of our best performing markets in 2022 in Europe and North America. Also, more beverage products are using aluminum such as alcoholic seltzers and sparkling waters due to the metal’s lightweight, infinite recyclability and ability to chill beverages quickly. While these markets are meant to be examples, they support continued strength in aluminum demand in the long-term.
+
+Now, let’s move to the right hand portion of the slide. Given the importance of Chinese capacity growth over the last decade, one of the most influential factors for this next decade will be China’s self-imposed 45 million metric ton cap. We see continued policy decisions and actions in China further supporting this capacity cap. Any increase in that ceiling would hinder the country’s well-publicized goals for energy efficiency and decarbonization. While we expect an increase in operating capacity of roughly 1 million tons of metal in 2023 compared to last year, these are added capacities that either transfer existing operating permits from plants that will be shuttered or have outstanding permits complying with the Chinese cap. We have also recently seen China’s actions to limit exports of primary aluminum through increased export tariffs on commodity grade aluminum in 2023, supporting the reality of the country’s capacity cap.
+
+One final point to make on this slide, with the drop in global stocks over the last 6 years, inventories in 2023 are expected to remain near historically low levels of 49 days of consumption. The 10-year average has been 77 days and stood at 70 days of global inventories in 2016, the year we launched as a standalone company. Relative to annual consumption, the projected stock levels in 2023 could be insufficient if we see a rebound from current demand growth figures in China or the rest of the world. This adds support to both the short and long-term outlook for aluminum. While there continues to be significant uncertainties about the global economy in 2023, we continue to expect another year that will remain in relative balance for aluminum. And even more importantly, the underlying fundamentals continue to remain very favorable for aluminum in the long-term.
+
+Now, let’s talk specifically about some of the important actions Alcoa completed in 2022 to advance our strategy while also addressing the challenges of a volatile market. First, we worked to offset negative market impacts at some of our locations, including the high cost of energy in Europe, which skyrocketed after Russia’s invasion of Ukraine. We partially curtailed two facilities, adjusting our production rates to San Ciprián alumina refinery in Spain due to high cost of natural gas. And we curtailed 1 of 3 potlines at Lista in Norway, our smallest aluminum smelter due to high electricity costs. In July of last year, we curtailed 1 potline at Warrick operations due to workforce shortages in the region and increasing instability. And we have continued to maintain that partial curtailment as we focus on safe and consistent production from the site’s two operating potlines. Also we are continuing to work toward the planned restart of the San Ciprián smelter. And we have now signed two power purchase agreements for wind-based electricity although permitting will need to be approved by the regional and national Spanish governments before construction can begin.
+
+As I mentioned at the top of our call, we also maintained a strong balance sheet, which is essential, especially at a time when there is still a lot of unpredictability in the world. We reduced our pension liabilities in 2022 by completing a $1 billion transfer of liabilities and related assets to a highly rated insurance company for certain U.S. retirees and their beneficiaries. Our strong financial position also enabled us to make dividend payments and share repurchases while achieving an investment-grade rating on our debt and improving our revolving credit facility, which remains untapped.
+
+We made significant strides in growing the business as well at locations on four continents through capacity restarts and creep projects. In Australia, we safely completed the restart of additional capacity at Portland Aluminum in the state of Victoria. In Europe, we announced a capital project now underway to increase capacity at Mosjøen in Norway by a creep project. In South America, we progressed with our Alumar restart in Brazil, which is powered 100% by hydropower and will capitalize on the integration with the co-located refinery. In North America, our Deschambault smelter is working to increase its casting capacity to add standard-sized ingots to meet increasing demand for foundry alloys in smaller formats. With all these actions, we continue to advance sustainably, both in supplying customers with low-carbon products and advancing our breakthrough technologies.
+
+In 2022, we continued to see a significant increase in year-over-year demand for our EcoLum low-carbon aluminum, which is part of our Sustana brand. Sustana is the most extensive suite of low-carbon products in the aluminum industry. While still a relatively small portion of our overall sales volume, we saw increased margins and deliveries of EcoLum in 2022. Our sales of EcoLum, in fact, grew more than 4x over 2021, driven mostly by the European market.
+
+Two examples of customers looking to us for this low carbon metal were Spira, a global aluminum rolling and recycling company; and Hellenic Cables, a large cable producer in Europe with key markets in renewable energy transmission and distribution. We also maintained an increased certifications with the Aluminum Stewardship Initiative, our industry’s most comprehensive third-party validation of responsible production. We have two additional sites certified to ASI standards in 2022, bringing our total number of sites to 17. We can also market and sell ASI-certified bauxite, alumina and aluminum to customers globally.
+
+Finally, we made progress on our road map of breakthrough technologies. This includes work to decarbonize the alumina refining process through our Refinery of the Future initiative, which has support from the Australian Renewable Energy Agency. Also, our ELYSIS joint venture furthered its work to commercialize the carbon-free smelting process first developed at Alcoa’s Technical Center. The actions we took in 2022 helped us prepare for the year ahead. As we start this new year, we are laser-focused on further improvement. We will drive operational excellence and rigorous cost management to meet today’s challenges while working to promote future growth. We are developing opportunities to create growth via improved margins as a producer of low-carbon products, and our breakthrough technologies provide opportunities that can set us apart from others in the industry.
+
+The news that we announced last week regarding our restructured executive leadership team will drive continued focus on our priorities. We have teams across Alcoa that have a proven ability to execute and we intend to deliver. In operations, we are actively managing the issues we face in Western Australia as it relates to ore supply, as Bill mentioned in his portion of the presentation. While the annual mine approvals are taking longer than in prior iterations, we are adjusting our Huntly mine plan to extend mining operations already permitted under our existing approvals. We continue to work collaboratively with regulators to address this matter.
+
+Meanwhile, we are focused on improving our overall system processes to drive stability and performance across our facilities. We continue to review our operating capacity to address short-term market challenges and promote operational excellence. This includes monitoring the energy situation that prompted our decision to curtail some production at our Lista smelter and the San Ciprián refinery and the most recent impacts from gas shortages that led to a 30% reduction in output at the Kwinana refinery in Western Australia. And we continue to progress the restart of the Alumar smelter and prepare for the future restart of the San Ciprián smelter per our agreement with the workers there.
+
+We’ve worked hard over these past several years to improve our company’s financial position, and we are intent on maintaining that rigor as we further sharpen our focus on costs. We will continue our work to maintain a strong balance sheet, which includes considering more opportunities to reduce the risks from pension liabilities as the market allows. While we focus on the immediate needs for success for 2023, we are also keeping our future programs firmly in focus. Our R&D programs are fundamental for our long-term growth strategy and our vision to reinvent the aluminum industry.
+
+Our breakthrough technologies include the ELYSIS joint venture, our Australia scrap purification process and the Refinery of the Future initiative. Our strategy and technology road map are tightly linked and continued innovation will be vital. Today, we offer the industry’s most comprehensive portfolio of low-carbon products, and we are focused on delivering to our customers products that can help them and us reach sustainability goals. We’ve seen year-over-year growth in both margins and volumes for our Sustana line, and we intend to continue this growth. And we see this developing low-carbon market as the key to building this critical demand as our ELYSIS joint venture continues to progress towards production at industrial scale. Due to work across our company, we are well positioned as a supplier of choice, especially in a world that is working to further reduce greenhouse gases. We have a global refining system with the industry’s lowest carbon dioxide intensity, and a significant portion of our smelting portfolio is powered by renewable energy. Underpinning all of our initiatives, we remain committed to being a responsible and reliable producer, working cooperatively with our communities to bring shared value. We also have clear mid and long-term sustainability goals, and we will continue to make progress against those targets.
+
+Finally, I have just a few points I’d like to summarize before we take questions. First, our industry was a case study in contrast in 2022. The first half of the year was very strong with high pricing that more than offset high raw material costs. But world events negatively influenced our markets in the back half of the year. That helped emphasize once again why we operate with an intense focus on cost and delivering consistent operational excellence while we continue to work on projects that can drive future growth.
+
+Next, we know the world has experienced unexpected and disruptive volatility. Still, producers everywhere are facing increased demands and assurances of responsible production. Alcoa is quick to adapt and we will not simply wait for a market recovery. Alcoans know how to do the hard work, including managing both the short and long-term opportunities ahead.
+
+And finally, we took action in 2022, and we will continue to improve and operate as a sustainable low-cost producer while we work on our vision to reinvent the aluminum industry. The world is working to decarbonize and that provides us an opportunity. We know the long-term fundamentals for our industry are strong. Aluminum is the material of choice, and Alcoa is the company to deliver the products our customers are demanding.
+
+With that, we’re ready to take your questions. Operator, who do we have on the line?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question today comes from Emily Chieng with Goldman Sachs. Please go ahead.
+
+Emily Chieng
+
+Good evening, Roy and Bill. And thank you for the comments, and congratulations on the new role, Bill.
+
+William Oplinger
+
+Thanks, Emily.
+
+Emily Chieng
+
+My first question is around Western Australia alumina. And perhaps, could you share specifically what’s driving the delays to the mine plan approvals there? Are these new environmental requirements that have been recently enforced that you now have to address? And is there a time frame in mind as to when you would expect to see those approvals received?
+
+Roy Harvey
+
+Yes. Emily, I appreciate the question. So we have an annual planning cycle. And as you can imagine, it takes time for us to adapt and prepare and put together everything that goes into choosing where we mine and how we mine. And so we also have an annual regulatory and set of connections that we make in order to receive all the permits that we need for operations. And so as expectations have been increasing around how we protect the environment, the amount of information and baseline data that we provide over to regulators has started to increase. And this is particularly in relationship to the Myara area that we’re mining today. It just takes longer for us to be able to receive and then put into place those permits. And so essentially, it’s not necessarily new requirements but a new set of discussions that are necessary and just more discussions that are happening between us and the regulators. And so as we go through that process and because of the critical importance of bauxite that we have coming into the refineries and also just because of how critical Western Australia is to Alcoa as a company, we thought it would make sense from a risk mitigation standpoint really just to step back, give ourselves a little bit of extra time, particularly for the process in play for the coming years and really work through these permits and make sure that we were delivering to our regulators all they needed in order to be able to secure those permits.
+
+So I have confidence that we’re going to get to an end point here. I look at this as an intelligent way to make sure that we have the extra time that’s demanded because of – just because of some of the changing expectations and some of these discussions to allow them to fully happen. Over the course of these next few years, we’re in the midst of preparing for that next big mine move in the Huntly mine to North Myara. That is a larger set of discussions and it’s what we call a Part IV environmental approval, which is sort of a full blown review of how we will access those reserves and connections with communities, etcetera.
+
+And so really, this just helps to set us up over the course of these next few critical quarters to be able to manage all those different processes. Again, I have full confidence that we’re going to get this where it needs to be. I find that we’re collaborating and working with all of the stakeholders that are involved in the process. I just felt it was the right thing to do to really de-risk and make sure that we have what we need and that we can operate our refineries smartly.
+
+I would add one more thing on top of that, Emily, because I think it’s important. As we look at these next few quarters over the course of 2023, the opportunity we have is also to fine-tune our refineries to make sure that they are managing the – managing these new bauxite grades really smartly. And so I think there are opportunities that we have to learn how to run more efficiently, to manage the mud and sand loads that are coming in and really to make sure that we’re optimizing and running as cost efficiently as we possibly can in Western Australia and across the portfolio. And that points to some of the changes that we’ve been making in the organization as well really just to make sure that we are as cost effective as we possibly can be. And so I – again, I’m confident we will get the permits. I’m also confident that we can find ways to improve and make sure that we’re driving that – those mine operations and refinery operations as smartly as we possibly can.
+
+Emily Chieng
+
+Great. That was really helpful, Roy. Maybe a follow-up, if I may, and sticking with the cost theme there, but just wanted to touch on what you’re seeing from the lower gas prices in Europe right now. And if there is been any benefit to San Ciprián going forward for the Alumina segment. I don’t think that was mentioned in the release.
+
+William Oplinger
+
+So yes, we are seeing lower gas prices in Europe for San Ciprián refinery. San Ciprián refinery results improved fourth quarter over third quarter. We anticipate that they will improve again first quarter over fourth quarter due to a couple of actions: one, the lower gas prices; two, some of the commercial actions that we’ve taken to try to drive some price increases in our NMA business and really trying to optimize the cost of running the refinery at the lower levels that we have at that.
+
+Emily Chieng
+
+Great. Thank you.
+
+William Oplinger
+
+Thanks, Emily.
+
+Operator
+
+The next question is from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Hi, thanks for the question. Let me add my congrats to Bill on the new role. Deserve a lot of credit, especially if you work on the balance sheet. And hopefully, investors will still have a chance to hear from you going forward. Just following up on Emily’s question on the cadence of cost. You mentioned that at San Ciprián, you would expect sequentially lower cost in the first quarter. As we look further ahead into the second quarter, would we expect European smelter costs, Norway, San Ciprián to keep falling, assuming that nat gas is at current levels or keep or falls further? Thank you.
+
+William Oplinger
+
+Alex, what we’re seeing on the cost structure is really we’re now starting finally to see some reduction in key raw material costs. I think you probably saw in the chart that we’re starting to see coke prices tip over. Pitch is continuing to be pretty high. But we’ve guided to a relatively stronger result in the first quarter than the fourth quarter, especially in the Aluminum segment. So in Aluminum, we’re guiding really to $100 million positive, $100 million up from the fourth quarter in the first quarter. As we look out into the second quarter, it really will depend on what energy prices do. And with the volatility in the market, it’s probably too early to give an indication of what energy prices will do in the second quarter of the year.
+
+Alex Hacking
+
+Okay, thanks. And then on the San Ciprián smelter, what percentage of power is covered by the two PPAs that you signed? And then what are prices they are indexed to, if anything? Are they sort of indexed to market prices or LME? Any color there would be helpful. Thanks.
+
+Roy Harvey
+
+Yes. Alex, I can answer that one. So the – these two contracts that we’ve put together over the course of 2022 really add up to about 75% of the total demand for the smelter operating at full capacity. We’ve not talked about how the pricing structure works, but essentially, it’s a fixed price. And then you need to add in transmission charges in any programs that the Spanish government might be running an order on interruptibility and things like that. We look at this as an opportunity to really re-baseline and prepare San Ciprián for our future. It’s the reason we put together the agreement with the workforce. We were able to gain the time where we didn’t – where we were able to curtail the facility completely and are preparing, as I said in my comments before, preparing for the restart back in January – the start of the restart back in January 2024.
+
+Alex Hacking
+
+Okay, thank you.
+
+Roy Harvey
+
+Thanks, Alex.
+
+Operator
+
+The next question is from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yes. Thank you very much. Happy new year Roy and Bill. And Bill, congrats on your tenure as CFO and all the best in the new role. Just a question regarding the Kwinana run rate, just to continue the discussion on alumina, I guess. You mentioned in the press release, and I think there were some news articles that the gas supply has improved, but yet you’re keeping the reduced capacity utilization there. So what would need to change for you to take the capacity utilization higher in that refinery? That will be my first question. And then the second one maybe related to ELYSIS. What can you tell us there in terms of important milestones? When should we hear an update from you on how the developments are progressing? And when will you be making the decision of further investments? I think there was something around $100 million contingent CapEx depending on the success of the developments that you’re running right now.
+
+Roy Harvey
+
+Carlos, let me give you first couple of answers, then Bill can fill in, particularly on the ELYSIS numbers. Kwinana, just to get started there, so we’ve got about 30% curtailed, it was very much driven by the fact we just didn’t have enough gas in the state of Western Australia, asked large consumers of gas to look for ways to be able to reduce. And operating on diesel just doesn’t make a lot of sense just because of the price differential and for a number of other reasons. So as we looked at that, the right thing to do was to be able to take a series of maintenance activities and bring that down by 30%. At this point, we have seen improvements in how much gas is available essentially up to our normal contracts. We’ve seen an improvement but we’ve not yet got back to the stability that we normally have. I would say we’ve made good progress in being able to fill in some of the gaps so that we’re now running what we have running fully on natural gas, and we’re not substituting diesel, which is very good and good from a cost standpoint but also good from a stability standpoint. But we need to see continued sort of the return of all the normal operating capacity back before we start making that next set of decisions about whether we bring it back up or not. All intentions or sort of what we had seen before is that by the end of January, we should see some of those maintenance and downtime events in our suppliers start to ease up, the ones that haven’t done so already. And so we will be analyzing as we go. And as always, we will keep you informed and let you know as soon as we’ve made a decision on that, Carlos.
+
+On ELYSIS, just jumping into that second question as well, important milestones, I’ll hit it qualitatively, and then Bill can step in and talk a bit more about the numbers. For me, the next important milestones, the ones that obviously, we’d be talking more about, we’re in the midst of constructing and preparing to start up the first industrial-scale cells. And so that will be happening over the course of 2023. So as you can imagine, this year is very important to see those cells starting to operate and to start to see those initial results. And I would imagine that we will keep the market informed as much as we feel is appropriate over the course of 2023 and 2024 as those cells continue to operate. By the end of 2024, what we’ve said is that we want a commercial package available so that we can get started on the first installations of ELYSIS, which we’ve not defined where that will happen yet, with the idea that the first operating capacity really will be happening in 2026. And so to me, 2023 is going to be absolutely critical because it’s going to show that we’re – that we’ve got the ability to operate, to generate the quality of metal at P1020 or better capacity and to start to work on making sure that we can deliver on the operating efficiencies and the capital efficiencies that we’ve got planned. So it’s going to be an exciting year.
+
+William Oplinger
+
+And on the numbers, Carlos, a couple of numbers to keep in mind. We guided in the – we are guiding in the first quarter that other income will be down sequentially by about $45 million. $35 million of that $45 million is associated with contributions to ELYSIS in the first quarter. So you know the way the accounting for the ELYSIS contributions are is that when we make that contribution, we immediately take the hit in income and that sits in other income. For a full year estimate, including the $35 million of contributions in the first quarter, we would anticipate about $60 million in full year contributions for ELYSIS at this point. Now that will flex based on timing of some of the key decisions, but that’s our best estimate at this point.
+
+Carlos De Alba
+
+Alright. Excellent. Thank you very much. Very exciting indeed. Good luck, guys.
+
+Roy Harvey
+
+Thanks, Carlos.
+
+Operator
+
+The next question comes from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Hey, good evening. And happy new year everyone. Wanted to just touch on a little piggybacking on the discussion of kind of what it takes to restart some of your idle capacity but ask a little differently. Looking around the European markets, do you think that there is also the potential for some extensive restarts, given lower gas prices? Or what do you think it takes to see some of those facilities also restart?
+
+Roy Harvey
+
+Timna, I can – I’d take a first thing at that one and Bill can chime in as well if he wants to. The – operating in Europe is still pretty difficult. So you compare it to prior to the war in Ukraine or maybe even better, take it a year before that because we were seeing an inflation in energy prices even the year before. It’s still a very difficult place in order to operate a smelter or a refinery. And so those smelters that are operating tend to be ones that have long-term contracts that have been disconnected from the spot prices that we see today. We were able to find a solution on the relatively small – lease the smelter that we have, although it is third curtailed at this point, and that was through some incredible work that our strategy and commercial teams were able to do. But it’s still just not a market where you can justify continuing to operate at spot power rates as you see. And I would extend that over to the Refining business as well when you’re buying spot gas. The current LME pricing for aluminum nor the API pricing for alumina giving you a return given where those rates are. As we see the winter continue and if it continues as mild as it is, I think perhaps you’ll start to see some opportunities that emerge but we’re just not seeing that yet. If anything, when I look across Europe, I’d say that there are still opportunities or potential and particularly where certain smelters might be coming up on end of shorter-term contracts and then are going into the spot market or looking for that next series of contracts. I think there is still some curtailment potential that could happen both on the smelting side. And we’ve also heard some rumors about stuff that could be happening also on the refining side that sort of informed the difficulty that’s happening in the market.
+
+Again, we always – when we step back and we look at our facilities and we think about how we run them, San Ciprián is a good example. The San Ciprián refinery is a good example of a place where we have been able to make smart decisions and curtail it partially so that we are really only producing the tons that, in fact are creating value for us. It doesn’t necessarily fix the problems because we want to be operating that facility at full speed again down the road, but we need to see the more relief on gas before we get to that particular point or more relief coming in from the pricing, the API pricing, etcetera.
+
+William Oplinger
+
+Just to put some numbers around that, Roy, I was going to reiterate the point that you are making at the end there. We were – we have been consistently surprised that more capacity hasn’t come offline in Europe. And you have heard us, Timna, talk many times about 1 million to 1.2 million metric tons that was at risk because of high costs in Europe. We would still say that today, in the month of December, we think that 15% to 25% of the European smelting capacity is cash negative. So, as we look around the world, the majority of the cash negative smelting capacity is sitting in Europe today. To add on, on the refining side, a surprising number is that we would consider close to 85% of the refining capacity in Europe to be cash negative at the December average gas prices. Now, we know that gas prices have changed a little bit in January, but a lot of the capacity in Europe on the refining side is cash negative.
+
+Timna Tanners
+
+Okay. That’s super helpful. Thanks for that context and thoughts. My other second question was just on the CapEx, given that your guidance, at least from my recollection, is a little lower than what we have seen before by $50 million. And actually, your 2022 came in I think about $45 million lower than what you had initially said. So, just wondering if any shortfalls there, if that is getting pushed out, any explanation would be great? Thanks.
+
+William Oplinger
+
+I wouldn’t say any things were necessarily getting pushed out, Timna. Given – and you have seen over the years, given the market situation that we are in and the cash generation of the company, we will flex the capital spending up and down. And so I think it’s a good point. The last time we gave you guidance around 2023 was back in November of 2021. And we said at the time, we would spend $550 million of sustaining capital. And that was before we curtailed the smelter in Spain and made some commitments in Spain on capital spend there. So, the $485 million that we are showing you for 2023, we have already ratcheted it down a little bit based on current market conditions. With that said, going into my new role, we will make sure that we spend that $485 million wisely and do the best that we can to make sure that we maintain the assets at the right level so that we can produce the tons in the good times.
+
+Timna Tanners
+
+Okay. Thanks very much.
+
+Operator
+
+The next question comes from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you very much operator. Good afternoon everyone. And Bill, I hope it wasn’t our questions that led you to the new role. In terms of my question, I wanted to follow-up on Huntly. Is the easiest way to think about it, it’s about $165 million impact for 2023 between [Technical Difficulty] and then as we look out to 2024, this issue will hopefully be resolved?
+
+William Oplinger
+
+Yes. The number you put out there, the $165 million is correct. That is in relation to the fourth quarter and you just need to – we needed to be able to ground you in how much this issue was going to cost us in Q2 through Q4. So, it’s $55 million unfavorable compared to the fourth quarter. But it’s important that you first back out some of the unfavorable items that occurred in the fourth quarter in the Alumina segment. So, in the Alumina segment in the fourth quarter of 2022, we had an ARO charge of $25 million, and we had an incremental one-time set of charges that were some small things in that segment. So, what we are guiding you to is start with the fourth quarter of alumina, add back the $35 million and then deduct the $55 million. So, it’s an incremental $20 million of un-favorability in relation to the fourth quarter. And I hope that’s clear. We just needed to try to make that as clear as we possibly could for you to be able to model out the impact.
+
+Lucas Pipes
+
+Very clear to me. I appreciate that detail. And this would also include all the quality concerns that Roy mentioned in response to one of the earlier questions.
+
+William Oplinger
+
+It does. That’s an inclusive number that includes the loss of tons, but also it’s more expensive to make the tons that we will be making. As we push through lower-quality bauxite through the refineries, we will have higher usages of caustic and other input costs. So, that’s inclusive of those two items, tons and costs.
+
+Lucas Pipes
+
+Very helpful. I appreciate that. And then switching quickly to San Ciprián, could you run us through a punch list for that restart? I know you spent some time on that theme today, but would appreciate what is necessary there. And if this punch list is not completed by the end of this year, what happens? Do you go ahead with whatever the spot price power is at that time or are there other remediation possibilities? Thank you very much for that color.
+
+Roy Harvey
+
+Yes. Lucas, let me try and answer that, and then if I am not hitting the targets, let me know. So, what we have are a series of commitments that we made that essentially allowed us to idle the facility a little bit more than a year ago. There were a certain number of capital investments, and some of those take longer than others, as you can imagine, and they are meant to set up the facility for the long-term. And so those are ongoing. And also, what we need to do is make sure that it’s ready to restart when we get to January 1, 2024, which was a very specific commitment that’s inside of the agreement. Our workforce is there ready and waiting. And in fact, we have been trying to help with certain trainings and things like that. But in the end, there is only a certain number of activities that they can do. They have helped with some maintenance and things like that, but they are ready and waiting and ready to jump in to start that restart. So, really, we just need to make sure that we have all of the raw materials necessary, so as 2023 progresses, we will be able to make sure that we have got the coke and pitch or anodes in place so that when we start to spark those pots and bring production back online again, it will be ready to go. From an energy perspective, it’s a matter of, we have got the 75% worth of contracts that are already in place. Those are wind farms still to be constructed. So, those are going through the permitting phases, which connects with both the national and regional governments. There will then be a construction phase. As you can imagine, the construction of wind farms in Northwestern Spain is something that’s happened often in the past, but it takes some time to be able to bring those up to speed. And so we will need to find a solution for the piece of the – for the remaining 25% plus the piece of the 75% that will not be ready when we get ready to restart those pots. And whether we run that on spot, whether we find a shorter term contract, how we manage that is still not something that we have disclosed or have made a decision on. But as you can imagine, because we have that agreement with the workforce, we will be ready when the time comes and we will be working on that over the course of these next months.
+
+Lucas Pipes
+
+Right. That is very helpful. That’s exactly what I was looking for, so I appreciate that, and to you and the team, continued best of luck.
+
+Roy Harvey
+
+Thanks Lucas.
+
+Operator
+
+The next question is from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good evening everyone and well done, Bill.
+
+William Oplinger
+
+Thanks Michael.
+
+Michael Dudas
+
+Roy, could you share with us your observations of what your major customers are behaving like right now as we went into 2023? Is there expectation that the recovery from the pandemic restrictions in China and such and stimulus is going to be a pretty major factor? Is it going to be sooner rather than later, given what your customers are thinking?
+
+Roy Harvey
+
+Yes. I can provide some color, Mike. As always, every customer might be a little bit different, so I will try and generalize a little bit. We are still seeing a lot of strength in the U.S. market, particularly. And so when we look across the different product categories, and I would highlight transportation and packaging is the two places where we are just seeing – we continue to see more demand than probably we are able to fulfill. So, the U.S. market is still running very well. In Europe, I think there is a lot more uncertainty. Some of that uncertainty, I think has started to step back a little bit just because of the reduction in gas prices and the reduction in electricity prices that we are seeing. There has been a certain amount of destocking, so I think that our customers have been taking the position that they are, being very careful what they order. And in Europe, we tend to contract on a quarterly basis. And so you would tend to see those reactions happen a bit quicker than what you might see in the U.S. But I think there is now, I would argue, more uncertainty in the market about whether we will start to see a better recovery. And you have probably seen as well as I have some of the analyst coverage about the potential for recovery in Europe because it’s been such a mild winter and because they are – they have sufficient gas and storage. And so I would say there has been a cautious approach in Europe, but I think it’s also potentially constructive as we see what happens over these next few critical weeks and these next few critical months. From a Chinese perspective, and we don’t sell particularly into China, but I think that has a knock-on impact what people are seeing there, I think there is a general expectation that they need to work through this abrupt opening of – or loosening of COVID restrictions. I know there is plenty of discussions about how much industrial activity is able to happen between now and the Chinese New Year. We have also seen a lot of issues on the supply side, particularly when it comes to aluminum, just because of the availability of energy between droughts and hot weather and all sorts of things, it hasn’t been an easy time to see stable operations in China, particularly in smelting these days. And all that sort of will culminate then coming out of the Chinese New Year. We are coming into it, and I just saw a headline today saying that we are relatively a very low inventory build coming into Chinese New Year, which then bodes very well if we see that demand recover and we start to come out of sort of what might be the spike in cases of COVID because of the loosening of COVID restrictions. It really does bode well for demand coming out of China and because of the size of the Chinese market that then bodes well for all of the global markets when it comes to aluminum. So, certainly, a lot of the things I have been seeing recently are providing a lot of breadcrumbs that say, “Hey, there is still a significant amount of uncertainty.” We come out of what’s been a relatively small deficit for the aluminum market in 2022 into a market where there is a lot of uncertainty, but I would argue that over these last weeks, we have been seeing more and more positivity come out. Again, that’s – you always take into account what could happen in Ukraine, what’s happening across the world when it comes to demand, etcetera. But I look at our business and I look at our customers, and we are still finding good uptake of our value-added products. We continue to see good improvements on our low-carbon offerings as well. And that’s a piece of the market. It’s particularly developed inside of Europe. But to me, that sort of gives you good positive signs that we are continuing to see a constructive market. And that even if there are some short-term disturbances when we look into the medium and long terms, I am very positive about what’s going to happen across our markets.
+
+Michael Dudas
+
+Thank you.
+
+Roy Harvey
+
+Thank you, Mike.
+
+Operator
+
+Our final question comes from John Tumazos with John Tumazos Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you. Looking at ELYSIS and the Refinery of the Future, what is the likely first location where you would retrofit a smelter or retrofit a refinery? And what year might we look ahead to that? Is it possible for 2025 or sooner or later?
+
+Roy Harvey
+
+So, it’s a great question, John, and not one that we have yet defined and certainly not communicated. And so we are looking across all the jurisdictions where we operate. As you can imagine, there is a lot of excitement about ELYSIS and a lot of excitement about who can be first. Canada of course, is one of the frontrunners because they have been so supportive of the technology, the technology as an investor, as supporting all of the work that’s being done in Canada right now. And obviously, they have a very attractive energy scheme as well. But I wouldn’t count out the U.S. as a potential location. Norway is another great place where we have had a lot of support from the government in a lot of different places. And so I would say that it is still very much open where that first application will happen. And to be quite honest, as we watch the good results come in here over the course of 2023, it’s going to get more and more of an opportunity for us to decide where will that first application be. And as to when that first one will be built, what we have been saying is that by the end of 2024, we want the engineering package in place so that first metal can come out in 2026. So, it says we really need to get started building in – across ‘24 and ‘25. So, it doesn’t give us a lot of time. It means we are coming up on a decision where that first location will be. It means we need to be interfacing with all of our host governments and our potential host governments and need to continue to see good progress on the actual success of those industrial-scale cells that are being operated today.
+
+John Tumazos
+
+As far as Refinery of the Future, yes?
+
+William Oplinger
+
+Yes. As far as Refinery of the Future goes, John, and I will address that one quickly. Remember that Refinery of the Future is really a suite of processes that we are developing. Out of that suite of processes, there are some that we have talked about externally, for instance, mechanical vapor recompression and electric calcination. We have committed to do a pilot of mechanical vapor recompression in 2023 at the Wagerup facility, and we are getting some funding from the Australian government. Out of the $115 million that we are talking about return-seeking capital, MVR is included in that $115 million. So, while we have skinnied down our return-seeking and our sustaining capital, there are a handful of projects that are really critically important for us and MVR is one of them, and that’s included in those numbers. As far as electric calcination, it’s a little bit farther away, and we need to prove out the technology at a smaller scale. So, it’s too early to say where that would be applied.
+
+John Tumazos
+
+If I could follow up on Slide 17, Roy’s key areas of focus for 2023, a couple of the targets look like they are kind of hard things to do. On bauxite quality, are you assuming that you get regulatory approval, or would you go across the road and buy some bauxite from Worsley or across the lake from Weber or something? And with gas supply in Western Australia and energy for San Ciprián and Lista, are you essentially seeing the markets soften and that supplies are going to become available that were not available several months ago?
+
+Roy Harvey
+
+So, John, it’s all very important questions. So, first and foremost, and this is something I have learned over the time I have been CEO of Alcoa, we lack easy-to-solve problems. We have lots of things that need complicated solutions that take time and smart ways in order to address them. It’s why I have got the team that I do. It’s why I have got a lot of faith as we deal with these things. And to be quite honest, it’s one of the reasons that we made some of the changes in the executive team to make sure that we are focused on the right things to be quite honest. And so we have the bandwidth, we have the right people working on these things. And to be quite honest, particularly on the strategy side, we try and look at things without boundary conditions so that we can find what’s best to solve for the long-term viability for this business and for our stockholders across the board as well as our stakeholders as well. And so when it comes to bauxite, like I had said in one of the prior answers, I have a lot of confidence that we are going to be able to work collaboratively and get to a conclusion, a timely conclusion so that we can operate these facilities for another few decades. I just – I have full confidence because everything is lined up. We have the right people working on it and I think we have the support of our host government. But that doesn’t mean that we can’t look at other ways in order to bring in bauxite or to look at other solutions. And so we will continue to do that. When it comes to your point about solving the energy questions around a plant like Lista or San Ciprián in the short-term before we get to these new contracts for the San Ciprián refinery, a lot of times, the deals happen as you get towards deadlines and as you build up consensus with communities and with host governments to find shared and common interest. And a lot of times, it can mean that you are working with suppliers, your energy suppliers so that you can provide that base load. That’s worked really well in the energy contracts that we have built up with Green Energy [ph] and Endesa for San Ciprián in the future. We are sort of that base load customer, and we can get a very advantageous cost position, price position for us. But we also have to see how the market develops and then look at what – how the market mechanisms can then come to support those final contracts. So, all that to say, they are difficult problems and there is a lot – it’s a pretty simple slide, but there is a lot of work that’s going into it. But I think we have the right people working on the right things. And I would just come back to my point that we put a lot of creativity in how to solve these things because none of them are easy problems. And the fact is, is that we need to always step back and say, are we doing things as – with as little complexity and with as much effectiveness as we possibly can. It’s a really good question, John, and I appreciate it.
+
+John Tumazos
+
+Thank you. Thank you for your efforts as a management team.
+
+William Oplinger
+
+Thanks John.
+
+Roy Harvey
+
+Thank you, John.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for closing remarks.
+
+Roy Harvey
+
+Thank you, operator and thanks once again to everybody who joined this call. Given his time as CFO of Alcoa Inc. and now Alcoa Corp., I thought it would be good to hear a few words from our good friend, Bill, before we close for today. Bill?
+
+William Oplinger
+
+Thanks Roy. I will just make a couple of points before we close off. The first point is I am absolutely thrilled that Molly Beerman is stepping in as CFO. When I look at Molly’s abilities, she has tremendous knowledge of our company. She knows the financials better than anybody out there and she is a great leader. And on top of that, I think she will be a steady hand to help be a business partner for you, Roy. And I am just really happy that she is stepping into the role, so thrilled about that. I guess secondly, to address Lucas’ question, Lucas, this is my 40th earnings call as the CFO of Inc. and Corp., a full 10 years. And I have enjoyed tremendously the interaction with investors, investors, buy side, sell side. One of the highlights of my career has been working with the people on this call. And many of the most enjoyable times that I have had as CFO have been working with the people on this call. So, going on to the new role, I think over time, we may run into each other again. So, it’s probably not goodbye for now, but maybe just we will see you in the future. So, Roy, thanks for the opportunity to address the group.
+
+Roy Harvey
+
+Yes. Thanks Bill. And as you know, he is not going that far away. Operations are critically important to us. He does sit next to me in our Pittsburgh office and we are moving him out and moving Molly in. So, the value of my real estate is definitely going up because of better neighbors. But in the end, not to belabor the point, in the end, I think we have got the right people doing the right thing. Molly is going to do a great job as CFO. Bill is going to do a great job as COO. And we have complex issues but we have got the right team that are working on them. So, I just want to once again reiterate that I appreciate everybody’s continued interest in the company. I really do believe that we have built, over these 6 years, a strong foundation. And I also believe that we are working on the right things that were driving – continuing to drive improvement and making sure that we are doing things in the right way. So, these next few months will be gone before we know it, so I look forward to speaking with you again in April for our first quarter 2023 results. And we are going to have Molly Beerman at my side answering questions and helping us walk through the earnings. So, thank you to everybody. Have a good night. Stay very safe and we will talk to you soon.
+
+Operator
+
+The conference has now concluded. Thank you for attending today’s presentation. You may now disconnect.

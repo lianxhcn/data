@@ -1,0 +1,559 @@
+Agilent Technologies, Inc. (NYSE:A) Q1 2025 Earnings Conference Call February 26, 2025 4:30 PM ET
+
+Company Participants
+
+Parmeet Ahuja - Vice President of Investor Relations
+Padraig McDonnell - President and Chief Executive Officer
+Robert W. McMahon - Senior Vice President and Chief Financial Officer
+Simon May - President of Life Sciences and Diagnostics Markets Group
+Angelica Riemann - President of Agilent CrossLab Group
+Mike Zhang - President of Applied Markets Group
+
+Conference Call Participants
+
+Rachel Vatnsdal - J.P. Morgan
+Patrick Donnelly - Citi
+Jack Meehan - Nephron Research
+Vijay Kumar - Evercore ISI
+Brandon Couillard - Wells Fargo
+Puneet Souda - Leerink Partners
+Doug Schenkel - Wolfe Research
+Dan Leonard - UBS
+Michael Ryskin - Bank of America
+Eve Burstein - Bernstein Research
+
+Operator
+
+Good afternoon. My name is Regina, and I will be your conference operator today. At this time, I would like to welcome everyone to the First Quarter 2025 Agilent Technologies Inc. Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+
+Parmeet Ahuja, you may begin the conference.
+
+Parmeet Ahuja
+
+Thank you, Regina, and welcome everyone to Agilent’s conference call for the first quarter of fiscal year 2025.
+
+With me are Padraig McDonnell, Agilent President and CEO; and Bob McMahon, Agilent Senior Vice President and CFO. Joining in the Q&A will be Simon May, President of the Life Sciences and Diagnostics Markets Group; Angelica Riemann, President of the Agilent CrossLab Group; and Mike Zhang, President of the Applied Markets Group.
+
+This presentation is being webcast live. The press release for our first quarter financial results, investor presentation and information to supplement today’s discussion, along with the recording of this webcast, are available on our website at investor.agilent.com.
+
+Today’s comments will refer to non-GAAP financial measures. You’ll find the most directly comparable GAAP financial metrics and reconciliations on our website. Unless otherwise noted, all references to increases or decreases in financial metrics are year-over-year and references to revenue growth are on a core basis. Core revenue growth excludes the impact of currency and any acquisitions and divestitures completed within the past 12 months. Guidance is based on forecasted exchange rates.
+
+As a reminder, beginning in the first quarter of fiscal 2025, we implemented certain changes to our reporting structure related to reorganization of our three business segments. We have recast our historical segment information to reflect these changes and have provided the financial details on our website. These changes have no impact on our company’s consolidated financial statements.
+
+During this call, we will also make forward-looking statements about the financial performance of the company. These statements are subject to risks and uncertainties and are only valid as of today. The company assumes no obligation to update them. Please look at the company’s recent SEC filings for a more complete picture of our risk and other factors.
+
+And now, I’d like to turn the call over to Padraig.
+
+Padraig McDonnell
+
+Thank you, Parmeet, and thanks to all of you for joining today’s call. As you saw in our press release, we had a very solid start to the year, exceeding our expectations for core revenue growth and EPS.
+
+Before diving into the details, I want to first follow-up on conversations I had with many of you starting at our Analyst and Investor Day in December at the New York Stock Exchange and provide an update on progress of our Ignite Transformation. We’ve stated that Ignite is for our customers, employees, and shareholders. For customers, we want to create a seamless experience across Agilent products, software, and services. For our employees, we want to become nimbler and reduce complexity to enhance our ability to serve our customers. And for shareholders, we want to deliver industry-leading shareholder value through differentiated growth.
+
+We have set targets to grow core revenues between 5% and 7% annually, expand our operating margin by 50 to 100 plus basis points per year, and deliver double-digit EPS growth. Right now, I want to share three notable accomplishments from the Ignite Transformation that focus on setting a new pricing mechanisms, elevating our digital ecosystem, and identifying procurement opportunities.
+
+First, the creation of an Enterprise strategic-pricing organization that will focus on setting our standard approach for pricing across the entire solution set with the customer and not just at a tactical bottoms-up product level.
+
+Second, our digital ecosystem, a critical enabler in our evolved strategy we unveiled at Investor Day continues to be a key area of investment for us. Already, we have made meaningful improvements to our website, upgrading the user experience on our e-commerce platform by making it easier to find and purchase the products our customers need, helping driving topline growth. In Q1, our progress continued with digital orders growing high-single-digits.
+
+And third, our procurement teams have challenged our historical approach and are identifying significant cost-savings opportunities in many of Agilent’s functions. Also related to our Ignite Transformation, we’re assessing our organizational health. On my first day as CEO, I promised our employees we would become a nimbler organization to make decisions faster and accelerate innovation in service of our customers.
+
+As a result, we are removing some management layers and increasing spans of control. This is a continuation of our new organizational structure we announced in late November. Through that reorganization, we’re seeing our business leaders in lockstep on our strategy and transformation. This alignment enables us to make business decisions faster on priorities and trade-offs.
+
+As my leadership team and I look forward, we are focused on growing Agilent. A foundational element of growth is innovation, innovation that our customers want. Every time I visit a customer in any part of the world, they say the same thing; they want to partner with Agilent for better outcomes. That’s what differentiates Agilent, the deep scientific knowledge of our customer-facing team members that our competitors simply can’t duplicate.
+
+Customers want everything from the ability to parse massive amounts of data in seconds, to automating more tasks so they can focus on complex scientific challenges. In essence, they want to increase their productivity. That’s why driving lab productivity is among our key priorities. You can see evidence of this in our collaborative agreement with Zurich-based ABB Robotics to produce automated laboratory solutions, ones that will help our customers find new ways of improved workflows and make operations more efficient and flexible. These are customers across multiple markets, including pharma, biotech, energy, and food.
+
+Together with ABB, Agilent can transform the customer lab operations by making workflow processes for research, development, and quality control faster and more efficient. The goal is for all instruments, robots, and software to be interoperable, which is crucial to significantly boosting productivity for our customers. Our customers want to buy whole product solutions not just a single instrument. To illustrate that, our Infinity III series that we introduced in October has seen great adoption from all our customers.
+
+As a reminder, the Infinity III has an advanced automation that simplifies our customers’ daily routines and is compatible with previous generations, which allows for seamless upgrades and technology refreshes. And that has become a differentiator. Customers are saying that the backward compatibility combined with the modularity of Agilent systems allows them to decide how to upgrade and refresh their instruments. Plus, they’re telling us that they’re choosing Agilent because of our longstanding quality and technology leadership that’s been further enforced with the Infinity III.
+
+And the Agilent InfinityLab LC Solutions are certified by My Green Lab. These instruments optimize lab space, and they reduce water, solvent, and energy consumption while also minimizing waste. We continue to see strong momentum and growth in our sales funnel for the Infinity III because of its advanced automation that empowers our customers to be more productive and because of InfinityLab Assist, our automation software that provides on-board intelligence.
+
+So, our customers are not simply buying a platform, but a whole product solution. Just as exciting is that the great success of our Infinity III provides Agilent an incredible opportunity for us to upgrade our customers’ instruments. And it’s already happening across our legacy LC platforms, representing an opportunity in the hundreds of millions of dollars over the coming years.
+
+Now, I’d like to highlight some key aspects of our Q1 results. As you can see from our press release, we drove topline year-over-year growth while macro market trends, such as CapEx spending, continue to improve. Our revenue of $1.681 billion increased 1% over the same quarter in FY ‘24. This result exceeded our expectations and was led by excellent growth in PFAS and capturing an outsized share of the China stimulus awards.
+
+Our instrument book-to-bill was greater than one in Q1, a quarter when it’s typically less than one. This is another sign of market recovery, but more importantly, it’s a testament to our intense customer focus with products such as the highly successful Infinity III and our success driving our market-leading position in China.
+
+Additionally, we exceeded expectations in all regions and end markets except for Academia and Government. In our end markets, revenue was led by Food, which grew 9% driven by our success in capturing stimulus orders in China. In China, our accelerating share gains were apparent in recording a win rate of more than 50% on stimulus-related tenders. With our long history in the region elevated by our local manufacturing capabilities, we are well-positioned to expand our market leadership in China.
+
+Now, let me talk about our businesses and some growth vectors in each. Our Life Sciences and Diagnostics Markets Group grew 1% in the quarter, reporting $647 million. Performance was driven by a nice result in our LC and LCMS instruments, which grew high-single-digits during the quarter on the heels of our Infinity III launch.
+
+Within LDG, we remain focused on the integration of BIOVECTRA and we are delighted by the response we’re hearing from our existing and potential customers who are interested in leveraging BIOVECTRA’s unique capabilities and Agilent’s expertise. It’s clear that BIOVECTRA’s capabilities are in the sweet spot of tremendous markets with a terrific growth potential.
+
+The Agilent CrossLab Group grew 3%, reporting $696 million, which was in-line with our expectations, led by services. We are especially excited about the new ACG that now includes services, automation, consumables, and software and informatics. Software and informatics are among our key priorities, and we’ve had an overwhelmingly positive response to both our InfinityLab Assist automation software and our OpenLab CDS.
+
+The InfinityLab automation software offers remote notifications, trouble shootings, diagnostics, and maintenance that paves the way for a fully-automated, digital lab. And our OpenLab CDS provides time-saving steps in analysis, interpretation, and reporting workflows while technical controls ensure work quality, effective records management, and enhanced data security. In short, software is an incredible area of opportunity for us that we are poised to capitalize upon. Already, customers are telling us that InfinityLab Assist and OpenLab offer differentiated functionality and solutions in high-throughput environments.
+
+Our Applied Markets Group reported $338 million in the quarter, a 2% decline better than expected related to a strong China stimulus orders. We are very pleased with our team’s ability to compete and win these tenders. We continue to invest in the Applied Markets for next-generation technology innovation and, as I said, support our customers with lab productivity. Every customer we meet has expressed a desire to partner with Agilent to make better use of their instrument fleets to integrate with front-end solutions. And, we’re happy to help them find ways to create customized solutions so they can deliver products faster.
+
+Before I hand over to Bob, I want to address topics that have been in the news of late. Regarding the recent news around tariffs, we have a diversified supply chain with a manufacturing presence in all major regions of the world. Our teams already are taking action to mitigate the impacts on our business. In terms of potential reductions to NIH funding, as we’ve shared with you before, our exposure to NIH-related programs is limited to around 1% of our revenue. We currently believe the forecasted impact is manageable within our current guidance.
+
+Bob, will now delve deeper on our Q1 results, as well as our outlook for Q2. After Bob delivers his comments, I will be back for some closing remarks. Bob?
+
+Robert W. McMahon
+
+Thanks Padraig, and good afternoon, everyone. In my remarks today, I will provide some additional details on revenue in the quarter, as well as take you through the income statement and other key financial metrics. I’ll then cover our updated full-year and second quarter guidance.
+
+As Padraig mentioned, Q1 revenue was $1.68 billion, just above the top-end of guidance despite the strengthening of the U.S. dollar during the quarter. On a core basis, we posted growth of 1.2%, beating expectations. Adjusting for the timing of Lunar New Year impacts, core growth is estimated to be just over 3%. On a reported basis, growth was 1.4%. Currency had a negative impact of 1.4 percentage points, which was over one percentage point higher than estimated at the start of the quarter. And M&A contributed 1.6%.
+
+Padraig already discussed our business group results, so I’ll focus on deeper details about our end markets. We exceeded expectations in all of our end markets except for our smallest one, Academia and Government. Our business in the Food market grew 9%, benefiting from our excellent performance in China’s national stimulus program. In Environmental and Forensics, we grew 6% as we continue to leverage our best-in-class PFAS workflow solutions to grow our market-leading position.
+
+We continue to capitalize on the strong demand for PFAS testing that we are seeing globally. Our 6495 triple quad LCMS is the most complete instrument in the PFAS testing market with a specific performance edge in small and fragile molecules where many of the emerging PFAS exist. Along with our new offerings in PFAS-specific consumables and our workflow deployment services, Agilent provides the fastest, highest-quality and most reliable way for customers to add or expand PFAS testing capabilities in their labs. Now looking across all end markets, PFAS grew 70% in the quarter, contributing 75 basis points of growth to the company.
+
+Pharma was flat during the quarter, with low-single-digit growth ex-China offset by a high-single-digit decline in China. Globally biopharma and small molecule performed roughly in-line with the overall market. In Chemical and Advanced Materials, revenue declined 2% with growth ex-China offset by a high-teens decline in China, which was mostly impacted by the timing of the Lunar New Year. Our business in the Diagnostics and Clinical end market grew 7%, led by strong results in the Americas and Europe. Academia and Government, our smallest market, saw a decline of 7%, with soft results around the globe.
+
+Now moving on to our regional performance, the Americas grew 3%, Europe grew 2%, and Asia ex-China grew 2%, all slightly ahead of expectations. China revenue declined 4%, also better than expectations, on the strength of our stimulus performance. For your models, we estimate that Lunar New Year was a $10 million revenue headwind in the quarter, which we expect to come back in the second quarter. This compares to a $25 million favorable Lunar New Year impact in the first quarter of last year, so combined a 2 percentage point year-on-year impact.
+
+Now, let’s move on to the rest of the P&L. Gross margin was 54.7% in the quarter, down versus last year primarily due to mix, currency and the Lunar New Year timing. We drove operating margins of 25.1%, roughly in-line with our expectations, despite currency headwinds. While down versus last year, we expect improvement throughout the year as the results of our Ignite Transformation continue to deliver.
+
+And below the line, our net interest expense was better than expected as was our tax rate of 12.5%. And we had $287 million diluted shares outstanding in the quarter. Putting it all together, Q1 earnings per share were $1.31. That was ahead of our expectations and up 2% from a year ago, growing slightly faster than revenue.
+
+Now, let me turn to cash flow and the balance sheet. We continue to enjoy a very strong balance sheet and healthy cash flows. Operating cash flow was $431 million in the quarter, and we invested $97 million in capital expenditures. We purchased $90 million in shares and paid out $71 million through dividends during the quarter. And, we ended the quarter with a net leverage ratio of 1.0. In summary, we had a good start to the year, and expect continued steady improvement in the market through the year.
+
+Now, let’s move on to our outlook for the fiscal year and the second quarter. While we exceeded core growth expectations for Q1, we are maintaining our core growth guidance of 2.5% to 3.5% for the year. This guidance incorporates an element of prudence reflecting the uncertainty over the U.S. federal funding environment, even though it is a small part of our business. However, we are adjusting our full-year reported revenue to be in the range of $6.68 billion to $6.76 billion to reflect the strengthening of the U.S. dollar.
+
+If you recall our initial guidance back in November incorporated only a very modest FX headwind. Since then, the U.S. dollar has appreciated and based on current exchange rates, we are now projecting an incremental $110 million in currency headwinds relative to our prior guidance. Currency is now expected to represent a 1.9% headwind for the year versus a prior 20 basis point headwind. We also have left our M&A guidance unchanged at plus 2.0% to 2.2% revenue impact for the year.
+
+Full-year, non-GAAP earnings per share are unchanged at $5.54 to $5.61, representing an increase of 4.7% to 6.0%. Relative to our prior guide, currency net of hedging is an estimated additional $0.09 headwind for the year, which we are covering. This assumes flat other income and expense, a 12.5% tax rate, and $286 million diluted shares outstanding.
+
+Now for the second quarter, we are guiding to revenue of $1.61 billion to $1.65 billion. This range is a bit wider than we typically use for the upcoming quarter, reflecting the uncertainty around U.S. Federal Government spending. This range represents an increase of 2.5% to 5% growth on a core basis and an increase of 2.4% to 4.9% growth on a reported basis. Currency is a 2.1% headwind, and M&A impact is expected to be a 2% benefit for the quarter.
+
+Second quarter non-GAAP earnings per share are expected to be between $1.25 and $1.28, representing growth of 2.5% to 4.9%. Year-on-year currency net of hedging is expected to be a $0.02 headwind to EPS.
+
+Now, I would like to turn the call over back to Padraig for closing comments. Padraig?
+
+Padraig McDonnell
+
+Thanks, Bob. Before we end the call, I want to take this opportunity to highlight more of the Agilent team’s tremendous work. This quarter, the World Economic Forum named our factories in Shanghai, China and Penang, Malaysia, as Global Lighthouse Networks. This recognizes Agilent for its breakthroughs in scaling AI, 3D printing, robotics, big-data analytics, and industrial internet of things. I was delighted to be able to accept those awards in person this year at the Forum in Davos, Switzerland. Shanghai and Penang are two of four Agilent manufacturing sites that have earned this prestigious distinction.
+
+In 2022, the Forum named our Singapore and Waldbronn, Germany, sites as Lighthouses. Still today, Agilent is the only analytical and clinical laboratory technology company in the world to be recognized by the World Economic Forum. Also during the quarter, Newsweek ranked Agilent No. 10 out of 600 on its 2025 list of America’s Most Responsible Companies up seven places from 2024. This is our sixth consecutive year on the prestigious list and is a recognition of Agilent being a leading sustainable lab partner to our customers. We are proud to be among the U.S. based companies who are making a positive global impact.
+
+At Agilent, we’re only at the start of our Ignite Transformation journey and already we’re seeing early benefits like the ones I described at the start of this call. In less than nine months, we’ve made incredible changes that are improving our customers’ productivity in an era when the pace of science is faster than ever. We’re also becoming nimbler for our employees to better serve our customers.
+
+The outcome we’re enabling is faster decision making so that we can accelerate innovation and create differentiated growth. And that, in turn, leads to industry-leading shareholder value. What we are doing at Agilent is turning a good company into a great one. We are committed to continuous improvement and adapting to changing market dynamics.
+
+Thank you for joining today’s call. Let’s move to Q&A. Parmeet?
+
+Parmeet Ahuja
+
+Thanks, Padraig. Regina, if you could please provide instructions for Q&A now.
+
+Question-And-Answer Session
+
+Operator
+
+[Operator Instructions] The first question will come from the line of Rachel Vatnsdal with J.P. Morgan. Please go ahead.
+
+Rachel Vatnsdal
+
+Great. Good afternoon, and thanks so much for taking the questions. So first up, I just kind of wanted to dig into some of this prudence that you mentioned in the guide. Obviously, you’re talking up some of the progress that you guys have seen on your orderbook, but you’re also acknowledging some of that headline risk that we’ve seen on the funding side the last month and a half or so. So, could you quantify for us what level of headline risk can be really embedded into not only the fiscal 2Q guide, but the full-year guide at this point? And then have you seen any impact so far from customers and what are you really seeing from your sales teams that are boots on the ground?
+
+Padraig McDonnell
+
+Yes. So, thanks for the question, Rachel. You know, our guide is a prudent one as we see a lot of changes happening. I will say from our customer base and particularly in our pharma base, activity has increased. The sentiment is increasing as we talk to our customers. Of course, things are, on the macro side are changing with NIH funding, which were less than 1% and, of course, tariffs, which we can mitigate.
+
+So, I would say our guide is as a prudent one, but we’ll be able to monitor that as we go through the next quarters. But Bob, I don’t know if you want to add more detail.
+
+Robert W. McMahon
+
+Yes. Hey, Rachel, good afternoon. And to your point, around the prudence, we did raise, increase the range for our second quarter guide to roughly $40 million in between the low and the high. It’s typically anywhere from $25 million to $30 million. As I mentioned in the prepared remarks, our NIH funding is roughly 1% at the maximum.
+
+And so, given the strength that we had in the first quarter and the fact that we’re not raising guide, we feel that we’re well compensating any potential downside. And to Padraig’s point, we haven’t seen any of that materially impact our business, and the activity in our customers.
+
+Rachel Vatnsdal
+
+Perfect. And then just on my follow-up, I hate to ask specifically on FX, but I think it’s a question that a lot of us have on the line here. Can you just walk us through how much of the EPS number in the fiscal 2Q number especially is impacted by that FX given how much rates have really moved within the quarter? And then same idea just on the margin front, especially around that 2Q and for the full-year at all, what would that look like without these FX impacts? Thanks.
+
+Robert W. McMahon
+
+Yes, that’s a great question, Rachel. So, let me give you a little more data. So for the full-year, that incremental $110 million is a $0.09 impact for the full-year, as I mentioned before, and that really is roughly a 50 basis point headwind to the overall company that we’re covering. If I look at it for second quarter, it’s about a $30 million, $32 million headwind in the quarter, roughly 2.1% and it’s $0.02 to $0.03 in the quarter, and roughly the same kind of impact from a profitability standpoint.
+
+Operator
+
+Our next question will come from the line of Matthew Sykes with Goldman Sachs. Please go ahead.
+
+Unidentified Analyst
+
+Hi, this is Ebie on for Matt. Thanks for taking my questions. So, the first one, can you talk through the opportunities within PFAS given the 70% growth you saw in the quarter? How much of this demand is coming from Europe following the packaging regulation? And then also, what do you think the growth contribution going forward could look like for this market?
+
+Padraig McDonnell
+
+Yes. Thanks for the question. So, the demand for PFAS solutions remains extremely strong. During Q1, the solutions growth accounted for 75 basis points at a company level. And while most of the volume came on the environmental side, we’re seeing actually exceptional growth in food and chemical materials as well. And the opportunity in Q1 grew 70%, but also if you look at that compared to Q4 was 50%, it was a big step up in growth rates.
+
+And, with the environmental market still accounts for the largest part of the PFAS revenues. We saw increased customer purchasing in the CAM market, with water discharge in some of those areas. And really we see, all regions doing well. We saw a little bit of a pause in China, which had a great sequential quarter of growth in PFAS. But that’s normal as labs tool up on the equipment side.
+
+Europe was very strong and we expect that to be very strong. And, this is a market and this is an area where it’s going to continue to morph and grow depending on new regulations and expanding into new modalities. And I will say, at the core of this is our 6595D triple quad, which is the leading sensitivity in the market, which helps with emerging PFAS characterization and of course our ability to offer consumables and workflow deployment services are really important as customers get set up quickly in their labs.
+
+Robert W. McMahon
+
+Yes. And Ebie, just to build on what Padraig was saying, we ended last year approaching $100 million in revenue in the first quarter. We’re well over that piece, as you can imagine. So I’d say, I think we’re uniquely positioned given all the things that Padraig just said and it’s becoming even bigger component of our growth story going forward.
+
+Unidentified Analyst
+
+Okay, great. Thank you. And then can you talk through how much of the growth in instruments is due to true end market recovery versus replacements being driven by the Infinity III launch? And then any updates on how that launch is impacting your overall win rates?
+
+Padraig McDonnell
+
+Yes. I mean, if you look at our core on the LC and LCMS side in pharma, which is we grew high-single-digits globally and ex-China we grew double-digits actually on that. And, what we’re seeing is a continued improvement in pharma’s willingness on CapEx spending, undertaking opportunities in PFAS and GLP-1s as well.
+
+Infinity III has gone extremely well for us. We’re seeing significant rise in win rates. We’re seeing of course that the productivity gains that this system gives out is resonating with customers extremely well. And as we look at our, refresh of our installed base, whether it’s 1100s, 1260s or 1290s, there’s a lot of opportunity there. Some of that is actually spurred by end of support on the 1100 side in some areas.
+
+So, we’re seeing our tech refresh momentum has really started around the Infinity III. So, really good momentum.
+
+Operator
+
+Our next question will come from the line of Patrick Donnelly with Citi. Please go ahead.
+
+Patrick Donnelly
+
+Hey, guys. Thanks for taking the questions. Padraig, maybe just on China. I know you talked about seeing an out-sized share from the China stimulus I know when we chatted a month ago, you guys were pretty positive on that piece as well. Felt like you were getting more than your fair share given where those dollars are going. It felt like a little more GCs and industrial. Can you just talk about what you’re seeing there, the traction?
+
+It feels like there could be some nice upside there. I know that there’s more tenders coming as well. So it would be helpful to talk through China stimulus and the impact around GCs and the industrial piece.
+
+Padraig McDonnell
+
+Yes. No, thanks, Patrick. And we did saw a really nice uplift to our excellent performance and winning outside share of the tenders and the national stimulus program. The total stimulus demand for Q1 was around $35 million and we recognized all of that in the quarter. We won 50% of all stimulus orders. And with this round, our China team is now expecting the next round of stimulus to come later in the year. That’s yet to be quantified. It is going to be broad and I think it’s going to be slightly more fragmented in the type of customers. But the size of that round is really not clear as of yet.
+
+So, but I think, at this point, we’re not assuming that all stimulus we booked in Q1 would be fully incremental for the year. I think that’s important to say. We expect that some of that is likely pull-forward and our thinking is about [50%] (ph) of that is pull-forward. And we did not see a meaningful improvement in the underlying business in Q1.
+
+What I would say the China market is stable and we’re otherwise maintaining our expectation on the base business, resulting in a modest increase for FY ‘25 expectations. And while we’re increasing our expectations for the year, the total remains within our low-single-digit guide range.
+
+Patrick Donnelly
+
+And Bob, are you rolling that second tender into the guide or will that be upside?
+
+Robert W. McMahon
+
+Yes, that’s a good question, Patrick. We’re staying consistent with how we did it in the beginning of the year, which is, we have not rolled any incremental into the guide. So, that would be a source of upside, Patrick, once we understand more about what the scope and timing of that will be. We do believe that based on the folks, our team on the ground that it will happen in the second quarter of the second half of this year, whether that shows up in our second or third and fourth quarter, or by the end of the calendar year still be determined.
+
+But needless to say, we are very optimistic given our strong performance in this first cycle and the fact that we have a strong ability to produce all of our products in China before China.
+
+Patrick Donnelly
+
+Yes. That’s helpful. And then maybe just on the NASD business, can you talk about what you’re seeing there? I know last quarter you talked about high-single-digit growth expectations, maybe some potential for double-digits. So, we’d love to hear the latest thoughts there. Any color commercial versus clinical would obviously be helpful as well.
+
+Padraig McDonnell
+
+Yes, I’ll kick it off and I’ll hand it over to Simon. So, very much as expected in Q1, demand continues to be very strong. No change in guidance for the year, which is guiding at high-single-digits and of course nudging to low-double-digit target. But Simon, you want to add more color?
+
+Simon May
+
+Yes. I think you said it well Padraig, demand very much in-line with expectations, revenue profile also in-line with the expectation, the full-year outlook remains absolutely intact. I think we still have a dynamic in NASD, which bodes very well for the future where we’ve got a lot of process qualification work for molecules that are headed towards the commercial space.
+
+And that coupled with the order intake patterns that we’ve been seeing for quite a while now make us very enthusiastic for the future. So confident about the ‘25 guide and even more confident and enthusiastic about the longer-term.
+
+Patrick Donnelly
+
+Great. Thank you, guys.
+
+Operator
+
+Our next question comes from the line of Tycho Peterson with Jefferies. Please go ahead.
+
+Unidentified Analyst
+
+Yes. Hi, good afternoon. This is Jack on for Tycho. Appreciate you taking our question. I guess just one on the replacement cycle. Appreciate the color on Infinity III and kind of the influence there. I guess any other data points that spike out to help us understand where we sit today, and kind of better understand the shape and pace of the replacement cycle and how it could play out over the next two to three years?
+
+Padraig McDonnell
+
+Yes. I mean, LC replacements, it happens at different times within different installed bases and so on. What I will say about, us in terms of Infinity III, it really has kicked off that replacement cycle. And, what we’ve seen is that typically, the replacement cycle is about nine to 12 months. And because of our installed base and a lot of 1100s out there that are some of those are coming to end of support, it really has created momentum around it.
+
+So, we expect that to be a steady replacement cycle. We don’t expect the super cycle in any particular quarter, but as we move forward, our installed base will move with it. What I will say as well, we’ve made significant improvements in our lifecycle management process. So how we can look at where the installed base is, how we can inform customers for better productivity and so on. And the good news is Infinity III has all those capabilities.
+
+Robert W. McMahon
+
+Yes. Hey, Jack, maybe just to build on what Padraig is saying is, I would say we’re in the still in the early stages of that recovery. We had a very strong performance in Q1 with the uptake of Infinity III. The feedback continues to be very positive.
+
+And I would also look at when we look at the average age of our installed base is still older than normal, and so, we’re very excited about this. I would also say that order growth outpaced revenue growth in the quarter. So again, another positive instance. And that’s on top of overcoming Chinese Lunar New Year, that’s across the board. So, certainly, early days very positive for all the things that Padraig was talking about in the call. And I think there’s a long runway here, for us to be able to take advantage of not only our own installed base, but also, competitive installed base as well.
+
+Unidentified Analyst
+
+Appreciate it. Thank you.
+
+Operator
+
+Our next question comes from the line of Jack Meehan with Nephron Research. Please go ahead.
+
+Jack Meehan
+
+Thank you. Good afternoon. Padraig, you mentioned, I think early in the script, some changes in the management layers within Agilent. Is there any additional color you can share on what you’re doing? And then just is there any associated savings, attached to that that you would call out? Thanks.
+
+Padraig McDonnell
+
+Yes. Thanks, Jack. So, first of all, we layered we talked about our new organizational structure at the Investor Day at JPMorgan. And one of the key elements of our customer centric strategy we introduced was becoming more nimble. That’s going to speed up decision making and also increase innovation. And these changes are absolutely critical to our strategy and we know they’re going to deliver many benefits to our customers.
+
+So, what we’re really doing is we’re looking at layers in the organization where we can flatten a little bit, increase our span of control so we can improve our decision making and also get a better coverage in our management layer. And while I would say the focus of this is truly strategic, it really is leading with our strategy. There will be some cost reductions associated with these changes later in the year. And that’s where you have those baked into our guide.
+
+Robert W. McMahon
+
+Yes. Hey, Jack, just if you recall, when we talked about the Ignite savings at the beginning of the year, we talked about some being in the second half, more in the second half. That’s where you’ll see the activities that we’re going through right now.
+
+Jack Meehan
+
+Okay. And then, it’d be great to get an update on BIOVECTRA. It looks like that M&A added $26 million of sales in the quarter. Has your target for the year changed at all? I think I heard $145 million in the model. And can you just talk about how things are going there? Thank you.
+
+Padraig McDonnell
+
+Yes. I’ll pass this one to Simon to take.
+
+Simon May
+
+Yes. Thanks for the question. I’d say overall, as we are going through the integration process with BIOVECTRA, we’re increasingly excited about what we’re seeing there. I think the more we get under the hood, the more the capabilities that we have there are resonating with our internal experts and also with our customers. We think it’s still very early inning and we’re absolutely in the sweet spot there with those capabilities and relative to where the book is going with therapeutic modalities.
+
+We were slightly soft on revenue in the first quarter. The focus there is really very heavily on bringing certain aspects of the operation up to the Agilent NASD standards with process and quality, and that’s progressing really well. But then with regard to the full year guide, we’re holding to the previous guidance and so no change there.
+
+Jack Meehan
+
+Okay. Thank you, Simon.
+
+Operator
+
+Our next question comes from the line of Vijay Kumar with Evercore ISI. Please go ahead.
+
+Vijay Kumar
+
+Hi, guys. Good afternoon and thank you for taking my question. I guess, Bob, when we report again on your book-to-bill commentary here being about one versus seasonally being built sub-1x, is that being driven by stimulus or perhaps timing of the Chinese New Year? Maybe talk about the book-to-bill trends and what is that signaling?
+
+Robert W. McMahon
+
+Yes. Hey, Vijay, it’s Bob. Yes, actually the Lunar New Year didn’t have a big impact on that. Actually, I would take that as a sign of the continued recovery, particularly in the instrumentation market. We did have an impact or a contribution from the Lunar New Year, but the real big area is both LC and LCMS.
+
+So, typically what we see is just because the way our fiscal year is that our first fiscal year because January is the last month of the quarter the instrument book-to-bill is typically lower than one. And so the fact that it’s above one is a very positive sign from our perspective that recovery continues. And as we were saying, it’s really been led by some of the new products in the unique attributes of our, the Infinity III portfolio and has given us or allowed us to have renewed conversations with customers and so forth.
+
+Vijay Kumar
+
+Understood. And Padraig, maybe one for you on, I think I heard you mention you’ve identified a few hundred million dollars worth of replacement opportunity. I guess, what is the average age of the fleet? And when you do that math, what is incremental of that few hundred million versus a normal replacement cycle? And when you think about the attach rates on services and chemistry, do you feel like that part of the business is growing mid-to-high singles or where are we on services and consumables?
+
+Padraig McDonnell
+
+Yes, I’ll take the first step piece and I’ll hand it over to Angelica to give more color on the services and consumables. But we’re older than the median, I would say, of the age of the installed base. And the installed base is very large, very disparate, a lot of different equipment in it. So, we expect that we’re going to see the pace of that change, continually improve throughout the year.
+
+And then there’s a huge opportunity there in terms of opportunity for replacements. And also when that comes, of course, we have attach rate with the new Infinity III both on the services on the consumer side.
+
+So, I would say as well, just to mention that we did see an improvement at the end of year orders. If not back to pre-COVID days, but there was a sequential improvement in terms of December orders in terms of budget flush versus the previous year, which again was in large part about install base change.
+
+And I would say when I talk to lab managers out there and we talk to, high level procurement people there’s a lot of pent up demand for, instrument changes. Lab managers are really pressing that. And we do see the purse strings loosening a bit within our pharma customers. But Angelica on service and consumables?
+
+Angelica Riemann
+
+Yes. Great. Thanks, Padraig. To add to what you’ve already said, it is going to the replacement cycle is going to occur over a period of time, and it’s probably going to be a mix of some incremental, placements of new instruments as well as replacing some of the aging instruments on the lab bench.
+
+And what that really allows us to do is continue our focus on increasing our ability to connect services and consumables as those new instruments are being put into service, and we know that, that motion allows for greater and longer customer lifetime value both in how the customer is using that instrument but also in terms of the continued revenue stream that that generates for Agilent. So, there is upside and incremental opportunity, for sure. Understood.
+
+Operator
+
+Our next question comes from the line of Brandon Couillard with Wells Fargo. Please go ahead.
+
+Brandon Couillard
+
+Hey, thanks. Good afternoon. Bob, can you just help us understand what’s going on with gross margins, down over 130 basis points in the first quarter? Was that in line with your expectations? How much did currency affect that? And what are you expecting kind of the next few quarters?
+
+Robert W. McMahon
+
+Yes, Brandon, what I would say is if we looked at the bottom line, operating profit was in line. Gross margin was a little lower just because of some of the mix of products. It wasn’t anything material and I would expect that to improve throughout the course of the year. If you can imagine, with a large stimulus in China that did have some pressure on our margins at the gross margin level, but very profitable at the operating profit margin.
+
+And currency did have an impact as well in Q1, and that impact was roughly 20-30 basis points in the quarter for the total company. And I’d expect some of that to continue throughout the course of the year. We do get some benefit because we do hedge, but still the drop through of that is greater on the gross margin.
+
+So, the one thing I would say, Brandon, to offset that is we were actually pleased with the pricing. Padraig mentioned about the pricing. It actually was trending a bit higher than what we had expected in Q1 and are expecting that to continue through the course of the year.
+
+Brandon Couillard
+
+Okay. That’s helpful. And then, it’d be great if you could get an update just on the pathology and genomics pieces and how those performed in the first quarter. I think genomics is actually up in the fourth quarter. Can you share an update? It would be helpful. Thanks.
+
+Padraig McDonnell
+
+Yes. I’m going to pass this one to Simon.
+
+Simon May
+
+Yes. I said genomics was puts and takes in the first quarter. We saw some negative impacts from the funding situation in the U.S. with academia and government.
+
+And then on the flip side, we continue to see really strong traction with our Magnus automated NGS prep system that’s on a very strong growth trajectory. And the way the chemistry as well still is pretty a pretty small acorn, but the customer adoption there is looking pretty strong.
+
+So, as we look to the full year, I still think we see a path to return to growth in genomics. But again, the near-term headwinds, at least with academic and government funding slightly outweighed the positives from Magnus in the first quarter.
+
+Robert W. McMahon
+
+And the diagnostics and clinical overall grew 7% and pathology was flat year-over-year, but we see very steady growth rates as we go through the year on that side.
+
+Brandon Couillard
+
+Great. Thanks.
+
+Operator
+
+Our next question comes from the line of Puneet Souda with Leerink Partners. Please go ahead.
+
+Puneet Souda
+
+Yes. Hi, Padraig and team. Thanks for taking my questions. First one, if you could just elaborate a little bit on the China stimulus, we were expecting more orders and maybe more continued orders. And so I’m just trying to understand, so why are you expecting it in the second and the rest of the instrumentations and growth from stimulus potentially in the second half? Maybe can you elaborate, what you saw? What are you hearing from the ground in China?
+
+Padraig McDonnell
+
+Yes. So, the stimulus order was within the food area, within the Chinese customs and government departments. And it was very broad based in terms of instruments that actually held most of our platforms in it. We won 50% of that stimulus order, which is around $35 million and was recognized essentially all of that was recognized in the quarter.
+
+That’s a very extremely high, win rate. And of course, we think it’s not all of that is incremental. We believe about half of it is kind of run rate pull forward. Half of that is incremental. And, but it shows when these stimulus come in, the Agilent team can really win its oversized share of it.
+
+And as I said before, you know, we’re expecting more stimulus, which we haven’t baked into the guide in the second half. But rest assured, when that arises, the Agilent team will be there to help customers.
+
+Simon May
+
+Yes. Hey, Puneet, to build on what Padraig is saying, I actually see this as a really positive that we were able to not only get that revenue in, the orders in and actually deliver it, it’s a real testament to the Agilent team. And so it actually gives me increased confidence that when the orders come in, we will get more than our fair share in the second half of the year.
+
+So, I think we still feel very optimistic about not just this year, but, you know, if you remember, this is a multi-year kind of stimulus program. And, so, we feel very good about the momentum that we have. I wouldn’t look at it quarter-to-quarter. I look at it year-over-year.
+
+Padraig McDonnell
+
+And just maybe adding one point. I mean, what is absolutely crucial for those orders, to come in is having met in China capabilities and having our ability now to make all our platforms within China for China is really a significant advantage for us.
+
+Puneet Souda
+
+Got it. Thanks for clarifying that. And then question on the margin side. With Ignite efforts, can you elaborate the margin contribution? You talked about pricing on one end, number of cost efforts and also reducing some of the management changes that you have in place. So just wondering how should we think about the margin contribution? Do you have a target, this year from Ignite? Thank you.
+
+Padraig McDonnell
+
+I’ll start it off and I’ll hand it over to Bob. So yes, of course, we have a very well defined program as we go through the year. Actually, Ignite is a three year program. And what we said is over the three years, [72] (ph) basis points plus in terms of margin expansion. And of course, all of this doesn’t happen all at once, right? So we’ve seen early benefits both from the procurement, direct and indirect procurement side and from pricing in terms of what we’re seeing. But of course, we’ll see more in the second half and as we go into next year.
+
+But Bob, I don’t know if you want to give more color on that.
+
+Robert W. McMahon
+
+Yes. I was going to say, we’re on track with what we had talked about at the beginning of the year Puneet, which was 50 to 70 basis points this year. We’re going to have to work harder for that because of some of the currency. But pricing has held up here in the quarter and we’re on track, as Padraig mentioned for some of the other areas.
+
+Puneet Souda
+
+Got it. Helpful. Thank you.
+
+Operator
+
+Our next question comes from the line of Doug Schenkel with Wolfe Research. Please go ahead.
+
+Doug Schenkel
+
+Good afternoon, guys, and thank you for taking my questions. When we caught up with you guys in January, it sounded like similar to the rest of the peer group, you had a strong December in terms of the instrument budget flush, especially in the pharma end market. And, I guess I’m just wondering if one, I want to confirm that was the case that the end of the fiscal year came together strongly.
+
+And if so, it would be interesting to hear if there’s anything, interesting that occurred in terms of a particular rebound in specific instrument categories, specific geographies, specific end markets, and then kind of building off of that.
+
+Was January normal? Or did you, you know, kind of go into the second topic I wanted to cover given the change in administration? If December felt a little more normal, did January feel maybe less normal given all the uncertainty in terms of pharma regs, academic funding, food and water testing.
+
+Any commentary on all of those things would be really helpful.
+
+Padraig McDonnell
+
+Okay. Thanks. So, I’ll start off and I’ll hand over to Bob. So, it was certainly as we talked before December, it did play out as we expect us. We did have that strong momentum. And what was driving that, overall demand, I would say particularly around Infinity III, but also we talked about PFAS testing and including, also what we’re seeing in the GLP-I areas.
+
+And January new administration comes in a lot of changes. And of course, we’re mitigating those changes as we go through it. The only area where we’ve seen some softness is really in Academia, with NIH funding where things have really slowed down a bit. But of course, that’s a very small part of our business and it’s not within the guide on us.
+
+In pharma, when we talk to our customers, actually there’s a lot of questions, you see a lot of discussions around Aira, etcetera, what changes might happen about international pricing index, etcetera. But I would say that hasn’t impacted on the pharma side. We’re still seeing a steady business coming out of that side, but everybody’s really, really watching that.
+
+On the PFAS side, just going back to the pharma side as well, people were talking about FDA, changes within the FDA. I think that hit more of the medical device companies, areas within that expertise, but we haven’t seen anything on us yet. And within PFAS, that business continues to be strong. We still see it in January, there’s been no change in that as it happens. So, it’s an area we’re going to continue to watch very, very closely, hugely dynamic. But I would say January is a steady progression from December.
+
+Doug Schenkel
+
+Thank you very much.
+
+Operator
+
+Our next question comes from the line of Dan Leonard with UBS. Please go ahead.
+
+Dan Leonard
+
+Thank you. You mentioned a couple of times that you saw an improvement in pharma CapEx. And what I’m curious about is how much of that improvement was narrowly relevant to QAQC versus broader and inclusive of R&D functions in pharma and other product categories in your portfolio like cell analysis?
+
+Padraig McDonnell
+
+Yes. So, I’ll kick it off and maybe hand it to Simon on this one. So, we’re of course, we have heavy fleets and a lot of capabilities when QAQC and development for QAQC. So we saw that across the board on that side. I would say in R&D you see a lot of shifts in terms of where customers are spending money. So, we did actually see a good continuation of positivity on that side.
+
+But in the pharma QAQC and the development areas of labs, we’ve seen continued, I would say, steadiness and incremental strength in it driven around a replacement of fleets and driven by the Infinity III. But Simon, I don’t know if you want to add anything to that.
+
+Simon May
+
+Very little to add on. There was a reference in the question to cell analysis tools and there’s a look at that overall. And actually, so on the academic and government side, we’ve had some impact there in cell analysis with our lower end instrumentation where although at company level, the exposure is very minimal within cell analysis, it’s a little higher. But generally speaking, the funnels are robust in biopharma across the entire continuum.
+
+We’re seeing really nice adoption of our NovoCyte Opteon platform, the spectral flow cytometer and the citation C10 is also performing really well. So a few puts and takes in cell analysis.
+
+Dan Leonard
+
+Okay. That’s really helpful. And then a follow-up question. I think, Padraig, you mentioned in your prepared remarks that you’ve taken specific actions in response to the tariff talk. Can you elaborate on that?
+
+Padraig McDonnell
+
+Yes, no problem. So, we have a very diverse manufacturing capability around and if you talk about the three areas for tariffs, we talked about in Mexico, we have no manufacturing. In Canada, we do have manufacturing with BIOVECTRA, but it’s about 30%, I think is, put into the U.S. And of course, in China, we have in China, China on it. So we believe the overall impact is about $5 million and we actually believe that’s very mitigated bodes down to much less than that and we’re working on it.
+
+Just to give you a sense of it, we were able to shift our supply chain pretty quickly in areas from, say, China back into the U.S. and, into Singapore as well, which really is very mitigatable.
+
+Dan Leonard
+
+Thank you.
+
+Operator
+
+Our next question comes from the line of Michael Ryskin with BofA. Please go ahead.
+
+Michael Ryskin
+
+Thanks guys. Maybe a little bit of cleanup, but you’ve touched on this a couple of times in terms of the academic government. I just kind of want to make sure I understand the timing of it.
+
+If I’m just going to go back to the slide deck, the negative seven in the quarter, you call out softness globally and then anticipated slowdown in government spending, impacts willingness to some customers are staying.
+
+So, is this things you started seeing back in November, December? I’m just trying to think of the timing of what was happening in the quarter as it relates to election, inauguration, all of that. Any clarity there would be helpful.
+
+Robert W. McMahon
+
+Yes. Hey, Mike, this is Bob. What we saw actually was a pretty consistent performance across all of the regions. So, they were all down. So that’s what we were talking about when we did see globally. We did see maybe a slight more in January incremental softness towards the end as people were trying to figure out the NAH activity. I wouldn’t say that necessarily is super material for us.
+
+And as you know, the Academia and government can be kind of lumpy at times. So, the one area that I would say got disproportionate impact actually was China and a lot of that is some of the impact of the timing of the Lunar New Year. And so, I think that they were the most negative for the full Q1. And that we have a slightly larger exposure in Academia and government in China than we do relative to the rest of the world. So, I wouldn’t read too much into it. Hopefully, that kind of clarifies, kind of what we were seeing.
+
+Michael Ryskin
+
+Yes. It does. It does. And I think, I mean, just right now in response to, I think Dan’s question, you’re talking about cell analysis specifically. Is that just another area where you have overlap where it’s concentrated in a handful of different parts of the portfolio? I imagine there’s not a lot of GCs going into academic and government labs.
+
+Padraig McDonnell
+
+Yes. That’s the true statement. And again in cell analysis the way I’d characterize it is that we began to see hesitancy in Academia and government in the run up to the election last year. People were kind of in wait and see mode to see what happened with the election. Now what we’re starting to see, of course, is that the impacts are real. And just to say, again, in cell analysis, we’ve got proportionally higher exposure there in Academia and government than we do in many, if not all, other parts of our portfolio. So, your statement there about the relative impact is a true one and we don’t see that elsewhere.
+
+Michael Ryskin
+
+All right. Thanks. That’s helpful.
+
+Operator
+
+Our final question will come from the line of Eve Burstein with Bernstein Research. Please go ahead.
+
+Eve Burstein
+
+Thanks a lot for taking the question. This has been asked a couple of ways, but maybe just to follow-up on Mike’s question for academic and government. You said you were starting to see a little bit of softness at the end of January. How is that trending into February? Can you just give us a take now where you stand today?
+
+Padraig McDonnell
+
+Yes. What I would say is, that’s why we have a little wider guidance in the Q2 guide between the low and the high. And we have, I wouldn’t say it’s any materially different than what we saw in January from a trends perspective. It hasn’t deteriorated, but we’re just being prudent there from a standpoint of, what potentially would be there. And then, for the full year, we’re not changing our guidance.
+
+Eve Burstein
+
+Okay. Fair enough. Thank you. And then we’ve talked quite a bit about the LC replacement cycle. Within GC, is there opportunity for an upcycle here as well? You’ve mentioned several times that in LC different customers, different applications are going to improve at different times. But how do you anticipate GC playing out, through the rest of the year in terms of improvement pace timing? And can you just give a little color there?
+
+Padraig McDonnell
+
+Yes. No. That’s a great question. And of course, GC replacement is a different timing than LCs, because of the technology. But I’m going to ask Mike Zhang to give some color here.
+
+Mike Zhang
+
+Yes. Thank you, Padraig. Obviously, we have, strong leadership in the GC market and we’re very, very strong install base. And we actually have introduced a new GCMS to the market and we’re seeing very strong response from customers. So, yes, we’re very optimistic about opportunities, but certainly it will be again it’s over time, it’s annual long term opportunity. So, we’re very excited about that.
+
+Eve Burstein
+
+Great. Thanks.
+
+Operator
+
+And Mr. Ahuja, I turn the call back over to you.
+
+Parmeet Ahuja
+
+Thanks, Regina, and thanks, everyone, for joining the call today. With that we would like to end the call. Have a good rest of the day, everyone.
+
+Operator
+
+This concludes today’s conference call. You may now disconnect.

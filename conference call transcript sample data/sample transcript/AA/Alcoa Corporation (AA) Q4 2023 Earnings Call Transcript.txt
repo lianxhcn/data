@@ -1,0 +1,511 @@
+Alcoa Corporation (NYSE:AA) Q4 2023 Earnings Conference Call January 17, 2024 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations and Pension Investments
+William Oplinger - President and Chief Executive Officer
+Molly Beerman - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Michael Dudas - Vertical Research
+Carlos De Alba - Morgan Stanley
+Katja Jancic - BMO Capital Markets
+Timna Tanners - Wolfe Research
+John Tumazos - John Tumazos Independent Research
+William Peterson - JPMorgan
+Lucas Pipes - B. Riley Securities
+Lawson Winder - Bank of America Securities
+Curt Woodworth - UBS
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Fourth Quarter 2023 Earnings Presentation and Conference Call. All participant will be in listen-only mode. [Operator Instructions] After today’s presentation there will be an opportunity to ask question. [Operator Instructions] Please note, today’s event is being recorded.
+
+I'd now like to turn the conference over to James Dwyer, Vice President, Investor Relations and Pension Investments. Please go ahead.
+
+James Dwyer
+
+Thank you, and good day, everyone. I'm joined today by William Oplinger, Alcoa Corporation President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Bill and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. We have not presented quantitative reconciliations of certain forward-looking non-GAAP financial measures for reasons noted on this slide. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings press release and slide presentation are available on our website.
+
+With that, here's Bill.
+
+William Oplinger
+
+Thanks, Jim, and welcome, everyone, to our fourth quarter 2023 earnings call. Today, we'll review the substantial progress we've made in the fourth quarter on key objectives, the financial results, the market and our plans to continue to improve and strengthen our company.
+
+I started last quarter's call by affirming the areas of Alcoa's near-term focus and reinforcing our values to act with integrity, operate with excellence, care for people and lead with courage. Consistent with those values, I'm proud that Alcoa's safety performance showed marked improvement in 2023. While we experienced two FSI-As last year, we improved year-over-year in all key safety metrics. We intend to continue our progress toward our goal of an injury-free workplace.
+
+Safety performance is important for another reason too. It's a key indicator of the stability and quality of our operations. Excellent safety performance goes hand-in-hand with operational excellence. I'm not surprised then, given our strong safety performance, we set production records at our three smelters in Canada and one in Norway, and we are also successfully restarting one potline at Warrick here in the States.
+
+We made great progress on other focus areas too. We achieved, what I said was our most important objective, gaining approvals for our bauxite mines in Western Australia. With these approvals, we now have a clear path forward for continued operation in Western Australia. Also in WA, we recently announced the curtailment of the 60-year-old Kwinana refinery, starting in the second quarter of this year. The decision was based on a variety of factors, including Kwinana's age, scale, operating costs and current bauxite grades, in addition to current market conditions. In December, we began engagement with the national and regional authorities in Spain, as well as the labor works council to discuss ongoing financial losses at the San Ciprian refinery and smelter. We are considering all forms of relief, while working collaboratively on a long-term solution for the complex.
+
+With that, let me turn it over to Molly to go over the financials.
+
+Molly Beerman
+
+Thank you, Bill. Revenue was flat sequentially at $2.6 billion as lower shipments for both Alumina and Aluminum more than offset higher aluminum realized price. The net loss attributable to Alcoa improved $18 million to $150 million, and the loss per share improved from $0.94 to $0.84. On an adjusted basis, the net loss attributable to Alcoa was $100 million or $0.56. The difference is primarily related to the recording of a valuation allowance on deferred tax assets in Brazil, net of non-controlling interest. Adjusted EBITDA increased $19 million to $89 million.
+
+For the full-year 2023, year-over-year revenues decreased $1.9 billion to $10.6 billion and net loss attributable to Alcoa worsened $528 million to a loss of $651 million, or $3.65 per share. Adjusted net income changed from $869 million in 2022 to a loss of $405 million in 2023, or $2.27 per share. And adjusted EBITDA, excluding special items, moved from $2.2 billion to $536 million.
+
+Let's look at the key drivers of EBITDA. Fourth quarter 2023 adjusted EBITDA increased as improved raw material costs and shipment volumes offset energy and price-mix challenges. In addition, favorable production costs, including recognition of the full-year benefit for Section 45X of the Inflation Reduction Act at Warrick and Massena more than offset higher other expenses.
+
+Alumina segment EBITDA increased $31 million sequentially, primarily on lower raw material costs and lower production costs in Brazil and Australia. We also saw a substantial benefit from lower raw material costs in the Aluminum segment, which combined with favorable production costs, primarily 45X, to offset the impact of higher energy costs and lower value-add product premiums. The higher energy costs included a second year of unfavorable legislative changes in Norway's CO2 compensation arrangement. Outside the segments, transformation demolition costs were lower, but inter-segment eliminations and other corporate costs were unfavorable.
+
+Let's look at cash movements within the fourth quarter on the next slide. The cash balance increased $18 million in the quarter to $944 million. The largest source of cash was working capital reduction of $222 million, which more than offset the largest use of cash, capital expenditures at $188 million, higher EBITDA of $89 million, various other items totaling $97 million and net non-controlling interest contributions of $18 million, mostly offset all other uses of cash.
+
+Moving on to other key financial metrics. Our key financial metrics are consistent with our earnings results. Full-year 2023 return-on-equity was negative 8.9%. Our fourth quarter dividend added $18 million to stockholder capital returns, which totaled $72 million for the year. While free cash flow plus net non-controlling interest contributions was negative for the year at $282 million, it was positive $28 million in the fourth quarter. Proportional adjusted net debt increased by $0.1 billion due to fourth quarter pension and OPEB plan re-measurements. In both the fourth quarter and full-year 2023, capital expenditures and cash income taxes were our largest uses of cash.
+
+Days working capital improved 11 days to 39 days year-over-year, primarily on decreases in inventories of $243 million. Sequential improvement, also 11 days, was driven primarily by the typical increase in year-end payables, while reducing inventory values further. The improved working capital performance provided a significant source of cash in the fourth quarter, resulting in a full-year working capital source of cash of $221 million.
+
+Let's turn to the outlook in the first quarter and the full-year 2024. For 2024, we have included an outlook for both production and shipments for the segments. We expect Alumina production to range between 9.8 million and 10.0 million tons and shipments to range between 12.7 million and 12.9 million tons. The difference reflects our normal trading volumes, as well as externally sourced alumina to cover the customer contracts previously fulfilled by Kwinana production. The Aluminum segment is expected to produce between 2.2 million and 2.3 million tons, increasing on smelter restarts, while shipments hold steady between 2.5 million and 2.6 million tons due to lower projected trading volumes.
+
+In EBITDA items outside the segments, we expect transformation cost to remain at $80 million and other corporate expense to improve to $120 million, reflecting a portion of our efforts in productivity and competitiveness programs. Below EBITDA, we expect depreciation to increase to $675 million, primarily due to additional assets placed in service as well as increases in the assets related to asset retirement obligations from mine reclamation and bauxite residue storage. Non-operating pension and OPEB expense is expected to be flat at $15 million and interest expense will be comparable to 2023's level at $110 million.
+
+For cash flow impacts, we expect 2024 pension and OPEB required cash funding to be similar to 2023 at $70 million. The majority of that spend is U.S. OPEB. Our capital returns to stockholders will continue to be aligned with our capital allocation framework. Our current capital expenditure estimate is $550 million, with $90 million in return-seeking and $460 million in sustaining capital. Approximately 65% of the total CapEx is within the Alumina segment, where 40% is funded by our JV partner. Looking ahead to 2025 and 2026, we expect CapEx to increase approximately $50 million to about $600 million, primarily related to mine moves.
+
+We expect approximately $130 million lower prior period income tax payments in 2024, down to $50 million. Environmental and ARO spending is expected to increase to approximately $295 million, approximately $20 million related to accelerated mine rehabilitation in both Australia and Brazil. We also expect higher spending at Kwinana and residue area closures and regulatory requirements in Brazil, and more spend is projected for demolition and remediation at previously closed sites in 2024 as we prepare those properties for future redevelopment.
+
+While we do not provide guidance on full-year cash restructuring charges, we did provide the estimates for the Kwinana curtailment in our January 8th announcement. Of Alcoa's share of related cash outlays, approximately $80 million are expected to be spent in 2024 and approximately $35 million in 2025. Our JV partner, Alumina Limited will cover the remaining 40% of those costs or approximately $65 million. To provide flexibility to implement our portfolio actions, today we executed an amendment to our revolving credit facility agreement, which includes adjusting covenant limits for the 2024 fiscal year.
+
+Looking at the first quarter. In the Alumina segment, we expect approximately $15 million unfavorable impacts related to higher maintenance costs and lower volume in Australia. In addition, we expect benefits from lower raw materials and energy costs to be fully offset by other factors. In Aluminum, we expect multiple factors to fully offset, including favorable energy impacts, primarily due to lower prices in Brazil and Norway, lower product premiums and unfavorable net impact from the non-recurrence of fourth quarter 2023 one-time items. Alumina costs and the Aluminum segment are expected to be unfavorable by $5 million. Additionally, we expect a one-time unfavorable impact of approximately $20 million, as the hedge programs for the Alumar smelter restart ended in December 2023.
+
+Below EBITDA, note that fourth quarter other expenses included one-time positive impacts of $51 million, primarily foreign currency gains. Based on recent pricing, we expect first quarter 2024 operational tax expense to be negligible.
+
+Now, I will turn it back to Bill.
+
+William Oplinger
+
+Thanks, Molly. Now let's discuss our markets. In Alumina, prices rallied at the end of the fourth quarter, driven by announced Chinese refinery curtailments due to a domestic bauxite shortage and concerns about Guinea bauxite supply, and have continued to increase in January. We expect the market to be short in 2024 with steady demand from smelters and little inventory available. In Aluminum, for 2024, we expect the balance to slight surplus market, depending on the speed of demand recovery during the year.
+
+On the supply side, there are few announced restarts or new projects and China has held to its 45 million ton capacity cap. In addition, hydro power shortages caused 1.2 million tons of capacity to be curtailed in Yunnan province last November. Demand has stabilized in North America and Europe, and we see the potential for a moderate recovery throughout the year. Regional premiums are increasing due to both the widening contango and higher transportation costs to import metal. In our order book, value add product orders are stabilizing and premiums appear to be firming up. While lower than their peaks, that premiums remain above historical levels.
+
+In China, we expect government stimulus programs to prompt demand growth as those measures take effect. Globally, growth in aluminum-intensive EVs and renewable power infrastructure will continue to support this positive trend. We also see demand improving in packaging as inventory destocking has been largely accomplished.
+
+And finally, on a concerning note, we have seen the share of Russian metal stocks on the LME stocks 90% in December. Because LME stocks are now predominantly Russian origin metal, which is unwanted by much of the world, subject to a 200% tariff in the U.S. and now legally prohibited in the U.K., it is difficult to have confidence that the LME exchange price matches the true physical price for non-Russian aluminum. In December, we joined others within European Aluminium to call on the EU to progress sanctions against Russia, and specifically, to include aluminum primary metal, which remains outside of the scope of the measures currently agreed to by the EU.
+
+Now, let's turn our focus from the market to Alcoa and our actions to improve profitability. This slide describes factors that can improve our financial performance over 2023's results. As you can see from the chart, we have significant upside potential to adjusted EBITDA. We divide the improvement drivers into three categories: near-term actions; medium-term opportunities; and market improvement.
+
+Near-term actions are underway and have the most well-defined financial impacts. The largest area of impact is our $310 million estimate of raw material savings for 2024, including for key raw materials like caustic soda and lime for refining and anode carbon products for smelting. Thanks to our procurement team's actions as well as pricing and inventory lags, roughly one-third of that amount is already fully realizable, and the remainder is conservatively estimated using current market pricing.
+
+Next, we are targeting $100 million benefit from our program to reduce controllable operating costs across our organization. Outside of raw materials, energy and transportation, which are already under active management. Recently initiated full run-rate savings are expected to be achieved by the first quarter of 2025. This overarching program includes general belt tightening, as well as efforts such as our workforce blueprint, in which we benchmark our operations internally and externally and set an aggressive best-in-class goals for each operation.
+
+Three additional components of our near-term actions are: the Warrick smelter optimization and potline restart, with the benefit of additional IRA funding at both Warrick and Massena; completing the Alumar smelter restart and realizing savings from the Kwinana curtailment. All of these locations are fully mobilized and working toward achieving the savings targets.
+
+As mentioned earlier, last month, we started discussions with union and government stakeholders on finding a long-term solution for the San Ciprian smelter and refinery. In late 2021, with the support of our employees, local communities and government, we started down a path that aimed at positioning the San Ciprian complex for long-term economic viability. To accomplish that goal, Alcoa invested hundreds of millions of dollars in the operations and supporting employees, their families and the local economy. While operations continue to be restricted to 50% at the refinery and are fully curtailed at the smelter, 2023 EBITDA losses were over $150 million across the San Ciprian complex. Despite our collective efforts, we've clearly fallen far short of our goal of achieving economic viability for San Ciprian.
+
+Looking-forward into 2024, the San Ciprian complex is expected to incur substantial losses, even with the recent improvements in energy markets and the aluminum price. If the situation does not change significantly in the months ahead, we anticipate that available funding will be exhausted in the second-half of 2024. If that happens, we will have no choice but to make hard decisions that will adversely and potentially irrevocably impact employment and the economy in Galicia more broadly. Nobody wants that. But absent significant change, that is exactly what will happen. That is why we are urgently advancing our engagement efforts with employees and governments to begin defining options. For its part, Alcoa intends to continue to honor the spirit of the commitments it made in the viability agreement. However, we will need flexibility from our unions and significant support from the regional and national governments.
+
+Medium-term opportunities and market improvements are the other two drivers of adjusted EBITDA improvement potential. Medium-term opportunities are beyond 2024 and 2025, but achievable in the next several years. An example is benefiting from better bauxite grades in Australia after upcoming mine moves. When it comes to market impacts, we are a commodity business. A large part of adjusted EBITDA potential correlates to market improvement. As an example, comparing more favorable 2022 metal and alumina prices to 2023 prices reveals massive potential for EBITDA improvement, especially in the metals segment should prices increase. We have demonstrated the ability to profit from favorable market conditions when they arise.
+
+Finally, we have not included here the potential we see from breakthrough R&D technologies, including ELYSIS, because they are longer-term. We do not anticipate significant capital expenditures for ELYSIS before the end of the decade, although the continued ramp-up of the R&D work will produce additional volume of ELYSIS metal for the partners, including Alcoa, to bring to-market.
+
+For the quarter, I'm very proud that we have remained true to our values, including improving on both safety and operational performance. While profit metrics improved slightly on a sequential basis, we are aiming to improve substantially from where we are today. And on that front, we have made important and impactful progress on our key challenges.
+
+Going forward, we are working to maintain positive momentum in Western Australia and continue to build toward a long-term solution for our San Ciprian complex in Spain. Our entire organization is focused on delivering near-term actions and company-wide productivity and competitiveness programs. We believe that not only is the medium and long-term outlook for aluminum strong, but 2024 starting to look like a positive turning point.
+
+With that, operator, what questions do we have in the queue?
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] And our first question today comes from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good evening, Bill, Molly, Jim.
+
+William Oplinger
+
+Hey, Mike.
+
+Molly Beerman
+
+Hey, Mike.
+
+Michael Dudas
+
+First, with San Ciprian. So Bill, as you've analyzed it from a different seat over the past few months and have been dealing with this for several years, maybe you can assess how more comfortable or -- solutions, are there changes or opportunities that are coming about or is it really getting down to the point of something needs to give here which kind of sounds what you kind of indicated here in your prepared remarks?
+
+William Oplinger
+
+Yes. Thanks, Mike. Let me just give you some background and give you some thoughts around San Ciprian and the situation there. If you recall, in February 2023, we agreed to a phase restart of the smelter, which was supposed to begin in 2024 via what's called the viability agreement. And the refinery has been operating at about 50% capacity since the third quarter of 2022 to try to mitigate the losses. The economics for both the smelter and the refinery remain today unfavorable.
+
+Now, we've committed -- we are committed to fully -- fulfilling the spirit of the obligations and the viability agreement. However, the commitments need to result in a viable operation. And due to decline in the markets both metal and the delay in the development of competitive power solution, the time to realize a viable operation has extended out considerably. And so, as you get -- as you alluded to, under these circumstances, it's prudent to look at every action that we can take to stretch the remaining funds available to see if a viable business plan can be assured for the site.
+
+To be clear, the refinery and the smelter have not been funding their operations. They've not been able to fund their operations for many years. And the operational losses and investments have been funded via loans from other Alcoa entities. And there is virtually no ability for San Ciprian to repay those loans. The Alcoa entities will provide no further funding to an operation that is not viable and that's an important point for you and others to know.
+
+So at this point, you're probably wondering about timing of a resolution. The timing is not clear at this point, but we're asking the unions for the -- their understanding of the situation and necessary flexibility to reach the solution. Likewise, we're working with the regional and national governments to identify all potential forms of relief. And we will work collaboratively with all stakeholders on a long-term solution. So, that basically sums up some of the history and where we stand at the site at San Ciprian today.
+
+Michael Dudas
+
+That's very helpful. Thank you, Bill. And my follow-up is, maybe more thoughts on your near-term actions on your EBITDA potential slide. And the $310 million of the raw materials and the views of the market, maybe in a sense that is those expectations relative to expectations of the current or future market for alumina-aluminum, how - you say a third is in the bag so far, but how confident to realize those others? And is that on a annualized basis, over the next two year basis? And is that a level where you could maybe see better performance in a more improved pricing market? I mean, [indiscernible] price market, rather.
+
+Molly Beerman
+
+Mike, thanks for the question. The raw materials improvement that we are showing, the $310 million is our outlook for 2024. Now it's based on prices that we've already achieved, given our lags that we incurred in the second half of 2023, as well as what we're seeing now in current purchases, as well as our procurement teams look forward. So yes, we have about a third of that already confirmed and good outlook for achieving the $310 million in 2024, and that is an annual run rate. So we would expect that to continue forward based on today's market view.
+
+Michael Dudas
+
+Thank you, Molly. Thank you, Bill.
+
+William Oplinger
+
+Thank you, Mike.
+
+Operator
+
+And our next question comes from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yes, thank you very much, Bill and Molly. So just also on the business -- other business considerations, just to clarify, the $36 million reversal for IRA, is that you're going to give back the $36 million in total or only a part of that given that the benefit of the IRA should be recurrent going forward?
+
+Molly Beerman
+
+Yes, Carlos, what you're going to see there is a net of $27 million in the first quarter. So the $37 million we recognize the full year 2023 and then we'll have about $10 million in each quarter going through 2024.
+
+Carlos De Alba
+
+Great. And then just on San Ciprian then, at this point, Bill, you are not going to restart the small capacity that was supposed to come up in the first quarter of 2024. Is that correct?
+
+William Oplinger
+
+Well, we plan to fulfill the viability agreement and part of the viability agreement is that, we restart 32 pots in the first quarter. However, it does not make economic sense to restart those pots. And the more that we -- if we were to restart those pots, they are negative cash flow, and it will just simply consume cash out of the entities quicker than if we were not restarting those spots. So at this point we will be having the discussions with all the parties involved and make sure they understand that starting those pots will consume cash and there is only a limited amount of cash available in the entities and once that cash is gone Alcoa does not plan to put further cash into the entities.
+
+Carlos De Alba
+
+Fair enough. If I may just squeeze one more. The $70 million benefit from the closure of Kwinana starting in the third quarter, are those net of the purchases that you have to make in the market to fulfill your customer contracts?
+
+Molly Beerman
+
+So, Carlos, the $70 million is the Kwinana loss elimination. We will have some costs to replace, basically purchase the committed alumina for customers. That's part of our overall trading activity and we do not see a material impact there.
+
+Carlos De Alba
+
+All right. Fair enough. Thank you very much, Molly and Bill.
+
+William Oplinger
+
+Thank you, Carlos.
+
+Operator
+
+And our next question today comes from Katja Jancic with BMO Capital Markets. Please go ahead.
+
+Katja Jancic
+
+Hi. Thank you for taking my questions. Can you quickly provide an update on the Alumar smelter restart?
+
+William Oplinger
+
+Yes. So as we said in the fourth quarter, we're taking the Alumar smelter restart slowly and at a measured pace. We have increased the amount of pots operating too, as of today to approximately 70% of the plant and we're making slow, but good progress on restarting the smelter. So, while I would wish it was faster, we want to do it safely, we want to do it economically and we want to do it in a way that positions the asset for the long term and so we continue to make progress.
+
+Katja Jancic
+
+And is the $75 million, is that expected to also occur in 2024 benefits?
+
+Molly Beerman
+
+Yes, Katja, you will see the $74 million come in over time. So that would be a run rate by the time we get to the end of 2025.
+
+Katja Jancic
+
+Okay. And just one more question, if I may. On -- going back to San Ciprian, are there specific reasons why you can’t just shut it down now?
+
+William Oplinger
+
+The smelter, as you know, obviously is curtailed today. The refinery is at 50% capacity. If we chose to go to a full curtailment, we would have to go through the process of negotiating with the unions on a curtailment. And that may be a consideration. We'll be looking at all options at this point to conserve cash out of that entity.
+
+Katja Jancic
+
+Okay. Thank you.
+
+Operator
+
+And our next question today comes from Timna Tanners with Wolf Research. Please go ahead.
+
+Timna Tanners
+
+Yes, thanks for taking that question and a happy New Year. I wanted to ask about the comment on ELYSIS and how there wasn't any required spending to the end of the decade. I [indiscernible] that was a change from the past, I thought. At your last Investor Day there had been a lot of talk of ELYSIS [Indiscernible] refinery of the future investments. And I'm just wondering if you could provide us an update on that broadly.
+
+William Oplinger
+
+So I'll take a first cut at that and then Molly can jump in if you want to add anything. Timna, we continue to make progress with our partners and ELYSIS on the process. And we have plans to start a commercial size cell at the Alma smelter in Quebec in 2024. So we are continuing to make progress. However, we are not planning on an implementation in the near term of ELYSIS. We're going to allow for ELYSIS to go through some of the testing process and ensure that we have the right package of engineering. And so at this point, we're not planning on significant investments in an ELYSIS cutover or on ELYSIS plant this part in this decade. So it would be earlier next decade.
+
+Is that a change? It's an R&D project, and we're working through that R&D and ensuring that the process works well. And we'll implement it later in the decade, early next decade.
+
+Timna Tanners
+
+Okay, thanks. And then regarding possible other portfolio changes, I know you've talked about Lista in the past is, at these aluminum prices, any thinking about its viability and similarly anything that you could tweak beyond the Warrick restart, given the 45X benefits?
+
+William Oplinger
+
+Well, to give you a little bit of perspective of some of the things that we've had going on, we mentioned the Warrick restart, and so we got half of that done in the fourth quarter. I plan on getting the other half of that done in the first quarter. We've made the announcement around Kwinana. So that will be in 2024. We continue to make progress around Alumar. And so, we have that restart going on. And we have engagement on all the pertinent issues in Spain. And so we have that going on. At this point, Tim, that's a lot to get done. And I think the team has done a great job of initiating all of that. We will consider, as we always do, asset by asset, does it make sense to start, stop all those options. And we make it on a fairly real-time basis. And where we have spot power exposure, we make those decisions on a real-time basis. So we're always considering some of those portfolio options, specifically around high-cost facilities like Lista.
+
+Timna Tanners
+
+Okay, I'll leave it there. Thanks, and best of luck.
+
+William Oplinger
+
+Thanks.
+
+Operator
+
+And our next question today comes from John Tumazos with Tumazos Very Independent Research. Please go ahead.
+
+John Tumazos
+
+Congratulations on getting through the tough year and cutting costs so much.
+
+William Oplinger
+
+Thanks, John.
+
+John Tumazos
+
+First question, and I'm not sure if I'm supposed to ask this question, but I'll try. You're planning to buy almost 3 million tons of alumina this year, which is a lot of boatloads. Where are you buying it? China is 59% of world output, you're around 5%, so there aren't that many choices. Are you buying it from China or some Western country complying with sanctions that has some capacity that would have gone to Rusal in the old days.
+
+William Oplinger
+
+So John, to give you a little bit of background, it is not unusual for us to be in the market to buy alumina. In past years, I think in 2023, we probably did about 2 million metric tons. As you see with the curtailment of Kwinana, that's increasing to about 3 million metric tons. We have an alumina trading arm, and I don't want to make that sound as if we're doing any type of prop trading, but we have an alumina trading arm that is constantly sitting there trying to optimize logistics and optimize tons and quality across the system. And where will we get that. We have already agreed with certain suppliers that we will have offtake in 2024. And those suppliers run the gamut of Western World suppliers, Indonesia traders. And as we go through 2024, we'll do more of that.
+
+John Tumazos
+
+I could ask another one. You've designated your Chief Operating Officer to be in Australia. Over most of my career, the raw materials have been a big cash count and the market is a little tougher now. Is the division of labor for Mr. Reid to be primarily raw materials and you're focusing on the smelters bill? And is this signal that we're going to be paying very close attention to the environmental permitting and regulatory issues, as well as operations in Australia.
+
+William Oplinger
+
+Thanks for the question, John. So let me just back up a little bit. Matt Reid was chosen to be COO because he's the best person for the job, in my view. And the fact that he sits in Western Australia is a little bit of a benefit, because we do have such a massive operations in Western Australia. To specifically address your question of whether I'll be focused on the smelters and he'll be focused on mining and refining, no. Matt has an agreement for all operations globally. It's a big job. It will be a hard job to do out of Western Australia, and he and I have had that discussion, but I think he's the right person for the job.
+
+And now with that said, he has four regional vice presidents that sit underneath him. And they -- and he used to be one of them, obviously, in Australia, so he has to replace himself. They're very good people, very capable people who have the ability to make decisions in the regions to benefit the regions. And that's important because as we saw in the permitting process, it is critically important to have really strong local leadership in the regions that can make decisions, that make sure that the permitting is done correctly, that the rehab is done correctly that the ESG factors are appropriately considered in the regions. Sometimes it's hard for a global player to have that perspective. That's why you have to have strong leadership in the regions, and Matt will ensure that he has four strong leaders around the world.
+
+John Tumazos
+
+Thank you.
+
+William Oplinger
+
+Thanks, John.
+
+Operator
+
+Thank you. And our next question today comes from Bill Peterson with JPMorgan. Please go ahead.
+
+William Peterson
+
+Yes. Hi, Bill and Molly. Thanks for taking my questions. I wanted to come back to the near-term $245 million and how to think about the cadence. It sounds like there is some visibility in raw materials, maybe a third of that [indiscernible] pardon me, I'm in the airport. But what else visibility -- is this -- most of this has been back half weighted more into 2025 based off of the other buckets that are within that just sort of get a feel for the rollout of this over the next 12 to 24 months.
+
+Molly Beerman
+
+Yes, Bill, I think it's fair to say that there is various timing on those items, but they are, again, designed to deliver a run rate savings by the end of 2025. On the raw materials, we did indicate that's a 2024 number. That's an annual number that will repeat on the productivity and competitive programs. We're trying to hit a run rate by the end of the first quarter of 2025. On Warrick optimization and the IRA funding, that one will kind of bleed in overtime as Warrick gains momentum from the restart, and we are working actively with treasury and other folks in the government on the funding improvements. Alumar will come in overtime as well, and then Kwinana will start to be realized in the second half of 2024.
+
+William Oplinger
+
+And Bill, I really have to give kudos to Molly and her team because -- and Jim Dwyer, many of the investors have been asking us, "Hey, there's lots of moving parts here. Can you help us understand what those moving parts look like and how good can things be if you accomplish those moving parts”. And so that's the point of this slide. It basically says, hey, let's -- our view on overall materials is going to be $300 million better. We're actually instituting and we haven't talked much about it on this call, but we're instituting what we're calling a competitiveness program where we're trying to get 5% of the cost structure aside from raw materials and energy out of the cost structure, and it's at every single plant, mine, refinery around the world. So this chart was meant to be a reaction to investors that said, help us understand with all these moving pieces, what can it look like. And that's why we put it together.
+
+William Peterson
+
+No, I can appreciate that. Just the cadence is particularly an important addition to that. Second question, kind of a follow-up on your lower carbon solution, and I appreciate, LSSs looks more like next decade. But what about, I guess, the sustainable line? You have some talk in the past that EcoLum, EcoSource and EcoDura. How should we think about those programs, the ability for you to drive premiums? And where does I guess, lower carbon aluminum just sit more broadly in your strategies for Alcoa as well as your customers?
+
+William Oplinger
+
+I made some comments at the Future Minerals Forum in Saudi Arabia last week, and I'll reiterate those here. Our customers are asking for low-carbon solutions. And we and some of our competitors are developing those low carbon solutions. We have the broadest line of low-carbon solutions of anybody out there between EcoLum, EcoDura, EcoSource, we offer low-carbon solutions today that our customers can take advantage of. We've seen a fairly sizable growth of EcoLum year-over-year, something like a 60% increase in sales in EcoLum.
+
+Are we getting premiums? Small ones, right? And I would like to get a whole lot more premium than what we get. But today, we are getting premiums for EcoLum across the system. And so, our customers want it. We need to be on the forefront, ELYSIS and Australia going into the next decade will provide us significant advantages, but we're starting to see some of the benefits of selling that broad product line today.
+
+William Peterson
+
+Okay. Thanks for that.
+
+William Oplinger
+
+Thanks, Bill.
+
+Operator
+
+And our next question today comes from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you, operator. Good afternoon, everyone. Bill, I wanted to follow-up on San Ciprian. And you mentioned that internal funding sources and lines are close to being exhausted. And I wondered -- and the status quo is, is this a matter of weeks, months, quarters, when would those lines be fully exhausted? Thank you very much.
+
+William Oplinger
+
+I hate to give you a definitive time, but I can quantify it a little bit for you. There is roughly $240 million of a combination of restricted cash in the entities and credit lines available. The entities lost on a pretax basis, about $150 million in 2023. So we are essentially sitting down with the stakeholders, trying to determine how can we preserve the cash in the entity to give that facility long enough time to come up with a plan to be viable over time.
+
+So there's not any specific at this point, something as far as I'm willing to go out and say when that cash will run out, but it is a situation where there is limited cash available, and we need to figure out how to get that facility viable over time.
+
+Lucas Pipes
+
+Very helpful. And understand if you were to restart those $240 million of restricted cash and credit lines that would be exhausted very quickly.
+
+William Oplinger
+
+So if we were to restart the 32 pots, it just adds to the drain. Now we have a viability agreement that we plan on fulfilling, but if we do that, then it just accelerates the drain of cash. And that's a situation where everybody loses.
+
+Lucas Pipes
+
+Okay. Thank you, Bill. Two quick follow-up questions. The first is on 45X. Does that change how you think about the U.S. assets more structurally? Where you say they fit within your smelter portfolio today? And where do you think they fit on the global cost curve after this credit? And then on the environmental ARO, I think kind of cash outflows went from $139 million in 2022 to $202 million last year and then this year, $295 million. Are those inflationary pressures? Is there something lumpy? And where do you think that cash items will go over the coming years? Thank you very much.
+
+William Oplinger
+
+Let me take the U.S. question first. Just it's important to note how appreciative we are to the U.S. government for providing the clarity around 45X and the fact that those funds essentially support keeping aluminum, which in our view, is a critical mineral for the United States economy, keeping those assets running.
+
+Warrick, as we've said, we're investing in Warrick to restart the third line. The 45X clearly helps and we have plans to make Warrick even more profitable over time. Now Warrick in the future needs to figure out what its energy source is going to be. Its energy source is still coal-based. And if we're going to meet our greenhouse gas targets, we will have to transition that to a sustainable energy, but that's a problem that we have some time to work on. Massena on the other hand, is a -- it's renewable energy. It's got a great energy source. And now with the 45X support, it's a better facility. So we're pretty pleased with the level of support that we've gotten. We're trying to get further clarity around 45X to include the raw material sources, and that's included in that $90 million benefit that you see, but we'll continue to work on that.
+
+Molly Beerman
+
+On the environmental and remediation cash increase, so it's about $95 million, and there's three main components there. We are accelerating mine rehabilitation primarily in Australia, but also a bit in Brazil. We've got residue areas coming to end of life, as well as Kwinana water treatment. And then lastly, we are upping our spend on demolition, because we have closed properties that are getting ready for redevelopment.
+
+Lucas Pipes
+
+Thank you, Molly. And kind of looking forward on a more normalized basis, where could that number settle out, given those developments?
+
+Molly Beerman
+
+This is a lumpy one because of the -- again, the demolition that we have opportunities. So that's why we want to get that done. And also on the mine rehab, you can think of that as really a 3, 3.5 year, because we are accelerating the Brazil as part of our commitment for the mine approval.
+
+William Oplinger
+
+Western Australia.
+
+Molly Beerman
+
+Sorry. [Multiple Speakers]
+
+William Oplinger
+
+[Multiple Speakers] You said, Brazil, but we should be accelerating Brazil too, because of external stakeholders, but Western Australia.
+
+Molly Beerman
+
+Western Australia. Thank you.
+
+Lucas Pipes
+
+Really appreciate all the color there. Best of luck. Thank you.
+
+Molly Beerman
+
+Thank you.
+
+Operator
+
+And our next question today comes from Lawson Winder with Bank of America. Please go ahead.
+
+Lawson Winder
+
+Thank you, operator. And good evening, Bill and Molly. Very nice to hear from you. Thank you for the update today. I just wanted to ask on just one other capital allocation question and then on the dividend. And I don't know, maybe your slide on taking actions now might actually address my question. But just when you think about the dividend, would your recommendation be to the Board to change it in any way? Are you comfortable with the current level?
+
+William Oplinger
+
+Our capital allocation program really is not changing, Lawson. We're going to continue to maintain the strong balance sheet. We're going to make capital expenditures to maintain and improve our portfolio. And then when we have excess cash and no particular order, we'll use it for portfolio actions, preparing for growth and returning cash to shareholders. The dividend is something that we speak carefully to the Board about and they would guide us in any changes there.
+
+William Oplinger
+
+And remember, when we set the dividend, we set it at a level that we thought was very affordable through the cycle. It's not a huge dividend. But we said it at a time when our indebtedness -- our overall proportional net debt had gone from $3.8 billion down to $1.1 billion. It's crept up a little bit this year, but we set the dividend at a level that we thought was affordable through the cycle. And so that's the thinking.
+
+Lawson Winder
+
+Okay. Fantastic. And then if I could just add -- maybe ask one more question on San Ciprian to potentially get a little more clarity on what the path forward might be. But I mean, if those facilities run out. I mean does that imply then that, that subsidiary then we'll have to enter some sort of bankruptcy protection proceeding?
+
+William Oplinger
+
+Lawson, at this point, I don't want to speculate what happens when and if they were to run out of cash, what the task for us currently is to work with the unions and the government to try to get that to be a viable operation. And that's what we're really focused on. We have a dedicated group of people who are working with the various stakeholders and constituents to make it viable.
+
+Lawson Winder
+
+Okay. That’s very clear. Thank you so much for your time today.
+
+William Oplinger
+
+Thank you.
+
+Operator
+
+Thank you. And our final question today comes from Curt Woodworth with UBS. Please go ahead.
+
+Curt Woodworth
+
+Hi. Thanks, good evening. Hi, Bill and Molly.
+
+William Oplinger
+
+Hi, Curt.
+
+Molly Beerman
+
+Hi, Curt.
+
+William Oplinger
+
+Thanks for reinitiating coverage, but you did it [indiscernible] level, just to be clear.
+
+Curt Woodworth
+
+Let's dig into that a little bit.
+
+William Oplinger
+
+We can, we got a while. So we can dig in.
+
+Curt Woodworth
+
+Okay. So here's the question. So alumina is at $370 million, bauxite's up, you're saying you've got third of the way down on the $310 million of raw materials. You're guiding to a tax expense in the first quarter of zero. So are you saying based on spot pricing for the first quarter, your earnings before tax is zero. Like I would have thought that at $370 million alumina, you'd have some tax expense in AWAC. And then correct. So how do I think about that?
+
+And then, again, just kind of what's the cadence, I guess, as you see kind of the margin profile in the alumina segment? I know that you talked about trying to get costs down and mitigating some of the bauxite grade issues. But is there a glide path in the next several quarters where there's more meaningful margin recovery for a given alumina price points?
+
+Molly Beerman
+
+So Curt, let me take the tax part first. You've followed us for a while. You know as our income gets right around breakeven, predicting taxes is extremely difficult. Looking at the jurisdictions where we're paying taxes versus those where we're fully reserved. So we are at that point where if we have a meaningful departure on tax, we'll have to give you an update.
+
+William Oplinger
+
+Let me address the second part of the question or maybe the theme of the question, Lawson, part of the reason why we put the chart together that we've been very focused on here is that, we made $500 million in EBITDA in 2023. Everybody can see that. And at the prices and raw material level in 2023, that's where we ended up. We have line of sight to near-term actions that are going to double that over the next, let's say, two years. And that's not banking on any type of metal market or alumina market improvement. If you then factor in where we were way back in 2022, which was not that long ago on metal prices, you can see the earnings just really accelerate very, very quickly.
+
+So we at Alcoa aren't sitting here hoping for an earnings -- for a market recovery. We're taking action. We're taking the hard actions, quite honestly. Kwinana is not an easy decision. Warrick is an easy decision, but hard to accomplish safely and to do it effectively. Alumar we're improving. We haven't even talked much about WA bauxite permits here. That is something that was a nontrivial task to get accomplished in the fourth quarter. And it's good to have that behind us.
+
+And then on top of that, we're going after $100 million of cost savings, and we're going to have that on a run rate basis by the first quarter of next year. So you can see that we are pulling every lever to take that $500 million to a much higher level and essentially prove your initial thesis incorrect.
+
+Curt Woodworth
+
+Okay. And what do you think cash restructuring could theoretically look like? Like in the event that you -- because I think you had a comment in November that underperforming assets were $90 million negative EBITDA quarterly, right? So San Ciprian's maybe 40% of that, Kwinana is 70%, but you still have other buckets at play to deal with. So I guess, do you expect more restructuring? And can you size potential like cash restructuring needs for the business? And then just lastly, in terms of North Myara and getting the permit for the next phase, when do you expect that to happen? Because I think there was a view that it could be concommenton with what you're trying to do with your existing permit. Thank you.
+
+William Oplinger
+
+So on the permitting, we are going through a Part 4 permitting process in Western Australia. That takes time. And we are saying that we won't be into North Mayara until at least 2027. As far as any potential further restructuring, and I'm going to let Molly answer it from a quantitative perspective, when we talk about our financial [indiscernible] operations, there are still ones in there that we are really challenging to be more cost competitive. Lista, we talked about earlier in this call. Warrick, we have a plan to get there. Portland has been repowered and is currently starting some marginal -- small marginal capacity in a couple of parts at a time, but that adds marginal EBITDA. So that's the actions that we're taking to address those remaining financially troubled operations. Any comment from you on cash restructuring.
+
+Molly Beerman
+
+It is too early to have a number for San Ciprian. Obviously, we're working toward a solution there, but there's potential -- no numbers yet.
+
+Curt Woodworth
+
+Yes. All right. Thank you very much.
+
+William Oplinger
+
+Curt, thanks for coming back to following us. Appreciate it.
+
+Operator
+
+Thank you. This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Oplinger for any closing remarks.
+
+William Oplinger
+
+Thanks, Rocco, for hosting the call for us. And thanks again to all who joined our call. We're excited about our initiatives, as you can hear from our voices, including the work to address key challenges and drive improvements. I think we made a lot of progress over the last 90 days. There's an energy and enthusiasm within the company that's driving toward solving many of these near-term and midterm problems, and we are really going after it. Molly and I look forward to speaking with you next time and until that time, be safe. Thank you.
+
+Molly Beerman
+
+Thank you.
+
+Operator
+
+Thank you. The conference has now concluded. We thank you all for attending today's presentation. You may now disconnect your lines, and have a wonderful evening.

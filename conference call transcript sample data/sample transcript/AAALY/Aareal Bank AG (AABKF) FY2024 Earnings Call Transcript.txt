@@ -1,0 +1,248 @@
+Aareal Bank AG (OTCPK:AABKF) FY2024 Earnings Conference Call March 6, 2025 5:00 AM ET
+
+Company Participants
+
+Christian Ricken - Chief Executive Officer
+Andy Halford - Chief Financial Officer
+Christof Winkelmann - Chief Market Officer
+Nina Babic - Chief Risk Officer
+Jürgen Junginger - Head of Investor Relations
+
+Conference Call Participants
+
+Corinne Cunningham - Autonomous
+Sharada Patel - Citi
+
+Operator
+
+Ladies and gentlemen, welcome to the Annual Earnings Call Results 2024. I am Sergen, the Chorus Call operator. I would like to remind that all participants will be in listen-only mode and the conference is being recorded. The presentation will be followed by a Q&A session. [Operator Instructions]
+
+At this time, it’s my pleasure to hand over to Jürgen Junginger. Please go ahead.
+
+Jürgen Junginger
+
+Good morning, everybody. Thank you for joining today’s conference call. Today’s agenda covers our results for 2024, our outlook for the 2025, and our new three-year growth plan. I am joined today by our CEO, Christian Ricken; our Chief Risk Officer, Nina Babic; our CFO, Andy Halford; and our Chief Market Officer, Christof Winkelmann. Christian, Nina, Andy and Christof will take you through our presentation, which will be followed by a question-and-answer session.
+
+Now I’m pleased to hand over to Christian. Christian, the floor is yours.
+
+Christian Ricken
+
+Yeah, many thanks, Jürgen. Good morning to everyone. And thank you for attending today's call. I am pleased to present our results for 2024, our outlook for 2025, and our new three year growth plan, Aareal AMBITION.
+
+So as you can see on the highlights chart, we met or surpassed all our targets for 2024 and achieved operating profit from continuing operations of €294 million. This is significantly above 2023's comparative result and Aareal Bank's strongest operating performance since 2018. Net interest income increased by 5%, loan impairment charges were still at elevated levels but fell by 22%, and admin costs excluding one-offs were largely unchanged. Including the gain from the sale of our software subsidiary, Aareon, we achieved group net income of €2.2 billion.
+
+In the Structured Property Financing segment, we recorded new business of €10.9 billion and ended 2024 with a commercial real estate loan portfolio of €33.2 billion. Newly acquired business showed a very conservative loan-to-value average of 54% and margins were ahead of planned levels. We continue to monitor non-performing loans very closely and through active management, reduce our non-performing loans by a net of €225 million during the year. Our capital ratios continue to increase, liquidity is solid and we undertook a successful funding program which has continued into 2025.
+
+Turning to the outlook for 2025, we are targeting a further increase in operating profit to between €375 and €425 million, excluding expected one-off charges for efficiency enhancement measures and investments in IT infrastructure. This growth is part of our new three-year strategic initiative, Aareal AMBITION, through which we aim to achieve a return on equity after tax of at least 13%. I will say more on the key initiatives identified to drive this plan later in the presentation.
+
+I will now hand over to Andy, who will provide further detail on our 2024 figures. Andy, over to you.
+
+Andy Halford
+
+Thank you, Christian. So let me start with Slide 5. Aareal Bank's operating performance was very strong throughout 2024. And as a result, we have reported profits at the upper end of the guidance range, even after incurring one-off efficiency charges. As Christian mentioned, net interest income was 5% up on 2023. Loan impairment charges were down 22% and ongoing administrative expenses were held broadly flat. Overall, operating profits from continuing operations increased by 33%, from €221 million to €294 million.
+
+With an effective tax rate of 28%, the return on equity after tax increased to 5.9% or 6.8% before the one-off charges, an increase of around three percentage points compared with the prior year. Including the gain on sale of the Aareon business, the net income was €2.2 billion, out of which a dividend of €1.9 billion is being proposed. We will therefore retain €300 million to further strengthen the Bank's capital base.
+
+Now on Slide 6, let's take a look at the key profit and loss account elements. Net interest income was up 5% to €1.1 billion. This increase was primarily driven by higher lending volumes, good margins on new business, the contributions from our payments business in the BDS segment, and in the fourth quarter, interest on the Aareon sale proceeds.
+
+Our funding mix was also a key factor here. We use three main funding sources in particular, funding via the capital markets, a high and very stable level of deposits from BDS's housing industry clients, and retail deposits, which we generate via platforms such as Raisin. This is a well-balanced, broadly diversified funding mix, which I'll come back to a bit later.
+
+Excluding the €34 million of one-off efficiency charges, our administrative expenses were tightly controlled, increasing by only 1%. Our cost income ratio is stable at 31%, which is very good, also by international standards. The investment in efficiency measures is part of our Aareal AMBITION, which Christian will come back to and talk about further.
+
+So, onto Slide 7, let's now turn to risk provisioning. Including fair value charges, the overall loan impairment charge was 22% lower in 2024 than in the previous year, and reflects our very active management of non-performing loans. However, at 119 basis points, the 2024 charge is still considerably above our long-term experience of between 35 basis points and 45 basis points, and consequently provides considerable opportunity to improve our bottom line over the coming years, more about this later from Christian.
+
+It should also be noted that included in our €396 million charge, we increased our management overlay by €60 million to €85 million to provide cover as the commercial real estate sector continues to normalize. The US office property market remains our main focus area. At €189 million, charges for US office loans accounted for around half of the overall impairment charge for the year, despite only being around 10% of our exposures. But the good news is that the remaining 90% of our portfolio has a credit loss rate only slightly above our long-term averages, as shown by the chart on the bottom right.
+
+I'd now like to hand over to Christof, who will talk about business developments in commercial property finance in more detail.
+
+Christof Winkelmann
+
+Yes, thank you Andy, and a warm welcome from my side as well. In quarter four, new business including renewals has picked up significantly and we've added €4.3 billion to our portfolio. As a result, total new business for 2024 exceeded volume targets for the year. We are again targeting new business of €9 billion to €10 billion for the current year. I would, however, like to emphasize that we will continue to be selective and maintain conservative risk standards. The average loan-to-value ratio for 2024's newly acquired business was 54%, which provides a comfortable risk buffer.
+
+Gross margins were good, averaging 271 basis points, in line with plan. These figures show that we are actively making use of attractive market opportunities, even in these challenging times. We have moved our focus slightly and shifted the balance of new business more towards Europe. We did, however, write new business in the US in 2024, but on a very selective basis. Therefore, looking at the geographical distribution of 2024's new business, 72% was in Europe, 23% in North America and 5% in our Asia Pacific region.
+
+As in regards to property types, we have been very active in the Hotel segment, which as you know is a traditional strength of Aareal Bank. The temporary weakness in this asset class during and after the corona virus was now been completely overcome. We never had any doubt that the hotel sector would recover.
+
+As it turned out, this happened faster than many experts expected, opening up good business opportunities, which we have used over the past years and continue to do. Hotels are full, even though room rates are higher than ever. People want to travel and meet, both privately and professionally, as we have always been firmly convinced of. Offices were our second most important asset class for new business, and the remainder of new business was spread across Retail, Logistics, Student Housing, and Alternative Living. As you can see, we are as broadly diversified as ever.
+
+Supporting the green transformation of commercial real estate properties remains another focus of our activities. In 2024, we have provided a total of €3.9 billion in newly originated green financing within the scope of our green finance framework.
+
+Let's now turn to the next slide, which shows you the current portfolio. The portfolio totaled €33.5 billion at the end of 2024, which was up €600 million compared to the end of 2023. As you can see from the two pie charts at the bottom of the slide, we are still broadly diversified by property type and region with a clear focus on properties in the major metropolitan areas around the globe. There's a slight shift in favor of Western Europe as I have previously mentioned, but we will continue to be broadly diversified across both North America and Europe in the future.
+
+Our contribution to the green transformation of the property sector has increased significantly. As per year-end, our green loan portfolio grew by almost 60% compared to year-end 2023 to a total of €7.6 billion, representing more than a fourth of our balance sheet.
+
+And now I would like to hand it over to Nina.
+
+Nina Babic
+
+Thank you, Christof. Good morning also from my side. I'll take you through Slide 11 with an overview of our existing loan portfolio. But you see here are especially our two key performance indicators for our performing portfolio. It's the loan-to-value looking at the collaterals we are financing and the yield-on-debt on the cash flows of the assets. What you see is our conservative approach is reflected in these indicators, which remain at healthy levels.
+
+Starting with the loan-to-value, the average loan to value for our overall performing loan portfolio is at very healthy 57% and is similar to the ratio at the end of 2023. I would also like to highlight the development of the yield-on-debt. So it's the ratio of a property's net income compared to the amount of the loan. And it's a key indicator for the profitability of the property relative to the financing structure. So the debt yield for our entire performing loan portfolio is now at 9.6%, which is marked improvement on pre-pandemic levels.
+
+And looking at the single asset classes, Hotels, Retail, Logistics have particularly good ratios. So strong hotel bookings, as just described by Christof, translate into strong cash flows and the Retail sector has also recovered despite some predictions in the past. And regarding Office, we still believe that there are good long-term opportunities in the Office segment. Offices in top locations that have good transport connections and meet high quality standards, including energy use, will remain attractive investments.
+
+I would like now to give you an overview of the non-performing loans on Slide 12. So through active portfolio management, as already described by Christian, we have significantly reduced the non-performing loans compared with end of 2023. The non-performing loans as of year-end ’24 were down 14% to below €1.4 billion at the end of 2024. And I am pleased to say that as of today, this figure has even decreased more with restructurings that have closed in January and February, so we are now below €1.3 billion.
+
+And all our market segments, except for US Office, are performing within normal parameters, with non-performing loans of only around €600 million at the end of 2024. And this stability is also visible in our NPE ratio, on EBA's definition, this ratio stood at 2.8% at the end of 2024 and well below the 2023 figure of 3.4%.
+
+So let me summarize our conclusions. We see the markets remaining challenging, but interest rate cuts have got things moving again on the property markets. Clients want to do business and we do too. But of course, we will remain as prudent and risk conscious as ever. And on this note, I will hand back to Andy.
+
+Andy Halford
+
+Thank you, Nina. Let's turn to our Banking & Digital Solutions segment on Slide 13, where business with clients from the housing and energy industries has been very encouraging. First Financial Software, our joint venture with Aareon, is also successfully attracting new clients. At €13.7 billion, the volume of deposits from housing industry clients remains at a high level. The shift in market preferences from site to term deposits has enabled us to extend average deposit terms. The increase in net interest income shows that the decision to expand our payment and deposit business throughout the long zero interest period, was strategically correct, today it is an important source of income.
+
+Moving to Slide 15, this shows our broadly diversified funding mix, which I have already mentioned already mentioned. Deposits now total around 45% of our funding volume and we will look at the development of deposits as a funding source in more detail on the next slide. Our 2024 capital markets funding activities were equally successful. We placed bonds and Pfandbriefe totaling €3.3 billion, this included Aareal Bank’s début green Senior non-preferred plus benchmark Pfandbriefe issues in both euros and sterling. It also includes our subordinated Tier 2 bond, which was oversubscribed several times at issue.
+
+Our capital markets activities are off to a very good start in 2025. We have already successfully placed US $425 million of AT1 perpetual subordinated notes, which increases our AT1 capital by around a net €100 million. We also did a benchmark Pfandbriefe of €750 million and SEK 750 million. This was the first Swedish kronor issue since 2006 and also €100 million of Tier 2 capital.
+
+Slide 16 focuses on the development of deposits as a funding source. In total, we have deposit funding of €17.8 billion, of which €13.7 billion or over 75% came from the housing industry. These housing industry deposits have steadily increased. They come from around 4,000 clients managing more than 9 million housing units and are thereby granular and sticky.
+
+Aareal Bank anticipated the decrease in institutional clients' deposits caused by the reform of German deposit protection by introducing term deposit for retail clients in 2022. By the end of 2024, institutional deposits were down to €600 million, whilst retail deposits via platforms like Raisin had increased strongly and stood at €3.5 billion. 98% of those retail term deposits have an original maturity of two years or more.
+
+Next on Slide 17, our Treasury portfolio. The Treasury portfolio stood at €8.2 billion at the end of 2024, up from €7.1 billion one year earlier, because we shifted cash into the HQLA portfolio to enhance overall returns. In terms of asset classes, the portfolio comprises Public Sector borrowers, Covered Bonds, and a very small portion of Bank Bonds. It therefore has a strong liquidity profile. High credit quality requirements are reflected in the rating breakdown.
+
+100% of the portfolio has an investment grade rating, with 89% having a rating of AA or higher. Asset swap purchases ensure that there is low interest rate risk exposure. The portfolio is almost exclusively in euros and has a well-balanced maturity profile, with an average duration of around 5.5 years at the end of 2024.
+
+To turn to capital, on Slide 18, our ratios continue to be strong. Our CET1 ratio stood at 20.2% at the end of 2024 and the total capital ratio was 26.6%. The increase in the capital ratios was driven by retained earnings of €300 million and the Tier 2 issue, which together exceeded the increase in RWA from portfolio growth. Capital ratios are significantly above SREP requirements. At the end of 2024, the Basel IV CET1 fully phased ratio stood at 15.2% and the leverage ratio was 6.8%, which are both also well above regulatory requirements.
+
+On Slide 20, before turning to the outlook, let me explain some of the expectations on which it is based. The chart on this slide shows the €294 million reported operating profit for 2024 as the starting point. If one-off charges are excluded, the number would have been €328 million. As we move forward, we will almost certainly face headwinds from declining interest rates. We have based our planning on an assumption that ECB rates will fall from over 3% in 2024 to around 2% in 2025 and similar in later years. This change will therefore particularly reduce net interest income in 2025.
+
+However, we plan to offset this impact and increase operating profit by achieving further growth at low marginal cost, the normalization of risk costs and the positive effects that will flow from the efficiency enhancements that we are putting in place. As a result, we are targeting operating profit of between €375 million and €425 million for 2025, excluding expected one-off charges for efficiency enhancement measures and investments in IT infrastructure of between €20 million and €25 million.
+
+So on Slide 21, let's look more fully at the 2025 outlook. Our environment remains challenging primarily in the US office property market. The impact of the geopolitical situation is uncertain and the macroeconomic outlook is difficult to gauge, but we do progressively see signs of normalization across many of our markets in which we operate. We're therefore optimistic about the group's performance in 2025.
+
+In the Structured Property Financing segment, we want to expand our credit portfolio to between €34 and €35 billion. We are targeting between €9 billion and €10 billion of new business. In the Banking & Digital Solution segment, we expect deposits from the housing industry to continue to be over €13 billion. All-in-all, as I said a minute ago, we're targeting operating profit of between €375 million and €425 million, excluding expected one-off charges, which will be approximately €20 million to €25 million. We expect to lift the post-tax return on equity to between 7% and 8%, again excluding one-off charges.
+
+I'll now hand back to Christian, who will introduce our strategic initiative, Aareal AMBITION, to you.
+
+Christian Ricken
+
+Thank you very much, Andy. We are now on Page 23. As I've already mentioned, we have introduced a three-year growth plan called Aareal AMBITION. The plan has four strategic targets, first, to strengthen our core business; second, to expand our activities; third, to enhance efficiency and fourth, to maintain a disciplined approach. We will apply these targets across the group.
+
+This means that we will continue to grow the Structured Property Finance segment’s business both on and off balance sheet. In Banking & Digital solutions, we are targeting growth from existing housing market clients and by moving further into adjacent markets. We will seek to optimize the scalability of our infrastructure and on the capital risk and funding side, we will maintain tight control over our capital and liquidity ratios.
+
+So let's now look in more detail at each of these objectives in turn. Page 24, we have set two 2027 financial targets for the Structured Property Financing segment, namely to increase on-balance sheet volume from €33.5 to around €37 billion and to increase off-balance sheet volume from €7 billion to around €9 billion. We will achieve these targets by growing and further diversifying our on-balance sheet loan book with a focus on future oriented property classes where we can achieve good margins.
+
+In the US, we are revising our strategy and aim to shift the loan portfolio towards more value-accretive asset classes while also improving efficiency. We will also increase our off-balance sheet financing business. This capital light aspect of our activities currently has a portfolio volume of €7 billion to which we plan to add €2 billion, an increase of 28%. As we move forward, we remain determined to support our customers' ESG agendas and we will continue to increase the green financing’s percentage of our portfolio. We will of course meet all regulatory ESG related requirements.
+
+Let's move to BDS, Page 25. Here we are targeting deposits to be sustainably over €13 billion. We have a strong market position with 4,000 clients managing more than 9 million housing units. We will leverage this strength in our unique combination of banking and software products. We are targeting increased income from our existing clients by new enterprise resource planning ERP corporations with the aim of gaining market share. We are also aiming to expand our customer base to adjacent B2B segments such as energy and other utility industries in Germany and internationally. To support these initiatives, we will invest to achieve digitized end-to-end bank processes.
+
+Next, Page 26, in the context of risk, funding and capital, we have set two major 2027 KPIs. A Basel IV CET1 fully phased ratio of at least 13.5%. And secondly, we are continuing our existing targets of an NPE ratio of under 3%. To achieve this, we will continue our conservative approach to risk and active credit risk management. In addition, we intend to further diversify funding sources with structured funding products and by building our own retail deposit platform. We will consistently balance returns to our shareholders with regulatory capital requirements, the growth of our businesses and the expectations of our debt investors.
+
+Let me provide a bit of further background on our NPE target. So, let's look at Page 27. The schematic chart on this slide shows the abnormally high cost of risk that we have experienced in recent years, which has been driven by unprecedented market events. It was over 100 basis points for much of 2023 and 2024. Our NPE target reflects our expectation that the cost of risk will return gradually to more normal levels and be around 45 basis points by 2027.
+
+Turning now to the scalability of our infrastructure, Page 28. We have set a target of gross savings of €40 million per year by 2027 and aim to continue our growth path with low marginal costs. To fulfill these objectives, we invest with a focus on the organization structure, on IT architecture and platforms, on processes and on our campus, our headquarter location. We have also created a new COO division that will bring platform components together and evaluate additional cost savings.
+
+On Slide 29, we are illustrating the growth and efficiency steps that move our 2024 return on equity after tax of almost 7% to our target of at least 13% adjusted ROE in 2027. This is based on a standardized 13.5% CET1 ratio Basel IV fully phased. At 13%, our return on equity will exceed cost of capital.
+
+To sum up our Aareal AMBITION on Page 30, we are targeting a return on equity after tax of at least 13% in 2027, which aligns with a fully phased CET1 ratio of at least 13.5%, a cost-income ratio under 30%, and cost of risk of around 45 basis points.
+
+Now allow me to conclude with following key points. Aareal Bank achieved strong operating profit in 2024 and the best since 2018. Non-performing loan volumes have been reduced by active management. We are moving forward with two higher yielding and resilient segments. We have the strength to invest in efficiency and in our future growth. We have strategic initiatives in place and a clear ambition to generate further profitable growth and a step up in the after-tax return on equity.
+
+So thank you very much for your attention. And now Nina, Andy, Christof and I, are very happy to answer all of your questions. Thank you very much.
+
+Question-and-Answer Session
+
+Operator
+
+Ladies and gentlemen, we'll now begin the question-and-answer session. [Operator Instructions] And we have the first question coming from my name, Corrine Cunningham from Autonomous. Please go ahead.
+
+Corinne Cunningham
+
+Good morning, everyone. Thank you for the call. And a couple of main questions from me. Can you talk a bit more about asset quality, specifically what you're seeing in terms of defaults in the quarter or cures in the quarter, just a bit more detail on that? And I especially ask because the quarterly charge, actually, most of that wasn't for the US this time, it was for other. So perhaps if you can just explain what's going on there? And then on the Basel IV numbers that you give, is this the look through Basel number right through to the sort of 2032 standards or is it just based on 1st of Jan ’25 standards? Thank you.
+
+Nina Babic
+
+Yes, good morning. So I will take the first question on asset quality with the defaulting rates and the ones exiting, what was behind that? So in the year 2024, we have seen new defaults of €700 million overall. So it goes back to 10 deals which have defaulted and €400 million out of that was US office. The remaining parts have been smaller hotel engagements and one mixed use building. And on the other side, what has exited the NPL volume throughout the year 2024, its €900 million within the exposure. Its 16 deals behind that, 10 of them have been US. As you might remember in the year 2023, we had the peak with new inflows and new defaults of €1.3 billion, and most of it, of course, was also US office, as made transparent before. That was also to make the main part of the work, of the workouts and restructurings throughout the year 2024.
+
+To add maybe just one comment with regards to asset quality besides inflows and outflows of the NPL bucket. As you see, so the main part of the current NPL stock is now also going back to the US office, excluding that we would be at very low levels within the NPL volume with the €600 million. A part of it, old deals which are also currently being addressed, which means that currently as said, we have been able to cut it down to below €1.3 billion and we expect this trend will also continue going forward. So meaning that, next year's time when we talk about NPLs, we expect here to see a lower figure than we saw in end of 2024.
+
+And I can also add on the second question you had with regards to the capital ratios. Indeed, it's the fully phased ratio, which would actually apply just in 2030 with the output floor of 72.5%. We have already anticipated this and implemented it within our steering.
+
+Corinne Cunningham
+
+Thank you. Just any comment on the Q4 charge being not weighted towards the US?
+
+Nina Babic
+
+Excuse me, could you maybe just repeat the question?
+
+Corinne Cunningham
+
+Yes, sorry, just any more detail on the Q4 charge being weighted not towards the US, what that was for?
+
+Nina Babic
+
+Ah, so sorry, okay. So if we get to the NPLs, what is not US? Did I get it right?
+
+Corinne Cunningham
+
+You did yes. Thank you.
+
+Nina Babic
+
+Okay. Thank you. Okay So when we when we look at the NPLs of €1.38 billion as of year-end, excluding the US office parts, the €600 million remaining portfolio, one deal in UK, which is currently being addressed and the remaining parts, what we have outside of US offices, are four smaller hotels we have in the US. Again, also one exiting already now in Q1 already, the books and the remaining deal in Europe is one deal in Finland and one deal in Italy that they have defaulted before 2023 and also are currently being in focus for the exits in 2025.
+
+And when we look at Q4, if I got it right, simply to have a better view on the Q4 defaults, what we have seen in the fourth quarter are two defaults, €200 million which have defaulted both US, one office, one hotel but not because of triggers by cash flow or collateral. It was mainly going back to the hurricane where currently the hotel is closed and we are restructuring it together with the client going forward.
+
+Corinne Cunningham
+
+Thank you.
+
+Nina Babic
+
+You're welcome.
+
+Operator
+
+[Operator Instructions] There are no more questions at this time. I would now like -- we have a last minute registration from Sharada Patel from Citi. Please go ahead.
+
+Sharada Patel
+
+Three questions. So on your strategy for US market going forward, so as I understand it, you started writing business again this quarter, but going forward, you expect probably just stable balance sheet. And so how do you view that and in terms of can you just give more detail on the off-balance sheet business you expect to write.
+
+And then also this quarter you're pointing to the JV with Aareon generating new deposit volumes in the BDS. So could you just please explain this in more detail? And then actually just one more quick one. What was the one-off administrative expense this quarter? Thank you.
+
+Christof Winkelmann
+
+Okay, so I'll take the question on our view on the US market. As you've seen, we've been working very hard on the office portfolio, and that's absolutely going the right way. What we've seen also, when you look at the large funds and the large REITs publicizing, occupancies are trending back up. Rents are also stabilizing, if not trending up. Are we there yet? No. But definitely there's a change in sentiment and there's also a change in occupancy when you look at the occupied market, especially in New York City, where we are also engaged. So from the Office segment, we do see the first signs of recovery, although that will still take a while to be fully recovered. But the direction is definitely an upward trend.
+
+If you look at the Hotel segment, it's been the best performance in recorded history in terms of occupancy, ADR and RevPAR. So the US market on the hospitality side is doing actually very well and forecasted to further grow in 2025. Logistics segment, we're not very much engaged, it's very competitive, but from what I can tell, it's good quality assets are getting rented and there has been a bit of overbuilding, but that's slowing down. So I think that demand will catch up with the supply.
+
+The Retail side, much to the contrary of many, many thoughts towards Retail segment in the US, it has actually stabilized and for the most part recovered quite well. Even some of the larger malls, not talking about B malls, but I'm talking AA- malls, are having very good turnovers. So overall, the segment has stabilized in the US. We're looking at 2025 with a lot of work ahead of us in terms of the office portfolio as Nina has just mentioned. And the rest of the portfolio is actually doing quite well. And we are looking at, as we've said beforehand, further being engaged in the US and building the portfolio back up.
+
+Andy Halford
+
+And if I can just pick up on your second question, the one-off charges in the fourth quarter, I think we pre-trailed these at the end of the third quarter. So we took some costs for basically doing some restructuring, introducing some IT measures to boost the productivity going forwards and of the total charge for the year of €34 million, €29 million were taken in the fourth quarter. So there is nothing unusual about that but the vast majority were taken in the fourth quarter.
+
+And actually, if I can just come back to the previous question on the Q4 credit impairment charges outside of the US, one of the reasons that they were a little bit higher was because some of the management overlay top-up that we did was actually taken in the fourth quarter. So overall, we increased the overlay by €60 million during the year. €25 million of that was actually in the fourth quarter alone. So there really is nothing underneath the surface there that would cause any concern.
+
+And in fact, on a full year basis, I know that wasn't the question, the loan loss costs were actually not that far above our long-term average for the portfolio excluding US office.
+
+Sharada Patel
+
+And, sorry, can I just come back to that the question on the deposit business with Aareon and the JV generation new client?
+
+Christian Ricken
+
+Yeah, I will take the question. So, yeah, we have sold Aareon and I think there was a pre-existing business model with Aareon providing ERP software and Aareal Bank providing banking services and right in the middle there was the specific software solutions for the housing industry for the managers. And so this business model is going to continue even after the sale of Aareon in exactly the same way. So we have very frequent meetings on all management levels between Aareon and Aareal. And we have the joint venture company First Financial.
+
+So actually the business model now works as I already described, Aareon providing ERP software solutions and Aareal Bank providing banking solutions. And we have a joint company, jointly owned 75% by Aareon, 25% by us, where we develop the specific software solutions for the housing industry and the house managers. So that is going to continue. We still see a lot of business momentum, even accelerating.
+
+And for both parties, it's a win-win situation. So, to some extent, we are bound together, and that's a positive thing. So we will jointly develop further solutions. We are jointly approaching the customer basis. We have a sales approach, a coordinated, and providing this kind of unique solution, this kind of ecosystem for the housing industry and for the house managers.
+
+Sharada Patel
+
+Thank you.
+
+Operator
+
+There are no more questions at this time. I would now like to turn the conference back over to Jürgen Junginger for any closing remarks.
+
+Jürgen Junginger
+
+No, just thank you for joining us this morning. And as always, the IR team is happy to take follow-up questions, so if you have further questions. Have a good day and thank you again for listening.
+
+Operator
+
+Ladies and gentlemen, the conference is now over. You can now disconnect your lines. Goodbye.

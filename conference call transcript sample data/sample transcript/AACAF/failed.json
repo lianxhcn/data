@@ -1,0 +1,32 @@
+[
+    {
+        "title": "AAC Technologies Holdings Inc. 2022 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4536695-aac-technologies-holdings-inc-2022-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "AAC Technologies Holdings Inc. 2021 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4468372-aac-technologies-holdings-inc-2021-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "AAC Technologies Holdings Inc. 2021 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4451764-aac-technologies-holdings-inc-2021-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "AAC Technologies Holdings Inc. 2021 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4428712-aac-technologies-holdings-inc-2021-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "AAC Technologies Holdings Inc ADR 2018 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4201605-aac-technologies-holdings-inc-adr-2018-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "AAC Technologies Holdings Inc 2017 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4159631-aac-technologies-holdings-inc-2017-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    }
+]

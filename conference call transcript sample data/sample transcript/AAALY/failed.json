@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Aareal Bank AG 2025 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4811586-aareal-bank-ag-2025-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2025 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4787139-aareal-bank-ag-2025-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2024 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4735795-aareal-bank-ag-2024-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2023 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4674777-aareal-bank-ag-2023-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2023 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4628066-aareal-bank-ag-2023-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2022 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4584584-aareal-bank-ag-2022-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2021 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4490247-aareal-bank-ag-2021-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2021 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4475785-aareal-bank-ag-2021-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2021 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4449109-aareal-bank-ag-2021-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG ADR 2018 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4199028-aareal-bank-ag-adr-2018-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG 2017 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4151911-aareal-bank-ag-2017-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG ADR 2017 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4124792-aareal-bank-ag-adr-2017-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Aareal Bank AG ADR 2016 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4021976-aareal-bank-ag-adr-2016-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    }
+]

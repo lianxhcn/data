@@ -1,0 +1,357 @@
+Alcoa (NYSE:AA) Q4 2011 Earnings Call January 9, 2012 5:00 PM ET
+
+Executives
+
+Klaus Kleinfeld - Chairman, Chief Executive Officer, Chairman of Executive Committee and Chairman of International Committee
+Charles D. McLane - Chief Financial Officer and Executive Vice President
+Kelly Pasterick - Director of Investor Relations
+
+Analysts
+
+Brian Yu - Citigroup Inc, Research Division
+Paretosh Misra - Morgan Stanley, Research Division
+Kuni M. Chen - CRT Capital Group LLC, Research Division
+Sal Tharani - Goldman Sachs Group Inc., Research Division
+Timna Tanners - BofA Merrill Lynch, Research Division
+David Lipschitz - Credit Agricole Securities (USA) Inc., Research Division
+David Gagliano - Barclays Capital, Research Division
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Fourth Quarter 2011 Alcoa, Inc. Earnings Conference Call. My name is Alicia, and I will be your operator for today. [Operator Instructions] I would now like to turn the call over to Kelly Pasterick, Director of Investor Relations. Please proceed.
+
+Kelly Pasterick
+
+Thank you, good afternoon, and welcome to Alcoa's fourth quarter [indiscernible]. I'm joined by Klaus Kleinfeld, Chairman and CEO; and Chuck McLane, Executive Vice President and CFO. After comments by Chuck and Klaus, we will take your questions.
+
+Before we begin, I would like to remind you that today's discussion will contain forward-looking statements relating to future events and expectations. You can find factors that could cause the company's actual results to differ materially from these projections listed in today's press release and presentation, and in most recent SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussions. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release in the appendix of today's presentation and on our website at www.alcoa.com, under the Invest section. Any reference in our discussion today to EBITDA means adjusted EBITDA, for which we have provided calculations and reconciliations in the appendix.
+
+And with that, I'd like to turn over -- turn this over to Chuck McLane.
+
+Charles D. McLane
+
+Thanks, Kelly, and we really appreciate everyone taking the time to join us today. As we start to review the financials, we've got several objectives we'd like to accomplish. The first of all is the clear understanding of our recent actions, along with the associated charges; next to provide you with some insight on our operational cash performance in the quarter; and lastly, to provide commentary on our 2012 cash sustainability targets.
+
+With that being said, let's turn to the fourth quarter. Our loss from continuing operations in the quarter was $193 million or $0.18 per share. Restructuring and other special items totaled a negative $159 million, which brings us to a loss of $0.03 per share. In just a second, I'll detail the restructuring special items for you.
+
+A 13% drop in the LME, combined with continued European weakness, contributed to the decrease in revenues on a sequential basis. On a year-over-year basis, sales increased 6% despite an 11% drop in LME as the aerospace, automotive, and commercial transportation markets all showed greater than 20% increases in revenue.
+
+Free cash flow in the quarter was $656 million, bringing the cash generated this year to $906 million. We achieved the lowest day’s working capital in our history at 27 days, or 3 days lower than our previous record set in 2010, roughly equivalent to $200 million in cash. Remember, this is on top of the 13-day improvement achieved in the previous 2 years.
+
+Our debt-to-capital ratio stood at 35%, or flat with the fourth quarter of 2010, despite a 1 percentage point increase related to pension plan discount rates. During the quarter, we reduced our net debt by $547 million, and liquidity remains strong with cash on hand of $1.9 billion. Lastly, we achieved all of our 2011 cash sustainability targets, as we continue to improve liquidity and strengthen our balance sheet.
+
+Now let's move to the income statement. The loss for the quarter of $0.18 per share was primarily driven by restructuring and other charges which I will detail in the next slide. The COGS and SG&A percent of sales increases were essentially driven by a decline in revenue, which was a function of the falling metal prices. Our factored tax rate in the quarter was 31% or 36% excluding discrete items. This brings our year-to-date operational tax rate to 24%. With increasing uncertainty across our markets, we will continue to experience swings in the rate as profit drivers with each taxing jurisdiction remain volatile. With 2012, we expect our ETR run rate to be approximately 27%.
+
+Let's now move on to a review of the special items in the fourth quarter. Restructuring and special items in the fourth quarter totaled an unfavorable $159 million. As announced last week, we've taken decisive action to close or curtail 531,000 metric tons of smelting capacity. These closures and curtailments represent $141 million of the total restructuring charges. The remaining restructuring relates to headcount reductions in other businesses and an asset write-off in Australia.
+
+The other special items in the quarter were favorable non-cash mark-to-market adjustments on energy contracts and a gain on the sale of land in Australia. These 2 were completely offset by discrete tax items associated with legislative actions in various jurisdictions and uninsured losses primarily due to flooding at our Bloomsburg, Pennsylvania facility.
+
+Now let's move on to the sequential earnings bridge. The negative net impact of LME and currency for the quarter was $125 million, driven primarily by a sequential drop in metal prices of 13%. Ongoing productivity improvements across our businesses were insufficient to overcome slowing market conditions and prevailing cost headwinds. However, we were able to maintain our rate of productivity improvements on a sequential basis and capture $221 million of improved productivity compared with the fourth quarter of last year.
+
+To get a clearer understanding of these significant movements, let's move on to the segment bridges, and we'll start off with Alumina. While our Alumina business is experiencing significant pressure due to falling market prices, our performance actions have more than offset raw material and cost increases. Alumina production increased this quarter by 1% sequentially, achieving a new quarterly production record driven by Point Comfort in Australia. Market effects for the quarter were almost entirely driven by changes in LME, and they lowered profitability by $94 million. Higher index pricing and our focus on productivity drove a $53 million increase in performance.
+
+Energy moderated for us during the quarter, while costs have continued to have an increased impact on our cost due to its 3- to 6-month lag. We are beginning to see a softening in certain regions in the caustic market, and as a result, expect to see lower prices, which will begin to improve results by the second quarter.
+
+Lastly for the fourth quarter, we sold a plot of land in Australia, which contributed $30 million. Looking to the first quarter, we anticipate 33% of our third-party shipments will be on spot or Alumina index basis. The first quarter is also when we undergo significant maintenance in our Australian operations, which will impact the segment results by $20 million. Raw material inflation will continue in the first quarter, and as you have come to expect, we will fight for every productivity dollar available.
+
+Now I'll move to the Primary segment. In Primary Metals, we continued to experience significant headwinds in our business. Production was flat, third-party shipments were up 7% sequentially, and realized pricing was down 12%. Effects of regional premiums on the quarter were muted as the mix of our product sales improved from Q3. However, as we look towards next quarter, this will have an increase impact on our realized price. We were able to generate $21 million in performance improvements this quarter to partially mitigate the higher costs. Energy and raw materials reduced profitability $36 million as we experience the planned outage at our Rockdale energy facility, and we continue to see the impact of rising carbon and alumina prices.
+
+We managed our working capital to a record level. We dropped 7 days from last quarter and 4 days from the year-ago quarter. As we look at Q1, we will see the full impact of falling regional premiums, as well as a number of seasonal effects on our energy cost. In raw material prices, we are seeing important signs of improvements in the market. Our announced curtailments, as well as a number of other global reductions in supply, had taken regional supply demand balance for calcine and coke from short to long. While we do not expect to see a strong impact in the first quarter due to inventory flows, we do believe this will provide relief in the following quarter.
+
+Now let's move to Global Rolled Products. The story for Global Rolled Products this quarter was volume. Seasonal beverage can volume declined as expected in North America and Russia, with volumes down 12% and 23%, respectively. European demand also continued to remain weak in the fourth quarter, with a 16% drop from Q3. Aerospace and automotive demand remained stable. This segment was also negatively impacted by customer credit losses. We continue to drive productivity improvements across the business, and in spite of the lower volumes, generated $4 million in savings. This segment had a record quarter in free cash flow while continuing to invest in growth projects, and they were able to reduce their working capital an astounding 10 days sequentially.
+
+Solid progress was made towards our 2013 $2.5 billion incremental revenue target. In fact, we've already achieved 55% of our targeted increase in 2011. Next quarter, we expect to see continued demand strength in aerospace and automotive and seasonal increases in packaging. Our outlook in Europe remains soft.
+
+Now let's turn to Engineered Products and Solutions. While down sequentially, Engineered Products and Solutions delivered another solid quarter. Revenue was slightly down quarter-over-quarter and improved by $140 million compared to the prior-year quarter. Profitability declined sequentially but increased by $9 million compared to the fourth quarter of 2010. Our year-over-year improvement has been driven by management actions to improve our portfolio and better leverage the strength of our innovative products. Productivity improvements was slightly offset by cost increases during the quarter, driven by our Cleveland press outage and lower yield in certain businesses. We remain on target towards a 2013 incremental revenue target of $1.6 billion. We achieved 48% of the increase in 2011.
+
+Looking ahead, we anticipate incremental improvements in all of our markets, with the exception of commercial transportation in Europe and building and construction in Europe and North America. We also anticipate better quarter-over-quarter productivity gains.
+
+Now let's move to the cash flow statement. We ended the fourth quarter with exceptional cash results. We generated cash from operations of $1.1 billion, more than $650 million improvement over last quarter. This improvement was driven by significant reductions in working capital. We currently stand at 27 days, which is 11 days lower on a sequential basis and 3 days lower than last year. Free cash flow in the quarter was $656 million, bringing the full year to $906 million. Our debt-to-capital increased to 35%, primarily due to lower discount rates that impacted the re-measurement of our pension plan obligations. With $1.9 billion cash on hand, we move forward into 2002 (sic) with a strong liquidity position. Now if we could, let's take a step back, take a look at our businesses on a full year basis.
+
+On a quarterly basis, each of our businesses face challenges ranging from lower realized prices to market weakness and rising cost. However, when you examine the full year results, it shows strong performance and in most cases exceeded prior year results. Alumina not only finished the year with higher EBITDA per ton, but also exceeded the historical average of $66 per ton. The move to alumina index pricing for approximately 20% of third-party shipments helped the business achieve year-over-year improvements in the face of difficult market conditions.
+
+In Primary Metals, EBITDA per metric ton was lower than prior year as the segment faced cost headwinds and significantly declining prices in the second half. We've reacted to this situation by aggressively acting to shutter uncompetitive plants permanently, and to curtail locations with higher power.
+
+The Global Rolled Products business faced challenges in the second half of 2011 due to demand destruction from market weakness in Europe and expected fourth quarter seasonal declines. However, year-over-year performance has improved on an EBITDA per metric ton basis, exceeding both prior year as well as above historical average. It's also important to note that Global Rolled Products achieved 55% of the 2013 revenue growth target in year one.
+
+Engineered Products and Solutions finished the year with an 18% EBITDA margins, our best performance ever. Like Global Rolled Products, Engineered Products also made great strides against their 2013 target, achieving 48% in the first year. Overall, a challenging second half driven by declining prices and rising costs but our businesses remain focused on driving profitable growth and managing cash.
+
+Now let's turn to the year-over-year bridge. Total cost increases of $1 billion created significant headwinds to our operations. While there was raw material inflation, ramp-up issues, pot re-linings or maintenance overhaul, we battled the entire year to offset these increases. We did so through actions designed to increase market share, improve pricing as well as our mix of products and generate ideas in our operations which led to significant productivity improvements. These actions essentially overcame the higher cost and allowed the net benefit of higher prices and currency to hit the bottom line.
+
+Now let's move on to the full year cash flow. 2011 was another solid year in terms of generating cash and improving liquidity. Cash from operations was $2.2 billion, which included $336 million in pension contributions. Capital expenditures for the year were roughly $1.3 billion or $213 million below our target. After generating $1.2 billion of free cash flow in 2010, we generated another $906 million in 2011. The formula for success continues to be solid operating performance and disciplined capital management.
+
+Underpinning the operating performance is the exceptional performance in working capital, which is demonstrated on the next slide. We continue to make tremendous progress in achieving sustained improvement in our day’s working capital. In 2011, we established a new record, 27 days. We've been able to reduce day’s working capital by 16 days, an equivalent of $1.1 billion since 2008 and 3 days since 2010. That one-year improvement equates to roughly $200 million in cash.
+
+These results demonstrated not only an improvement but a sustainable reduction. Stable operating practices and a relentless focus on cash has been the hallmark of our businesses. As you will see from our 2012 targets, we're going to continue this effort.
+
+Now let's move on to a report on our 2011 financial targets. For the third consecutive year, we've achieved all of our cash sustainability targets. We continue to take a disciplined approach to capital spending, which is demonstrated by our results in both sustaining and growth CapEx. Our investment in the Ma’aden Alcoa joint venture also came in below target at $249 million. Construction is progressing as planned and continues to be on schedule and on budget. Debt-to-capital remains at our targeted range, and we achieved our goal of being free cash flow positive, ending the year with $906 million. These results have us starting 2012 in an improved liquidity position, as shown on the next slide.
+
+As you can see, our performance has improved markedly from the end of 2008 time period. First, we have significantly improved our free cash flow generation and had been free cash flow positive for the last 2 years. We've been disciplined in our capital spending while still investing in growth opportunities. We have been able to significantly improve our liquidity by maintaining significant cash on hand. At the same time, we have reduced our debt position by more than $1.2 billion and our net debt position by $2.4 billion. We've also reduced our debt-to-capital by more than 700 basis points.
+
+One area that has generated increased concern has been the funding of our pension plan. With that in mind, let's take a look at the next slide and we'll discuss that topic. Despite a challenging investment environment, Alcoa increased the market value of its assets with an estimated 9% return in 2011. And our pension contributions continued to meet their RESA 80% threshold for funding requirements. We have historically used cash to fund pension obligations, with the exception being 2010 and 2011. Even in this timeframe, we contributed $449 million in cash. We're anticipating the use of cash to fund 2012 requirements. Should economic conditions change, we will obviously reassess our options.
+
+Let's now move on to our 2012 view and cash sustainability targets. In the second half of 2011, we faced headwinds influenced by the volatile economic environment. As a result, we entered 2012 managing for cash. I've just elaborated on where we stand from a liquidity position. Yet our goal as we entered 2012 is to utilize these categories of capacity optimization, the cost and productivity gains, working capital and liquidity initiatives to enable us to finish the year cash flow positive. We set our targets to accomplish this overarching objective, which are listed on the next page.
+
+Alcoa will focus on maximizing cash in 2012, and the following targets had been established as part of our new cash sustainability program. We've already discussed the capacity optimization targets and announced we will close or curtail roughly 12% of Alcoa's global smelting capacity. We have a target to capture productivity gains of $800 million and overhead savings of $50 million in 2012. Even though we set a record on day’s working capital, we set a goal to achieve another 1.5-day reduction over 2011.
+
+Alcoa will target positive free cash flow in 2012 and follow a disciplined approach to capital spending, with specific targets established for sustaining CapEx, growth CapEx and spend on the Ma’aden Alcoa JV investment. Lastly is our debt-to-capital target. We will continue to manage our capital structure and maintain a ratio in the range of 30% to 35%.
+
+Ever since the downturn of '08 and '09, we have taken a very disciplined and aggressive approach in managing for cash. As we enter 2012, we are positioned and committed to meeting the challenge of this current environment. With that, I'd like to turn the floor over to Klaus.
+
+Klaus Kleinfeld
+
+Well, thank you, Chuck. So let's start with a short review of 2011. Let's go to the market, and then the Alcoa performance, and then we go into 2012.
+
+So let's start with the market. The aluminum demand continued to grow substantially. It started strong into the year and weakened in the second half. As you may remember, we projected originally 12% growth. We believe the market has finished with a growth rate of 10% in the last year so that's where it leaves us.
+
+Let's go to the supply demand picture for 2011 and also close that. So on the left-hand side, you see the primary aluminum side. The market has ended with a slight surplus of 150,000 tons, and the Alumina market, as we projected, is in balance, supply demand situation.
+
+So let's move on to the 2011 Alcoa performance. And can we have the next chart, please? As you see there, the 4 major segments, right, you see on the Alumina side, the EBITDA per metric ton finished 2011 stronger than 2010, with $70 as slightly above the historic average of $66. Various sectors have contributed to the aluminum pricing index, introducing a market pricing system, certainly one of those. And our strategic investments helped to improve our business despite very difficult market conditions. On the primary metal side the lower left corner here, the EBITDA per metric ton lower than the prior year basically due to cost headwinds and a substantial price decline in the second half of the year. It basically underlines the importance of our strategic targets as those that follow us for a longer time. Remember last year, we've put out a 10% improvement -- 10 percentage point improvement on the cost curve target in the next 5 years for our primary business, and this is well underway. And as it shows here, it's really important.
+
+The recent curtailment actions also clearly show our commitment to this, and we have also learned a lot to respond quickly and cashed sensitively in the changing market conditions. This is an important skill that we've acquired in the 2008, 2009 timeframe, particularly in today's very volatile time.
+
+If you look at the Flat Rolled upper right-hand corner, we face challenges from the second half of the year, with the demand destruction in Europe. However, as you look at the annual performance, it has improved compared to the last year with the EBITDA per metric ton and it's above historic levels. So in addition, what you can see here on this slide what I'll tell you is Flat-Rolled Products also have a strategic target to grow $2.5 billion until 2013, and it's achieved 50% of that in the first year.
+
+Engineered Products and Solutions business improved margins here, reached 18% EBITDA margin for the full year. This is our best ever performance. This also showed great performance on the growth side. There is a strategic target to grow $1.6 billion in the 3 years until 2013, and they've achieved 48% of that in the first year. So if you look at this chart alone, which tells a good story of what has happened in 2011, so the business have remained very focused on profitable growth, and like in the last downturn, they do not let their eye off the strategic directions.
+
+And let me just quickly give you some views on what has happened on the strategic side there, starting with Primary. Our new bauxite mine in Juruti, Brazil improved production by more than 50%. At the same time cash came down by 30%. The refinery São Luis is now at nameplate capacity with 3.5 million tons. Our hydro dam trade [ph] also in Brazil for the structural build, 4 of 8 turbines are in place, will be completed this year and it will give us 277 megawatts in this year, it will bring our cost down on the cost curve for the worldwide system by one percentage point. This action alone, that's a good thing in our Saudi Arabia joint venture. Here are some recent pictures. It's the lowest cost as you may remember, and as you can see here, it's nicely coming out of the ground, it's on-time, it's on budget and that's an important thing to see and very important for our strategic direction.
+
+GRP on the Global Rolled Products side, also been focusing nicely on our growth regions and nicely on some of the growth segments. Russia, as I want to highlight their 20% -- 23% year-on-year volume growth. It's when you look at -- when you look at 2008 to today, $150 million turnaround in profits. When you look at China also, capacity utilization coming up 70%. We expect by 2012, we are a good player in some of the key markets, already in breeding sheets and we are going into other growing markets like consumer electronics. That's a good thing. And then talking about Davenport. Davenport is strongly profiting and looking forward to the growth in automotive, as well as the sustained growth and increased growth in aerospace. Last year, we announced a $300 million investment there to meet the U.S. oil demand. And on aerospace, we'd see clearly a growing capacity with higher ASP [ph] build rate, and this very fundamental decision that was made in 2011 by Airbus to have the A320neo and by Boeing to have the 737 MACs as an all-aluminum plane. That's very, very important, right.
+
+So last but not least, and when you see the strategic things on EPS. We continue to drive innovation and acquisitions as the major driver for our downstream profitable growth. On the innovation side, I really almost don't know where to start. We are #1 in fasteners. 90% of the fasteners are specialty fastener, 55% are patented. We're #1 in blades going into jet engines and gas turbine. We have a great innovative capability. Let's just mention the 3D multi-wall airfoil cooling. And what is lead do it, it allows for higher firing temperatures in the chambers, and that basically means it increases the engine efficiency and brings the emission down at the same time.
+
+We're usually #1 in wheels. And just to give you an impression here, I mean, if you replace the aluminum wheels, the steel wheels with aluminum wheels here in this example, this alone can lead to a 3% to 4% -- 5% fuel saving on a truck and trailer combination. EcoClean has made headlines actually but just very positively mentioned as one of the biggest innovations happening last year. It's an active façade. And if you have 10,000 square feet of EcoClean, it's the equivalent of the pollution reduction that you get from 80 trees per day.
+
+And in addition to that, we have the bolt-on acquisitions on the fasteners side from Perry Republic [ph], TransDigm. We expanded our footprint, 4% EBITDA margin improvement for percentage points, and 4% to 7% market share gains depending on where you go. Trico, the acquisition and the windows side increased our North American commercial window share by 18%.
+
+So that's that on the operational side. If you look here at the financial targets, and I don't want to go through all of them, we basically achieved all of them, achieved or overachieved all of them together with on the right-hand side, the strategic targets. And that will continue. We're going strong into 2012, and we're well trained and capable to act fast and face up the challenging market conditions.
+
+So let's go into 2012 and the outlook. Again, we'd start with the end market perspective then we go to aluminum and Alumina and then we talk about the Alcoa action.
+
+So let's go into the end markets that we cater to. So we actually see on the global scale growth to be positive in 2012 in those end markets that we serve, and at the same time, there are still some specific headwinds in certain regions that will prevail. So let's go through it in the usual way.
+
+Aerospace for 2012, we believe the positive momentum is going to continue. We expect 10% to 11% growth, driven strongly by large commercial aircraft. We now have an increased confidence in the delivery rates because 2011 net orders came out to be 2,183 of our large commercial aircraft. That's obviously Boeing and Airbus together, which is the second highest in aviation history. The combined backlog of both firms now is 8.2 years. So I think there is good reason to be optimistic about that market.
+
+Automotive, another pretty good story, with the exception of Western Europe. We expect on a global basis to have growth between 3% to 8%. So let's look in some of the major regions. North America. It looked in the summer as though we would see a slowdown but then the fourth quarter came on strong with 13.4 million vehicles. We expect this momentum to continue into 2012 and driven very strongly by the average vehicle age. That's currently at 10.6 years whereas the 10-year average is 9.4 years, so we anticipated a growth here between 5% to 10% in 2012.
+
+One interesting aspect and I want to mention specific to our industry is that we've been seeing that the aspect of fuel efficiency plays a much, much more important role today on the consumer choice but it's different from what it was 10 years ago. 10 years ago, the consumer really only had a choice to scale down both for a vehicle in a lower class, but today, you have fuel-efficient choices in each segment. Light weighting obviously with aluminum plays an important role here, as it shaves off 10% of fuel efficiency. So this different -- this changed consumer preference together with the strong fuel efficiency legislation drives the company -- the automotive companies into that type of direction.
+
+Automotive Europe. Sales in the European market, EU27 was down 2% in 2011, driven by positive momentum in Germany plus 9 Eastern Europe, plus 27, but all of that compensated or overcompensated by the reduction in most other countries, France, Italy, Spain, U.K. altogether comes to a down with a combined 7% of these countries, driven by -- given the strength in exports, the production is expected to be plus 5% in 2011, with a substantially weaker second half. And we expect for 2012 and overall production to be around 0% to minus 5%.
+
+On China automotive, we expect to have -- we except the China have achieved a gain of around 3% in 2011, impacted by the elimination of government stimulus, as well as new vehicle registration limits in some major cities. In 2012, we expect growth to be between 3% to 8%.
+
+On the heavy trucks and trailer, the next segment in commercial transportation, we expect mixed results. In total, we believe growth between 2% to 5%, driven very much by North America and China. North America commercial trucks and trailer, we do see a total 305,000 units for 2011 so that's up 69% compared to the year before. Production has increased by 64%. We're still positive for this sector. However, we agree with the industry consensus for 2012 of a growth between 2% and 7%.
+
+Europe commercial transportation 2011 has brought roughly 28% growth. The second half was weak. Actually, a production decline of 19%. We've seen the austerity measures as well as the overall economic issues on the Eurozone are impacting this market obviously. We anticipate a production decline between 8% to 13% in 2012.
+
+In China, the Chinese commercial truck market has substantially come down from this enormous high of 1 million vehicles in 2010, 865,000 trucks in 2011. We're looking forward to 2012 because we anticipated growth between 3% to 8% to 2011. Chinese government is expected to enforce some stricter engine requirements in the second half so this is going to cause onto some positive momentum here in this market.
+
+Next segment, beverage can and packaging. Global demand would stay at the 2011 growth levels so we expect a 2% to 3% increase worldwide. Commercial building and construction, the next segment here, the picture has really not changed much. The markets in Europe and North America are further in decline, we believe 3% to 5% in 2012. China is anticipated to grow 8% to 9% growth in the retail sector and Tier 2 cities through the increase in the demand is the most strong driver here.
+
+And last segment here, industrial gas turbines, we believe the market has seen a very steep decline in 2009, and its slowly in recovery, we expect build rates to increase by 5% to 10%. However, and that's very important to us, as a blade manufacturer, we expect the reduction in spare parts so the market, we believe, is going to be flat overall in 2012.
+
+So what does that all mean if you add it all up and bring it together for the aluminum demand picture? And let's go to the next slide. So we've seen a 10% growth last year, just to show that to you and we believe the growth rate for this year is going to be 7%. So this shows you a breakdown of the different regions, and you do see there a strong growth coming from China. We believe China is going to have about 12% growth obviously on a higher basis. By the way, last year, 15%, Asia 9%; without China, Asia 9%; India, 10%, these are the strong growth drivers. And then we see on the contrast Europe with no growth but also no decline as we believe.
+
+So let's move to some more details here, the regional premiums and the inventory situation. On the left-hand side, you see the regional premiums broken down in the different regions here. Metal premiums have declined a little but if you compare that to the historic levels, they are still well above historic levels, and this continues to be a good reflection of the physical demand. Physical demand continues to be strong.
+
+If you move to the right-hand side here, you do see the inventory levels to be broken down into different types of inventory. This has increased compared to the third quarter. The inventory levels have increased by 4 days from 53 to 57 days of consumption. And part of the increase is obviously driven by the slowdown of demand, and part of it is by metal moving from off-warrant, to on-warrant, and let's take a more detailed look at that.
+
+On the left-hand side here on this chart, we try to generate an overview of the total global inventory. What you saw before our that slide, the visible part, as well as now an estimate of the invisible inventory, we believe that if you compare the third quarter to the fourth quarter that we've seen a slight increase of about 400,000 tons here on the inventory side. So some chunk, about 200,000 tons, comes from the slowing in demand so the producers are selling into the LME or increasing, as you can see here, their own inventory.
+
+The second chunk is China. China's increasing by about 100,000 tons. This is pretty much almost exclusively the Shanghai Metal Exchange year end liquidation adjustment. And then last but not least, you see about 200,000 tons moving from off-warrant to on-warrant. And to see that phenomenon a little bit more clearly, we've generated that outlook in China on the right-hand side but it's actually pretty simple. If you look at the blue curve, the blue curve shows you the 3-month spread, and you do see what happened in the last year, the contango narrowed. And what happens when the contango narrows and you're about to renew your metal contract and you are off-warrant, and you want to come on-warrant to just be more liquid so that's exactly what happened.
+
+But we've also seen that the contango going into the end of the year widened again, and that's why we also put the right -- the red curve in here too. And the red curve shows the canceled warrants. So you can see the canceled warrants shoots up immediately after the contango widens, and that basically is a good indicator. The warrants get canceled so going forward, you should see the trends from off-warrant to on-warrant pretty soon getting reversed.
+
+So let's move now to the supply-demand picture. That's what we see, and that's obviously a very, very important picture, and we haven't generated that as you well know lightheartedly. We are projecting an overall deficit for the Primary Metal in 2012. We believe China will curtail about 1.1 million tons, and I'll elaborate on that. And we see curtailment in the west of around 700,000 tons so I'll give you some more color on that.
+
+But before we do that, let's talk about the right-hand side. Not as exciting as the left-hand side but Alumina markets, we believe, will continue to be in balance as we've seen that in 2011 also.
+
+So let's take a more detailed look on China aluminum situation. So what we see here on the left-hand side, we have done a very thorough analysis and looked through all the smelters that we see in China and made a calculation of where we believe they are standing. With the current Shanghai Metal Exchange pricing, as well as the substantial increase in power cost. We believe that about 1/3 of the total production in China is cash negative. This is a calculation on a cash basis so it's cash negative so it's bleeding leading money. And we're talking about 5.7 million tons.
+
+On the right-hand side here, you see a breakdown into which provinces are affected by that. So if I remind you on the previous slide, our assumption for the 600,000 deficit -- ton deficit in the primary market, our assumption is that 1.1 million of this 5.7 million unprofitable leading cash capacity, which basically is 20% of that, will be taken off-line in China.
+
+So if you believe that, that estimate is a little bit too conservative, obviously, everything else will add to the deficit. As a reference point, I'd like to give you the 2008, 2009 reference, which was the time when China took about 3.5 million tons up from the match right?
+
+So, so much about the demand-supply situation. Let's also briefly talk about Alumina's attractiveness as an asset class. Alumina continues to be attractive as an asset class, and we've taken here a look at the Dow UBS Commodity Index, which has about $90 billion under management. So let's take a look at the left-hand side here and look at the stacked bars here. The base metal in that fund makes up or made up in 2011 17.8% of the total composition of this fund. And it's expected, with the rebalancing that is happening, that this will go up to 18.6%.
+
+So on the right-hand side, you can see here the composition inside of the base metals. And interestingly enough, I mean, aluminum is the second most important asset inside of the base metal after copper was a percentage share of 29% in there. The expectation is after the rebalancing for this to go up to 31.7%. So if you multiply that out, $90 billion roughly of assets under management, and again this is just one of the funds, we're talking about $5.3 billion basically in aluminum to this fund alone and a delta of roughly $600 million coming in, in addition after the rebalancing. So this is obviously good news and another indicator that aluminum continues to be an attractive asset class.
+
+So if you want to put all these things together and the reason why we've been putting these charts together is to give you a feel for where could pricing end up. And obviously, when you want to make this calculation, you would be looking at where is physical demand supply? We've talked about that, that's a deficit, right? What's the asset attractiveness? This is what you can see here on this.
+
+And the last remaining piece of information is all of the speculative investment that obviously goes on in all of the commodity sectors. And a lot of that is based on the macroeconomic. Last time, we talked a little bit about the pretty massive amount of shorting that's going on in there. And again, most of it is based on the macroeconomic indicators. So that's why we put this chart here together. And if you focus your view first on the lower right-hand corner in here, which shows the prices of different metals, you can see that the second half was not a good second half for a lot of the base metals here.
+
+But let's also take a look at the kind of indicators that have been driving that. The upper left-hand side is the Eurozone prices and a good indicator for the Eurozone prices is as we believe the 5-year bond yields. And as you can see, I mean, the 5-year bond yields had been going up in those critical countries massively in the last year, and that triggered a lot of off-shorting.
+
+But what you have been seeing over the course of the end of the year, this has been coming down. And if you look at the last weeks, it's been coming down pretty substantially. So it seems that some of the actions that have been taken and are continue to be taken in Europe seems to have led to a more positive view on that.
+
+You can also take a look here on the upper right-hand side, the consumer confidence. Consumer confidence massively weakened in 2011. But if you look at the U.S. for instance here, it's been substantially down onto a basically August last year and since then, it's been rebounding in a nice, nice fashion.
+
+And last but not least, a very good indicator, a very good early indicator is the manufacturing purchasing manager’s index, which you see on the left lower side for the 3 regions. And after a strong decline in 2011, you see that all indices are improving. U.S. and China is already in positive. Actually, U.S. never left, and China just dipped in a little bit and come out of it right away. Europe is still below it but it looks as though the decline has been stopped.
+
+So let's summarize what we believe we are seeing here on the general market side in our market. 7% global growth in aluminum, we believe, for 2012. For the primary aluminum balance moves to a deficit, we talked about that. The asset class of aluminum continues to be attractive in the macroeconomic indicators, I would say, are showing some first positive signals.
+
+So what is our approach in this still very volatile market? We will maximize our optionality and increase our speed of execution. Chuck already talked to this slide. I just want to use it to reemphasize that. We basically have a new cash sustainability program for 2012. We're in the middle of executing this, and we will obviously do that very fast. It has this element of capacity optimization, liquidity initiatives, working capital improvement, cost and productivity gains, but we will not let our eye off our True North, which are these 3 strategic priorities, profitable growth, our core advantage, and disciplined execution.
+
+So let me just, very briefly, because I know that there's a lot of question on it, maybe I can answer this question right away before even the Q&A session, talk about the curtailment here and remind you that what -- why have we done that? We've done that basically for 2 reasons. One is to improve our competitiveness. So this is a strategic element. The second one is adjusting flexibility to the current market conditions.
+
+And also, may I remind you on the left-hand side, this chart you've seen in 2008, 2009. This is our approach that we developed at that time to have multiple options, how do we go through curtailment steps? And it's well-tested and we know how to do it fast and we know how to do it with a keen eye on cash. It has those elements. It goes -- I mean, the maximum is the permanent shutdown, which we've just announced for tenancy and for 2 lines in Rockdale 291,000 tons, full plan curtailment which we are planning to curtailments which are planning to do for La Coruña and Aviles and then there's other elements of realigning.
+
+So all of these decisions are never easy, and we are working very, very hard to find solutions that minimize the impact on the communities, as well as on our employees that are affected by it.
+
+So last but not least, our cash sustainability program 2012 has operational as well as financial goals. Here are the operational and the financial goals, goals from capacity optimization, productivity gains of $800 million overhead, continued improvement working capital, another 1.5 days to the financial targets which you see here on the right-hand side. So this gives us all a good idea on how we see 2012 and what we are planning to do. So let me close with that and open it up for Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And the first question comes from the line of Dave Gagliano with Barclays.
+
+David Gagliano - Barclays Capital, Research Division
+
+It's related to the $800 million cost savings target. It's a 3-part question. I was wondering if first, you could talk about the volume that's tied to that target. Secondly, I was wondering if you could divide that up into each of the major segments in terms of the $800 million contribution from each segment. And somewhat related, if you can divide it into the major contributors such as raw material versus labor, versus volume reductions, et cetera.
+
+Klaus Kleinfeld
+
+Okay, Dave. The way we do that is we basically build a matrix. And the matrix is a matrix that has every business and every region, and then breaks it down -- and every lever in it, right? So it's procurement, it's overhead, it's operational efficiencies, right? I don't think that we are going to break that further down, other than what we've done here already and basically you segregated it into the financial and the operational ones, and inside of the operational, broken out the overhead one as well as the working capital improvements, which are obviously cash related only and the $800 million productivity. But you can absolutely rest assure that the breakdown of that is down to the site level, and I would be stunned if you were to meet and run into an Alcoan who is on a decent level that they would not know what their productivity expectations are.
+
+David Gagliano - Barclays Capital, Research Division
+
+I guess my question, is there a volume cut associated with that $800 million cost savings year-over-year?
+
+Charles D. McLane
+
+No, it's not, Dave. In other words, every time we do productivity, I think I've got your question a little bit clear here. Every time we do a productivity, as we did previous cash sustainability and procurement, et cetera, we adjust it for volume changes. So if we've got less spend in an area that just due to taking volume out, that's not counted as productivity on our part.
+
+Operator
+
+And the next question comes from the line of Kuni Chen with CRT Capital Group.
+
+Kuni M. Chen - CRT Capital Group LLC, Research Division
+
+Just a quick one on the overall market here. You talk about your expectations for capacity cuts out of China and the rest of the world. Can you just give us some view on the timing of those cuts? And how long you think some of these underwater smelters can continue to hang on if there's no rebound in the metal price?
+
+Klaus Kleinfeld
+
+Yes, Kuni, happy to do so. I mean, let me first breakdown the 1.1 million that, that we have assumed will come offline and that we believe is going to be pretty soon. So it's broken down into 3 segments. One is the Heinan province. There it's very strong -- and that's 280,000 tons, and there is very strongly driven by the drought conditions that exist there. So obviously having an impact on the hydro capabilities there. So we believe that this is going to happen pretty, pretty soon. And then the second chunk is about 630,000 tons, which is based also on a report and which is even more broken down by the China economic information center. We also believe that this is most likely going to come down pretty soon. And then there's the third chunk which is about 200,000 tons, which has already been discussed and where we believe the actions are in the progress. And if you want to go further, we believe the next -- this is the 1.1 million that we have assumed it's going to come offline, right? So if you want to go the next level, we believe the next logical tranche will be the what's considered the old inefficient smelters, so that ones that have old technology under 200KA. And we believe that out of the 5.7 million in total that's underwater, this is another 1.2 million tons. And I mean, anybody who would care for how to use the resources wisely would take that these things off-line rather sooner than later, right? And that's always assuming, that's always assuming the current Shanghai metal price situation.
+
+Operator
+
+And the next question comes from the line of Timna Tanners with Bank of America.
+
+Timna Tanners - BofA Merrill Lynch, Research Division
+
+I just want to go through the assumptions on cash, if we could real quick and get a little bit more detail perhaps. It seems that there's a lot of growth projects and the sustaining CapEx, so just wanted to see if I'm missing something with this free cash flow estimates, if that has assumed Ma'aden, Davenport, the Quebec investment and some of these additional closure costs. So I'm just wondering if you've given any detail on the further closure costs? What's the minimum amount of cash that you might need? And then what kind of assumptions go into your hope to be able to pay down the pension with cash?
+
+Charles D. McLane
+
+Okay, let me start off, Timna on that. Basically, if you looked at our targets, which we covered, the sustaining CapEx, you can see that it's still running at a very low level as a percent of depreciation. I mean, we had 2 years that is was right at 39% in 2009 and 2010. It popped up to 62% in 2011, and it's going to be back under 60% in 2012. And that includes projects like relocating the Australian crusher at our mining site, which is a significant project which has to be done. And the overhaul of the wharf in Baie-Comeau. So those are big sustaining projects that are included in the $725 million that we've got as a target. With regards to the growth CapEx, you can see the biggest change between 2011, which was pretty low growth CapEx numbers, 2012 with $625 million is the Davenport expansion, which is a couple of hundred million dollars in 2012. And then we've got this Saudi Arabia at $350 million. So as we look forward to the year and go through our assumptions around pricing, raw material cost, these spend categories and the $650 million in pension, that's where we get to the point that we think we're going to be able to do that and be cash flow positive. Now are things going to happen during the course of the year, positive and negative will offset that but we're approaching it from the standpoint that we want to be neutral, no worse than neutral, free cash flow positive so that we're masters of our own destiny, so to speak, regardless of the situation, just like the actions we took on curtailments.
+
+Timna Tanners - BofA Merrill Lynch, Research Division
+
+Got it. And have you got a timeframe from when the pension needs to be paid, and an estimate for the [indiscernible]?
+
+Charles D. McLane
+
+Pension will be spread out during the course of the year, not exactly 25% each quarter but close to it.
+
+Operator
+
+And the next question comes from the line of Paretosh Misra with Morgan Stanley.
+
+Paretosh Misra - Morgan Stanley, Research Division
+
+So the sensitivity of aluminum price that you provide on Slide 46, I noticed that it went up to $220 million. Any particular thing that is driving that increase?
+
+Charles D. McLane
+
+It was mostly about the restarts that were taking place in the U.S., nothing more than that. It had been a while since we updated. You know it was originally $220 million. We kind of pulled it down and probably a little lax in going back to the $220 million. As you can see this time, it's closer to that range than not. So that's really all.
+
+Operator
+
+And the next question comes from the line of Sal Tharani with Goldman Sachs.
+
+Sal Tharani - Goldman Sachs Group Inc., Research Division
+
+In Italy, you had a, remember, a dispute on the electricity contracts, and you had taken a $250 million charge in the past, and there was a, I think, that you've put a statement at that time that you might have to pay about $300 million to $500 million. With the closure, you think you may have to accelerate the payment and you have to pay this year that amount?
+
+Klaus Kleinfeld
+
+Well, I mean theoretically, Sal, these are 2 very different things. I mean, the one is -- the one is referring to a decision by the European Union that they believe we have received -- improperly received the subsidies here, and that's the amount that you've been referring to and the second thing are the closings here. We will see where this comes out. I mean, there is legal proceedings underway and very hard to predict where this will come out. But as you know, we've legally gone against that decision and very strongly believe that we have the law on our side here. But to be clear, the European regulation is as such that you first have to pay and then you have to fight it in court, right? So we'll see where it comes out.
+
+Sal Tharani - Goldman Sachs Group Inc., Research Division
+
+Next question is on the alumina capacity, which you may have to take down along with aluminum capacity taking down. Any parts on that, which regions would that be in, and what would the costs associated with that would be?
+
+Klaus Kleinfeld
+
+No, we've actually already said that we will work through that. There's also a different situation than that depending on where things are on the cost curve. So you have to take these things into account, and we will publish that whenever we make the decision. We're obviously watching where the market is going.
+
+Operator
+
+And the next question comes from the line of Brian Yu with Citi.
+
+Brian Yu - Citigroup Inc, Research Division
+
+My question has to do with the downstream operations. You've stuck to the revenue growth targets for 2013. Engineered Products is still showing pretty good margin expansion, Flat-Rolled looks like that stalled out for a couple of quarters now. How are you looking at 2012 for those 2 businesses and the margin outlook?
+
+Klaus Kleinfeld
+
+Well, let's start with the downstream, the downstream business. In fact, I think that I would rather be positive to -- I mean, as you saw by, we only showed the total year. You saw that on a total year basis, the margin that we've achieved in the Engineered Products and Solutions business is a historic high with 18%. The fourth quarter has been a little lower than that, and we'd see what this year brings, but we clearly have the intention to keep the margin levels at where we have achieved them, right? And with the positive situation in the aerospace segment, as well as the innovative potential that we have in the Engineered Products and Solutions business, I'm cautiously optimistic that, that will happen but you obviously also have to see where the environment is going. With the midstream business, to be precise, I mean, you said stalled a couple of quarters. I would say it can be correlated. If you look at the total here, you see on this slide that we showed that the EBITDA per metric ton has continued to go up and it's at a higher level than last year, which is a great achievement. And obviously, it's an achievement of having substantially changed also the mix. We have the intention to continue to do that. The impact that we've seen in the last quarter is basically coming through the euro crisis plus the, how do you call it, the seasonal impact on the can side. So again also here, we have the intention I mean to bring that back up to those levels with the actions that we are taking.
+
+Brian Yu - Citigroup Inc, Research Division
+
+Okay. And then just a follow-up on, I think it was your answer to Kuni's. You mentioned that the 600,000-ton deficit forecast for this year, that's based on spot aluminum prices, is that correct?
+
+Klaus Kleinfeld
+
+I mentioned that on the 5.7 million tons that I showed with the analysis, the China analysis. I mean, now much of that is underwater? I just want to make sure that we do it on a cash basis and don't include non-cash items like depreciation or so because in the end, the pain level comes when you really have -- when you really see cash flowing out the door, that's why we did it and it comes out with the 5.7 million tons of the total Chinese production being cash negative as we speak. And that's where the 600,000 is based on basically then rolling into the 1.1 million, you're absolutely correct.
+
+Brian Yu - Citigroup Inc, Research Division
+
+Okay. So if we assume that -- if we can assume that aluminum prices are too low and hopefully they go up from here, that we could see that 600,000 ton forecast start to also come down too as the prices go up?
+
+Klaus Kleinfeld
+
+Yes, well. But that's why I -- okay, yes, you can always -- I mean, the world is a dynamic place so that statement is always true in general, but the question is always a question of likelihood. So you don't take the 600,000, take the 1.1 million tons that we have put into what leads to the 600,000 of curtailments in China. And as I said, 5.7 million tons in China are underwater, cash-wise. We took 1.1 million and as the estimate of what comes offline, I personally believe that this is a very conservative estimate. And even as metal price comes up a little bit, that does not mean that immediately, I mean, everything in China is rosy. The Chinese aluminum industry, as we all know, has a structural problem that will not go away and that will lead to some structural consequences, almost independent of where metal price is, because there are some other considerations also coming in, mainly the energy, how they use the energy and in a country that is not energy rich and then the question of sustainability given that almost all refineries and all smelters are using coal fire power, yes. To be continued.
+
+Operator
+
+And the next question comes from the line of David Lipschitz with CLSA.
+
+David Lipschitz - Credit Agricole Securities (USA) Inc., Research Division
+
+Quick question on the back to the productivity gains. Were any of these done in 2010 when you talked about $3 billion of overhead and procurement savings? Or where -- why weren't these done before? Is this something new? How are we getting the incremental $800 million?
+
+Klaus Kleinfeld
+
+You're always asking the right question. Well, I think the good news is we're doing it in addition to the things that we've done before. And I think that many of you that have been around and followed us also in the 2008, 2009 timeframe, at the time when we put the first cash sustainability program out, which was for 2 years and had very aggressive targets, we're saying, "My God. I mean, can you keep that level when the economy comes back?" The economy came back unfortunately only for too short a time here, right? So and we have been able to lock these achievements in. I mean, the bridge that Chuck showed here from 2010 to 2011 is probably the best proof of it. Chuck, what is it? $632 million of productivity and that's no child's game. Obviously, right without that as the whole situation would've looked much, much grimmer. I think what we've learned and what the people that are in the operations have learned is how to do it on a regular basis, how to continuously push for the next level. In many of the businesses, the centers of excellence that we established are playing a substantial role in basically picking up best practice wherever it is around the world and making sure that it is next day on, done in that way across the system that we have. So those are things working capital when you see the working capital improvement. I mean, honestly when you see 16 days, that's amazing, absolutely amazing achievement.
+
+Charles D. McLane
+
+And on the working capital, I mean, with the same thing started out then we first put the targets out as far as okay, make some changes they're going to be critical crisis type of changes but it's going to come back on you. So we sustain those we gave -- we've improved it each year, gotten up to the 16.3 last year and we're asking for another 1.5 days. So maintain where you are and another 1.5 days.
+
+Klaus Kleinfeld
+
+And obviously, these things, I mean, with our working capital, they vary over the quarter-to-quarter but the most important thing is you have to compare it with the respective quarter, the year ago and we do see that we have been able to lock these improvements in.
+
+David Lipschitz - Credit Agricole Securities (USA) Inc., Research Division
+
+Just final question then, what changes the outlook for this business, to be honest? In terms of every time there's a little downturn, the aluminum price really corrects pretty substantially. What changes? What keeps stuff online permanently? How does this work? How do we get to a sustained where we stay at a $1.10, $1.15, $1.20 or higher price?
+
+Klaus Kleinfeld
+
+Okay, there's a lot of factors that go into that. I thought that in the presentation that Chuck and I put together, we mentioned some of those. I mean, the physical supply and demand picture is obviously one that you would start with. And you do see that, that is a substantial change, 7% growth plus and a deficit situation here so that's a substantial change that you are seeing. The second question is how attractive general is aluminum as an asset class, and the third one is all these macro speculation going in here, where in the end of the last year, we've seen that a lot of people have been projecting that the word is going to come down and therefore taking short position. That has an impact in our industry as it has in other metals and commodity industries.
+
+Operator
+
+Ladies and gentlemen, this concludes the question-and-answer session for today's call. I would now like to hand the call over the Klaus Kleinfeld for closing remarks.
+
+Klaus Kleinfeld
+
+Well, thank you very much, and obviously, to be continued. And as I hope you see -- you can see by our action, our core is moving swiftly to address the changing market conditions and improve our competitiveness, as you are used to and as we are used to. We will continue to drive for innovation and productivity wherever we can, and our outlook is relatively positive here. So thank you for joining us and stay tuned. And I'm looking forward, as Chuck and others do, to a continued conversation. Thank you very much.
+
+Operator
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect.

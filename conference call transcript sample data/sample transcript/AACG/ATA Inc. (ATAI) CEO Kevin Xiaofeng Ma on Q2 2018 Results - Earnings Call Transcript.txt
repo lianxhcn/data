@@ -1,0 +1,140 @@
+ATA Inc. (ATAI) Q2 2018 Earnings Conference Call August 16, 2018 9:00 PM ET
+
+Executives
+
+Carolyne Sohn - Senior Associate
+Kevin Xiaofeng Ma - Co-Founder, Chairman and Chief Executive Officer
+Amy Tung - Chief Financial Officer
+Jack Huang - President
+
+Operator
+
+Good day, ladies and gentlemen. Welcome to the ATA Inc. 2018 Second Quarter Financial Results Conference Call. My name is Steven. I will be your event manager. During the presentation, your lines will remain on listen-only. [Operator Instructions]. I would like to advise all parties that this conference is being recorded. [Operator Instructions]
+
+And now I like to hand over to Carolyne. Please go ahead.
+
+Carolyne Sohn
+
+Thank you, operator, and hello, everyone. Thank you for joining us. As many of you saw, ATA issued two press releases earlier today: the second quarter 2018 earnings release; and the release announcing ATA’s anticipated acquisition of Beijing Biztour, one of China’s leading service providers for B2B international education tours. These announcements are available at the IR section of the company’s website at www.atai.net.cn and will be discussed on this call.
+
+As part of this conference call, the company has been accompanying a slide presentation available on its website. A replay of this broadcast will also be available at ATA’s website for the next 90 days.
+
+Before we get started, I would like to remind everyone that this conference call and any accompanying information discussed herein contains certain forward-looking statements within the meaning of the Safe Harbor provision of the Private Securities Litigation Reform Act of 1995. Although, the company believes that the expectations reflected in its forward-looking statements are reasonable as of today, those statements are subject to risks and uncertainties that could cause the actual results to differ dramatically from those projected.
+
+There can be no assurance that those expectations will prove to be correct. Information about the risks associated with investing in ATA is included in its filings with the Securities and Exchange Commission, which we encourage you to review before making an investment decision. The company does not assume any obligation to update any forward-looking statements as a result of new information, future events, changes in market conditions, or otherwise, except as required by law. Regarding the disclaimer language, I would like to refer you to Slide 2 of the conference call presentation for further information.
+
+All U.S. dollar amounts in this conference call relating to financial results for the second quarter ended June 30, 2018, are converted from RMB using an exchange rate of RMB6.6171 to US$1; the noon buying rate as of June 30, 2018. All historical conversions are accurate as of the time reported unless otherwise noted. The company reports its financial results under U.S. GAAP and RMB, and all percentages calculated in the presentation are based on RMB unless otherwise noted.
+
+For those of you following along with the accompanying PowerPoint presentation, there is an overview of the company and its current form on Slide 3. Given the recent developments, today’s call will have a slightly different format. The company’s Chairman and CEO, Mr. Kevin Ma, will start with a summary of the ATA Online transaction for which we announced the completion of the final closing today; CFO, Ms. Amy Tung, will follow with a brief overview of financial highlights for the second quarter of 2018; ATA’s President, Mr. Jack Huang, will then make some remarks on ATA’s outlook and growth strategy. We will then open it up for questions.
+
+With that I’ll turn the call over to ATAs Chairman and CEO, Mr. Kevin Ma. Please go ahead, Kevin.
+
+Kevin Xiaofeng Ma
+
+Thank you, Carolyne, and welcome everyone. I will begin on Slide 5, where we detailed the timeline of events, as they are related to the Transaction to sell ATA Online and its direct shareholding companies.
+
+On February 6, 2008, the company entered into a share purchase agreement with a group of investors for the sale of ATA Online and its direct shareholding companies. Under the terms of the Share Purchase Agreement, the Buyer Group agreed to acquire all of the outstanding equity interests of ATA Online, which was then held directly or indirectly by ATA, for a total consideration of US$200 million in cash.
+
+We’re very pleased to announce the final closing of the Transaction earlier today. We’re ahead of our provisioning provided timeline for the completion in late third quarter of 2018. In connection with the Transaction, we announced last week that ATA’s Board of Directors has declared a special cash dividend of US$6 per ADS.
+
+The total amount of cash distributed in the dividend is expected to be approximately US$140. With a completion of the final closing, the dividend will be paid on or around August 24, 2018, to all shareholders of record as of the close of business on August 20, 2018,
+
+As noted in last week’s press release announcing the special dividend, NASDAQ has determined that ATA’s ADSs will trade with due-bills representing an assignment of the right to receive the cash dividend from the day prior to the record date through the payment date, because the special cash dividend represents more than 25% of the closing trading price of ATA’s ADSs on August 7, the last full day of trading before the dividend was declared.
+
+The ADSs will not trade ex-dividend until the first business day after the payment date. Therefore, shareholders who sell their ADS on or before the payment date will not be entitled to receive the cash dividend.
+
+Slide 6 has a chart illustrating our history of returning capital to shareholders through dividend. Including this special cash dividend, the company will have distributed approximately US$7.42 per ADS in dividends in aggregate as a measure of rewarding shareholders for their continued support since ADS IPO in 2008.
+
+Our entire management team has worked at Beijing-related Biztour, our operations and serve as responsible shareholders of capital for all of our shareholders. This includes remaining term parenting area aspect of our operations, while ensuring that we always have the shareholders’ best interest in mind.
+
+We feel that today’s announcement and the conclusion of the Transaction provide us a fair valuation to our royal shareholders, while providing upside with a chance to take advantage of some exciting opportunities in China’s emerging technologies and education industries.
+
+Additional information on the Transaction can be found in the Form 6-Ks ATA filed on February 6, 2018 and June 27, 2018 and the Form 20-F filed on April 12, 2018, which investors may access on the SEC filings page on ATA’s website on the U.S. Securities and Exchange Commission website at www.sec.gov.
+
+With that, I will turn it over to Amy for an update on the financials for the 2018 second quarter.
+
+Amy Tung
+
+Thank you, Kevin. Looking to Slide 8, I wanted to remind everyone of an important change in the way we reported our financial statement beginning the first quarter of 2018, because the transaction represents a strategic shift and has a major effect on ATA’s results of operations, the disposed business lines have been reclassified as discontinued operations.
+
+For the periods presented in this presentation and in the related press release, the assets and liabilities of the discontinued operations are presented separately on the consolidated balance sheets, and the results of the discontinued operations, less applicable income taxes, are reported as a separate component of income, discontinued operations, on the consolidated statements of comprehensive income loss.
+
+As a result and given the final closing of the transaction, we will not be discussing the operating or financial results of ATA Online testing services and delivery business during our prepared remarks.
+
+Briefly, ATA’s total net revenues for the three months ended June 30, 2018, were RMB77,000, approximately US$12,000, compared to RMB1.2 million in the prior-year period. In the 2018 first quarter, the decrease was primarily due to reclassification of approximately RMB1.5 million in rental income from net revenues to other operating income, net, as a result of adopting the new revenue guidance ASC 606, effective January 1, 2018. The related costs of approximately RMB0.6 million were also reclassified from cost of revenues to other operating income, net.
+
+Net loss from continuing operations, net of income taxes, for the second quarter of 2018 was RMB20.2 million, compared to net loss of RMB17.4 million in the prior-year period, primarily due to approximately RMB3.4 million in increased general and administrative expenses, caused by an additional RMB8.0 million contribution to the Research Institute of Future Education and Assessment at Tsinghua University, which was partially offset by a decrease in professional fee expenses related to the company’s change in fiscal year-end from March 31 to December 31.
+
+Net loss from discontinued operations, net of income taxes, for the second quarter of 2018, was RMB79.5 million, or US$12 million, compared to net income of RMB8.6 million in the prior-year period. This was primarily due to RMB110.8 million in income taxes accrued for the Transaction, which was offset by approximately RMB28.6 million in net income generated from ATA Online operations during the second – 2018 second quarter.
+
+Slide 9 provides financial highlights. As of June 30, 2018, ATA’s cash and cash equivalents were US$43.4 million, working capital was US$23.3 million, and total shareholders’ equity was US$34.7 million; compared to US$8.2 million, US$34.6 million and US$56.1 million, respectively, as of December 31, 2017.
+
+Jack will now provide an update on the development fees announced earlier today and how these activities play into ATA’s growth strategy for the future. Please go ahead, Jack.
+
+Jack Huang
+
+Thank you, Amy. Slide 11 summarizes ATA’s major development since 2018, including my appointment in January, the progress was made on ATA Online Tour Transaction from entering into our FPA [indiscernible] closing as related to special dividends and finally, our merger and acquisition activities.
+
+We were excited to announce earlier today that ATA had signed definitive agreement for the acquisition of Beijing Biztour International Travel Service Co., Ltd. Beijing Biztour [for short and measurably] [ph] Chinese for which we have provisionally announced a strategic demand in the March.
+
+Slide 12 and 13 provides additional background on this Transaction – on this acquisition. Under this term of definitive agreement, ATA will acquire Beijing Biztour for a total purchase price of RMB50 million. We are pleased that Beijing Biztour’s management team is expected to stay on to manage and drive the business following the planned acquisition. I look forward to working closely with them on expanding their student outreach, as well as enhancing its network of overseas partners.
+
+For those interested, the company will file a Form 6-K containing the definitive acquisition agreement and additional information, which investors may access on the SEC Filings page on ATA’s website or on the U.S. Securities and Exchange Commission website at www.sec.gov.
+
+We believe that ATA’s expertise in the lending technologies and a longstanding industry connections are well suited to accelerating the growth of Beijing Biztour’s business. Serving over 7,000 students in China each year, it is clear that Beijing Biztour is fulfilling and increasing the amount of educational experiences outside the classroom, and we are excited about the growth opportunities afforded by this acquisition, as we move into the next ear of ATA’s corporate history. We expect to close on this acquisition in the fourth quarter of 2018.
+
+An overview of Beijing Biztour is on Slide 13. Beijing Biztour is one of China’s largest providers of B2B educational tour services, offering the international educational study tour services for students in China, who are interested in overseas study tours, primarily in the U.S., United Kingdom, and Australia.
+
+As I mentioned earlier, the company serves more than 7,000 students each year and it gives increasing amount of more diverse international educational opportunities by urban families in China. We believe we can grow this business with the synergies between ATA and Beijing Biztour. We see anticipated acquisition of Beijing Biztour. We have been able to bring greater clarity to our overall growth strategy for the future.
+
+As noted on Slide 14, we plan to leverage our expertise in assessment, education technologies and services, as well as our industry relationships to skill the growth of well-established education enterprises to expand its presence in China and beyond.
+
+The initial goal would be to increase outreach to support a growing population of students seeking learning experiences outside of classroom, especially educational international travel programs. We expect to utilize our core competencies and industry connections to help Beijing Biztour, which has full potential.
+
+While we work closely with Beijing Biztour to complete the acquisition, we continue to explore the possibility of using to proceeds from the ATA Online Tour Transaction on a merger acquisition opportunities within the education sector and we also continue to support the remaining portion of ATA’s business, which includes the following.
+
+First, the assessment tools and content business in our evaluation services area that currently focuses on affecting the competencies of K-12 students. Second, the Nanjing University and Tsinghua project in [indiscernible] area that focuses on the innovation-related competencies of the college students and serve the research project with the Education of Research Institute of Tsinghua University in our international education services areas that focuses on Chinese skills and competencies of non-native Chinese learners.
+
+We believe ATA is well-positioned to execute on our growth strategy It is an exciting time for education in China, as we intend to stay above plan of new learning technologies and any changes in the government policy to take advantage of suitable opportunities. We appreciate ongoing support of our shareholders, and on that note, plan to be visiting with many of you over the course of the next few weeks. We expect to be in the U.S. for investor meetings in the fourth quarter and looking forward to speaking with all of you in January.
+
+With that, operator, let’s open it up for questions.
+
+Operator
+
+Thanks so much. Ladies and gentlemen, the Q&A will now open. [Operator Instructions] At the moment, there are no questions. I’ll hand over to Carolyne.
+
+Carolyne Sohn
+
+Thank you, operator. We do have a couple of questions for our webcast participants. The first question is from [Brandon Jiang of Lotus Capital] [ph]. He asks, I’m wondering if management could share the financial situation of Beijing Biztour? What are its operating results for the first-half of 2018 and what are its shareholders’ equity?
+
+A - Kevin Xiaofeng Ma
+
+Yes, thank you for the question. Biztour have had a relatively strong year for the very first the half year, this year. So on the financial forecast for the last quarter, the final quarter of this year, we are looking at bringing in over more than 2,000 students and it’s creating roughly a RMB30 million revenue for the final quarter this year, which will be, as I believe, recorded [indiscernible] income via the company.
+
+Carolyne Sohn
+
+Brandon also had a follow-up question. He asks, what is our company’s net cash position minus – the cash minus all liabilities after the ATA Online transaction is completed?
+
+A - Amy Tung
+
+Okay, let me share about the cash position after – regarding for this transaction first. In the first quarter as people we are know, our considerations for this transaction is in total US$200 million for selling online. However, we do have some impact incurred over the Transaction, which totals about US$35 million. So I’m not sure in this transaction, we will be about US$165 million, that’s for the net-driven business transaction. And then for our cash position, we are still very healthy and we – after netting for liabilities, we still has about US$150 to US$160 million cash as of this time.
+
+Carolyne Sohn
+
+Thanks, Amy. There are no further questions from the webcast. I’ll turn it back over to management for any closing remarks.
+
+Amy Tung
+
+Okay, thank you.
+
+Kevin Xiaofeng Ma
+
+Thanks, again, to all of you for joining us. If anyone has questions for us, please feel free to reach out directly to us or our Investor Relations firm, the Equity Group. We look forward to speaking with you all again, during our next quarterly report. As always, we welcome any visitors to our office in Beijing. Thank you.
+
+Operator
+
+Thank you so much. Ladies and gentlemen, that concludes your conference call for today. You may now disconnect. Thanks for joining, and have a very good day.
+
+Question-and-Answer Session
+
+Q -

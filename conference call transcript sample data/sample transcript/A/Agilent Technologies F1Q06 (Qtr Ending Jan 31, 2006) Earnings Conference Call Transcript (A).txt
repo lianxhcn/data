@@ -1,0 +1,506 @@
+
+Agilent Technologies Incorporated (NYSE:A)
+Q1 2006 Earnings Release Conference Call
+February 13, 2006
+
+Operator
+
+Good day, ladies and gentlemen and welcome to the Q1 2006 Agilent Technology Incorporated Earnings Conference and Analyst Meeting. My name is Jessie and I will be your coordinator for today’s call. At this time, all participants are in a listen-only mode and we will be conducting a question and answer session towards the end of this conference. As at any time during the call you require assistance, please key “*” followed by “0” and coordinator will be happy to assist you. As a reminder, this conference is being recorded for replay purposes. I would now like to turn the call over to Mr. Hilliard Terry, Investor Relations Manager. Please proceed sir.
+
+Hilliard Terry, Director, Investor Relations
+
+Good morning, hopefully everyone on the line can hear me clearly, unfortunately due to some of the storm-related challenges today; we have half of our team here in New York and half of our team participating today remotely from Palo Alto. So with that, let me make a few introductions here in New York, I have Tom White President of our OSS business, Pat Byrne, President of our Electronic Measuring Group, Craig Nordlund, Senior Vice President and General counsel of Agilent Technologies. In Palo Alto, we have our CEO and President Bill Sullivan, our Executive Vice President and Chief Financial Officer Adrian Dillon, and also Chris Van Ingen President of our Bio-Analytical Group.
+
+So with that, let me start with our Safe Harbor. We may make some forward-looking statements today, and we ask that you take a look at our SEC filings to make sure that you understand the risks and uncertainties associated with those statements. Also in accordance with SEC regulation G, if during this call or meeting we make any non-GAAP financial measure references, you’ll find in your books, here in the room and also on our website, a reconciliation to the, most directly comparable GAAP financial measure.
+
+In addition, the forward-looking statements that we make today are only valid as of this date; the company assumes no obligation to update such statements as we move through the quarter. So as we proceed today, I ask for your patience, we are going to take questions from here in the room also on the line and as many of you in the room know that we’ve been having a few technical difficulties, which just means that there is a still use for Agilent’s test equipment, and as many of you know our name is Agilent and today we are being very agilent. So with that, let me turn it over to our President and CEO Bill Sullivan.
+
+William Sullivan, Chief Executive Officer, President
+
+Thank you Hilliard, I’d like to welcome whoever seems to be here, either alive or virtually to welcome you to our 2006 analyst meeting as well as our Q1 conference call, related to our performance in Q1, 2006. Today, I would like to give a quick snapshot of where Agilent is today. On August 15th 2005, Agilent announced this strategic realignment of the company, the purpose was to provide more focus as the world’s largest measurement company and to create more value for our customers as well as our shareholders. We are very pleased today to during this update to report that we have made excellent progress since that announcement. Today, Agilent is more focused, we are 2 times larger than our nearest competitor as the largest measuring the company in the world. We have made substantial progress in meeting the commitment that we have made, we have a robust product line, product offerings, moving into the future, and excellence that was clearly demonstrated in our Q1 results, we are strong very financially strong, have an excellent operating model in which to leverage our performance moving forward.
+
+So what you are going to hear today as well as the update on our Q1 performance as Agilent essentially moving into the Phase II of its evolution, to really to be able to leverage our top-line growth in order to return superior shareholder returns based on the strong operating model we have created.
+
+Let me just give you a quick update on the actions we have taken since the August 15th announcement. First of all, in September of 2005, we did call our $1.1 billion convertible debentures and that has been completed. Likewise, in November, we sold our share of our Lumileds joint venture to sales for $1 billion. In December, we completed the divestitures of semiconductor products group to KKR and Silver Lake Partners for $2.7 billion. And we have completed $3.3 billion of the $4.5 billion stock repurchase. It’s highly likely depending, assuming normal market conditions that we will complete the stock repurchase program by the end of this year.
+
+And finally, we’re right on track to complete the spin-off of our SOC, flash memory test business which has been encouraging and that IPO is expected in the middle of this year. So overall, we continued to meet the commitments that we have made on our August 15th announcements.
+
+So if you look at Agilent’s strategic priorities moving forward, our focus, our strategic intent is very straight forward. We want to be and are the premier measurement solution partner to every engineer, service provider and scientist in the electronic and Bio-Analytical market. That partnership is result of the quality of people that we have and a very high performance results-oriented company. The foundation that we go back for 65 years is built on uncompromising integrity and Agilent moving forward is about speed and noted innovation that our employees will provide that partnership to customers everywhere in the world. We strongly believe that this focus will continue to create long-term shareholder value which is measured through superior return on invested capital and above market growth.
+
+If you look at the overall measurement market, and we have shared this with you in the past, it is a $40 billion market opportunity for us, $20 billion in electronic measurement and $20 billion in the Bio-Analytical measurement side of the house. And as you can se from this slide, there are many segments of the market where we believe that we’ll be able to leverage our expertise in order to be able to grow faster in the market. And that will really be the subject of discussion by each of these group presidents when they talk about their strategic initiatives.
+
+But if you go to the next slide, you can see the brief outline of the key strategic initiatives that we’ll discuss later in today. Chris Van Ingen, will talk about the Bio-Analytical opportunities, continued strengthening of our core product portfolio, our continued investment in Life Science tools and high-end mass spec portfolio and opportunities that we have seen in after markets, consumables as well as informatics. Likewise, Pat Byrne will continue to focus on opportunity in communications triple-play, emerging wireless opportunities, aerospace and defense and our whole effort to expand our market position in general instrumentation.
+
+And finally, Tom White will talk about our efforts to extend our leadership position in network assurance as we move into service and customer insurance. And again as I stated, our overall goal is to outpace the growth of the markets while continuing to leverage with excellent operating model that we have put in place.
+
+In addition to that, we will continue to actively look for acquisitions to be able to enhance our product portfolio and improve our growth. Our goal is to be able to grow the company by 3 additional points through M&A. In the last 5 quarters, even with all of the transformation that we have been managing through, we’ve actually made 6 acquisitions that we believe can add 2 points of additional growth over the next 3 years. These acquisitions are evenly split between our electronic measurement sector and our Bio-Analytical measurement sector. And just to highlight a couple, our Qianfeng Instrument JV is our effort with the joint venture to be able to have a very cost effective high quality low cost RF instrumentation offering and again the first products will start to rollout next quarter. Likewise, we entered into the nanotechnology marketplace with the acquisition of molecular imaging and finally in electronic measurement, we’ve expanded our RF EDA software with the acquisition of Eagleware. And all of these acquisitions are going very, very well. Likewise on the Bio-Analytical side, we have made 2 acquisitions Silicon Genetics and Computational Biology to be able to expand our product offering in gene expression and with the addition of scientific software, we have a much stronger, broader offering in lab informatics.
+
+Agilent will continue to actively look for acquisition opportunities while ensuring that we generate 20% incremental return on invested capital by year three. It is so important; as we focus on growth did not take our eye of operational excellence. And we’ve been very pleased with the progress that we have made over the last year. First of all, in terms of return on our research and development investments almost 30% of the revenue we’re generating today are products that had been released over the last two years. Likewise for the second quarter in row, we had a return on invested capital was greater than 20%. Our asset management continues to be best-in-class and we are, and Adrian will go into the details but we are well ahead of schedule of getting our infrastructure cost out of the systems getting to cross parity given that the company now is more focused and smaller than it was before without the semiconductor group.
+
+And of course, we will continue to return value to our shareholders and to-date have repurchased 80% of our outstanding shares, as I’d mentioned previously, we will complete given normal market conditions the rest of the committed stock repurchases by the end of the year.
+
+So in summary, the transformation of the company is going exceedingly well. 2006 is all about consolidating our position and focusing on top-line growth while leveraging our operating model. Well I think, we are very strong in our overall product portfolio, and we are continually committed to make sure that we maintain our operating discipline as we focused on the top-line growth. Before I turn it over to Adrian, I’d just like to say a couple of words about our Q1, FY ’06 performance.
+
+Overall, FY ’06 Q1 was very solid performance. Revenue and earnings per share were at the high end of our range, adjusted for the outstanding shares. If we could do anything better, we should have turned more of the orders, electronic measurement sector into revenue. But the good news is that we have a lot momentum going into Q2, and we believe we are positioned to perform well in Q2, and then provide a guidance of an earnings expectation again this is pro forma of $0.35 to $0.40.
+
+With that I’d like to turn it over to Adrian, to give you the details of Q1, as well as the outlook moving forward. Adrian?
+
+Adrian Dillon, Chief Financial Officer
+
+Thank you, Bill and good morning everyone. It is a pleasure to be with you even if virtually and we all wish we could be there in the 27 inches of snow with you. Let’s begin by talking about the first quarter performance and then we will transition to our longer term operating model. As Bill has already said, we believe we saw a solid performance in the first quarter while completing several major transactions. We did complete the $3.7 billion worth of semiconductor related divestures in the past three months for a gain of $2.74 billion. We’ve returned $3 billion to our owners through a very successful self-tender. The growth in orders which was, orders were up 15% in the first quarter from last year. The growth was driven by the rebound in semiconductor test. But New Agilent in other words, excluding semiconductor test orders were also up 8% from last year.
+
+Our revenue and operating earnings, a revenue of 1.34 billion was at the near the high-end of the guidance of $1.28 billion to $1.35 billion. And our earnings we are at the high end of expectations. We actually reported $0.32 per share, versus guidance of $0.25 to $0.30 per share at 512 million shares outstanding. In fact, because of the success of the tender offer we ended up having 483 million shares on average outstanding during the quarter. So that $0.32 equilibrates to $0.30 at 512 million shares.
+
+So we did achieve the top-end of revenues and earnings despite some customer acceptance delays due to the Chinese New Year holiday, as Bill has already mentioned. The focus of what we are continuing to perform on the top-line, we are also performing on the bottom-line. We are focused on operational discipline does continue. We saw the highest gross margin in 5 years, during the first quarter at 52.7%. We’ve had a first quarter of record low for working capital ratios, and even in the seasonally weak quarter like Q1, we hit our 21% return on invested capital target. With the backlog that Bill mentioned the momentum we’ve got into the business and particularly with the major new product ramp that we are seeing in Bio-Analytical and then I’m sure Chris will talk more about it. We are excited about the prospects for Q2, and remainder of 2006.
+
+Turning now to some details of the operating results on the next slide, what I’m showing you here is the four quarters of 2005 as dated, exclude semiconductor products, and the first quarter of 2006, and then the year-to-year comparisons, again orders in the seasonally weak first quarter were $1.35 billion, up 15% from last year. Within that, the Americas was up about 6%, Europe was flat, and Asia Pacific orders were up 35%, so total blend of 15%. And by the way, in local currencies that order growth would have been 18%. We had about a 3% negative impact of the stronger dollar on our orders and revenue results. Revenues of $1.34 billion were up 10% from last year.
+
+Gross margins as I mentioned, were up almost 3 points from last year at this time on an apples-to-apples basis to 52.7%. R&D was up 2%, SG&A was up 3%, as you can see R&D compared to last year was down 1.1 points as a percentage of sales SG&A was down 2 points compared to last year at this time. As a result, we had a $164 million of operating profits or $85 million more than last year at this time on $124 million increase in revenues or a very attractive 69% incremental. 12.3% operating margin is nearly 6 points above last year at this time.
+
+We also had good other income, mostly because of net interest income, we’d $31 million of interest income this quarter, a 10 million of other net income equal to last year’s results. Our pretax earnings $205 million, 25% tax rate achieves the $154 million of pro forma net earnings or $0.32 per share. And as mentioned, 21% return on invested capital more doubled last year, inventories at 108 days, 13 days better than last year at this time, so obviously the secular improvement in inventories continues. And our DSO performance which is always been good improved by one day from last year. Total result of $0.32 per share compared to $0.15, last year at this time.
+
+Couple of other data points for you, capital spending in the quarter was about $50 million and that’s obviously in part to begin to the transformation of our semiconductor test business as well as investing in our corporate facilities down at Santa Clara. Depreciation and amortization, $43 million during the quarter, net cash and short-term investments, we had $2.737 billion of cash in short-term investments plus $1.6 billion of restricted cash, or $4.338 billion of gross cash, subtract off to $1.5 billion of debt in our net cash and short-term investments of $2.838 billion at the end of the first quarter.
+
+Okay, next slide, it was a very good quarter operationally but there are few other things going on at the same time. So it’s important to reconcile to our GAAP earnings per share. Starting out with $0.32 of earnings per share on a pro forma, our operating EPS basis, we had gains from the divesture of the semiconductor products business and Lumileds was equal $5.67 per share. We had restructuring charges mostly for semiconductor test systems and to reduce our infrastructure cost consistent with the message and the plan that we profiled first for you last August. That was worth $0.07 per share and equity-related compensation was $0.07 per share in the quarter, now that’s a little bit higher than we had said because it was front-end loaded.
+
+Agilent’s plans allow for immediate investing of retiree eligible employees, so for retiree eligible employee gets a stock option, it does immediately and we have to recognize 100% of that expense immediately. So it was front loaded a little bit it was $36 million in the first quarter, we are still comfortable with the full year estimate of about a $112 million pretax, for equity-related compensation or as we had said before roughly $0.18 per share for the year. Tax and other was about $0.02 that gets you to the GAAP earnings per share of $5.83 or $2.816 billion.
+
+Okay few highlights from the segments and you’ll hear much more about this from Chris and from Pat and from Tom but starting with the Bio-Analytical measurement, we had mix demand across the businesses in geographies, orders of $378 million were up about 6% from last year, our currency hurt this segment quite a bit, the impact here was about 5%, in other words in local currency terms orders were up about 11%. Back to the 6% total about 9% of that was from Life Sciences at $164 million, about 4% growth from Chemical Analysis to $214 million of orders.
+
+Total Pharma, was up about 4% year-to-year, our modest orders from traditional US pharmaceutical customers continue to sort through the difficulties that Big Pharma is having. But we saw that mostly offset by continued strength in Asia, driven by generic manufacturers and contract research organizations which are picking up an increasing share of this new activity. We also saw very solid performance in Chemical Analysis as food quality, water quality and environmental needs really drove growth especially in Asia. Now that was offset just a little bit by delayed service agreements renewals and I think a little bit by the prospects with the new LC platform that we’ve just announced.
+
+Operationally, we had 1 point improvement in gross margins, but that was essentially offset by 9% increase in operating cost from acquisitions and from the new product introductions and so we had, a operating margin that was about flat with last year at a very attractive 14%. 28% return on invested capital illustrates the continued operating discipline in this business, down 1 point from last year. Where do we go from here? We are positioned for a very strong new product ramp in 2006, the 1200 series of LCs that I just mentioned, the OpenLAB software that Bill mentioned, ion trap and Single-Quad mass spec products that are coming in. And by the way, just after the quarter end, we bought out our 49% partner Yokogawa Electric Share, of our Yokogawa Analytical Systems JV for $98 million, again building the strength particularly in Asia in this business.
+
+Turning next to electronic measurement, we had solid demand from the large wireless customers in Asia but that was partially offset by softer wireline business, we had seen about 3 consecutive quarters of rebound in the wireline business but it went flat again in the first quarter. So orders in total were about $799 million, up 8% year-to-year, currency affected us by 3 points meaning in local currency, we were up 11% year-to-year. Back to the 8% total, comps test was up 6% year-to-year with wireless of 7% and wireline actually down 1% from last year. And with strong growth in general purpose, general purpose orders were up 12% year-to-year, paced buy our refreshed expanded Oscilloscope offerings and still strong seasonally aerospace, defense business.
+
+We saw modest revenue growth as Bill mentioned, 2% year-to-year due to acceptance issues in Asia and to lumpy OSS revenue. Now again, we lost days of Asia-based revenue due to the Chinese New Year falling in the last 2 days of month. Its not that we didn’t ship the products, it was nobody was home to receive the products. So, obviously that turned into backlog, backlog is up 10% year-to-year to the highest level we’ve seen in for year and a half. So we feel pretty good as we enter the second quarter.
+
+And wanted to emphasize the continued strong operational importance of performance in this business, gross margins were up 4 points year-to-year to 55%, OpEx was up only 4% year-to-year and our return on invested capital therefore improved by 7 points to 18% in the seasonally weak quarter, so, good performance by this business.
+
+Finally, in the semiconductor test solutions business, a very strong quarter, I’m going to tell you at the outset here that we have to careful about what we say about this business both now and for the remainder of the presentations, because we’re within a month of filing the S1 documents to the SEC, so we’re absolutely prohibited from talking at all about any forecast for this business. So this is all strictly about what happened in the first quarter. But STS did meet its commitments in the first quarter to operating performance and to the business transformation that we began to describe in our August meetings and again in the fourth quarter report.
+
+First quarter orders were up were 176 $million, up over 100% from last year. Our SOC orders were up 114% with more than 80% of those orders being our PinScale platform. And by the way, utilization of Asian FCMs in the first quarter averaged 96%. Memory test orders were up nearly 100% and virtually 100% of those orders were for our new V5000 series of memory test where we can now test both NOR and NAND flash and both short and final test, so it really almost a quadrupling of the available market, to these two new first to test systems. Revenues of $169 million were up 117%, from last year. Clearly the market, it is rebounding and we are taking full advantage of that. Our book-to-bill in the quarter was 1.04. Because of the higher revenues and continued progress in transforming the operational structure of the business, gross margins doubled to 44% and that despite an $8 million E&O charge. Operating expenses were flat versus last year, illustrating the operation discipline and so our operating margin was better than 9% in the quarter and return on invested capital in the quarter was 17%. And as I have already indicated through the results the business transformation is underway and tracking to our goals. We’ve made explicit decisions about reductions and headcount, changes in compensation to make compensation for everybody more variable with the cycle in this always cyclical business and consolidating slides down from 6 to 2 or 3.
+
+We are also building a leadership team and getting the business processes align to those specifically of the semiconductor test business rather than a measurement company business. And we are on track for a mid year IPO and the final distribution of the shares of all shares before our fiscal yearend.
+
+Okay talking briefly next about our global infrastructure operations, as Bill mentioned we are making excellent progress in reducing the size of our infrastructure commensurate with the reduction, the 30% reduction in volumes that we are seeing from this transformation and from the focus to a pure play measurement company rather that of the diversified technology company.
+
+We talked in our August 15 presentation of reducing annual GIO cost by 35% to $850 million per year that is on track. Headcount reduction will be about 35% or 13,000 heads that is in fact ahead of schedule. And we are not just going to get to parity, getting to parity would not be sufficient for what we think is the opportunity we have to focus the infrastructure organization to this pure play company. We are going to reduce infrastructure cost 1% point of revenues below where it was previously contributing that 1% point to our bottom line operating margin.
+
+We are eliminating 11 major sites completely 25 plus sites will be impacted. As Bill mentioned, we are ahead of schedule in getting to parity, we’ve previously said that we would at about 85% of parity by fiscal ’06, and at parity by yearend. We now expect to be at parity half a year earlier we’ve really been able to snap our fingers and say we are at parity by the middle of this fiscal year and we will be the full 1% point better than parity clean slate savings completed by early 2007. As far as estimated, cost of all of this, they are just about the same as we’ve mentioned and profiled last August, about $225 million of total restructuring cost in cash that is workforce management cost about 80 million, strides and facilities was 70, and IT investments both for STS and for Agilent about $75 million.
+
+In the last month, we’ve realized about $88 million of cash from the sale of proceeds we expect conservatively to realize at least $275 million of proceeds as part of this transformation. So, short version is we are ahead of our original schedule and very pleased and optimistic that we will be able to achieve the full potential of this focus on being a pure play measurement company.
+
+Okay, before turning to outlook for the second quarter and fiscal year 2006, let’s look at how our first quarter results compared to our secular operating model, and whether you are looking at total Agilent or New Agilent, the worlds premier measurement company or you’re meaning minus STS today we are at our secular models, even during the seasonally weak quarter. As you know, we’ve had a secular operating model, it says we would achieve 10% growth on average over time, about 7% to 8% from organic growth, a secular growth of our markets and as Bill mentioned, 2 to 3 points per year from acquisitions, you have a gross margin with this pure play model of about 53%, dedicated R&D, over time of about 12% of revenues and SG&A for this very high touched direct sale business of about 27% getting a secular operating margin of about 14% and if we have 25% tax rate, we’ll get a net margin of 11% or 21% return on invested capital. For we’re showing in the next 2 columns is how, the measurement business did, electronic measurement segment did in the first quarter, how the Bio-Analytical segment in the first quarter add that up to the New Agilent. And as you can see we did not achieve in this particular quarter the revenue growth and that is the strategic challenge for the company ensuring that we do hit that 10% secular growth. But, notice even with relatively modest growth gross margin above our secular targets, R&D and SG&A almost of those targets and those will improve to target levels as we complete the GIO restructuring. But even so, we hit a 13% operating margin virtually on target, net was 12% and the return on invested capital because we are achieving even better than expected asset velocity, we are achieving a 22% return on invested capital, at only a 13% operating margin.
+
+Then you add STS to the mix and as you can see the total company in the first quarter did indeed achieved that secular operating margin of our model of 10% top-line growth 53% gross margins, 12% operating margin, 21% return on invested capital. Clearly, what this suggests is that we have achieved an operating model that is robust and the strategic opportunity for us all is to accelerate the top-line growth while keeping this operational discipline.
+
+Okay let’s turn next to the 2006 macro outlook and our market assumptions providing guidance, we believe we’re probably half way through what will be another extended worldwide business cycle, the world is clearly transitioning from the initial acceleration but first few years, to be more matured business cycle, getting its second wind after the inventory related adjustments of 2005. But the, to be clear, there’s no signs of impending downturn, but also we can’t expect any major acceleration after 3 to 4 years of economic growth. So we’re essentially transitioning, a high tech in particular, last year at this time we were talking about, we were about to go into a classic mid cycle inventory adjustments particularly in semiconductor industry, that clearly did happen but now the industry is coming out of it. Semiconductor worldwide shipments should accelerate from 2005 7% growth to 8% growth this year and that is always is the case will affect semiconductor test is the first derivative of the semiconductors, but semiconductor test industry wide expected to grow about 25% this year after 2005, is 20% decline.
+
+We pointed out last year that the electronic measurement markets tend to lag, the semiconductor industry very consistently with about a 6 months lag, if you think back 6 months ago, the semiconductor industry was just beginning to bottom out. It is now clearly regaining momentum and you’re beginning to see that translate into building momentum and electronic measurement as well. So while, overall, for the year, it will be a relatively modest growth year, it will gain momentum throughout the year. And for with the Bio-Analytical sector, we see essentially unchanged secular growth at about 8% this year with difficulties in Big Pharma largely being offset by the continued growth in generics and the sustained strength in industry of markets, by which we will mean of course the infrastructure markets, the environmental testing, food testing, commodity materials, petrochemicals, et cetera. How that does translates into numbers? For Agilent, next slide please?
+
+We have fiscal year 2006 market growth assumptions, looking first at electronic measurement segment; last year had revenues of about $3.3 billion or 64% of Agilent total. We think the market will grow about 5% this year and that we will grow at least 5% this year. The Bio-Analytical which is about 28% of ’05 revenues, market will grow about 8% this year, but because of the new product platforms that we have in our penetration and particular emphasis on Asia, we think that we will outgrow the markets significantly this year, 13% revenue growth versus 8% for the overall market. So the New Agilent will modestly outgrow the markets, 7% forecast for our segments versus 6% for weighted average of our markets. Semiconductor test markets, about 9% of our revenues last year are forecast to grow by industry, according to industry experts about 25% this year, and we are not going to comment on what STS will grow this year because again we are in the quiet period, we don’t want the SEC to construe that we are in anyway are total converges.
+
+Okay, so guidance. For the second quarter, revenue range of about $1.37 billion to $1.43 billion, in other words about 6% to 12% year-to-year from last year. Non-GAAP earnings per share range $0.35 to $0.45 per share or more than a 100% better than last year at this time on an apples-to-apples basis. That range for non-GAAP EPS was based on an assumption of about 435 million fully diluted shares outstanding during the quarter, compared to a first quarter average of 483 million in a quarter-end of 444 million shares.
+
+For the full year 2006, as we said in the press release we are comfortable with the current range of analyst estimates for non-GAAP earnings per share. As far as share buy backs, we are about 9 months ahead of our original schedule because of the success of the tender offer, and we believe that marketing conditions permitting that we will complete the remaining $1.2 billion of share repurchases by the end of fiscal year 2006, one year ahead of our original schedule.
+
+Our tax rate for the year, it still looks like about 25%, and it was pretty tough to tell that our GAAP tax rate was in the first quarter, but it was about 16% on our normal business, and we had a very, very little tax rate on the divestitures. But for the reminder of this year, we expect the GAAP tax rate to continue around the 16% level always +/- a couple of points. Depreciation for the year is unchanged from our prior guidance of 175 million, same thing for capital spending about $200 million, as we are funding and building the systems and processes for the New Agilent as well as for STS. You should assume a midyear, IPO for semiconductor test systems of less than 20% and a final distribution just before yearend.
+
+The bottom-line of all this, even with all of the restructuring that’s taking place, the performance of the business is very good and we would expect free cash flow from operations, again this year greater at $600 million.
+
+Okay, in fact thinking about cash flow generation and Agilent’s operating model from a longer term perspective, we believe that we’ve now built the business that is capable of being both earnings and cash flow positive under any, but the most extreme economic circumstances. We have a margin and expense structure now that is very attractive at the 54% gross margin and 12% R&D, 27% SG&A, we also have a variable pay cost structure that help us modulate throughout the cycle. Because of the variable pay programs we’ve put in, we will automatically scale 20% in our compensation cost, 20% variable pay during the really good times and we are making 35% returns on invested capital and 20% operating margin. But then that’s scaling down to zero, if you cut 5% operating margin or below. So again, in bedding the compensation and rewarding the employees for the good times and for maintaining the discipline during the good times, through variable type. We also have great asset velocity now which is what allows us to remain free cash flow positive, under almost any normal economic circumstances.
+
+So what do we think our cyclical model is, you’ve heard the cycle average, we do believe that during really good times, we could get up to an operating margin of 20% with 56% gross margins, below average operating expenses and an return on invested capital, that could be 35% or higher. And in the trough, and nobody likes to talk about troughs, but these are still so much cyclical businesses, even if much less cyclical as a pure play measurement company. But in many case, we believe that we will be able to modulate our operating expenses and then continue to enjoy gross margins although we didn’t see until recent years, and profiting at 5% operating margin 8% return on the invested capital. And thinking ahead, if you’re assuming that the world economy holds up for the next 2 to 3 years, we would expect to be operating considerably above our long-term cyclical average.
+
+In fact, let’s turn to that now. For example, imagine that we could just snap our fingers as we said in August 15 and the semiconductor products would begun, Lumileds would begin, STS would be spun-off into an independent company and we would have completed the reduction in our global infrastructure cost instantaneously. If we could have done that and if the global economy in our markets enabled Agilent to see secular growth of our top-line, our preference to kind of performance is that, we would expect to see from the Agilent over the next couple of years. Now be clear, this is not guidance, but an example of a kind of performance we would expect to see given the kinds of top-line growth you see here. This is the New Agilent, electronic measurements as already growth from a $2.7 billion business to $3.4 billion plus this year, 5% average growth over the past 4 years, accelerating to 9% by 2007. Operating margins have averaged to 10% over the past 2 years, as we’ve got an increasing momentum and benefits of the massive restructuring program that took place in that segment. This year, 14% operating margins should be expected and improving again to even better than that 16% by ’07. Return on to investment capital, the fundamental metric that we measure up success by. As you can see, 17% last year will beat the corporate targets of 21% this year at 24% and will be edging up towards 30% next year.
+
+For Bio-Analytical measurement, as you can see, they’ve very steady growth business, very profitable business, has averaged 9% growth over the past 4 years including 2006. And you can see the 13% growth this year from the impact of our new products. If we go back to sort of secular growth next year that the, in the 10% range, a business that will have grown by over 50% in 4 years and continuing to grow roughly 10% per year. This is been a very attractive business, averaged 14% operating margins in the past 2 years, or to be at 17% this year and getting up to the metric of 20% number by 2007, assuming we achieve that king of top-line and get the full benefits of the acquisitions that build this profiling earlier. Return on invested capital are very attractive business, it has been hitting and exceeding our return on invested capital targets, will increase incrementally from 29% last year to 31% this year. And by the way, that includes the impact of our $100 million purchase of the 49% of YAN that we didn’t already own. And then will improve further to the mid 30’s range by 2007. So what does the world’s premier measurement company look like, on a going forward hypothetical basis? It’s a business that has grown by over 6% per year, over the past 4 years and ought to be accelerating to around 9% next year, given secular growth and the 2 points of benefits from acquisitions that Bill mentioned earlier.
+
+Operating margins which averaged to 11% the last couple of years will be well above our secular targets this year at 15% versus our 14 targets. And as I mentioned earlier, edging up towards the mid 17’s and higher as we get in to the matured parts of this business cycle. Return on invested capital nearly met our targets last year at 19% will be handling above our targets this and next year and the mid 20’s getting to 30% range. And what does that mean for cash? As we have emphasized in recent years, we have developed a structure which is cash flow positive from operations under virtually any economic circumstances.
+
+You can see 2003; we were still working the fundamental restructuring of the company cash from operations minus capital expenditures was negative $369million. But look at 2004, the $349 million of GAAP earnings, we generated $545 million of free cash flow from operation as to continue the benefits of the capital improvements and other efficiencies of the place. Last year 2005, we generated over $700 million of free cash flow from operations, despite flat earnings and this year, we have to generate another roughly $700 million of free cash flow from operations. And next year, we see the kind of top-line and bottom-line performances that the hypothetical example would give you; we could see another free cash flow from operations above $900 million. Notice that includes the $200 million of CapEx this year, going down to a more normal $125 million going forward, also this includes about $100 million next year, for, the kind fold in acquisitions that I was talking about earlier.
+
+You can see the financing activities that we’ve had ongoing, we will complete as I said, the market conditions permitting. We are planning on completing the share repurchases program this year that’s the $4 billion that you see on 2006. And even 2007, that’s net proceeds where we are assuming essentially that we will buyback enough additional shares to offset options exercises. You can see the depth that we took on this year, to finance the repurchase program, total change in cash roughly cash flow neutral last year and this year. Notice that our cash equivalent balance which was $2.3 billion in ’04, $2.2 billion in ’05, roughly $2.3 billion this year despite $4 billion of share repurchases and that balance could be as highest $3 billion or higher at the end of ’07. In part because of the continued improvement that we are seeing in our working capital as you can see receivables continuing secular way to improve and even more dramatic improvements in inventories.
+
+Okay, so what are we going to do with all that cash? Next slide please. Here’s our thought about Agilent’s capitalization strategy, as we’ve mentioned Agilent is now cash flow positive from operations under normal economic circumstances including normal business cycles and our surplus cash may exceed $2 billion this year and $3 billion by next year, if the world is good to us. What are all our strategic priorities for the use of cash? First of course is to reinvest in the business. We have a 12% that we invest in R&D on the average over time and we always want to make sure that we are taking care of the business, of the products, of the customers that we have today and staying at the absolute leading edge in our products.
+
+We enforce and edge out incrementally with folding acquisitions that reinforce and potentially extend the measurement footprint, where we are confident we can create 20% return on invested capital on that incremental investment. And Bill mentioned earlier, a little profile at some of those acquisitions and the early success we are having with them. Next, we want to offset dilution from options exercises, you heard me just mention that, in our assumptions, we should be at least assuming that we would use the cash to offset the impact of options exercises.
+
+And then finally, to return capital to the owners, we have share repurchases and/or dividend. We will, as Bill mentioned, consider larger acquisitions but only if they are synergistic with the business that we have, we are world’s premier measurement company, it’s a $40 billion market and we want to take full advantage of that opportunity as the world’s leader. If we can find larger acquisitions that are synergistic and we are convinced, the combination will create significant shareholder value, meeting cutting a 20% return on invested capital by year three for example, then we will consider it if we can generate that kind of return of owners on the incremental cash we will give it back to owners.
+
+Okay, summary. Agilent had a solid first quarter performance, meeting our operating, our transactional and our transformational commitments. We executed $3.7 billion of divestures, and we will return $3 billion to the owners. We hit our mid cycle operating model even during a seasonally weak quarter. Our second quarter and fiscal year 2006, guidance reflects the confidence, we have around the market momentum we have, the impact of the new products we are introducing and that we will sustain the operational excellence that we have demonstrated over the past couple of years.
+
+We’ve built an operating model that should be cash flow positive under normal economic circumstances. And we expect to see annual operating free cash flow of generation of $6 million to $9 million per year over the next couple of years. Market conditions permitting, we will complete the $4.466 billion repurchase program this year, one year early, and we will revisit our capitalization strategy at yearend, after we’ve completed that program.
+
+Achieving higher profitable growth is the strategic opportunity, for the first time, the truth is, we’ve spent most of the past 6 years transforming the company, first trying to survive the tremendous downturn that we suffered then trying to develop an operating model that could achieve the kind of performance that we are now showing. For the first time, we are getting asked by all of you increasingly what are, we going to do to leverage and extend the value that we are now creating to this great operating model. We do recognize that higher profitable growth is a great strategic opportunity for the first time.
+
+Lastly, couldn’t help it to point out that the value of Agilent today is both a cash value of the world’s premier measurement company and leveraging that over time, plus the value of STS that we will be spinning-off at mid year, plus the value of cash on the balance sheet. With that, I think we will turn it back to Hilliard and open it up for questions.
+
+Hilliard Terry, Director, Investor Relations
+
+At this time, operator can you give instructions to the participants on the line for Q&A?
+
+Questions-and-Answer Sesssion
+
+Operator
+
+Thank you, sir. Operator Instructions. We will pause for a moment to compile the list.
+
+Hilliard Terry, Director, Investor Relations
+
+Operator, we will take the first question from Auditorium and then we will move to questions from the line.
+
+Operator
+
+Excellent, standing by.
+
+Hilliard Terry, Director, Investor Relations
+
+Why don’t we go ahead with Ed White from Lehman Brothers.
+
+Q - Edward White
+
+Thanks very much, this year, you are expecting to achieve higher growth in market average and Bio-Analytical measurement. But for our electronic measurement, it’s about inline with the market, even though you done a lot of new product introductions this year, is there a reason the why the higher growth for electronic measurement comes in 2007 rather than 2006?
+
+A - William Sullivan
+
+Well I’m sure that, this is Bill speaking, I’m sure, Pat Byrne talks and you can also ask him the question, in terms of the growth, you are absolutely right Ed, we may have made a lot of investments in the joint venture in China, we’ve also increased our investments at a broad line of offerings on general instrumentation, I know Pat will go into a lot of details of other growth initiatives. And hopefully we are just being conservative, but, this year really is getting our new product families in place into really position ourselves to take market share.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you, the next question will come from John Harmon of Needham & Company.
+
+Q - John Harmon
+
+Hi good morning, my questions to drill down a bit, into general purpose, you’ve had nice positive year-over-year orders growth, whereas most of your competitors in general purpose tasks are really flat year-over-year, is there something different that you’re doing, or you just really leading the group by, by virtue of being bigger than your competitors?
+
+A - William Sullivan
+
+Well I think we have a very strong position and I heard the best is that, Pat’s on the room, why not Pat answer the question very specifically on the progress we’ve made in general purpose desk.
+
+A - Patrick Byrne
+
+Yes, so I think we are, given our global position, given the strength of our sales channel and the focus especially in Asia and in Japan, in the Asia-Pacific region that combines the strength of our new product introductions, especially in the Oscilloscope business, has led to strength of the general purpose and sales in the last several quarters.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you and this time we will take a question from the phone line.
+
+Operator
+
+Operator Instruction
+
+And Mr. Terry at this time there are no questions in the queue.
+
+Hilliard Terry, Director, Investor Relations
+
+Okay we have ample questions here in the auditorium; the next question will come from Darrell Pardy of Merrill Lynch.
+
+Q - Darrell Pardy
+
+Thank you, Adrian could you segregate the factors in the model like the electronic measurement from a 11% operating margins in ’05 to 15% in ’07 and then do you similar exercise for Bio-Analytical?
+
+A - Adrian T. Dillon
+
+Sure, I would tell you that if you look at our first quarter results in our EMS segment, we are already; virtually there. We will see an 11% operating margin in the first quarter. But first quarter is always our weakest quarter by a considerable margin. So in that sense it’s getting just a little bit of leverage on the higher growth that we are expect in the reminder of the year, plus the kind of discipline that we’ve seen, the four point improvement in gross margins year-to-year, continuing as we gain momentum through the year. On Bio-Analytical solutions, as Chris has emphasized repeatedly, we’ve been making significant investments in our integrated biological solutions business. It is not been profitable as we’ve been are making those investments and this is the year that that business turns around and becomes profitable, and that impact alone is worth 3 points in the operating margins hold, the Bio-Analytical systems business. And then of course we get the leverage of 13% top-line growth as well, so that’s actually fairly conservative incremental plus the turn around in the IBS business.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you, the next question will come from Deane Dray of Goldman Sachs.
+
+Q - Deane Dray
+
+Thank you, two questions first one is for Pat, could you provide some additional color on the strength of this scopes market for Agilent? How much of your performance is coming from new product introductions, at what level, low, medium, and high. And how much might be coming from share gains?
+
+A - Patrick Byrne
+
+Well Deane those are really combined, the share gains with the new products, with the new products with the things that are gaining the share. So the, but it is the new products that is driving the growth, the growth rate is more than 10% in the scope business and we are, we are taking market share from the, just by measuring that revenue growth from the other major players in the Oscilloscope business?
+
+Q - Deane Dray
+
+And where did particularly end-markets are strong, it looks like aerospace and defense?
+
+A - Patrick Byrne
+
+I think, it’s the aerospace defense industry, it’s also the lower cost products that we’ve introduced which are very broad set of electronics markets. Again, in Asia Pacific and then also in some of these supply chain into the greatest testing, for example Deane, semiconductor devices to go into the IT industry, the computer industry, the wireline equipment industry at the high-end.
+
+Q - Deane Dray
+
+Great and then second question would be for Adrian, you had, you drive some additional color on the geographic performance in the quarter, you said Americas orders up 6% Asia did I hear correctly is 35%, just drive some additional color what is driving that?
+
+A - Adrian T. Dillon
+
+Yes. You did hear correctly 35% year-to-year and Pat was alluding to some of that we have been really focusing on Asia in both segments of the business whether it’s below cost instrumentation that’s gaining so much momentum in the Chinese and Asian markets or the strength if the Bio-Analytical systems because of the infrastructure, just huge infrastructure requirements and demand in China, in India and in both of those areas are orders and revenues are up strong double digit. So, it really is secular demand as those world economies are beginning to become developed economies. And I have 200 million populations of middle class citizens that are insisting on better food quality, air quality, water quality. And as well generics, the demand for generic pharmaceuticals or from generic pharmaceuticals is very strong. Again in India, our demand is up very strong if I’m sure Chris will emphasize later.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you, Adrian. The next question will come from Richard Chu of SG Cowen.
+
+Q - Richard Chu
+
+Thank you, Adrian I’ve got a couple questions. First of all, on the continuing operations, operating expenses for the quarter, about 540 million that looks like it is up sequentially from Q4, if I, or its been if its correct? Could you comment on that side, anything we should understand?
+
+A - Adrian T. Dillon
+
+Richard if you look at Page 3 of my presentation, you will see that R&D is up 3 million, but SG&A is down 3 million, so I think we are flat sequentially.
+
+Q - Richard Chu
+
+Okay, now why should, that not be countered down, and given the seasonal declines, as you look in Q4 to Q1?
+
+A - Adrian T. Dillon
+
+Our structure doesn’t flex quite that much, that is going to adjust for a seasonal pop, we also will have a variances in our cost structure, because the beginning of the year, you have wage increases, you have hike or you have other cost that happen at the beginning of the year, whereas in the fourth quarter, many of those compensation cost sales hit their limits. So, it’s essentially seasonal, and I really focused on the 2.5% increase year-to-year in operating cost, in the phase of a 10% increase in revenues, that’s being more indicative of the kind of discipline. But I would also remind you one other thing, and this is, if you will, the negative side of it putting a variable cost structure in. The variable pay that has been accrued in the first quarter of this year, will be significantly higher than it was a quarter ago, because we hit our 21% return on invested capital and that’s the target for 10% variable pay versus last year at this time but the 10% return on invested capital of the variable pay was down in the 5% range.
+
+Q - Richard Chu
+
+That’s helpful, if I can pursue the question of the global infrastructure we have seen, you’ve said earlier that you would expect to be, at your target level by the middle of the fiscal year, so let’s assume that’s the end of Q2. And thinking about Q2 versus Q1, cost structures, does that mean that your biggest cost structure somehow will be better sequentially, can we see any improvements?
+
+A - Adrian T. Dillon
+
+In fact, it will be Richard, because we are continuing rapidly to get headcount out to consolidated sites. But we are also, you have to remember is that during the fourth quarter and the first quarter, we were providing a lot of services to semiconductor products, through that same global infrastructure and that was offsetting. Some of that overhang that we’ve otherwise would have recognized, in the first quarter in fact, we were able to absorb 100% of that overhang, because we are having the extra month of semiconductor products in the business, because they didn’t complete the divestures until December 1, rather than the original intention of November 1. So we had the windfall from an extra month of providing services at our 2 of our goal, in the second 2 months of the quarter, we did have a little bit of an overhang, but on balance we were able to absorb it. And the really good news is that we believe, we’ve made enough progress that we will have essentially, be able to essentially absorb it again in the second quarter.
+
+Q - Richard Chu
+
+So that, it should be flattish is what you are saying.
+
+A - Adrian T. Dillon
+
+Other than the normal seasonal increase and expenses for things like trade shows, et cetera, yes we would expect to see a continued secular decline in our global infrastructure cost through the remainder of this year and into early 2007.
+
+Q - Richard Chu
+
+Okay, thank you.
+
+Hilliard Terry, Director, Investor Relations
+
+Operator do we have any questions on the line?
+
+Operator
+
+Yes sir, we have a question from Richard Eastman from Robert W. Baird, you may proceed sir.
+
+Q - Richard Eastman
+
+Just a question regarding the electronic measurement business, could you add some color to the 2 segments the wireless segment, obviously strengthened in the quarter and I know we’ve been working for backlogs there, at least on the handset side but do you give us a sense of how you would expect that, those 2 pieces of the business, the wireless and the wireline to play out for the balance of the year and consolidated into your 5% growth expectations.
+
+A - William Sullivan
+
+Pat, I want you to go ahead and answer that.
+
+A - Pat Byrne
+
+Right. Yeah, the wireless business is that really driven by 2 major factors, the first one is continued growth in the cell phone testing business, cell phone testing business is driven by 3 major factors, capacity expansion, share shifts and new technologies. And so, last year was a strong year in cell phone growth, 800 million phones shipped last year. So I would expect that this year will be another strong year of cell phone testers, we have a strong quarter in Q1. The second major factor driving the wireless market is the, is the new technologies that are coming online this year related to 3G and 3G plus, we have strategically and are recovering this little bit later, starting to focus more on R&D solutions, it’s a large market, split gross margins and so we are, we should continue to see growth there as well. So that, I would expect to be one of the main growth drivers for the communication test business, it’s the largest part and should see strong growth throughout the year. Wireline is, is sort of been a positive of our top customers we have, have put limits on the capital spending, I would expect that to recover moving forward that not to be as higher growth as the wireless test business.
+
+Q - Richard Eastman
+
+And were you able to build some backlog in OSS in the quarter, with the order stronger than the sales there?
+
+A - William Sullivan
+
+Well let Tom to, Tom will answer that question.
+
+A - Thomas White
+
+Backlog in OSS, we did build backlog that is from Q1 to Q2 primarily because of some of they acceptance enlighten as Bill alluded to, earlier in the presentation.
+
+Q - Richard Eastman
+
+Okay thank you.
+
+Hilliard Terry, Director, Investor Relations
+
+Okay we will take; operator is there another question from the phone line.
+
+Operator
+
+No sir at this time there are no questions in the queue.
+
+Hilliard Terry, Director, Investor Relations
+
+Okay we will go back to the auditorium, Ajit Pai from Thomas Weisel Partners.
+
+Q - Ajit Pai
+
+Yeah first question is for Adrian, Adrian at the end of your October quarter you had about 1.37 billion that you took as a tax federation allowance. Once you’ve, sort of, have any of those been lost when you digested SPG and over the next couple of years do you, what percentage of that do you expect to use up and will be accretive to cash flows?
+
+A - Adrian Dillon
+
+Ajit that’s a very good question, part of the reason why we had essentially on a GAAP basis, no taxes on the lowest divestitures and part of the strategic reason for doing divestitures in the first place rather than spin-offs was because of our tax loss, carry forwards and we did consume, a bit of them, the tax base of SPG was about $1 billion. So we did consume some of the differed tax assets that are no longer on our books. We believe that with the state of the business and the, the fundamental turn around that we seen in the operating structure of the US based business that we will be consistently profitable and increasingly, so going forward, our best guess is that we will take another roughly 2 to 4 years to a totally absorb the remaining differed tax assets. And at some point, perhaps in a year or so, PWC will come to us and say, “Hey! Put those differed tax assets back on the books”. And so will get another giant game just like we took the giant loss a couple of years ago. But for the moment, that’s the reason why and for a pro forma basis, we say, we have a 25% tax rate which we’re very proud off. But on a GAAP basis, we have something like a 16% tax rate and the entire difference is the fact that and as since anything we earned in the US is tax free for, at least the next 2 to 4 years.
+
+Q - Ajit Pai
+
+Right. Second question is on your client test business, I think I just heard Pat, just talk about the mix between wireless and wireline, but the wireline spending after about 4 years of decline has been coming back in a number of testing measurement players within that space is enjoying, showing some rapid growth, is it that your quality of portfolio or your exposure to wireline test, you still have exposure to wireline, what percentage of your electronic test business today is wireline and why and you not as optimistic as the growth rate some of your piers are showing right now in that space?
+
+A - Adrian Dillon
+
+I will take first part of that, but then I guess, I’ll turn it over to, to Pat as well. I would say we are probably being deliberately conservative, perhaps, its been down for so long and then you see a little bit of interruption that because as Pat said, some of our major customers have clearly put capital spending freezes on, as they address their, the structures and some of the major service providers are also going to consolidations and are really clamping down at the moment on CapEx. But I would agree that we could be being, a bit conservation about wireline, it is about one third of our communications test which is about two thirds of the EMS segment. So that’s the size of total wireline these days including OSS, is a much, much smaller business than it use to be.
+
+Q - Ajit Pai
+
+Thank you.
+
+Hilliard Terry, Director, Investor Relations
+
+Any Additional comment?
+
+A - Pat Byrne
+
+There is no additional comments at the, it split wireless to wireline is as per Adrian’s comment, I think both in the instrumentation side of the business and the OSS part of the business. But we are saying researches of expenditure from the operators particularly is triple-play, I’m starting to kick in obviously a lot of the triple-play, that you have about right now either that’s kind of pilot stage, but those pilot are not growing. So, I think there’s a certain amount of optimism around the test requirements, test requirements is triple-play and the quad-play over the next 1 to 5 years.
+
+Hilliard Terry, Director, Investor Relations
+
+Any more questions from the audience, we’d circle back to them and see that far back, but please state your name and company name also.
+
+Q - David Weinstock
+
+Its David Weinstock (ph) from HSBC, a question for Adrian, given the new order momentum in Asia at about 35% will they require any supply chain adjustments in order to optimize the business delivery in the region and will that have any in turn, knock on effects on working capital management measures?
+
+A - Adrian Dillon
+
+No we have done a, I think a pretty done a good job of keeping our operating facilities close to the customers. We have order of magnitude 60% of total Agilent production facilities today in Asia. So obviously we need to be able to quickly flexibly expand capacity as appropriate, but we feel pretty good that we have the supply chain that’s in very good order particularly out of Malaysia and increasingly in China deserved that raising Asian demand.
+
+Q - David Weinstock
+
+Okay thank you Adrian, just to come back to your comment that you would be revisiting your capital structure at the end of fiscal ’06. At this stage, at this run rate what would you expect the net cash per share to end up in fiscal ’06? And then give us the sense of what your options are in terms of the, the use of cash, additional buybacks and how you thinking about the dividend at this stage?
+
+A - Adrian Dillon
+
+Sure, I think if you take a look at that slide 15, I believe it showed that we have something like $2.3 billion of, if you will surplus cash that free cash on the balance sheet or roughly something like 550 per share and obviously that goes of the bunch in 2007. So I think priorities for what we do with that on the slide 16, I believe that we won over earlier, which is again we want to continue to do that kind of fold in acquisitions but on the margin, are easy to fold into the business to run through our great sales channel that reinforce and extend our capability in the measurement arena and where we are quite confident that we’ve been able to demonstrate that we do generate 20% returns on that incremental investment. Next is, to offset the dilution from options exercises and then I think we will be talking about either additional share repurchase programs and/or our dividend and though, probably wants to jump in here, but we’ve been clear that when we have confidence that this really isn’t enduring cash flow positive company that we are clearly gaining and when all of these transactions are over including the share repurchases that we’re obliged to view how best to return that capital to the owners.
+
+A - William Sullivan
+
+And we have been very consistent on three options as Adrian has outlined and we will continue to work with, the Board of Directors to come up with the best decision we believe of the owners.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you Bill. Operator, I will go back to the line and check to see if there are any questions in them.
+
+Operator
+
+Operator Instruction. Yes at this time the queue is clear.
+
+Hilliard Terry, Director, Investor Relations
+
+At this time, we will go back to Richard Chu of SG Cowen & Co.
+
+Q - Richard Chu
+
+Thank you. Bill what are the initial slides you talked about, your goal being, to increase gross margins by 3 points through M&A. And then you talked about the fact that you really added a couple of points respectively from what you‘ve done. Does the, does the illustrated picture for ’06, ‘07 includes fully the, those 3 points is that somehow in addition to what you have made out for us?
+
+A - William Sullivan
+
+Yes. Richard, just to make clear, that’s the target growth, these acquisitions are 2 points, in other words, we had maybe 6 acquisitions over the last 5 quarters and of course to justify it in addition to it having a greater than 20% return on investment capital on year 3 is the growth numbers putting in. So, if you look at this overall market growth, which Agilent went through, we are targeting to have 3 point additional growth inside of that M&A. And so, we are going to sort of a cascading effect but we will continue to look for acquisition opportunities as we move forward and typically the growth number that we would get is in that year 3.
+
+Q - Richard Chu
+
+Okay, and in unrelated spend, Adrian can you help us understand how the, assuming of that you don’t make any share purchases in Q2, how we should think about the other incremental lines which is roughly $40 million in Q1, are there major consequence from we should be cautious of it as we look at that?
+
+A - Adrian Dillon
+
+No, this is, you can see the cash and please look at both the restricted cash and the cash in short-term investments line when you are thinking about what are we multiplying the interest rate against. But this is all invested in short-term very marketable securities and nothing exotic, and I think if we were to assume, I don’t think it’s a correct assumption, but you were to assume that we didn’t do any share repurchases in the second quarter, then you’ve to assume that it would be cash flow positive in the quarter, and that would add to the cash balance that we have at the end of the first quarter.
+
+Q - Richard Chu
+
+Okay, and there are no other meaning non-operating items and disappearance of gains et cetera that was like that one?
+
+A - Adrian Dillon
+
+No, again into the first quarter, we had 2.7 billion of cash and equivalents and we’ve had 1.6 billion of restricted cash. And of course, we would also pay interest at about LIBOR plus 50 on the long-term debt, 1.5 billion, but that would be the basis. The second quarter is traditionally, fairly, significantly cash flow positive. So, I think, you can add a little bit to there.
+
+Q - Richard Chu
+
+Thank you.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you. Next question will come from Ed White of Lehman Brothers.
+
+Q - Edward White
+
+Hi, Adrian just a small question on guidance looking forward, how would you expect the equity-based compensation expense to go through the year, I know it was $0.07 in the first quarter, you talked about $0.18 for the year, but would you expect that to be pretty evenly distributed till the rest of the quarters, or might it be different pattern from that?
+
+A - Adrian Dillon
+
+$0.04 to $0.05 per quarter and slightly lower towards the end of the year.
+
+Hilliard Terry, Director, Investor Relations
+
+We will go back to Ajit Pai
+
+Q - Ajit Pai
+
+And Adrian what is the share count at the end of the quarter on a fully diluted basis?
+
+A - Adrian Dillon
+
+444.
+
+Hilliard Terry, Director, Investor Relations
+
+Operator, I will go back to the phone line, are there any questions in the phone line?
+
+Operator
+
+At this time sir, there are no questions in the queue.
+
+Hilliard Terry, Director, Investor Relations
+
+We will go to Jack Murphy; they will be able to hear you on the line Jack.
+
+Q - Jack Murphy
+
+2 questions. One, are you guys willing to lever the balance sheet at all, or you’ll take on net debt, is supposed to net cash, being a more predictable company going forward?
+
+A - Adrian Dillon
+
+I’ll begin that, and I’m sure Bill can jump in too. At least theoretically, we now have a company that is cash flow positive under any normal economic circumstances and so modern capital turn would tell you that ought to have a little bit of net debt on the balance sheet. Cannot argue with that, we are just so far away from that right now, that it just seems pretty hypothetical and right now we are trying to make sure we understand what the options are for getting the surplus cash back to the owners.
+
+A - William Sullivan
+
+But Adrian and his team have done a good job of evaluating other companies that has similar business models. We continue as I mentioned before on previous question, continued to work with the board to make sure that this full agreement and what our core capital structure is and what’s the best way for us to return value to our shareholders.
+
+Q - Jack Murphy
+
+But I’ve got a couple of more, and I think in the last year, you’ve paid most, or some of our variable comp was based on ROIC calculation. And you obviously did well there, are you going to change the metric to include top-line growth anytime in the future?
+
+A - William Sullivan
+
+No. Right now our focus is still continuing to be 100% on return on invested capital. And as you know, the growth is the big component on that, but we have worked so hard to get a very strong operating model that we want to make sure that is absolutely built into our DNA, that we will return greater than 20% return on invested capital and as you probably know many studies have been done, companies that consistently return greater than the cost to capital, their stock outperforms their competitors in the market.
+
+Q - Jack Murphy
+
+And then the last question I had was, if you look at your theoretical ’07 over ’06 forecast, the income statement forecast, incremental margins in the test and measurement business were about 40%, the incremental margins in the Life Sciences business is about 44%, and 45% I think, is that the, are those metrics we should use going forward, if you exceed or fall short of your top-line growth, by, X?
+
+A - Adrian Dillon
+
+Yeah, those are pretty good incremental, decrementals, earlier on in the cycle as we were the getting full benefits that the transformation and higher volumes we were talking about the need to get 60% to 65% incremental, if we were going to achieve that operating model over there. And now, on the increment now, especially with the variable pay, kicking in as well, I think that something in the 40% range for the continuing business is about the right kind of incremental, decremental. Do remember that if we had acquisitions, perhaps, in the first year that will affect the incremental one way or the other, but yeah that’s a pretty good guess.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you, are there additional questions here in auditorium, back to John Harmon.
+
+Q - John Harmon
+
+Hi, thank you. I was just curious, what’s your general attitude is regarding our acquisitions, you gave us the financial hurdles but, there are a couple of obvious candidates in the electronic measurement, by there would be good strategic set and several on the Bio-Analytical side. Are these things you’re more likely to look at it seems, more things are on the table these issue that or comment it used to be?
+
+A - William Sullivan
+
+Sure. We do internally to the company through our corporate development organization working with the businesses, have a very robust process of evaluating all alternatives, and so we will not shy away for making large acquisitions that we think is a good benefit of our shareholders, 70% of these large acquisitions fail. We are very much aware that but we do have the process, we do have the analysis and have our look out for synergistic opportunities that may arise.
+
+A - Adrian Dillon
+
+And I think one of things you can have more confidence about today than perhaps in the past, is that through all of this work and transforming the company, we have build a capability to do the kind of consolidation and integration of acquisitions that really does eliminate duplicative cost really does leverage the strengths of what you are buying but put it into a system in a channel that and eliminating cost that really can create the kind of cost synergies that all of those studies will show are the source of the value creation.
+
+Hilliard Terry, Director, Investor Relations
+
+Thank you, are there any more questions in the auditorium. Operator, are there additional question on the line?
+
+Operator
+
+And at this time sir, there are no questions in the queue.
+
+Hilliard Terry, Director, Investor Relations
+
+Okay, we are at a point where we can actually break at this point. Let me just stop and review the agenda for the rest of the morning. We are going to shorten the break given that we have people on the line to 15 minutes instead of the half hour. So we will reconvene at 10.00 AM, in about 15 minutes. After which Chris Van Ingen, President of our Bio-Analytical measurement business, will present after that, Tom White, I’m sorry Pat Byrne, Electronic Measurement and then Tom White of the Operation Support Business and then lastly Bill Sullivan our CEO will come back with closing thoughts. Thank you and I’ll see you in 15 minutes.

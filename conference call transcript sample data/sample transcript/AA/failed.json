@@ -1,0 +1,192 @@
+[
+    {
+        "title": "Alcoa Corporation 2025 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4801773-alcoa-corporation-2025-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2025 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4775746-alcoa-corporation-2025-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2024 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4751293-alcoa-corporation-2024-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2024 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4727231-alcoa-corporation-2024-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2024 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4704691-alcoa-corporation-2024-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2024 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4684327-alcoa-corporation-2024-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2023 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4663381-alcoa-corporation-2023-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2023 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4618209-alcoa-corporation-2023-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2022 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4570772-alcoa-corporation-2022-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2022 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4547632-alcoa-corporation-2022-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2022 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4524672-alcoa-corporation-2022-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2022 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4502488-alcoa-corporation-2022-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2021 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4480431-alcoa-corporation-2021-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2021 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4460116-alcoa-corporation-2021-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2021 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4439465-alcoa-corporation-2021-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2021 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4419483-alcoa-corporation-2021-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2020 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4400012-alcoa-corporation-2020-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2020 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4379133-alcoa-corporation-2020-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2020 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4358683-alcoa-corporation-2020-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2020 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4339218-alcoa-corporation-2020-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2019 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4317133-alcoa-corporation-2019-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2019 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4297117-alcoa-corporation-2019-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2019 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4275642-alcoa-corporation-2019-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2019 Q1 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4255113-alcoa-corporation-2019-q1-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2018 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4233852-alcoa-corporation-2018-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2018 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4212245-alcoa-corporation-2018-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa Corporation 2018 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4188210-alcoa-corporation-2018-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa, Inc. 2018 Q1 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4164090-alcoa-inc-2018-q1-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa, Inc. 2017 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4138473-alcoa-inc-2017-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa, Inc. 2017 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4114546-alcoa-inc-2017-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa, Inc. 2017 Q1 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4064716-alcoa-inc-2017-q1-results-earnings-call-slides",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "Alcoa, Inc. 2016 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4039186-alcoa-inc-2016-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa, Inc. 2016 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/3987662-alcoa-inc-2016-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "Alcoa's CEO Discusses Q1 2014 Results - Earnings Call Transcript",
+        "link": "https://seekingalpha.com/article/2132293-alcoas-ceo-discusses-q1-2014-results-earnings-call-transcript",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "Alcoa (AA) Q1 2014 Results Results - Earnings Call Webcast",
+        "link": "https://seekingalpha.com/article/2128983-alcoa-aa-q1-2014-results-results-earnings-call-webcast",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "Alcoa's CEO Discusses Q4 2013 Results - Earnings Call Transcript",
+        "link": "https://seekingalpha.com/article/1937891-alcoas-ceo-discusses-q4-2013-results-earnings-call-transcript",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "Q4 2013 Alcoa Inc Earnings Conference call (Webcast)",
+        "link": "https://seekingalpha.com/article/1931181-q4-2013-alcoa-inc-earnings-conference-call-webcast",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "Alcoa's CEO Discusses Q3 2013 Results - Earnings Call Transcript",
+        "link": "https://seekingalpha.com/article/1735452-alcoas-ceo-discusses-q3-2013-results-earnings-call-transcript",
+        "error": "Timeout 30000ms exceeded."
+    }
+]

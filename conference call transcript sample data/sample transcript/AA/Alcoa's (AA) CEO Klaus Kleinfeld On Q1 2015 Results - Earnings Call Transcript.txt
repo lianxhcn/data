@@ -1,0 +1,817 @@
+Alcoa Inc. (NYSE:AA) Q1 2015 Results Earnings Conference Call April 8, 2015 5:00 PM ET
+
+Executives
+
+Nahla Azmy - VP, IR
+Klaus Kleinfeld - Chairman and CEO
+William Oplinger - EVP and CFO
+
+Analysts
+
+David Gagliano - BMO Capital Markets
+Jorge Beristain - Deutsche Bank
+Timna Tanners - Bank of America Merrill Lynch
+Paretosh Misra - Morgan Stanley
+Sal Tharani - Goldman Sachs
+Josh Sullivan - Sterne Agee
+Brian Yu - Citigroup
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the First Quarter 2015 Alcoa Earnings Conference Call. My name is Kyle and I'll be your operator for today. As a reminder, today's conference is being recorded for replay purposes.
+
+I'd now like to turn the call over to your host for today, Nahla Azmy, Vice President of Investor Relations. Please proceed.
+
+Nahla Azmy
+
+Thank you, Kyle. Good afternoon and welcome to Alcoa's first quarter 2015 earnings conference call. I'm joined by Klaus Kleinfeld, Chairman and Chief Executive Officer, and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Klaus and Bill we will take your questions.
+
+Before we begin, I would like to remind you that today's discussion will contain forward-looking statements relating to future events and expectations. You can find factors that could cause the company's actual results to differ materially from those projections listed in today's press release and presentation and in our most recent SEC filings.
+
+In addition we've included some non-GAAP financial measures in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release in the appendix to today's presentation, and on our website, www.alcoa.com under the Investor section. Any reference in our discussion today to historical EBITDA means adjusted EBITDA, for which we have provided calculations and reconciliations in the appendix.
+
+With that I will turn the call over to Mr. Klaus.
+
+Klaus Kleinfeld
+
+Thank you very much, Nahla. So welcome, everybody. Let me in the usual fashion quickly summarize the quarter. So and I assume that you have had a little chance of looking at it and I hope you all conclude it's been a strong operational quarter and the transformation is fully on track.
+
+Just let's look at the operational performance, and let's start with revenue. Revenue has been growing year-over-year by 7%. And if you look under the hood, you actually see that this has been driven primarily by the organic growth coming from auto & aero.
+
+And obviously over a year, when you look at all the transformational portfolio moves that we have made, that we have had, I mean, capacity reductions, as well as some portfolio actions, as well as currency, if you put all of this together, that's pretty much a wash, and the only thing that stands out is the organic growth in the auto & aero. That's been the reason for the 7%, and I assume that we'll have more of a discussion around that. I'm happy to provide more color on that later in the Q&A.
+
+So when you then look at profits, you also see, on the downstream side, I mean, we have another first quarter record there with $191 million ATOI. On the midstream, we have $34 million ATOI. There's challenge on the can sheet on the one hand and at the same time, we have record auto shipments. And I'll explain the dynamics and what we are going to do on that end in detail when it comes to my presentation.
+
+On the upstream, good news, 14th consecutive quarter of improvement. Alumina segment stands at $22.1 [ph] million. Primary segment is at $187 million of ATOI. And then you again see in the quarter nice productivity, $238 million productivity.
+
+And the good news is, again, like in the last quarter, it's really coming from all segments and from all functions. And that all falls to the bottom line and also falls, which is equally important, into cash, right. So we have $1.2 billion cash on hand. So this is kind of the operational side.
+
+On the transformation I would say it's fully on track. Firth Rixson, we just remind you, doubles our aero content, going well. The TITAL acquisition we completed in this quarter. This is going to give us titanium/aluminium structural castings in Europe.
+
+We announced the RTI acquisition which is titanium and it complements on mid and downstream value chain. We expect to close within the next two to five months.
+
+Sold Belaya Kalitva, one of our Russian rolling mills, and we announced today that we secured 75% of the long-term gas needs for western Australian refineries. And we announced about six weeks ago that we are putting 2.8 million tons on the refining side and 500,000 tons on the smelting side under review.
+
+And followed up, as you know from us, immediately after this with the first set of actions, and we closed down the last port line that we had open in São Luís, and that was 74,000 tons. And we, almost at the same time, announced that we are curtailing part of our refining in Suriname, another 443,000 tons. And we are exploring at the same time the sale to the Surinamese government.
+
+So, that's pretty much what's been happening, strong operational results, transformation fully on track. So, Bill, why don't you give us a little more details on the numbers side.
+
+William Oplinger
+
+Thanks, Klaus. Let's review the income statement. First, the year ago revenue increased $365 million, or 7%. The 7%, as Klaus said, was principally organic growth, largely driven by auto and aerospace volumes, and positive market factors, which were offset by the impact of portfolio actions.
+
+Cost of goods sold percentage decreased by 160 basis points sequentially, primarily driven by the strong US dollar, and productivity partially offset by lower LME pricing. Compared to a year ago quarter basis, the 6 percentage point improvement came from productivity gains, improved prices and a stronger US dollar, somewhat offset by cost increases in energy.
+
+Overhead costs were down sequentially across the organization. The addition of Firth Rixson was more than offset by headcount reduction and favorable currency impacts. Other income was $12 million in the quarter, including a favorable balance sheet re-measurement impact of $17 million pretax. EBITDA was over $1 billion for the third consecutive quarter, over $400 million higher than the 2014 first quarter.
+
+First quarter effective tax rate of 47% was higher than our expected operational tax rate, primarily due to a non cash valuation allowance against certain deferred tax assets in our alumina business, the impact of which was entirely offset in non-controlling interests and the fact that a significant portion of our special items had no tax benefits associated with them. Excluding the impact of these items, our operational rate was 31% for the quarter, which is consistent with our expected operational rate for the year.
+
+Overall results for the quarter are net income of $0.14 per share. Excluding special items we have net income of $0.28 per share, $0.19 higher than first quarter last year.
+
+Let's take a closer look at the special items. Included in net income is an after-tax charge of $168 million or $0.14 per share, primarily for restructuring. During the quarter, we took several actions in support of the company's transformation. We sold Belaya Kalitva, the Belaya Kalitva rolling mill in Russia, which resulted in an after-tax charge of $129 million.
+
+We also announced the curtailment of the remaining capacity at our São Luís smelter, resulting in an $11 million charge. The balance relates to a $9 million adjustment for the Mt. Holly sale, which was completed in December of 2014, in addition to other charges related to actions taken across the organization. In total, roughly 90% of the restructuring related charges are non-cash.
+
+Other special items for the quarter were $7 million of acquisition fees in the period related to TITAL and RTI. So, in aggregate, this results in net income excluding special items of $363 million, or $0.28 per diluted share.
+
+Let's look at the results versus a year ago. First quarter – operating earnings of $363 million are more than triple the prior year quarter. Favorable market factors such as the LME pricing and a strong US dollar contributed $153 million to first quarter earnings.
+
+Also, we delivered $156 million of after-tax productivity gains across all of our segments. That's $238 million on a pretax basis. And that more than offset cost headwinds due to higher maintenance cost, lower labor wage increases and raw material usage.
+
+As Klaus alluded to, stronger demand and share gains in aerospace, as well as the North American automotive, building and construction and commercial transportation markets, led to favorable volume impact of $42 million.
+
+Higher regional premiums account for most of the favorable price mix impact. However, that was somewhat offset by continued pricing pressures in rolled products. The unfavorable energy impact was driven largely by higher energy costs in the Spain smelting operations.
+
+If we move on to the segments, as Klaus noted, EPS generated ATOI of $191 million, up from the first quarter of 2014. EBITDA margin reached 20.1% for the quarter. Third party revenue was $1.7 billion, up 8% versus the fourth quarter at 17% versus a year ago, driven by Firth Rixson acquisition and share gains in aerospace, commercial transportation, and the North American building and construction markets. These favorable impacts were partially offset by currency headwinds to revenue of roughly $70 million due to the strong US dollar.
+
+A couple of drivers in the quarter. Firth Rixson contributed $6 million of ATOI in the quarter on EBITDA of $27 million. This is firmly on track with the acquisition business case that we had laid out.
+
+Currency was a negative headwind of $10 million to earnings due to the stronger US dollar. The segment was negatively impacted by weaker prices and mix due primarily to slightly weaker mix in our fastener and wheels business and short term pricing pressures in the European building construction market. The business continued to generate strong productivity gains of $53 million after tax, more than offsetting $45 million of cost increases.
+
+If we then move on to the outlook for the second quarter, the aerospace market will remain strong. We expect recovery in the North American non-residential building construction market to continue to be a bright spot with some softness seen in Europe.
+
+Heavy duty truck will remain strong in North America, partially offset by declines in Europe. And we expect further share gains and productivity improvements across the portfolio. So, in aggregate for the second quarter of 2015, we expect ATOI to be up 3% to 8% year-over-year, including a negative foreign currency impact of $13 million.
+
+If we turn to the rolled product segment, ATOI in the first quarter was $34 million compared to $59 million in the prior year. A couple of items to note in the segment. The segment had, as Klaus alluded to, record automotive shipments during the quarter resulting from the Davenport expansion, which you can see in the volume growth.
+
+Business has been negatively impacted by the falling metal prices, however, due to the lag of cost in inventory. That's a $27 million negative impact. Pricing is being impacted by weakness in the can sheet market and a change in input costs in Russia. We're now being charged the Rotterdam premium in Russia and are unable to fully pass that through to our customers currently.
+
+Very strong productivity results also in this segment largely offset some of the cost increases that we're experiencing, including labor and maintenance cost increases, the start-up at the Saudi joint venture and expenses associated with the Micromill R&D project.
+
+As we look out into the second quarter, we expect GRP to be impacted by a number of factors. Continued strong demand for both auto sheet and brazing sheet, combined with seasonal volume improvements in the packaging business.
+
+However, packaging prices in North America and the inability to pass through metal premiums in Russia will continue to negatively impact ATOI, and we estimate that as about $19 million year-over-year after tax.
+
+Cost for the ramp-up of the Saudi Arabia rolling mill and investment in the Micromill R&D will also continue, and that's approximately $13 million year-over-year. And metal lag impacts, as of today, metal lag impacts would result in a negative $15 million at current market prices. So, in total, ATOI for the segment is expected to decrease 30% over last year's result, assuming current metal prices and exchange rates.
+
+Let's move to the alumina segment. Combined primary metals and alumina upstream segments produced our 14th consecutive quarter of performance improvement, with combined ATOI totaling $408 million.
+
+The alumina segment continued to deliver very strong earnings of $221 million, ATOI up 24% sequentially and more than double last year. The first quarter result serves as a reminder of the strength of our alumina portfolio and the strides we've made to de-link alumina pricing from LME prices.
+
+Three positive factors drove the sequential earnings gain, significantly stronger US dollar, which lowered currency denominated production costs at our non-US mines and refineries, favorable energy costs, fuel oil in Suriname and natural gas prices across the system, as well as the positive impact from converting the San Ciprian refinery to natural gas, and improvements in productivity and costs overall.
+
+These gains were partially offset by lower LME based contract pricing, as well as lower shipments due to the sale of our Jamaican refinery interest and two fewer days in the quarter.
+
+As we look out into the second quarter, API based and spot sales will be roughly 75% of external sales in 2015. API pricing will continue to follow the 30 day lag, while LME based contracts will follow the typical 60 day lag.
+
+We expect production to be down slightly by 74,000 metric tons from 1Q due to curtailment of the Suriname refinery. This volume impact will be offset by one additional day of production in the quarter, however. Maintenance costs will be slightly higher. So, in total, for the second quarter we expect productivity improvements, volume increases, and the favorable energy environment to offset the aforeseen cost increases.
+
+If we then turn to primary metals. As I highlighted in January, the primary metals segment typically ships more metal internally in the first quarter, and this year was no exception as third party revenue declined in the quarter. Earnings in primary declined $80 million versus the fourth quarter of 2014 to $187 million, but we're up sharply versus a year ago.
+
+While lower LME prices were a sequential headwind of $84 million for the quarter, the impact of the recent decline in premiums was muted due to the lag on premiums through revenue.
+
+Energy and alumina costs were also unfavorable sequentially. Lower energy sales in Brazil were partially offset by lower power prices, particularly in Spain. This impact, combined with higher alumina prices, reduced earnings by $36 million.
+
+Earnings improvement came from several sources, however. As in the alumina segment, the strengthening dollar lowered cost, improving primary's earnings by $22 million. Earnings also improved due to lower costs that curtailed facilities and lower overhead costs.
+
+Looking to the second quarter, our pricing will continue to lag by 15 days to the LME price. Production and shipments will be down 18,000 metric tons due to the São Luís curtailment. This volume impact will be partially offset by one additional day of production in the quarter.
+
+We expect negative impact from the current decline in the regional premiums of approximately $65 million based on premium levels as of April 1st. We expect energy impacts to be slightly positive in the second quarter.
+
+Favorable energy costs and the additional sales in Brazil will be offset by lower energy sales in other regions. In sum, we expect productivity and favorable energy to offset the lower volume and other cost increases in the segment.
+
+If we move to the day's working capital slide, we continue to focus on maintaining working capital at the lows that we saw last year. We were able to maintain DWC on the underlying business at 30 days, with an additional 3 days associated with the Firth Rixson acquisition. This is an area of opportunity for the integration team as we strive to bring Firth Rixson in line with the other EPS businesses.
+
+Moving on to the cash flow statement and liquidity, as is typical for our business in the first quarter, we had free cash outflow of $422 million. However, this is significantly better than a year ago quarter.
+
+The outflow is based on a number of factors. In the quarter, working capital needs increased due to higher receivables due to stronger sales in the downstream, and seasonal increases preparing for the typically stronger second quarter.
+
+In the first quarter we also make annual incentive compensation payments and semi-annual interest payments. Also, we made the second of five annual payments to the US government for the Department of Justice and SEC settlement in the amount of $74 million.
+
+If we move to pension, the global pension contribution requirement for 2015 is estimated to be $485 million. In the first quarter we contributed $85 million in cash. We now show pension expense net of contribution in the cash flow statement. So based on a cash contribution of $85 million, pension expense was $122 million in the quarter.
+
+Capital expenditures for the quarter were $247 million, with $150 million on return seeking capital projects. $124 million of that or 83% of that spend was in the mid and the downstream, including our spend on La Porte and the Davenport for aerospace expansions, and Tennessee for automotive expansion, among others.
+
+Also during the quarter we closed on the TITAL acquisition, which we paid a net of $204 million in cash, ending the quarter with $1.2 billion of cash on hand.
+
+If we turn to the balance sheet, we continue to maintain a strong balance sheet. From a liquidity perspective, we're ending the quarter with $1.2 billion and debt at $8.8 billion, resulting in net debt of $7.6 billion.
+
+You will recall that last quarter we communicated a leverage target for 2015 that represents our commitment to regain full investment grade status. For the quarter, debt to EBITDA was 2.2 times on a trailing four quarter basis, which is at the bottom of our target range.
+
+As you probably noticed, S&P has recognized the improvements in the balance sheet by taking their rating to a neutral outlook. Lastly, we have agreed to a $260 million loan with the Department of Energy supporting the expansion at Tennessee, which we expect to close within three to four months.
+
+I'll conclude the review of the quarter with a discussion of the 2015 targets. Our annual financial targets have been set to continue to reposition the company, driving growth and operational improvements. Year-to-date productivity is on schedule, with $238 million of productivity actions achieved in the first quarter against a target of $900 million.
+
+Return-seeking capital spend was $150 million and is anticipated to ramp up during the year to meet the $750 million target. Sustaining capital was maintained at $101 million, significantly lower than the run rate of $725 million would suggest, but we would anticipate this will also ramp up during the year. And debt to EBITDA, as I mentioned, is at the bottom of our target range.
+
+Lastly, while we did have a cash outflow in the quarter, we still anticipate generating a minimum of $500 million of free cash flow for the year. This target now includes the prepayment of $300 million in 2015 related to the execution of a 12 year natural gas contract for our refineries in Western Australia. To be clear, we'll deliver the $500 million of free cash flow after making the prepayment for gas in Australia.
+
+So let me turn to a review of the upstream market. We've updated both our 2014 final growth numbers and projected 2015 growth estimates. I'll start by updating the final demand growth for 2014.
+
+We upwardly revised global growth to 9% in 2014, an increase on our forecast of 7%, driven by higher than expected growth in China. This results in global consumption of 54 million metric tons, or 1.2 million metric tons higher than we knew in January. This is very positive and we're talking about the continued strong growth this year on an even higher base.
+
+We continue to project approximately 3.5 million metric tons of new demand in 2015, resulting in a 6.5% growth rate, and leading to record global demand of 57.5 million metric tons. Just to put this in perspective, that compares to demand in the pre-crisis level of 2008 of approximately 40 million metric tons.
+
+In the alumina market, we tightened our forecast by roughly 230,000 metric tons, driven by slower than expected ramp-up in supply. And regarding aluminum, where the market is relatively balanced with a slight surplus of 326,000 metric tons, China continues to add capacity with expansions occurring largely in the northwest. We've lowered our estimate of curtailments by 300,000 metric tons, as smelters have been reluctant to curtail as the shiffy [ph] prices have recovered to over $21.59 per metric ton.
+
+In the rest of the world, expansions are concentrated in India where execution will depend on securing sufficient coal to support power needs and restarts are expected to remain modest due to the decline of the all-in price.
+
+Versus a year ago, inventories continue to fall and are at 66 days of consumption. Global inventories are approaching the 30 year average of 61 days. The reality is demand for aluminum is strong, the industry needs metal to operate, so as metal comes out of inventory it is being absorbed in the market through higher demand.
+
+Lastly, premiums started 2015 down from historical highs but remain strong at average levels roughly 20% to 25% higher compared to last year. We've seen increases in semis exports coming out of China. This is a combination of real semi-fabricated products and what we would call fake semis that are manufactured to capture the difference in tax treatment between semis and primary.
+
+The premiums have responded to this Chinese supply. Now that premiums have adjusted, the economics of Chinese exports have deteriorated. Ultimately the positive fundamentals, we believe, will drive the industry and be reflected in the regional premiums.
+
+So, let me turn it back over to Klaus.
+
+Klaus Kleinfeld
+
+Thank you, Bill. That was very good. So let's look at the Alcoa end markets, and let's start with aerospace.
+
+We continue to project for this year growth between 9% to 10%. And the reason for that is because we see large commercial aircraft segment growing at 9.6%. The order book for that large segment stands now at 9 years of production.
+
+The airline fundamentals are very solid, 7% increase in passenger demand projected; 4.3% cargo demand, airline profits are up. Those are all the expectations basically from IATA [ph] up to $25 billion in 2015. And on top of it, the other segments, the regional jet segment, is also growing nicely, almost at 11%. That's 50% above the 2012 situation. So, that's really good.
+
+Automotive North America, we continue to believe we will see a growth for this year between 1% and 4%. Sales are strong, 5.6%, up year to date. I actually looked at the SAAR rate, the seasonally adjusted annual rate, and in January we project $16.4 million for the year, and the projection now is at $17.1 million. Very strongly driven by light trucks.
+
+We talked about that last time. I mean, this is a bit of the impact of lower gasoline prices. And we continue to see pent-up demand there. The average fleet age is at 11 years in the US and the historic number roughly is at 10.
+
+Production is flat, and this is mainly a factor of the new models ramping up. So, we see that basically following the sales situation. Inventories are down, which those two things you see go together at 58 days. In March the industry average was rather between 60 and 65 days. Incentives are flat, and on trucks are obviously down because there's a very strong demand there.
+
+So if you look at Europe automotive, we also believe that we see a range that could go up to 3% growth, but it could also go down to minus 1%. Where do we see it today? Production is pretty much flat up to now. We see Western Europe improve, offset by Russia, registrations are up 7%, exports are up 3.6%.
+
+On China we continue to believe to see a growth between 5% and 8%. Production is up 6.2%, sales are up 4.3%. The growth is driven by the increased middle class and also by this thing that they call the Clean Air Act. We still, even after looking at the numbers of vehicles that have already been taken off the roads, there are still roughly 9 million vehicles that are not complying with the Clean Air Act and that need to get off the road by 2017.
+
+Let's move on to the next segment, heavy-duty truck and trailer. North America, we project 6% to 8%. Actually, we are tightening our range to the up side here. We used to say in the early part of this year, when I talked about it last, that we see the range between 4% and 8%.
+
+And the reason for this is, I mean, what we saw in orders in the fourth quarter Record orders in the fourth quarter 131,000 units, orders are up. Rising auto book, I mean, 66% year-over-year, highest since July 2006. Solid fundamentals, 3.4%, freight ton miles up, 4.3% freight prices up, and the production is up by 16% with an almost 50,000 trucks in February, the number.
+
+On Europe, actually we are tightening our range a little bit. I mean, we believe its going to shrink between minus 5% and minus 7%, and earlier in the year, we actually thought it could even go to minus 10%, but we don't believe that any more given some of the signs that we see in Western Europe.
+
+Production forecast is pretty much unchanged. Western Europe minus 5%, Eastern Europe minus 10%. But we do see improving signs in Western Europe. Orders are up 4.3%, registrations are up 8.2%.
+
+In China, we actually do see it further down. We believe minus 9% to minus 11%, and we see the production as down by 31%. But keep in mind, I mean, you have a little bit of an off situation here when you compare this with the last year because in the last year we had in the production, particularly we had this pull ahead effect due to the regulatory changes that led to a growth rate in orders of 30% in 2013. And that obviously rippled through on the production side in the first half of the year in 2014. So, that's what's happening there.
+
+Packaging North America, unchanged. We see it continue to shrink a little bit, minus 1% to minus 2%. That's mainly the demand decline of the carbonated soft drink side, and partially offset by moderate growth in the beer segment.
+
+Europe, we believe, is going to grow 1% to 2%, very strongly driven by steel to aluminum conversion in Western Europe, and partially offset by declining Eastern European markets. China, 8% to 12% growth here. It's mainly the penetration of our aluminum into the beer segment.
+
+Then when you go building and construction, North America, we believe its going to grow 4% to 5%. If you look at some of the early indicators, as non-residential contract award plus 13% in March. Architectural building index positive 50.4%. Case-Shiller home price index 4.5%. So that's that for North America.
+
+Europe, we believe minus 2% to minus 3%, weakness continues. Obviously strong variation across market. China we also continue to believe 7% to 9%. Fundamentals continue to stabilize.
+
+Last but not least, industrial gas turbines, we believe we're going to see a plus 1% to plus 3% this year. And let me explain that, because we do see that the new capacities are down 16%. Electricity demand is down 0.9%, and the spare shift, with the energy – the spares are negative and with the energy mix and usage different there.
+
+But what we do see is actually a new trend, strongly driven by our customers as they bring out new high technology turbines and also offer upgrades of existing turbines. And that's obviously the major factor, very, very important for us and that's why we've come to this 1%, 2%, 3%. I think I mentioned that already in the last call and we stick to it.
+
+So, let's with this move from the general kind of tone of the end markets into what's happening at Alcoa. And let me remind you of our overarching strategic direction. We are creating two value engines. And this is an old picture, but sometimes I think it's important to get the frame right.
+
+I mean, we are building really two value engines. So one is lightweight multi-material innovation powerhouse. And the other one is we are creating the globally competitive commodity business. So you will always see actions around those two things in the quarter if we do our job well.
+
+We are increasing the share in exciting growth markets. I will come to that. We have a full pipeline of innovative products. We are really using all growth levers. We are shifting to higher value add and we are expanding in multi-materials and we are increasing our expertise in multiple technology areas.
+
+And on the globally competitive commodity side, we are really increasing our competitiveness. And we do this to mitigate the downside, which I've said multiple times, we cannot influence the commodity prices, but what we can influence is where we are on the competitiveness side.
+
+And that's also – and I hope we'll come to that at least in the Q&A. That's also why we have been doing a lot of actions around the capacity and why you have to take that into account when you look at the revenue growth, right. So we've taken quite a bit off revenues out there.
+
+We're optimizing also on the value-add side. Casthouse, casthouse value-add on the smelting side, and we've shifted to API basically on the alumina side to reflect the market fundamentals. And we're continuing to drive productivity improvements.
+
+So let's start looking at what we have been doing. And let's first start with our value-add businesses. We used organic as well as inorganic growth. And this is a full slide, but actually it's only a selection of the things that we have done, particularly on the left hand side.
+
+And I think that we sometimes lose sight when people get so excited about from acquisitions. But when you look at the growth, and it's nicely reflected in this quarter, I mean, the 7% growth that you see year-over-year primarily comes from organic growth in the auto and aero side.
+
+And when you look at this, and just think about automotive organic growth, the aluminum intense vehicles, the A951, the really industry-enabling bonding technology, the Micromill, all of this is big and I'll cover that later. Auto sheet alone we believe will have $1.3 billion revenue in 2018 for Alcoa.
+
+Look at a segment that we almost never have time to talk about, commercial transportation and wheels. We have the lightest wheel in the industry with Ultra One, and the cleanest with Dura-Bright. We are winning share and we're growing the business and it is going to be $1 billion by 2016, and it’s nicely profitable, right.
+
+Aerospace, I mean, a lot of the attention has gone into the acquisitions that we've recently done, and taken a lot of the limelight. But I really want to mention the hard work of a lot of Alcoans to bring the organic growth in here.
+
+And just look at aluminum lithium. I mean, we recently had in this quarter the announcement that Pratt & Whitney qualified us on the pure power fan rate for the A320. This is a big breakthrough.
+
+And if you add all of these things on aluminum lithium alone, we currently have a projection of $100 million revenues that are contracted by 2017. This is all happening relatively soon.
+
+Now, on the right hand side, I mean, I think it would be foolish if we would not also look at opportunities on the inorganic growth side, I mean, if we have a good idea on how to create value. And I'll talk about that because I believe we have a very good idea how to create value.
+
+Firth Rixson RTI, TITAL, let me, I mean, I'm going to do a deep dive. TITAL is very small. I mean, if there's a question on it, I'll be happy to answer that, but I'm not going to do a deep dive.
+
+I'm going to start with a deep dive on Firth Rixson here. And so first of all, let me remind you, what Firth Rixson is as an acquisition is really a jet engine acquisition. It doubles the content of that we will have, or that we do have from now on in every jet engine platform.
+
+If you look at how was that enhancing our portfolio, all the financials, I mean, we plan to get $40 million synergies in year two, $100 million in year five. We plan to build this by next year into $1.6 billion revenues and $350 million EBITDA.
+
+And currently, as Bill mentioned, the integration is going really as planned. We're actually a little bit ahead of our own plan, right. Keep in mind, I mean, we only announced the closure on November 19, right. So, happy to talk more about that.
+
+We're building capabilities through this. We became the leader in seamless rolled rings, as well as added aero engines. We now have a full range of aero engine discs, right. Multi-materials, the multi-material makes 60% and they give 25% titanium, 15% steel and aluminum.
+
+And we got access to leading edge technology, like isothermal forging, I cannot emphasize that enough because isothermal forging gives us capabilities that are of unbelievably high value for our customers for the engine – for the engine makers. It's all about efficiency.
+
+So what isothermal forging does, it allows 70 degrees Fahrenheit, higher temperature in the combustion chamber. This alone increases the combustion efficiency by 40%. It's big and customers are paying for it.
+
+This is why – I mean, we are not in love with technology, but we are in love when we can use technology to create customer value and get the benefit and reap the rewards from this. And last but not least, it gives us excess to some largest, most advanced, closed-die forge presses.
+
+Here on the right-hand side you see this, I mean, I kind of love this simple diagram. It's kind of a virtual blowup of an engine. Everything is blue in it. Why is everything blue in it? Because all of these components Alcoa can make now with Firth Rixson.
+
+So, over 90% of those structural and rotated components we can make, unfortunately, not for every engine. We do make them, but that's what I call potential. I mean, we are in the hot section with nickel and ti-aluminide. We are in the cold section with titanium, aluminum, and steel. So this is fantastic.
+
+Now, how we capture the value. I mean, we had a lot of discussions, how do you capture the value. And I want to give you a little bit more color on this so that you understand how we are doing it.
+
+We basic took Firth Rixson and broke it up into two parts. We had this idea already from the start on in the preparation towards. We never approve an acquisition if we don't understand how we want to manage it, including the people that we want to have managing this, right.
+
+So, we broke Firth Rixson up and integrated it into two engineered products and solutions business units. On the ring side they became part of Alcoa Fasteners. The reason for that is because of the major locations for rings are in California. And we wanted to make sure that the proximity of the locations is there and that an experienced management team of AFS can basically get their hands around it and bring the value to them.
+
+The disc part we integrated into our forging and extrusion business. And here the logic was very simple. The logic is around technological synergies from forging and also because the AFE team is a very experienced team.
+
+Now, what are we doing there, I mean, we are basically using the exact same discipline that we call our Alcoa operating system to manage the integration. And way before we go through with the acquisition we do the planning and so that on day one when we close we are ready to basically go full blast ahead and know exactly where we are having to go after.
+
+I would say, if you were to go to any Firth Rixson facility today, you would already see that that's an Alcoa facility. And that I think if you were to ask people they would say well, those and those and those examples here, we are managing differently and we're managing to the Alcoa operating system book.
+
+What is that book? I mean, the book is a book that to those that follow us is very simple to understand. We have those three strategic priorities, profitable growth, Alcoa advantage, disciplined execution.
+
+Those are the things that have brought us over the last year through the crisis, $9.7 billion productivity, reduced the day’s working capital. Bill showed it again, generated $3 billion of free cash flow, and has shown a nice profitable growth also on the organic side. And we are applying that same thought onto Firth Rixson. And how are we doing it? We're breaking it down.
+
+I mean, let's take a look at the synergies. We're breaking the $40 million synergies in 2016 down into those three buckets, operational productivity where we want to get $22 million out. You see some examples here. Happy if anybody wants to know more color on that to answer that later. Procurement savings of $14 million, overhead reductions of $8 million.
+
+Now you see this yellow bubbles there and you wonder what does that mean, 200% deployed, 250%, 150%, and in total 190%. We are using the exact same systematic on the disciplined execution, which we call degrees of implementation. We are using that from the start of the planning on to the execution of the full integration.
+
+And what this means, let me pick out the $22 million on operational productivity. We currently have actions identified that have a value that's 150% of the $22 million, right. That is in our action plan. Now, I don't want you to – and the total is 190% of the 40, right.
+
+I don't want you to put that into your model because in reality, this is one of the reasons why we are so good in productivity, because we always find ways to over deploy, because reality hits sooner than later, and then you find that something cannot get done in exactly that fashion. So, you need to be over deployed to do it right and to basic deliver, deliver our promises, which we've done every time, I mean, from 2008 onwards.
+
+I also want to mention the isothermal press. Because in the isothermal press, this is a very important piece of technology that I described beforehand. And the question is, I mean, it's hard to quantify that, right. The question is, I mean, where do we stand currently on the isothermal press?
+
+We've received the isothermal forge and heat retesting method approval by our customer. This is the foundation to be cleared for qualification. That allowed us to forge six batches of qualification materials here that are currently in machining. And they will basically then go to the customer for testing. We will see the first revenue in the second half of 2015. So, all very well on track and pretty much operating as one, right.
+
+So let's also talk a bit about RTI. Obviously, RTI is in a very different stage. RTI, we announced the plan to acquire RTI. So we are currently waiting regulatory, as well as RTI shareholder approval. We believe this is going to from now on about 2 to 5 months. We filed with the respective agency about two weeks ago, so all well on track.
+
+Alcoa and RTI is a combination that expands basically the titanium customer solutions. So what are the benefits there? We believe we're going to get, by 2019, $1.2 billion revenue, and we're going to increase the EBITDA margin by 10 percentage points to 25%.
+
+So if you look at what this means, I mean, $30 million net synergies in year two, $100 million net in year four. We believe, as I said, 10 percentage points increase of EBITDA margin by 2019. 65% of the $1.2 billion revenues are supported by contracts. That's the nice thing. We saw the same thing also in Firth Rixson. That's the nice thing about being strong on the aerospace side.
+
+We are building capabilities. Currently we only have VAR furnaces and we have only a few of those, and now we get our hands around, assuming that this thing will get closed, around plasma and electron beam melting, have a lot of advantages. All titanium, by the way. Titanium, billetizing, mill products, machining and sub assembly, right.
+
+On the multi-material side, we get titanium, we get intellectual property on multi-material 3-D printing. And we can establish a closed loop goes through scrap processing.
+
+Leading edge technology, it doesn't stop right there, ti-alumina ingots. And we already have ideas what we can do with this because we can bring the ti-aluminide into the low pressure turbine blades, which is a great application. Without RTI we I mean, would have had a much harder time to do. And we can also do the near net shape components as through cold and hot isothermal pressing.
+
+If you look here on the right-hand side, you pretty much get what's happening there. You see how Alcoa's portfolio here looks on the titanium side and how RTIs look, on the right hand side you see how those look together. Nice complementing the mid and the downstream value-add.
+
+So the integration preparation is really in full swing from both sides. I personally visited four sites in the last weeks and saw and met pretty much with all major leaders of RTI, and many of the RTI employees. I am happy to give you some more color on this if anybody has an interest on that.
+
+So, let me also talk about what is our idea on the integration, again, assuming that this will go through. First on structure, once we've received all approvals, we plan to have RTI as a new business unit reporting in to EPS.
+
+So, as always, we will use the Alcoa operating system and to ensure a fast capture of value. And that value basically means a net synergy of $100 million, and I mentioned 30% year two, 100% in year four.
+
+That breaks down into those four categories here, process productivity $44 million, procurement $20 million, overhead $20 million, growth $20 million. I'm not going to go through all of this examples again, happy to go more into it if anybody has an interest, right.
+
+And on the right hand side, you see there are some, what I call growth technologies, foundational technologies like machining, like ti-aluminide, like additive manufacturing. I mentioned an example on ti-aluminide, that we can bring that into the coat section on the investment casting side, which is a totally separate division. Additive manufacturing, waiting that, we see there at RTI, fits very, very well.
+
+Then there's upside, also, through the oil and gas business. We have a small oil and gas business, they have a bigger oil and gas business. They are focused more on titanium steel, we are all aluminum, nice fit. And they have some medical business which has very, very nice position and we will see how we can develop that further. So all of that is fascinating and I think according to plan. As I said, we expect to have the approvals in 2 to 5 months.
+
+Another fascinating transformation is happening in our global rolled product. And let me also provide you some insights on that. And let's start with a downer here on the left hand side.
+
+The downer is what we see on the can sheet side happening. The can sheet situation is dragging GRP down, because we clearly see overcapacity. And we, as others, are trying to take capacity out by converting into auto, but the fact is, it's over capacitized, right.
+
+At the same time, we see declining carbonated soft drink demand, particularly in the US. And then beer growth, US and China. But all of that is not sufficient to balance off the supply overhang. That strongly impacts margins and volumes and that is a big drag on GRP.
+
+Now I think Kai [ph] has shown you that diagram here on the right hand side when we had Investor Day, but I don't think he showed it for 2016, right. So we haven't updated that because we are going through a fundamental transition here in the portfolio.
+
+You can see here, I mean, this is basically structural along the value side. I mean, the higher it is, the more value – it's a simplification, the more value it has, right. But what we are doing, we're building out the higher value and we're reducing the lower value. That's very simple.
+
+You can see some examples there. Again, I would be happy to illuminate some of those at a later point in time. So, we're shifting to higher margin, we're shifting to differentiated product, we're driving GRP's year-on-year profit to lift in 2016 versus 2015.
+
+What is the really, really good news here? The good news is that we have invested in the innovation, in the growth on the aero side. That is happening. It's happening, I would say better actually than what we expected.
+
+It's driven by two factors. One is the regulatory side with CAFE regulations. The others are the consumer benefits from fuel consumption, breaking, distance safety, and those types of things. What does it do? It actually increases the North America aluminum sheet demand by 3 times until 2020.
+
+But let's not look so far out. Let's look much closer to what's happening in Alcoa, and that you see here on the right hand side. Davenport, our automotive expansion is fully operational. It's at capacity, and it's running really, really well. Tennessee will come online middle of this year, and it's basically booked out.
+
+So what will happen to our revenues? You will see already this year our revenues in auto sheet alone will double to $660 million revenues. And in 2016, we actually see that it's coming up to $1 billion revenues.
+
+What will be the results if you go – don't go back to the chart now, but I think most of you will remember. The mix will change. The mix on automotive will change from 2014 where we presented 10% of GRP's volume to 20% of GRP's volume. And obviously, this will mean we will see higher volumes as well as higher margins there.
+
+And that's not even where the excitement stops, because if you look at what we announced end of last year with the Micromill, we announced that the first Micromill-enabled materials we announced the next-generation automotive alloys.
+
+And what does the Micromill do? It allows us to offer products that are 2 times more formidable, while 30% lighter than high-strength steel. That allows us to attack the steel market.
+
+We can roll something, I mean, from hot to cold, from hot metal to rolling, we can do in 20 minutes what today takes 20 days. 50% lower energy, one fourth of the footprint. It allows us also to attack other markets inside of the automotive with products that today are mainly steel, crash resistance with lighter components, 30% to 40% lighter. Higher formability, reduces assembly costs also, higher strength, reduces weight.
+
+So, where do we stand in qualifying the Micromill? A lot of folks have asked us this. We completed successfully customer trials. We did it actually before we announced it because we wanted to have the validation.
+
+Now we have a qualification process at the first customer, and we have an additional five – agreements with five customers for qualification. And we are on the road to have the first commercial coil being done. And then we are at the same time in parallel exploring whether and where to do a full-scale capacity expansion optionality.
+
+And if we do that, we will do that in exactly the same fashion that we've done Davenport and Tennessee, and both of those pretty much were sold out before we even, I mean, committed to the project, right. So it's not a build and wait and see attitude, but the customer will be there before we come to a conclusion, because we clearly know how to deploy capital and have shown that.
+
+So, let's close with talking a little bit on the commodity upstream side. You saw the first quarter results. They really don't need much of an explanation. They have been really, really, really good.
+
+Now, why is that so? Because we have been coming down on the costs on alumina, we have been enhancing our revenues. We now have, for this year, we will have 75% of the revenues on API and spot. You know, and remember, we only introduced that around 2010. That's a market changing dynamics.
+
+Primarily come down on the cost curve. We've come down quite far. We have a lot of additional action. We are increasing the value add, I mean, and we're now at around 70% already with this.
+
+We continue to have a robust process of maximizing our global competitiveness. We have reduced 33% of our smelting capacity operating since 2007. We announced on March 6 that we put another 2.8 million tons on refining and 500,000 on smelting under a strategic review.
+
+And the principles are always the same. We look pretty much at cash, we look side by side. And the logic that we use is a logic of fix, sell, curtail, or close, right. And you can see some examples here on the right hand side on fix.
+
+I mean, the announcement that came out today on Western Australia natural gas clearly falls in that category. Long-term, we got our hands around competitive gas, closed the deal, done, moving in that direction. Suriname, I mean, moving in the direction of a sale, as another example.
+
+Curtailment and closing, this is not one, this is not a digital thing. It goes through a number of steps because you can do it in multiple steps. This is what's shown there. And on Suriname, we announced that we are taking up another 443,000 tons. And in São Luís, that we are also – that we have closed the last potline in Sao Luis with another 74,000 tons off-line.
+
+Some of you also might have noticed that we changed the organizational structure of our GPP business. We are now fully verticalized in five business units with global P&Ls, mining, refining, energy, smelting, and casting, right.
+
+Why are we doing that? We are doing that to increase performance transparency, to focus on a faster global rollout of best practice sharing, so, more productivity. We are doing it to improve the commercial, as well as the operational side. And we are doing it to optimize capital allocation.
+
+What do I mean with that? I mean that we have pretty much been breaking down the last remaining resource of potential regional fiefdoms, right. This is global, this is a global responsibility. Now, for you outside, I mean, we will continue to report on alumina and aluminum, so we're really on the outside reporting really nothing will change.
+
+So let me conclude. Lots going on. We are creating a sustainable value for our shareholder. We continue to deliver strong operational results, profitable growth, driven organic as well as inorganic, fully on track, disciplined execution, improved our upstream competitiveness.
+
+With this, let's open the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of David Gagliano from BMO Capital Markets. Your line is open.
+
+David Gagliano
+
+Great. Thank you. I thought we could focus in on the topic of the day for a minute, which from my seat is the premium, the Midwest premium, regional premiums, Europe, and America, North America.
+
+My first question, we're hearing many transactions are happening below the Platts or the Metal Bulletin prices. So my first question, where are premiums for you in terms of your physical transactions currently?
+
+William Oplinger
+
+Dave, we basically stick to the quoted premiums. The way the premiums work is, as transactions get done, they get reported to Platts and Midwest, and it moves the premium. So, we're sitting currently at around $0.185 for the Midwest spot premium, and that's down from the highs of $0.24.
+
+Klaus Kleinfeld
+
+But, Dave, I would recommend, I mean, to – as you know, I mean, it's very hard to predict where prices or commodities will go. And therefore I think it is good to remind ourselves of what drives what.
+
+The LME price is driven, as we've been saying for now years, by sentiment. I mean, it moved up and down depending on what Mario Draghi or Janet Yellen were on a day, right, whereas the regional premium is really driven by the market fundamentals.
+
+And then let's go back and take a look at the chart that Bill showed at the end of his presentation and look at where this stands. We pretty much see that the market on aluminum is pretty much balanced, right. And I'll come to that.
+
+And on the alumina side, you see a bit of an overhang, but in reality I mean, we already are taking the overhang down from the first quarter because again we're seeing that some of this capacity announcement are not coming through. And when you put it in perspective, I mean, this is the – we are projecting roughly 2 million or so, and we are talking about 100 million market, 100 million tons market roughly, right.
+
+But let me come to what we've been hearing a lot also on the premium side. I mean, the reason why we've seen a little bit of additional pressure on the premiums is because we have seen that the high premiums have attracted some, what we call, Chinese fake semis, right. And the fake semis, I mean, really are completely – and they are re-melts. They got completely directed towards competing with primary. And now that the premium has adjusted, we are looking at the economics of this, and the economics actually has turned negative. So we believe that to come to an end.
+
+However, there's a component in it where they are misusing, where those people that are exporting semis, fake semis on China, are basically misusing or abusing the Chinese tax policies and acting against the declared Chinese policy. The declared Chinese policy clearly doesn't want primary to be exported. They have a 15% export duty on primaries, right.
+
+So, they are declaring this as semis, and therefore they get the 13% value at rebate, right, and in reality its re-melt. So that policy has not changed. And all what we are seeing and all that we are hearing from the Chinese is that they have no intention to allow this to further happen. So we believe the market is pretty much going to come back to – exactly to market fundamentals.
+
+David Gagliano
+
+So, that's very helpful. Thank you. So as a follow-up, based on that commentary, is it Alcoa's view then that premiums will stabilize at $0.18 a pound?
+
+Klaus Kleinfeld
+
+Well, our view is that – that's why I had such a long answer. I mean, that in the end it all depends on the physical supply and demand. That is different, depending on regions. Because also don't forget, and what Bill showed, I mean, we always talk about the inventory overhang and how, I mean, I think most people have slept through the last years.
+
+We have been growing demand. I mean, when in 2008, the total market was roughly 40 million. Now it's almost 60 million. 9% growth, demand growth for last year. I mean, this is the compound interest. So – and you see it very nicely in the inventory. In the height of the crisis we were around 108 day’s inventory. Now we're back to roughly around 66 or something like this. The historic average, I think Bill said it, is around 61. So we're pretty much back to normal, right.
+
+So, you are seeing this little spot things, as I said, abusing Chinese tax policies. China doesn't want that, declared policy. So I think it's a very limited phenomenon. And I think we are going to see this thing falling back exactly where it belongs and showing what is the regional supply and what is the regional demand.
+
+And then also keep in mind, I mean, there are some regions where the supply chain has become very long. We saw that when part of Logan went down and how all of a sudden the packaging folks were scrambling for material because they were very, very worried, having to stop their facilities.
+
+David Gagliano
+
+Okay, great. That's very helpful. Thank you.
+
+Operator
+
+Your next question comes from the line of Jorge Beristain from Deutsche Bank. Your line is open.
+
+Jorge Beristain
+
+Good afternoon, everybody. I guess, two questions, more for Bill. But just if you could talk a little bit more about, on page 11 on the slide deck on GRP. You intoned of about a 30% year-on-year decline for ATOI as we head into 2Q for that business.
+
+I'm just trying to understand how much of that can ultimately be worked through. Because some of it seems to be the inability to do the pass through in Russia of premium, but that ultimately should be recoupable in the medium term.
+
+And then just some other timing issues. I'm just trying to understand, do you see GRP getting back to normalized margins by second half, or is this really just a reset of the basis for that business because of the Russian issue?
+
+William Oplinger
+
+No, you have a couple of things going on. First of all, let me address the Russian issue right off the bat. The Russian issue is something that's hitting us this year. We would expect that that will persist probably through 2015, and potentially into 2016 as we work to pass through that to our customers.
+
+The other things that are going on, and remember that 30% is a year-over-year number, that's not a sequential number, it's 30% from the baseline from last year. A couple of things that we have going on. We've got the investment in the Saudi Arabia rolling mill. That's in the start-up phase, and that continues to cost us money. And we are spending money on the Micromill. Klaus alluded to the fact that we've got five partners signed up…
+
+Klaus Kleinfeld
+
+Six in total.
+
+William Oplinger
+
+Six in total. And that is costing us a little bit of money also. So, ultimately that will pay a reward. So those are really the things that – and then I guess the other piece of it that I should allude to, we talked a little bit about the metal price lag.
+
+And when metal prices are going down, inventory costs stay high in the GRP segment. The opposite occurs when metal prices go up. And at this point we would say $15 million of that decline is purely the impact from the metal price lag.
+
+Jorge Beristain
+
+Okay. And my second question was just related to working capital. I know that you mentioned there's some one-off issues due to acquisition integration. But do you think that working capital will actually be on a year-over-year basis, a net source of funds, or is that tapped out?
+
+William Oplinger
+
+And let me just make sure that I'm very, very clear around the increase in working capital year-over-year. The EPS business, as you probably know, the EPS business, because it's not a very capital intensive business, and due to the structure of the marketplace, has traditionally had higher working capital than the rest of Alcoa, and Firth Rixson is even higher than that.
+
+So the simple fact of blending in the Firth Rixson acquisition raises the working capital level on a day's basis for Alcoa in total. And so we see that as - right now we have 3 additional days of working capital over the lows of 30 last year. We see it as an opportunity to bring it down. The working capital levels are pretty high in Firth Rixson, so our teams will be going after that.
+
+I do not see necessarily cash – working capital be a cash generator for the company in the year simply because working capital levels are pretty low to start the year.
+
+Jorge Beristain
+
+Thank you.
+
+Klaus Kleinfeld
+
+Thank you, Jorge. Next one?
+
+Operator
+
+Your next question comes from the line of Timna Tanners from Bank of America Merrill Lynch. Your line is open.
+
+Timna Tanners
+
+Good afternoon.
+
+Klaus Kleinfeld
+
+Hello, Timna.
+
+Timna Tanners
+
+I wanted to also focus on China but on the finished aluminum side, because the day that you came out with your announcement that you were exiting smelting capacity in Brazil, my Chinese colleague counterpart told me that, he was saying that Hyomin Choi [ph] I think I pronounced it wrong, I don't know, but is adding 750,000 tons for the year. So, they're clearly adding, and I get that they're demanding more.
+
+But my question is, we're hearing that the Chinese are starting to talk about actually removing the tariffs on exports. It sounds like there's a lot of chatter on that. Are you concerned about it? What's your view? Is there any way that Alcoa can respond to that level of support, government support for the industry?
+
+Klaus Kleinfeld
+
+Well, I m mean, that's a very good question, Timna. I mean, the declared policy and the policy that's in place, and that economically makes sense, I have great admiration for what the Chinese government has done over the last four years. And the smartness of the economic team is unbelievably good. I had a chance to be exposed to them many, many times.
+
+And what they are doing here in regard to the policy is a very intelligent policy. On the one hand they are saying we don't want primary to be exported, and that's why they established this 50% export duty.
+
+The logic is very simple. Because what primary, in their view, is a lot of resources that are scarce, and the scarce resources are bauxite. You know that they have to import 50% to 60% of that bauxite.
+
+And it's energy which is non-clean energy, and they are running out of air, literally. And then they are running out of water. And you, unfortunately, need a lot of water when you have a coal-fired power plant.
+
+So, in reality you see all of this in the primary aluminum bar. And that's why they basically say we don't want I mean, this to be exported, right. So that's why they have the 50% export duty, right.
+
+I don't think that that's going to change. I rather think that they are going to enhance this because they are literally running out of air.
+
+The second logic is another logic. The logic is they are based – they want to upgrade the jobs. They want their people to earn more per hour. To do that they have to increase the value add of their businesses.
+
+So, they are basically saying if you now take a base metal and refine it into something better, we want to encourage you to be able to export it. That's why they have established this 13% value-add tax rebate. It makes a hell of a lot of sense, right.
+
+So this is – and we've heard the chatter and obviously we are very well established in China. I think its chatter. Obviously there are some people that are interested in doing it. I don't think that we're going to see any of this going through.
+
+In fact, I think what on top of it is the problem here and often gets mixed up is the real semi products. I mean, China has been an exporter of semis for a long time. There are markets where the Chinese semis actually are dominant, in foil, for instance. Typically these are not highly differentiated markets. And we have – all our semis typically are not competing against those because we are in much, much higher value-add semis, right.
+
+The new found phenomenon, the new phenomenon is this thing called fakes. We call it fake semis, because the fake semis are not competing against semis because they aren't semis. They are competing against primary because people immediately re-melt them as primary. They have basically the primaries primary that you can think of.
+
+So, in reality people are abusing, Chinese people are abusing the intention of the Chinese government. And I mean, all that we are picking up is that there's quite a bit of noise also on the Chinese political front about this, right.
+
+And obviously, I think I've said that before, we are monitoring the situation very well, and are looking at whether these kind of unfair cost advantages continue to exist. And I'm pretty optimistic that the Chinese government enforces their policies and stops this abuse.
+
+Timna Tanners
+
+Okay, great, Thank you.
+
+Klaus Kleinfeld
+
+Okay, Timna.
+
+Operator
+
+Your next question comes from the line of Paretosh Misra from Morgan Stanley.
+
+Paretosh Misra
+
+All right. I have a question on slide 41, actually. Is that something changed in the way you do business? Because I'm seeing your distribution revenues grew 43%, and you have a very sharp decline in industrial products and housing. Just hoping you could comment on that.
+
+William Oplinger
+
+To comment on that, the distribution jump that you see is, in large part, a portion of the Firth Rixson revenues, Paretosh. So, Firth Rixson does about 75% of their revenue in aerospace. At this point we're putting the rest into distribution, hence that big jump in year-over-year.
+
+The industrial products, I believe, is mostly related to the fact that we've exited some of the exits that Klaus talked about, especially in our rolled products business where lower margin products, and hence we got out of some of those industrial product segments in the rolling business. Those are the big drivers there.
+
+Paretosh Misra
+
+Got it. And if I could ask one more. You have purchased RTI and Firth Rixson. So I was hoping if you could just remind us, where do you see your revenues for the engineered product segment next year or 2018 or 2019? And how much of that would be aerospace on a pro forma basis?
+
+Klaus Kleinfeld
+
+Well, I think we've put the – you can pretty much add those things. I mean, for Firth Rixson we have the $1.6 billion revenues with $350 million out there. And then you can add into it the organic growth target…
+
+William Oplinger
+
+$1.2 billion the first year…
+
+Klaus Kleinfeld
+
+$900 million of that organic growth. And that you can pretty much add into it. We've also said that we will continue to bring up our profitability on the existing EPS portfolio.
+
+William Oplinger
+
+So, those are the two big changes. $1.2 billion of organic growth, $1.6 billion the first year.
+
+Klaus Kleinfeld
+
+$1.2 billion of all growth. $900 million of organic growth.
+
+William Oplinger
+
+Right. And $1.6 billion associated with Firth Rixson.
+
+Klaus Kleinfeld
+
+Exactly. And then you have the TITAL that I mean…
+
+William Oplinger
+
+$100 million.
+
+Klaus Kleinfeld
+
+$100 million there, right.
+
+Paretosh Misra
+
+Got it. Okay. Thank you.
+
+Klaus Kleinfeld
+
+Yes. Okay. Thank you, Paretosh.
+
+Operator
+
+Your next question comes from the line of Sal Tharani from Goldman Sachs. Your line is open.
+
+Sal Tharani
+
+Good morning, good afternoon, sorry. I wanted to ask you on the acquisition strategy, you have two major acquisitions, Firth Rixson and now going to RTI. I'm just wondering what your goal is on the end game. Is there something else you think or should we consider that you will realize that before going to some acquisition, particularly on the sourcing side, and you now have titanium source available.
+
+I'm just wondering as, you're also becoming very big in nickel side. Is that something you would be looking into?
+
+Klaus Kleinfeld
+
+Yes, good question. I mean, Sal, let me address the specific question at the end first, right. I mean, there was actually a question when we announced the RTI transaction and we have looked into this. I mean, we've looked for backward integration, and there's two steps of potential backward integration. One is sponge, and the other one is rutile and aluminite, exactly, hard to pronounce. We'll get used to it.
+
+So – and we've looked, and we've studied the market and we see that both markets, I mean, are – there's no needs in further upstream integration there. There's plenty of supply there. We have good long-term contracts, and I think we can even get better long-term contracts there.
+
+We are a customer of those suppliers, and I think I said last time that the supply source for RTI is mainly Japanese. We also looked one level further back on the ore side, alumunite, as well as rutile, and also on that end we see plenty of supply there. So, no need for that.
+
+And then on the bigger question, look, I mean, this is – I mean, that's why I put this one chart together there, which is, I know, very, very full. But I wanted to make sure that people have put a lot of attention on the acquisition. But in my mind, the best thing to create value always will be organic growth. And we have been very, very strong on the organic growth side. And we've been carrying this through and you see it in bringing the profitability up.
+
+EPS profitability and some of you might not even remember that because you didn't cover us, but in 2008 the EPS profitability was 8%, 8% profitability. And look where we are today. And, frankly, we continue to be optimistic to bring it further up. But that's a question of hard work in every single one of their business. Innovation has played an enormously important role. You cannot do this by simply cutting the costs out. The great thing is that we have great technical skills on it.
+
+And at the same time, on the inorganic side, we have the opportunities with Firth Rixson. It took us a long time to get that transaction done. Would have wished to have had it done earlier, but I mean, you can, I mean, you always need two to tango. TITAL is a small one, a nice addition in Europe, and RTI I mean, was and is a great opportunity.
+
+On Firth Rixson, when you look, I mean, we started, I mean, I've visited Fontana a while ago. I typically visit those sites right after we announce, and I visited Fontana which is the rings facility.
+
+And on the rings side, for instance, I mean, they do the rolled forging of rings, but after this it goes to machining, right. When they machine, they machine titanium off and basically you create titanium shifts and they send it to local scrap dealers.
+
+So when we saw the process already early on and said well, we can actually find a better way to capture the value by getting those chips and cutting out bigger pieces and shipping it to Whitehall, right, because at Whitehall we have VAR furnaces and we could then turn it into sponge and create value. This was what we had originally planned in the integration, and that falls into the productivity or how do we call this, the synergy, the operational synergies.
+
+But the interesting thing is now is we are on the track to do that. But assuming that RTI goes through, we even have more capabilities on that because RTI has now – has plasma, as well as electron beam furnaces, which are better suitable for re-melts, plus, we have cleaning capabilities then with RTI. So in reality, I mean, we will get even a synergy on top of the synergy, ad we see that all the time.
+
+On the procurement side, I mean, we went to - one of the actions that we have in store is that we basically went after the non-destructive testing. And they have a supplier in house. We went and renegotiated with the supplier, and basically got them down to give us a nice reduction here of, and saving of roughly $4.5 million. And then we realized that we could actually bring the same logic to our own facilities, which we had never planned in the synergies.
+
+This is what typically happens. And I could give you hundreds of those examples and also hundreds of those things that we see already on RTI. When I went to Claro [ph] and to the Minnesota facilities of RTI, they have unbelievably good machining capabilities. Today we pretty much have no machining capabilities.
+
+But we do use machining because the customers don't want the un-machined parts. So, we are using external machining shops. So, in future we don't need to go to external, we can do it internally, which does two things. It brings the capacity utilization up there and saves an enormous amount of cost. So those are the type of stuff that we're doing there. That's why I continue to be really optimistic on those things working out.
+
+But its not that we now feel that we need to go on another round of acquisitions. That's not our mind set. I mean, it was a bit coincidental that these things came one after the other but it was not lighthearted. I mean, we would not have done any single one of those had we not known how to manage the post merger integration.
+
+One of the things, I heard a lot in your conversation, is hey, I mean, aren't the same people affected by it. In reality, the leadership, yes, Bill and I are affected by it, and then the four or five leaders on EPS on top. But then it's different people, it's different division and different people, right.
+
+So, in terms of how much capacity do we have, the human capacity element is the most critical one that we look at even before we consider going after an acquisition. Sal, long answer to a short question.
+
+Sal Tharani
+
+I just want to ask one more thing is on the upstream side. Two announcements you've done, and one announcement including the 12 month capacity review. How much do you think you need to get to the targeted cost that you are talking about, 38% and 21% on the cost curve? And how much of this you think you can do by the end of this 12 months?
+
+Klaus Kleinfeld
+
+Well, we wouldn't have announced, and you know what, I mean, you know how we're doing these things. I mean, there's a reason why we now have what 33% of all primary capacity curtailed, right, and why we see the results, like the ones that we see today and the primary as well as the alumina segment.
+
+I think we are all basically reaping the benefits of our strategy there. We have been making the upstream business much less vulnerable to swings on the metal side, on the commodity side, right. We are looking at these in a relatively relaxed fashion. Now, we would love to have a higher metal price and we'll probably see it with the premiums. But I mean, it's not earth shaking. I've always said that.
+
+And you see also we announced it one week, the next week we were able to get to conclusion with our partner, in São Luís, BHP, or future or what maybe called São 32, right, and we came to the conclusion, okay let's close that remaining port line down there. And it frees up the self old energy which we can sell onto the open market, so we have a benefit to this, right.
+
+We've done the same thing on Suriname, curtailed further. Also, we will go to more of those reviews, and do what is right, always with an eye on cash, always with an eye on cash.
+
+Sal Tharani
+
+Great. Thank you very much.
+
+Klaus Kleinfeld
+
+Okay, Sal.
+
+Operator
+
+Your next question comes from the line of Josh Sullivan from Sterne Agee. Your line is open.
+
+Josh Sullivan
+
+Good afternoon.
+
+Klaus Kleinfeld
+
+Hey, Josh.
+
+Josh Sullivan
+
+Can you just talk a little bit about how you see the cadence of the Firth Rixson ramp? Clearly getting from, I think you said $27 million in this quarter to the 2016 target. It's a big jump.
+
+Can you just give us an idea on the outlook of how we should be thinking about that ramp? Is it any particular contract, share shift, or maybe when the isothermal press finally comes on line?
+
+Klaus Kleinfeld
+
+Well, the isothermal, I said already, I mean, the isothermal will start to generate revenues as of the second half of this year. And I think you actually do see – I think we provided so many numbers. I think the most important short-term number is the $1.6 billion revenues for next year with a $350 million EBITDA.
+
+And then I think we had an addition, if I recall that correctly, the $1 billion growth until 2019, right, where we basically said that the major part of it, 7%, is locked in. That's the beauty of aerospace contract, locked in with contracts. So I think there's quite a number of – I mean, quite a bit of numbers. I don't know…
+
+William Oplinger
+
+But a big piece of the driver for 2016 will be the ramp-up of Savannah as that comes on line, produces revenue and produces profits.
+
+Josh Sullivan
+
+Okay…
+
+Klaus Kleinfeld
+
+We will also have to be in a normal – I think I would not call the first quarter here, and I think you explained it very well, Bill, I would not call that a normal quarter. I mean…
+
+William Oplinger
+
+In the first quarter, we had a number of things that were going on still. We still had the inventory turns issue that we had in the fourth quarter, so that was a partial impact. We have all the integration costs, right, and you probably noticed that we don't pull out the integration costs. We have the integration costs embedded in the operating results that I gave you, the $27 million EBITDA and $6 million of ATOI. So, that's some of the things that are impacting it in the first quarter.
+
+Klaus Kleinfeld
+
+Yes, I think people always – we're all moving so fast, we are all moving so fast. But keep in mind, I mean, we were only allowed to get our hands around this on November 19. That was the first day for us.
+
+Josh Sullivan
+
+Right. Great. Okay, good. And then just a second one. In the global rolled product segment, can you just talk a little bit about the aerospace aluminum plate market and just what's going on there with pricing?
+
+Klaus Kleinfeld
+
+What do you mean specifically?
+
+Josh Sullivan
+
+In your global rolled product business, the aerospace business.
+
+William Oplinger
+
+Yes. And you might be referring, Josh to see on whether there's any overhang as far as…
+
+Josh Sullivan
+
+Yes, just on that…
+
+William Oplinger
+
+We've talked about overhang in the past about plate, and we have not really seen a significant impact from plate overhang over the last year or so.
+
+Josh Sullivan
+
+Okay, great. Thank you.
+
+Operator
+
+We have time for one more question. Your next question comes from the line of Brian Yu from Citigroup. Your line is open.
+
+William Oplinger
+
+Hey, Brian.
+
+Brian Yu
+
+Great. Hi. The first question is just on the $500 million prepayment on the Western Australia gas deal. Can you talk about how – I presume that this is a prepayment, how that recovery works and what's the anticipated cost savings associated with the new gas deal?
+
+William Oplinger
+
+I'm really glad you asked the question, Brian, because that deal has come together fairly quickly. We announced it today. Our partners announced it in Australia today. And the selling company that the partners are buying this asset from announced it after the market closed. So, let me give you just very briefly a couple of things about the structure of that deal.
+
+It's a $500 million prepayment, $300 million gets paid this year, $200 million gets paid next year. It's to secure energy in WA for combined with a couple of other smaller deals. We'll secure the natural gas for the refineries in WA for about 75% of our needs. And it starts in 2020, and so it'll run from 2020 to 2032.
+
+Just to be clear, if you look at the results of the alumina segment, you see that under normalized environment, those assets are great assets. So it secures those assets for the long-term.
+
+And one other point, the way we – two other points, I guess, the way we recapture that cash is that we get a tranche of free gas during that 2020 to 2032 time frame, and we get a discounted gas level from market rate. So, those are the two ways that we recover the money.
+
+And then my last point on this subject, we had a $500 million free cash flow target at the beginning of the year. We are saying that we're going to spend $300 million on this year – on this prepayment this year. We're still going to deliver $500 million of free cash flow even after having paid that $300 million.
+
+So, we're essential absorbing an additional $300 million that we will deliver this year. So, $500 million of free cash flow after that $300 million payment. So it's actually, I think, a pretty good story for us all around, both mid term and long-term.
+
+Brian Yu
+
+Okay. And that $300 million, just so I'm clear, is that on a 100% basis, or is that Alcoa's 60% ownership?
+
+William Oplinger
+
+That is 100% basis, Brian. So that $500 million is 100% basis. So clearly our partners will absorb 40% of that $500 million.
+
+Brian Yu
+
+Got it. And then second one, just going back to your comments earlier on the inventory impact at Firth Rixson, can you quantify what did the purchase inventory mark-up, and what was that headwind in the quarter?
+
+William Oplinger
+
+Yes, and that's a hold-over from last quarter. Just whenever you do purchase accounting you have to mark your inventory up to market levels. And so, when you turn that inventory the first time, that you make no profit on it because you've marked your inventory up to market. And so in this quarter, that was a couple of million dollar impact negative on the EPS segment.
+
+Brian Yu
+
+Got it. Okay. Appreciate it. Thanks.
+
+William Oplinger
+
+Thank you.
+
+Klaus Kleinfeld
+
+Okay. Thank you very much. Before we close, I mean, let me ask myself a question, right, because a question that has not been asked but I'm sure is on the mind of some of you, but we're kind of running out of time here, given some other commitments there. The question that I think I have seen before I came in after the release I mean, that's floating around in the space, is around revenue growth.
+
+I want to address that, right, and so to make sure that everybody understands that, because we've grown year-over-year, 7% on the revenue side. And I know that there's been some comparisons on what the expectations are out there. But in reality it's 7%. So let's lock that in. And I have also said the primary drivers of that 7% has been organic growth coming from auto and aero.
+
+Now, let me give you some more color on this and remind you, I mean, and please help me explain that to the outside world, because people are going to look at you to explain this, and I think you understand what's going on there, so that they understand why this is a really good growth quarter.
+
+And the reason why – so if you look at the exact number, the exact growth number year-over-year is 6.7% and then when you break it down to how much of that has come – has changed through portfolio moves, you have to really have two buckets. One bucket is reductions, right, and we have two large segments where we have reduced our portfolio over a year, and it's a lot that we've done.
+
+And those of you all that know us well, remember that. But we sometimes forget a year is 12 months, it's a long time, and we've done a lot of things, right. Let me list some of those. And I'm almost certain I will not be complete with this.
+
+On GPP, on primary, we closed Point Henry. We sold Mt. Holly, Massena East, Portovesme, [ph] São Luís, entire curtailment, Suriname, right. So all of these revenues basically leave our revenues, right. So you have to subtract those.
+
+In addition to that, on the GRP side, Australia rolling mills, Spain two rolling mills, and a rolling mill in France. Again, subtract that, subtract that all. And then you can add in on the portfolio side Firth Rixson and TITAL. So, this together, the net effect of that, inside of the 6.7 is a negative 2.3, negative 2.3 of the 6.7, right.
+
+The second thing is a benefit coming from the external things, metal price, as well as the ForEx side. That's a positive 1.8%. So, I would say that's kind of a wash.
+
+So, then, what remains sitting there is the organic growth. And the organic growth is a positive 6.8%, and its coming very strongly from automotive and also strongly from aero. Those are the two big drivers. And a little bit from GPP additional volumes organically, I mean, basically through value add, through value – the value add and creep there. So, please help me explain this, you know, that's why I'm providing this, why I'm providing this, and I'm sure I mean, that that has been one of the questions that's floating around out there.
+
+So, okay, forgive me for asking myself a question. So let me close with this. So I think this is a very strong quarter performance, and we should all be pleased with this. The acquisition strategy is showing real dividends. And keep in mind for some of this it's really only been a few short months that we got our hands around it. And I must say, I'm very comfortable with where we are, and I think things are really, really nicely on track.
+
+Also, please stay focused on all this discussion on our strategic direction. I think we've been crystal clear, don't get distracted, this is what we're doing, this is the direction we are following. And whether it's revenues versus expectations, yes, we understand that, but please then put it in perspective. And that's why I've been providing these additional color on this. And let's continue to stay focused on the bottom line and our ability to drive additional synergies, plus organic growth, right.
+
+And I would also point out, put it in perspective. I mean, let's look at where we started. We've come a long way in the last years. At the same time, I would say the best is yet to come, and we are very well positioned to get that done.
+
+And I think its one thing, when I look at Alcoa and the Alcoans, how pumped up they all are and the capabilities that they have. I would say old and new Alcoans, and at the same time I'm looking at the end markets that we are in, and the good thing is the end markets are also positive, the ones that we are in. And so all of this gives me really good confidence.
+
+Klaus Kleinfeld
+
+And with this, I close and stay tuned to this station. Thank you very much.
+
+William Oplinger
+
+Thank you.
+
+Operator
+
+That concludes today's conference call. You may now disconnect.

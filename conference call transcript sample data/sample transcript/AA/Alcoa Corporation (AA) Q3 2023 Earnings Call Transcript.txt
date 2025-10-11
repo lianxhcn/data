@@ -1,0 +1,517 @@
+Alcoa Corporation (NYSE:AA) Q3 2023 Earnings Conference Call October 18, 2023 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations and Pension Investments
+William Oplinger - President and Chief Executive Officer
+Molly Beerman - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Lawson Winder - Bank of America Securities
+Lucas Pipes - B. Riley Securities
+Michael Dudas - Vertical Research
+Bill Peterson - JPMorgan
+John Tumazos - John Tumazos Independent Research
+Alexander Hacking - Citi
+Timna Tanners - Wolfe Research
+Carlos De Alba - Morgan Stanley
+Christopher LaFemina - Jefferies
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation Third Quarter 2023 Earnings Presentation and Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President, Investor Relations and Pension Investments. Please go ahead.
+
+James Dwyer
+
+Thank you, and good day, everyone. I'm joined today by William Oplinger, Alcoa Corporation President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Bill and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats, factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation.
+
+We have not presented quantitative reconciliations of certain forward-looking non-GAAP financial measures for reasons noted on this slide. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings press release and slide presentation are available on our website.
+
+With that, here's Bill.
+
+William Oplinger
+
+Thank you, Jim, and thanks to everyone for joining the call today. Before we get started, I want to acknowledge the important contributions from our former CEO, Roy Harvey. Roy played a key role in our evolution into a stronger and more resilient business and he was pivotal in our 2016 launch as a pure-play upstream aluminum company.
+
+He led the company through some difficult market environments, including COVID and his commitment to making Alcoa successful never wavered. He is serving as a strategic advisor to me for the remainder of the year and I appreciate his counsel.
+
+I've interacted with many of you over my 23 years with Alcoa Inc and Alcoa Corp both in my CFO and COO roles, and I'm glad to be with you again today. In my first few weeks in this role, I've met with employees, customers, and industry participants. Several questions keep coming up in those conversations such as what are our priorities and what are Alcoa's key challenges.
+
+First, to address the constant in our company, our values. At Alcoa, we act with integrity, operate with excellence, care for people, and lead with courage. These aren't statements that simply live on a plaque. These are the values we expect every Alcoan to live daily.
+
+I'm proud to lead the company guided by strong values. Our relentless focus on the safety of our employees, contractors, and visitors to our sites will continue as will our efforts toward our sustainability targets.
+
+As I step into the CEO role, I want to make it clear that I have an ambition for this company, an ambition manifests as an expectation of excellence in everything we do from EH&S, operations, maintenance, and commercial excellence. Alcoa has an impressive history of innovation and leadership in the industry and we plan to further build on that and strengthen our market connections.
+
+We will be action-oriented and make decisions guided by our values, sound business principles and with a focus on creating value for our stockholders. We've made good progress this year. Across our system, we've improved stability, and we intend to build on that operational momentum.
+
+So for the near term, the focus will be gaining approvals for bauxite mining in Western Australia. This is our top priority, we are making progress. We have the right team in place for success and we understand the improvements that our stakeholders are expecting.
+
+We will be driving for further operational improvements in Brazil. The ongoing start-up at the Alumar smelter in Sao Luis hasn't gone as planned. We now have conditions in place for a successful restart from here forward. Next, we will be focusing on productivity across our system with every site focused on margin improvements through operational productivity going into 2024.
+
+And we have action plans in place to improve the financial results of certain locations in the system that have been underperforming. Each operation is working to become more globally competitive. In the long-term, we remain bullish on aluminum as a material of choice. Mega-trends continue to drive increased aluminum usage globally from further EV penetration to the substantial future demand in solar installations. Alcoa is uniquely positioned in the aluminum industry for a world focused on carbon emissions and other sustainability issues which we are addressing from three vectors.
+
+Primary metal production with our joint venture ELYSIS, post-consumer scrap usage with our ASTRAEA technology, and carbon and residue emissions with our refinery of the future initiative. So before I address the third quarter results, let me re-emphasize. We are laser-focused on improving the short-term and we are working on developing unmatched, industry-leading technology for the long-term.
+
+Let's begin with safety. I am disappointed that we had one serious injury with life-altering implications in the third quarter. A worker at our Juruti bauxite mine lost portions of two fingers while performing maintenance on a bulldozer. While this event is unacceptable, overall, we are making progress on preventing fatalities and serious injuries.
+
+So far this year, our total recordable injury rate has improved by 16%, and days away and restricted time injury or DART rate is 27% better on a year-over-year basis. Also, we are increasing the number of onsite field verifications for leaders to evaluate the effectiveness of critical safety controls and coach workers on safety improvements.
+
+Now, moving to the financials. We reported an adjusted net loss for the third quarter of $1.14 per share and $70 million in adjusted EBITDA, excluding special items driven by lower average realized prices for both alumina and aluminum. Improvements in both raw material and production costs did not fully offset the impact from lower realized pricing in both of our segments.
+
+We ended the quarter with a strong balance sheet and a cash balance of $926 million. We've made meaningful progress on our approvals for bauxite mining in Australia during the quarter and have more visibility on the timeline for decisions from the government and regulators.
+
+I will address this more fully later. In our operations, our Quebec smelter system set production records in the quarter, and we're investing there to increase our casting capabilities for value-added products.
+
+From a commercial perspective, we also continue to be encouraged by the reception from customers for our Sustana line of low-carbon products which includes EcoLum metal and EcoSource alumina.
+
+And while demand in some key end markets remained soft, there are signals for a rebound in 2024. We'll talk more about that macroeconomic view of the market in a moment, but first, let me turn it over now to our CFO.
+
+Molly, please go ahead.
+
+Molly Beerman
+
+Thank you, Bill. Revenue was down 3% to $2.6 billion as higher shipments only partially offset lower realized prices for both alumina and aluminum. The net loss attributable to Alcoa increased $66 million, to $168 million and the loss per share increased from $0.57 to $0.94.
+
+On an adjusted basis, the net loss attributable to Alcoa increased $140 million to $202 million. The difference in net loss is primarily related to the reversal of a valuation allowance on deferred tax assets in Iceland.
+
+Adjusted EBITDA declined $67 million to $70 million as part of the decrease in revenue was offset by lower costs. Let's look at the key drivers of EBITDA. Third quarter 2023 adjusted EBITDA declined $67 million to $70 million as lower metal and alumina realized prices were only partially offset by lower raw materials energy and production costs.
+
+Alumina segment EBITDA increased $20 million sequentially lower raw material costs, primarily caustic soda and lower production costs in Brazil and Spain, more than offset lower alumina index prices. We also saw the benefit of lower raw materials and production costs in the Aluminum segment as well as energy improvements, but not enough to overcome the impact of lower metal prices.
+
+Other costs outside the segments were unfavorable $56 million. They reflect unfavorable inter-segment eliminations, higher transformation demolition costs and higher other corporate costs. Here's a deeper dive on raw material costs. This year we've seen substantial improvement in our segment EBITDA due to lower prices for our key raw materials. Market prices for caustic soda, calcined petroleum coke, and coal tar pitch continued to decline in the quarter and are expected to improve further.
+
+Company-wide, we have seen an $86 million EBITDA improvement over the first nine months, $32 million in the Alumina segment and $55 million in the Aluminum segment. These lower raw materials market prices worked through our financials on a lag basis to expect further improvement in the fourth quarter.
+
+Let's now move to other key financial metrics. Our key financial metrics are consistent with our earnings results. Year-to-date return on equity is negative 8.7%. Our third quarter dividend added $18 million to stockholder capital returns, which totaled $54 million year-to-date.
+
+Free cash flow less net NCI contribution was negative $36 million in the quarter increasing proportional adjusted net debt by $0.1 billion and decreasing the cash balance by a similar amount. Year-to-date capital expenditures and cash income taxes remained our largest use of cash.
+
+In the third quarter, days working capital improved five days to 50 days on lower inventories. The improved working capital performance provides a significant source of cash in the third quarter entirely offsetting the previous year-to-date working capital cash use.
+
+The working capital improvement is evident on the next slide. Cash balance declined $64 million in the quarter. The largest source of cash was a working capital reduction of $183 million primarily from lower inventories followed by EBITDA of $70 million and net non-controlling interest contributions of $40 million.
+
+We expect working capital to be a source of cash in the fourth quarter. Capital expenditures were the largest use of cash at $145 million as CapEx typically increases as we move through the year.
+
+Notable this quarter were settlement payments of $75 million to former workers at two smelters that Alcoa previously owned in Spain, as well as environmental and ARO spending of $52 million.
+
+Let's turn to the outlook for the final quarter of 2023. Our full-year outlook has one favorable adjustment. We expect other corporate expense to improve $10 million to $120 million. At the segment level, in alumina we expect an improvement of approximately $50 million due to lower raw material prices, better production costs and higher volumes. Partially offset by approximately $10 million and higher energy costs.
+
+In addition, we expect impacts related to lower bauxite grades in Australia to be consistent with the prior two quarters. In the Aluminum segment, we expect unfavorable energy impact of approximately $30 million mainly due to CO2 compensation changes in Norway.
+
+Additionally, we expect $35 million in raw material price improvement to be offset by unfavorable product mix and higher production costs. Finally, alumina costs in the Aluminum segment are expected to be favorable by $5 million. Below EBITDA, note that the third quarter other expenses included one-time negative impact of $35 million primarily foreign currency losses. And we expect the fourth quarter operational tax to range between $10 million to $20 million.
+
+Now, I'll turn it back to Bill.
+
+William Oplinger
+
+Thank you, Molly. Next, I'd like to recap some key items from our global operations. Each of the three smelters in Quebec, Deschambault, Baie Comeau, and ABI in Becancour have set year-to-date production records for tons per day. When totalled together they have performed the best since our 2016 separation.
+
+This week, one of those smelters, ABI announced the planned investment to further improve its casting capabilities for a broader array of alloys for value-added products. The new equipment should enable us to deliver products with additional sizes, smoother surfaces and better dimensional control for the automotive and packaging markets.
+
+We are also focused on operational improvements from assets across our global system driven by productivity enhancements. We took our first action last month at our Kwinana refinery in Western Australia with the restructuring plan that is intended to improve that facility and save $10 million annually with more improvements under consideration.
+
+In Brazil, we are employing a deliberate and methodical approach to the Alumar smelter restart, which is now operating at approximately 65% of the site's total capacity and has restored stability to the parts that have been restarted.
+
+Finally, we are committed to conformance with the global industry standard on tailings management. Alcoa has voluntarily disclosed information from all of our global tailings and we've worked with the International Council on Mining and Metals or ICMM to improve the industry's management of tailings. This has been a significant undertaking and we've worked diligently including with third-party reviewers to provide additional information about impoundments with the highest classification ratings before an August deadlines set for ICMM members.
+
+Now let's turn to an update on our mining approvals in Western Australia. Our teams have continued to work with relevant state government departments to advance our annual approvals for bauxite mining at the Huntly and Willowdale mines. Securing an approval is an absolute priority for our Company and we are working toward a final resolution in the fourth quarter.
+
+We've submitted a revised mine management program or MMP for the period '23 to 2027. This updated MMP is now being reviewed by regulators. We believe this revised plan meets evolving stakeholder needs as it includes numerous enhancements designed to specifically address expectations of the government.
+
+It includes additional controls for the protection of drinking water, including increased distances from reservoirs, and addresses biodiversity concerns through a plan to accelerate rehabilitation. Separately, let me briefly discuss the Western Australian Environmental Protection Authority process.
+
+In August, the agency completed a public consultation period on whether it should assess all or part of the current and next MMPs. The WA EPA has indicated that it expects to decide on this before the end of the year. We have demonstrated our commitment to transitioning to a more modernized approvals framework for new major mine regions.
+
+That's why we proactively began a formal assessment in 2020 from the WA EPA for our two new major regions for the Huntly mine, Myara North and Holyoake. But this will take some time. The assessment for Myara North and Holyoake is ongoing and we do not expect the first bauxite ore from these new regions any earlier than 2027.
+
+We do expect the bauxite grade from these regions to be more consistent with the higher grades we previously experienced at the existing Myara central. However, until then we expect similar bauxite quality as compared to recent grades. As Molly described we are actively working to mitigate the financial impacts of these lower grades, while also looking for opportunities to optimize productivity.
+
+Next slide, let's move to some highlights from a commercial perspective and discuss some demand trends. First, customers are increasing demand for our Sustana line of products, the Sustana line is a small but growing proportion of our overall sales volume.
+
+Sales of EcoLum, our low carbon aluminum is strong in Europe and orders are being placed in North America too. Overall, we expect our annual global sales volume for EcoLum to increase approximately 60% for 2023 when compared to last year.
+
+Also, in the third quarter, we made our first sale of the non-metallurgical variety of EcoSource, our low-carbon Alumina brand. Earlier this year, we started offering non-metallurgical varieties in addition to existing smelter-grade EcoSource.
+
+Alcoa is one of the world's largest producers of non-metallurgical alumina, which is used in everything from refractories, sandpaper and water treatment processes across the world. Our Sustana line has the aluminum industry's most comprehensive portfolio due to the range of products we offer from alumina to metal.
+
+Meanwhile, we also have customers coming to us due to our history of alloy development. Last month, we were recognized for the second year in a row with an award from the North American Dye Casting Association for an Alcoa-developed alloy used in mega castings for electric vehicles.
+
+We are selling and licensing alloys that can be used to make these one-piece high-pressure dye castings. With our alloys, OEMs can get a one-piece casting rather than many separate pieces creating greater efficiency. On the cost side, our energy team signed a new nine-year power agreement in August that will cover 50% of Portland's smelter capacity starting in July of 2026.
+
+We continue to pursue options for the smelter's remaining electricity requirements with a strong focus on renewable energy. The global alumina and aluminum markets are both balanced to a slight surplus. At the same time, aluminum inventories in terms of days of consumption remained at historically low levels, positioning the market well for when demand improves.
+
+In 2024, there is uncertainty in the markets due to a range of geopolitical and macroeconomic factors, one of the biggest questions revolves around demand outside of China. Our base views is for continued growth in transportation and recovery in the packaging and in the building and construction sector.
+
+Within transportation, the automotive market typically drives the major trends. At this point, most of the COVID-related automotive supply chain disruptions have resolved. While uncertainty remains due to labor actions in the United States, we anticipate year-on-year growth in tons for aluminum as automotive production continues to ramp up to 2019 levels.
+
+In packaging, downstream inventory levels have largely normalized and we expect demand increasing. In building and construction, high-interest rates have negatively affected that sector in the last year, particularly in North America and Europe. A relative recovery in building and construction is expected next year compared to 2023.
+
+This is based on analysts' projections for slowing inflation and stabilizing interest rates, which should provide a better foundation for increased year-over-year activity although, the pace of that improvement remains uncertain and reliance on economic conditions.
+
+In closing, we are encouraged by the positive operational momentum in the third quarter and intend to build on that performance. Our Company's primary objective is to gain approvals for bauxite mining in Western Australia. We believe we're on the right path with an updated mine plan that has an enhanced commitment meant to address the government's expectations.
+
+And importantly, we now have line of sight to decision timing which is expected before the end of the year. Across our global operations, we are focused on improvement. We will work to increase productivity, reduce and control costs, and manage our working capital.
+
+We also are continuing work on our future-focused breakthrough technology programs, which have the potential to further differentiate our company. And finally, while some end-use sectors for aluminum are softer now, we remain bullish on the long-term fundamentals for our markets.
+
+I'm not alone in this view. I attended LME Week where the prevailing view was that aluminum is poised for long-term growth. Alcoa is well-positioned for the future. We have the distinct advantage of being active in all aspects of upstream aluminum production and I'm excited about our prospects and the work ahead.
+
+With that Molly and I are ready to take your questions.
+
+Question-and-Answer Session
+
+Operator
+
+We will now begin the question-and-answer session. [Operator Instructions] Our first question is from Lawson Winder with Bank of America Securities. Please go ahead.
+
+Lawson Winder
+
+Hello. Thank you, operator. Good evening, Bill and Molly. Bill congratulations on your new role.
+
+William Oplinger
+
+Thank you, Lawson.
+
+Lawson Winder
+
+Yeah, it's very nice to hear from you today. I just wanted to ask about Kwinana and just with the lower grades now expected to continue through 2027 at the earliest, is there a point at which a complete shutdown could become a high probability of risk?
+
+William Oplinger
+
+So, at Kwinana we're essentially looking at all options, and in the near term as you see, we've announced a restructuring that takes some cost out. In addition to that, we're looking at a variety of different levers to be pulled to drive cost down and improve profitability there. But ultimately, as with any marginal asset and Kwinana is a marginal asset at this point, you know, we'll consider options on the table, including curtailment and closure.
+
+Lawson Winder
+
+Okay, that's very clear. And then in a similar vein, Alcoa has had this goal of reducing its cost to first quartile level globally. You know, with you now in the lead seat, what are your thoughts on that goal in terms of timing and achievability? Thank you.
+
+William Oplinger
+
+Thanks, Lawson. I think we, first of all, if you step back and look at where crew has us today on the cost curve, we are still first quartile bauxite mining, first quartile refining, and second quartile smelting. The current situation in Western Australia puts pressure on the refining segment. So that could move us into the second quartile. But to answer your question very specifically you see in the presentation that we did today we highlighted productivity and competitiveness a couple of times in the presentation. We have launched a program across the company to enhance competitiveness plant by plant and so we're essentially going after that. I think there's opportunities even in our best plants and we highlighted the great success that we've had in Quebec so far this year. I still think there's opportunities to make those plants more competitive, take cost out, and more productive. So we'll continue to strive for those targets.
+
+Lawson Winder
+
+Okay, thank you very much. I'll get back in the queue.
+
+William Oplinger
+
+Thanks, Lawson.
+
+Operator
+
+The next question is from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you so much operator. Bill, I'd like to add my congratulations. Thank you also for taking my question. And I wanted to pick up with the last question left off on the competitiveness. Can you maybe add a little bit more detail on what else you can tweak, is there capital needed to modernize plants, is it streamlining some of the labor relationships, is it energy? If you could maybe just peel the onion a little bit further, would really appreciate your perspective. Thank you.
+
+William Oplinger
+
+Yes. Sure. So, we will peel the onion back a little bit. We -- and the plants are at varying stages of where they sit on this effort. Probably the earliest one to undertake it was Kwinana given some of the difficulties that we're having at Kwinana. We're looking at Kwinana from two perspectives. The first is an overall profitability perspective, where we were looking at are there additional markets that we can address because Kwinana has NMA capability or non-metallurgical alumina capability. Are there opportunities for pricing improvements for specific products, but then on the cost side, it's about labor productivity and maintenance productivity, so really getting down not these upon. But to get down to the nuts and bolts of trying to determine ROE effective on the maintenance side. And can we significantly improve our wrench time, so that was the work that's being done at Kwinana. We subsequently launched what we're calling workforce blueprint exercise and it started in some of our best facilities up in Quebec and you say, why start in some of your best facilities because I think if we can get gains in places like Quebec that are really, really performing well, we can probably get better games in other parts of the system. So that is actually going through and looking at the labor that we have and the amount of time it takes to do a specific tasks and a very scientific comparison of the people that we have in each plant and whether there's opportunities across the system to streamline and take cost out.
+
+Lucas Pipes
+
+Thank you very much for that color. I want to follow-up on Western Australia, a couple of quick questions there. First, I think the company had previously guided to I think 2024 at the earliest, in terms of a transition back to higher grades, now 2027, could you remind us what changed, why three more years? And then if there is a kind of formal assessment at the EPA level in Western Australia, could that change the timeline, would appreciate your thoughts on that. Thank you.
+
+William Oplinger
+
+Sure. So if we address kind of the suite of questions that you have, I think, we made good progress in the third quarter on this issue. We have been working with the government, and we've been working with the agencies and the government to get our annual mine approvals processed, we've submitted what's called a revised mine management program for '23 to 2027 with the enhancements that we talked about in the presentation. And essentially where that gets us to is that we expect that decisions will be taken this quarter, both on the mine plan approvals and the EPA assessment process. So I think it's a big step forward for the company, we should have some clarity this quarter. Now to address your question about what changed between our prior guidance and today's guidance, if you go back and look at our prior guidance we are very careful to note that there was not great clarity beyond 12 and 18 months, so we were essentially saying, hey, the -- we're expecting the lower grades for 12 to 18 month period. Since that time, with the concessions that we have made in the MMP process, we now have some better clarity. We've been able to work those concessions through the mine plans and the mine models. And we've developed the detailed plans for the most economic ways to mine the areas, that are now, that we believe are likely to be assessable under the approvals. And even with our best thoughts as far as mining and blending plans, we can get back to the historical grades that we've seen prior times. However, as we transition to Myara North, we believe that the geological sampling in those new regions will support the better grades that transition will occur, we expect in the '27 timeframe. I hope that addresses your question.
+
+Lucas Pipes
+
+That is very helpful. There are more questions here, but I'll jump back in the queue. Thank you so much and best of luck.
+
+William Oplinger
+
+Okay, thanks.
+
+Operator
+
+The next question is from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good afternoon Jim, Bill, Molly.
+
+William Oplinger
+
+Hey, Michael.
+
+Molly Beerman
+
+Hey, Michael.
+
+Michael Dudas
+
+Bill, can you just share some thoughts since you were promoted to the Chief Operating Officer earlier this year. I guess maybe six to seven months in that job and what did you find out after moving from the finance chair about the company and I'm assuming some of these implementations were your ideas. And then how you could translate that as CEO to allow Alcoa to capture more of the anticipated cost reductions and likely and hopefully pricing improvements that should run through the business in a more normalized environment over the next couple of years.
+
+William Oplinger
+
+So what I found out when I transitioned from a long stint as the CFO, 10 years as the CFO into what turned out to be a short stint in the COO role was a couple of things. First of all, I was happy to find that we have great people in operations. We have people who have long tenure, you know, 20, 30 years with the company that have tremendous institutional knowledge. But we've also brought in a lot of newer people who see things in new ways, and do things new ways. So I was really pleased to get to see that. And just as an aside, loved my COO role for eight months. The other thing that I learned there was a tremendous amount of opportunity out there and people were really wanting to do things differently, wanting to aggressively address some things and so I thought there was tremendous amount of opportunity. So if I transition to some thoughts around the CEO role just to be clear, and I'm sure this question may be was embedded in your original question or will be asked later on, the strategy and direction of the company is largely unchanged. We know where we're going from a strategic perspective. The thing that I'm trying to drive as CEO and you see this changing over the last year or so is really a cultural change that cultural change is making decisions at a faster pace. It's having a performance orientation in everything we do. And really an expectation of excellence in everything we do and I hit upon this in my prepared remarks, whether it's operations maintenance, finance, an expectation of really being excellent. If we then couple that with what I think are the inherent advantages of Alcoa, so some of the inherent advantages of our company. We are present in all aspects of the value chain. We're a pure-play aluminum company. We're not spending time on other parts of battery minerals, we are focused exclusively on being successful in Aluminum. We have a global presence and back to that first part of the question, I think we have unmatched technical expertise still in this company. We haven't really shown it in the last couple of years on the operations side. But I think it's there and we're starting to show it now. So when I combine all of that, I translate that into an ambition for the company that we want to re-establish ourselves as the premier aluminum company in the world. And I think we can do that and not to go on too long, Michael. I'm really excited and I'm really happy to be in the role that I am in.
+
+Michael Dudas
+
+Appreciate those observations. Looking out how quickly do you think you can implement the culture and, you know, kind of get best practices throughout the organization and productivity enhancements to show meaningful results or achieve those goals. Is it a three months, six months a year, is it something that can -- how urgent do you see that process even though the overall strategy has not changed?
+
+William Oplinger
+
+Right, so Rome wasn't built in a day. We're not going to change the culture of this company in a day or a week or a quarter. However, look at the bridge that Molly showed, we saw production cost improvements for the first time in a long time in the third quarter and just so you understand how that bridge works, that's largely because we were able to make the tons. And so we were able to make the tons in the third quarter and the guidance that she gave was a pretty strong guidance with the exception of the carbon change from the Norwegian government which is totally outside of our control. So I think we're seeing some of that change today already and I think you'll see more in the future and everybody I talk to within Alcoa, hears the story of performance culture. We're trying to drive a performance culture and it's all about having expectations of excellence and driving those expectations of excellence and I think we've seen that on the upside to some extent. We've set records in Quebec. We're getting better stability in places like Brazil and the restart, much significantly better stability, and operational performance in our Western Australia assets, even though they have worse bauxite quality. So I think we're seeing it now and hopefully accelerate into the future.
+
+Michael Dudas
+
+Excellent, Bill. Thank you.
+
+Operator
+
+The next question is from Bill Peterson with JPMorgan. Please go ahead.
+
+Bill Peterson
+
+Yeah, hi, good afternoon, thanks for taking the questions and, you know, Bill, good luck in the new role.
+
+William Oplinger
+
+Thanks, Bill.
+
+Bill Peterson
+
+So I wanted to take a step back to maybe more macro supply demand. So you just said you mentioned at LME. I guess what's the latest you've seen in terms of supply demand balance, I guess in the context of restarts in Yunnan, you know, relatively weak, you know, macro backdrop. And then I guess maybe on the end market demand side, where are you seeing most resilience and then what remains most muted and any sort of color between regions?
+
+William Oplinger
+
+So, 2023 is going to go down as a pretty tough year for the aluminum industry. In 2023, we see a slight surplus on the aluminum side. On Alumina it's fairly balanced and so, you know, on the aluminum side, we see about an 800,000 ton surplus in 2023. The reason for that is demand in rest of world -- rest of world actually contracted in 2023. So some of the big demand drivers in the rest of world that we've seen this year are really a reduction -- significant reduction in building and construction, actually a reduction of demand in packaging of all places, ever so slight and so across the board, we're seeing some weakness in the end markets. Now, you referenced my trip to the LME where pretty resoundingly what we hear amongst all the industry players is that 2023 and maybe going into 2024 can still be difficult times for aluminum, but it's just a matter of time where aluminum has a significantly better market environment. The reason why we see that as that demand continues to grow, starting to see even in 2024, a rebound in places like building and construction, some of the destocking that we saw occur in can sheet is now over. So, we should see a rebound in demand there. And we fundamentally believe that the Chinese cap on supply will be maintained at the 45 million metric tons, and we can address why we believe that. But over time, we see that the market fundamentals for the metal itself are really driven by some of the macro trends over the longer period of time with the EVs and solar, should be significantly better than they are today. But with that said, it's been a pretty tough year on demand in aluminum.
+
+Bill Peterson
+
+That's great color. I may have missed it, but I believe last quarter you -- there was an update about San Ciprian discussing the planned phase restart to start at the beginning of 2024 with full restart by October '25. And then we're obviously trying to basically capture and set the PPA's in motion. But can you give us an update there, again, I may have missed it, but I didn't see that in the prepared remarks.
+
+William Oplinger
+
+Yeah, so let me, let me give you an update. We continue to work toward really achieving the long-term economic viability of the site in Spain. And that -- and in the case of the smelter that allows for a restart in 2024. However, as basically the question that you just asked, we are starting -- we see significant challenges that need to be overcome for that site to be viable, including soft demand for the value-add products, that site makes slab and billet, low aluminum prices in this -- in the case of Europe high power costs and delay in permitting, and construction of some of the alternative power supplies that we had been looking at. We hope to overcome these challenges to allow for a progressive restart through the end of 2025, but it's been and it remains very difficult. So that's the situation in Spain.
+
+Bill Peterson
+
+Okay, thanks again, and best wishes here moving forward.
+
+William Oplinger
+
+Thank you.
+
+Operator
+
+The next question is from John Tumazos with John Tumazos Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you very much for taking my question. Comparing to the containerboard market today, International Paper announced they were shutting 900,000 tons or about 2.5% of US supply. In the world of aluminum market, obviously, China is 59% of output and some of the other continents don't have very much production left. The bigger other regions are Russia which is hydro, Canada which is hydro, India which is coal, and the Persian Gulf which is gas. Do you think it's possible to have a 2.5% supply reduction event in the world of aluminum industry the way it's structured today?
+
+William Oplinger
+
+John, that's a hard question and give me just a second to formulate an answer.
+
+John Tumazos
+
+Sure. I'm sorry to compare, there's never been a 10% non-recessionary fall in the containerboard industry before. It took that industry a long time to get a grip on it and aluminum isn't down 10%, it's just not growing the way would be normal.
+
+William Oplinger
+
+So let me give you and you and I have known each other a long time and we've both been around this industry for a long time. So, let me give you a qualitative historical perspective. This industry has not had a problem on the demand side with the exception of the global financial crisis where we saw demand fall off and then inventories build. This year we've seen demand fall off and yet inventories have not built -- been built significantly. So inventories and whether they're -- whether they're on the LME or on the market or off-market inventories remain historically pretty low. As we look forward, we see a rebound of demand going into 2024 and really see strong demand trends that are driven by the mega-trends going out into the future. The question has historically been, will the Chinese maintain the 45 million metric ton cap? We are seeing indications that we believe that they will maintain that cap. If they do maintain that cap and demand continues to grow, that should assist the fundamentals of the industry. As far as a significant and to address your question on 2.5% cut in supply, the areas around the world where supply is under -- is under pressure, specifically is in Europe and we know that there are some plants that have hedged, that those hedges will be rolling off over time. We have our own challenged plant in Europe and so, you know, it remains to be seen whether the industry takes 2.5% cut out or not.
+
+John Tumazos
+
+Thank you. We're all looking for demand, Bill.
+
+William Oplinger
+
+Yeah, thanks. Thanks, John, and it was good to talk with you.
+
+John Tumazos
+
+Thank you.
+
+Operator
+
+The next question is from Alex Hacking with Citi. Please go ahead.
+
+Alexander Hacking
+
+Yeah. Thanks, Jim, Bill and Molly and let me add my congratulations, Bill, on the new role.
+
+William Oplinger
+
+Thanks, Alex.
+
+Alexander Hacking
+
+Just following up on WA right, so it seems like we're in the low grades now until 2027. As we think about, you know, the mine moves north that are going to start, you know, producing or mining in 2027, what are the major risk factors around that, how should we think about that and how should we think about the timeline, because if you're going to be mining in 2027, I assume you need, you know, infrastructure, pre-stripping all kinds of things that are going need to be done ahead of that. So I guess, how should we think about the risks and timelines? Thanks.
+
+William Oplinger
+
+So, Molly and I are going to team up on this one a little bit. The permitting process that we have undertaken for the Myara North move is what's called a part four permitting process. It is a modernized recognized permitting process within Western Australia for starting a new mine site and it requires a lot of information, and so we made that choice going back, I think it was in 2020 to move that modernized process for Myara North. We made that choice because we recognized that the customized process that we have currently really needed to be modernized and our stakeholders wanted the more modernized process. So the risk that I see is around that permitting process. Now, we're doing everything that we can to mitigate that risk and when we get closer to that time period, we will have line of sight. I can tell you we are very energized around reducing the time between when we get that permit to go and when we open up the mine phase. And given the fact that we've had some delays in permitting, we're really trying to focus our efforts on making sure that we minimize that time between getting the permit and actually getting bauxite out of the ground. So Molly anything you want to add to that?
+
+Molly Beerman
+
+No, I'll just add as far as our guidance on the about $45 million impact that we're currently seeing in the quarter, we have plans to continue to mitigate that number, you saw the first action announced this quarter with Kwinana's severence program there, so that, that will save $10 million, and it's just the first bit of announcement. But we will keep moving through and finding productivity enhancements or portfolio changes to work that number down.
+
+Alexander Hacking
+
+Hi. Thanks, that's helpful. I guess when you talk about, you know, the permits obviously being the key risk. You know, if I remember correctly, there are some, you know, potential issues with proximity to local communities. You know, are there other, you know, major permitting hurdles that you could foresee, I know this is a very kind of generic question, but, you know, any more color would be helpful. Thanks.
+
+William Oplinger
+
+Not forecasting any issues around the part four process per se, but let me give you color around some of the concessions that we've made in the current process. The current MMP process, which we anticipate to be decided by the end of this year. We've added additional controls for protection of drinking water. We have agreed on distances from mining a certain distance from some of the key reservoirs and we've agreed to accelerating rehabilitation, and to increase the biodiversity in the near-term on the rehab. So those are the three areas that we have been discussing with the stakeholders and to try to get the current mine approvals through the process.
+
+Alexander Hacking
+
+Okay, thanks. And then just a quick follow-up on Alumar if I may. I think the message last quarter there was, you fixed the conveyor issues and, you know, above 60%, has something else gone wrong in the last quarter or are you still on track from where you were then? Thanks.
+
+William Oplinger
+
+Something big happened in Brazil in the quarter, there was a massive power outage. And if you follow our competitor there, Alunorte had the same issue, Albras had the same issue. We lost power for close to three and half hours in the smelter at Alumar. And that has knock-on impacts, not only on the smelter but on the refinery too. Now, thank goodness we had good stability, we had recovered stability going into that. We were able to get through that power outage, you know, what happens in a power outage in a smelter is that you stress the parts bringing back them -- bringing them back online. We lost a few parts, I think we probably lost close to a dozen parts bringing the plant back online from that power outage. So that was a setback. That really is out of the control, it impacted something like two-thirds of the country in Brazil. And so it was a setback for the plant. They've recovered. They have a daily action plan. It's a daily go, no-go on restarting parts and increasing amperage and as we said in the prepared remarks, we're at about 65% today.
+
+Alexander Hacking
+
+Okay, that's super helpful. Thank you.
+
+Operator
+
+The next question is from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Yeah. Hey, good afternoon. I thought I would pivot a little bit, if I could, talking a little bit about some of your strategic initiatives and the cash flows, if I could. So first off, I just want to ask, I know you talked about advances in EcoLum and EcoSource, but can you elaborate a bit on the premium that you're garnering there?
+
+William Oplinger
+
+The premiums are consistent with the premiums that you see quoted on various sources. So, it depends on the product, but the premiums are anywhere between $10 and $30 a ton.
+
+Timna Tanners
+
+Okay, that's helpful, thanks. And then if we look at your cash balance, I know in the past you've said that you wanted to keep it at or below -- at or above a $1 billion and it kept below that. I know it's not a perfect number, but if we look at the cash resources and use year-to-date, if there's not a lot of free cash flow at these commodity prices even with the third quarter strong working capital release, and then we had from your Investor Day, you know, a great amount of initiatives that you're progressing on, I know you referred to them in the beginning as well like Australia refineries the future, et cetera, and I'm just wondering how do we reconcile again this commodity price environment, with some of those initiatives and some of the cash needs to source those. So the CapEx requirements going forward, are they compatible with this earnings environment or how are you thinking about that?
+
+Molly Beerman
+
+Okay, thanks Timna. First of all, thanks for asking me a question. So let me just say on our cash position now, we're at $926 million. We still have access to significant liquidity. We have our undrawn revolving credit agreement, we have our auxiliary credit line. So those are available to us as needed. As you know we've taken action in the past working capital programs to monetize that we can take more aggressive actions on cost control and portfolio actions, but for us, if I look at kind of the short-term cash preservation, it really is focusing on our operations that are consuming more cash than generating. So that is the focus Bill mentioned earlier, we have key sites that we are working to improve. So that's the near-term on the cash management. On our CapEx, you can even see from this year, instead of adding to our CapEx project list, and filling the queue to spend the whole budget, we ended up staying just with the capital plans that were already on the agenda. As they slowed spending, which typically happens, we allow that just to happen, and so we've saved some money on CapEx. We can do that again with the programs that are in the next queue, and if you look out to our breakthrough technologies, each of those have to meet a certain criteria before they're going to receive funding, most of those now are pointing toward funding in 2025 and later. So we still have time for those and working through that financing and funding.
+
+Timna Tanners
+
+Got it. So bluntly then if the commodity price stays at these levels, you know, no concerns in terms of proceeding with some of those initiatives ELYSIS Australia refinery of the future et cetera, but if we started to get into 2025, and didn't see much aluminum price improvement, then it might be needing to rethink some of those capital outlays. Is that a fair conclusion?
+
+Molly Beerman
+
+Yes, that's fair, Timna.
+
+Timna Tanners
+
+Okay, great. Thank you for the help.
+
+Operator
+
+The next question is from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yes, thank you very much. Congratulations, Bill. Just on -- coming back -- coming back to Western Australia. So I just want to understand if you know what might be potentially the implications of the EPA deciding to do a formal assessment of your -- of your MMP's and mining plans. Would that result primarily on just a longer approval process, maybe more detailed analysis and requirements or will also result in higher costs, may be above our -- not beyond the 45 that you have, but that would prevent the 45 to completely come back to zero, once you are getting into the 2027 mining plan or those areas in 2027 with better bauxite quality.
+
+William Oplinger
+
+So, Carlos, you can imagine we completely understand what the process is, at least from a legal and a tactical perspective going forward. I really hate to speculate on what -- what an assessment would look like, what an assessment would cover and until we had better insight into the EPA's decision-making process around what they would actually be assessing, it's really hard to answer that question. We're moving forward on the path to, you know, over the next 75 days to ensure that our permits get approved through the process and that's the focus. If we find ourselves in an assessment part of the process, we'll have to determine what is assessed and what the impact will be at that point and we'll let you know.
+
+Carlos De Alba
+
+All right. Okay. And before I ask a question on smelting just a clarification, maybe Molly, I thought you were -- you had guided to around $55 million impact in the third quarter because of the bauxite issues, increasing from 45 in the second quarter. So you did better than that, right. Just to make sure that, that is based on the initiatives and the efforts you're doing to control these costs.
+
+Molly Beerman
+
+Yeah, Carlos, it's actually three things. We did draw on stockpiles that had slightly better quality than we expected during the third quarter. We also see the refineries operating very well with the lower bauxite quality and then third, you're right, the mitigation efforts are just starting to drive down costs.
+
+Carlos De Alba
+
+All right, thank you, Molly. And then finally, is there any update or any comments that you can provide on the situation of European smelters, I mean Lista remains with a third of the capacity shutdown. I don't know if there is any renegotiation or upcoming renegotiations of contracts for energy in Lista and Motion or the smelter in Ireland that is relevant given where prices are today.
+
+William Oplinger
+
+So let's look at them independently, Motion is very well positioned and has a good energy source, is probably one of our most profitable plants in the system. So, Motion is in good shape. However, this new carbon legislation that is potential that could be -- could be passed into law in December, I think, we've noted the fact that we could have up to $24 million negative in the fourth quarter associated with Motion and Lista on based on that new carbon legislation. That type of a change in legislation makes it really difficult to make long-term decisions around investments in places like Norway. So, it's one of the disappointing things that I continue to see out of the Norwegian budgeting system that -- that it really, really makes it hard to determine that you're going to put a lot of capital into an environment where there is not a good structure around carbon or at least a predictable structure around carbon. In the case of Lista, Lista is slightly different, no plans at this point to potentially restart that idled capacity, Lista given its size, given its age, given its cost structure is under a lot of pressure, and so revert back to my comments from earlier in the presentation. Lista is an area that we're looking at, it's very similar to Kwinana, every opportunity to try to make that plant more competitive and we need to give some of the headwinds that's facing especially on the carbon side.
+
+Carlos De Alba
+
+All right, great. And listen you have also a good contract there and no changes in the short term, right.
+
+William Oplinger
+
+We have a long-term power contract in Iceland, there is a repricing mechanism that comes up later in the decade, but that's later I would say in the 2027 - 2028 timeframe.
+
+Carlos De Alba
+
+Thank you very much, Bill.
+
+Operator
+
+The next question is from Chris LaFemina with Jefferies. Please go ahead.
+
+Christopher LaFemina
+
+Thanks. Hey, Bill. Congratulations on the new role and good luck.
+
+William Oplinger
+
+Thank you.
+
+Christopher LaFemina
+
+So just a question on the WA mining situation. So if the EPA does an assessment on the 2022 five-year plan, which is, I guess the one that you're operating under right now. Can you continue to mine, so I understand the point about lower grades until 2027 when you move up to Myara and Holyoake, but before that, is there a risk that they would -- they would basically not allow you to mine because reviewing the plan that you currently operating or do you -- do you have confidence that you'd be able to continue to mine under the existing plan.
+
+William Oplinger
+
+Well, I think there are a variety of different outcomes that could occur if they go to a full assessment, but again as I answered to Carlos, let's see what gets assessed and we will react accordingly. We're confident that we are doing all the right things to avoid either having an assessment or not getting our mine permits approved. So, we're doing all the right things, we have line of sight to have an answer this quarter we believe and if we -- depending on that outcome we will take the right actions.
+
+Christopher LaFemina
+
+And does the -- does the decision at the EPA makes as to whether they'll do an assessment, get impacted by the concessions that you're offering to make now or do they just base it on what the existing plan basically allows you to do?
+
+William Oplinger
+
+You know, I don't know the answer to that one. So we would need to revert back to you. I'm not certain of that.
+
+Christopher LaFemina
+
+Okay. All right. Thank you very much and good luck.
+
+William Oplinger
+
+Thanks.
+
+Operator
+
+Thanks. And our final question today is a follow-up from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you very much, operator. Thank you very much for taking my follow-up question, Western Australia again that the $45 million order of magnitude what sort of savings could you be looking at, I think, you noted $10 million at Kwinana that would take it down to $43 million or so per quarter going forward. Order of magnitude, how much more could you be looking at? Thank you very much.
+
+Molly Beerman
+
+Lucas, I don't have the -- I don't have a number. Again these are efforts that we're going to continue to work through. And as they are restructuring our programs that needs to be announced, we'll certainly do that. Otherwise, you'll simply see the additional savings work into our outlook as we progress through time. But I can tell you, we have dedicated teams on it. They're working very aggressively to identify savings, we've got a great pipeline of opportunities. So I do believe we will have meaningful mitigation to share. But I don't have a number for you today.
+
+Lucas Pipes
+
+I appreciate that. Again, best of luck. Thank you.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Oplinger for closing remarks.
+
+William Oplinger
+
+Thanks for your questions, and interest in our company. As you can hear from my comments, it's a true honor to lead this company as we're positioned for long-term success. I really believe with disciplined focus and you've heard a lot of our talk around disciplined focus today, we will build an even stronger company for the future. I look forward to talking to many of you in the fourth quarter results in January and until then be safe.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

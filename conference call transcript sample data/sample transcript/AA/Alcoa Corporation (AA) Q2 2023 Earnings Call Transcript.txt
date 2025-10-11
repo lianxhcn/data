@@ -1,0 +1,567 @@
+Alcoa Corporation (NYSE:AA) Q2 2023 Earnings Conference Call July 19, 2023 5:00 PM ET
+
+Company Participants
+
+James Dwyer - VP, IR
+Roy Harvey - President and CEO
+Molly Beerman - EVP and CFO
+
+Conference Call Participants
+
+Alex Hacking - Citi
+Carlos de Alba - Morgan Stanley
+Timna Tanners - Wolfe Research
+Lucas Pipes - B. Riley Securities
+Chris LaFemina - Jefferies
+Michael Dudas - Vertical Research
+Katja Jancic - BMO Capital Markets
+Bill Peterson - JPMorgan
+John Tumazos - John Tumazos Independent Research
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Second Quarter 2023 Earnings Presentation and Conference Call. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, and good day, everyone. I'm joined today by Roy Harvey, Alcoa Corporation President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the Company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. With respect to our outlook, we have not presented a quantitative reconciliation of certain forward-looking non-GAAP financial measures to their most directly comparable GAAP financial measures because it is impractical to forecast certain special items without unreasonable efforts due to the variability and complexity associated with predicting the occurrence and financial impact of such special items as described in today's presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA.
+
+Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here's Roy.
+
+Roy Harvey
+
+Thank you, Jim, and thanks to everyone for joining our call.
+
+I'm happy to be here today with Molly Beerman, our Executive Vice President and Chief Financial Officer. She will soon provide a detailed review of the financial results, but let's start first with safety.
+
+We always strive to protect our employees, contractors and visitors from injuries. This is the expectation in all of our daily activities and it is particularly important when we consider any modifications to our processes or when upset conditions occur. Every quarter, we report during this call any serious incidents that we would classify as an FSI-A, which stands for fatal or serious injury actual. This would involve injuries that are life-altering or fatal.
+
+I'm disappointed to report that an employee at our Icelandic smelter lost partial vision in one eye from an injury that happened when he was sampling molten metal. We have investigated the incident and we are working to prevent it from occurring at any of our locations.
+
+In the second quarter, our overall injury rates continued to decline. We also are seeing positive trends in leading indicators, showing we're proactively identifying and correcting potential risks before they result in injuries. We are focused on continued improvement. Any injury is unacceptable and we expect our teams to be constantly learning and adapting.
+
+Now, let me turn to our financial results. We generated slightly higher sequential revenue in the quarter of $2.68 billion. We increased shipments which outweighed lower average realized pricing. Still, as you can see, this quarter's challenging market conditions and operational disruptions led to an EBITDA outcome that demonstrates the need for continued improvement.
+
+We did pay another quarterly cash dividend and we finished the quarter with $1 billion in cash. We also continued to strengthen the balance sheet by reducing risk from pension plans. This was accomplished via another annuitization, our sixth such transaction. This one was for certain retirees and beneficiaries in Canada, providing them the same benefits while removing the liabilities and corresponding assets from our books. No cash funding was required for this transaction.
+
+Operationally, in the second quarter, we were also pleased to reach a new labor agreement with the United Steelworkers that covers more than 800 employees at two of our smelters in the United States, Warrick in the state of Indiana and Massena in the state of New York.
+
+Also, we were pleased to announce in May a major sales contract with Emirates Global Aluminium to supply smelter-grade alumina from Western Australia. This is an eight-year deal beginning in 2024 and will represent a significant portion of our third-party aluminum sales. We will be EGA's largest third-party supplier, supplementing their own production at their refinery in Abu Dhabi. We appreciate the confidence that this customer places on us and in many others we serve.
+
+Before I hand it over to Molly, I'd like to outline our most critical steps to drive improved performance. Importantly, I am pleased to see improving stability across our operations. We have a united team focused on taking action on items most critical to our success. Let me quickly highlight some areas of attention for us in the coming weeks.
+
+First, we are focused on securing our approvals for bauxite mining in Western Australia. This is a key priority. In the meantime, we are currently using bauxite with lower grade and our global centers of excellence are working to optimize our refining system to process these lower grades.
+
+Second, we are continuing to implement our plans to drive stability across our operations. Our third quarter outlook to be covered in detail by Molly shows that operational stability drives financial improvements. Our leaders are focused on spending even more time on the shop floor setting clear stability criteria and moving towards proactive maintenance to prevent emergency break downs. We ended the second quarter with good improvement and have seen a strong start to the third quarter.
+
+Third, we are watching the ongoing developments in our markets so we can adapt our programs, product portfolio and operations to today's conditions, but also to emerging demands from our customers. Aluminum is a critical part of a decarbonized world and our portfolio of low-carbon, customer-centric, value-add products will help us to continue to be a supplier of choice.
+
+And finally, we are continuously focused on ensuring that we are operating our facilities in an optimal fashion and making decisions that can drive short, medium and long term profitability across our Company and through the cycles. We continuously review all of our facilities to be sure we are operating the right portfolio of assets for current and expected conditions.
+
+With that, I'll turn it over to Molly to talk about the results, a few key emerging trends and our outlook for the third quarter. Molly, please go ahead.
+
+Molly Beerman
+
+Thank you, Roy.
+
+While both alumina and aluminum third-party realized prices declined slightly in the second quarter, revenues increased 1% on higher shipments. The net loss attributable to Alcoa improved $129 million to $102 million or $0.57 per share, primarily due to the non-recurrence of charges taken in the first quarter, the $101 million Intalco smelter closure charge, and a $41 million utility settlement charge at Ma'aden.
+
+On an adjusted basis, the net loss was $62 million or $0.35 per share, and adjusted EBITDA, excluding special items, declined $103 million to $137 million. Let's look more closely at the key drivers of adjusted EBITDA.
+
+The three largest drivers of the $103 million sequential decline are higher production costs, lower metal prices and lower volume, which together totaled $167 million. The Alumina segment was the primary source of the increased production costs and lower volume, with $45 million related to lower Australia bauxite grades, better than expected as the full impact of lower grades was not realized in the quarter and with the remainder due to higher maintenance outages and related costs at the Alumar and Wagerup refineries.
+
+Production costs in the Aluminum segment were favorable $14 million, led by improvements at both Norway operations and Alumar. The remainder of the bridge factors net to a $64 million improvement. Highlights here include lower raw material costs in both segments as well as higher API, partially offset by unfavorable product mix, primarily in the Alumina segment.
+
+Outside the segments, there was a sequential improvement of $41 million with intersegment eliminations providing the lion's share, a sequential benefit of $39 million as less profit was held from earnings when intersegment volumes declined and alumina production costs increased. Transformation cost increased $9 million coming more in line with expected levels and other corporate spending improved $11 million.
+
+Now let's turn to other financial metrics and cash flow. While year-to-date return on equity is negative 4%, we again paid our $0.10 per share dividend in the second quarter totaling $18 million. Year-to-date free cash flow less net NCI distributions was negative $274 million, of which negative $108 million was in the second quarter, a $58 million sequential improvement. Cash ended the period at $1 billion and proportional adjusted net debt rose to $1.5 billion.
+
+Year to date, the three largest uses of cash were income taxes, capital expenditures and working capital. We expect cash taxes to be a smaller use of cash in the second half of the year. The $246 million included $173 million of prior-period taxes and $73 million of current year taxes. We expect working capital to continue to improve as well.
+
+Days working capital decreased one day to 55 days. While working capital was a $216 million use of cash in the first quarter, it was a modest $32 million source in the second quarter and we expect it to be a larger source of cash in the second half of the year.
+
+Let's take a deeper look at this quarter's cash flow and working capital. Similar to the year-to-date cash flow chart, the sequential quarter chart shows that cash income taxes and capital expenditures were two large uses of cash in the quarter.
+
+Tax payments are expected to decline in the third quarter. Of the $155 million of cash taxes, $115 million were for prior periods with current period taxes only $40 million, and we expect little or no payments for prior-period taxes in the second half of the year. Conversely, we expect capital expenditures to remain a significant use of cash, increasing from $115 million in the second quarter to approximately $155 million in the third quarter.
+
+As we noted earlier, the working capital change shifted from a use of cash in the first quarter to a source of cash in the second quarter. Payables have stabilized as capital expenditures picked up and offset continued price declines and purchased raw materials. Accounts receivable declined slightly in the second quarter and lowered overall working capital. While raw material inventory values declined notably in the quarter on lower cost, quantities of in-process and finished goods were up at quarter end. But we do expect improvements as we move through the year.
+
+Cash flow again was helped by a net non-controlling interest contribution of $20 million. Speaking of inventories and purchase costs, we continue to see purchase prices for key raw materials decline.
+
+And as noted on the EBITDA bridge, we are starting to see improvements flow through to the income statement. The three key raw materials are caustic soda for our Alumina segment and calcined petroleum coke and coal tar pitch for our Aluminum segment.
+
+Looking at quarterly average market index prices, all three commodities declined again in the second quarter. Year-over-year, we are seeing approximately 44% improvement in caustic prices, approximately 30% improvement in quoted prices for coke and even pitch is down albeit very slightly from year-ago levels. We also saw lower spot prices at quarter-end and expect to see further purchase price improvements.
+
+These purchase price improvements flow into our inventory valuation and can take one to two quarters before the improvement starts to flow through COGS and hit the income and cash flow statements. That said, should these raw material price trends continue, we expect to be rewarded with lower inventory valuations, lower COGS related to raw materials and improved cash flow.
+
+Now let's turn to our expectations for the year and the third quarter. Our only change in the full-year outlook is to decrease capital expenditures by a total of $60 million as some project timelines are extending. Return-seeking capital spending is expected to be approximately $90 million for the year and sustaining capital approximately $450 million.
+
+Regarding sequential changes for the third quarter. In the Alumina segment, we expect an improvement of approximately $65 million due to lower raw material prices, and better production costs and higher volumes as elevated maintenance during the second quarter concludes.
+
+In addition, we expect a $10 million unfavorable impact from lower bauxite grades in Australia with impacts now expected to continue through at least mid-2024. We expect to face the full impact of the lower grade as higher-quality bauxite inventories have now been depleted. That means an increase from $45 million impact in the second quarter to $55 million in the third quarter before identified cost-savings initiatives take effect and reduce this number in future quarters.
+
+In the Aluminum segment, we expect a net improvement of approximately $25 million unfavorable raw materials and lower production costs, partially offset by unfavorable price/mix, primarily due to softer billet demand. Finally, we expect alumina costs in the Aluminum segment to be favorable by $5 million.
+
+Below the EBITDA line, other expense in the second quarter included an unusually large favorable foreign currency impact of $40 million due to recent changes in the value of the U.S. dollar. This gain may not recur. Based on recent pricing, the Company expects third quarter operational tax expense to approximate $10 million to $20 million.
+
+Now, I will turn it back to Roy.
+
+Roy Harvey
+
+Thanks, Molly.
+
+Next, I'd like to provide some updates from our operations across the globe, beginning with Western Australia. As I said last quarter, we're continuing to work with a host of government agencies on the approvals process for our annual mine plan. Our Mine Management Programs or MMPs are normally approved annually on a five-year basis.
+
+Separately, the Western Australian Environmental Protection Authority or EPA is considering whether to conduct additional environmental review on these MMPs. The resolution of our mine approvals does not have a fixed timetable, but we are working to constructively address stakeholder needs and expectations in a timely fashion. This is a key priority for our Company and we're focused on doing what is necessary to secure approvals.
+
+We are increasing controls to protect drinking water sources, further stepping up mine site rehabilitation, and enhancing the management of social impacts. This requires discussion and action with various government agencies. So to give this complex regulatory process appropriate time, we are now mining lower-grade bauxite in previously approved areas.
+
+As Molly just pointed out, using lower-grade bauxite has a cost. It means using more raw materials and producing less alumina per ton of bauxite. In the second quarter, this unfavorably impacted Alumina segment adjusted EBITDA by $45 million. This is better than we originally expected due to slightly higher bauxite grades and good operational practices.
+
+As we look to future quarters, bauxite grades will continue to vary. We expect that it could take nine months to 12 months to transition to new mine areas once approved and improve the bauxite quality sent to our refineries. Thus, the expected impact of these lower bauxite grades will stretch into at least mid-2024.
+
+Next, let me provide some more detail on what we're awaiting from the EPA. The authority has indicated it could decide by the end of this month whether to proceed to the next stage in its consideration process, which would be a public comment period. If that occurs, the EPA would then decide whether to conduct additional environmental reviews on all or part of our MMPs, and if so, at what level.
+
+We support the authorities process for future major mine extensions, but we believe the current statutory process for our MMPs provide appropriate environmental and social protections in existing mine regions as part of a transition period. As an example, we've already proactively initiated assessment by the EPA for two future regions, Myara North and Holyoake.
+
+Finally, on this issue, I want to stress that I'm very proud of how our team has been operating through different and difficult conditions. We have some of the world's most highly-skilled people and we have strong operating processes. We are working together to operate safely, stably and efficiently, and we are pooling our collective knowledge to secure our approvals and we will strive to reduce the impact of lower-grade bauxite in the coming quarters.
+
+Now, let's turn to some key operational items across our two segments. First, in Alumina, some may recall that we had a failure in the first quarter on a ship-to-shore conveyance system that unloads bauxite for the Alumar refinery in Brazil. Our teams worked to successfully make repairs and restore bauxite flows. I was impressed by how our team quickly and safely recovered.
+
+Then in June, we proactively began a project to replace a large bearing on the alumina ship loader at the same location. This four-meter bearing supported the 820 metric ton structure. With much planning and coordination, the teams safely executed this major repair in eight days working with a specialized contractor. This well-coordinated effort enabled the loading of alumina ships to quickly resume. We didn't miss any customer shipments because of this work, and it demonstrates our push to move to proactive rather than reactive measures to keep our facilities at peak capacity.
+
+Meanwhile, in Spain, we continued to work to find the optimum production levels at the San Ciprián refinery. Considering market conditions, it is currently operating at about 50% of its capacity.
+
+In the second quarter, a modest increase in production at this facility partially offset some reduced production at Alumar and in Western Australia where our Kwinana refinery is operating four of its five digesters and where we finished a major maintenance project at Wagerup.
+
+In our Aluminum segment, six of our smelters are operating at full capacity with high production levels. Meanwhile, the smelters that have reduced production volume due to partial curtailments, Lista in Norway, Portland in Eastern Australia and Warrick in the United States, are all running stably at those levels.
+
+Meanwhile, the ongoing restart of the Alumar smelter is progressing with an intentional and deliberate process to ensure that every part of that restart is stable and operating well. We now have greater than 60% of that site's total capacity operating and we're also continuing to invest per our agreements to support the phased restart of the San Ciprián smelter beginning next year.
+
+As I said earlier, we are enabling our operational leaders to spend more time in the field. This will bring an increased focus on safety, more fruitful dialogue and interactions with our employees, and a renewed drive to find productivity and efficiency improvements.
+
+Now, let me provide our current view of the overall market for aluminum and discuss Alcoa's position as a producer of choice, both today and in the future. The global aluminum market is currently showing some mixed signals, with limited supply growth in divergent demand trends, depending on specific end markets.
+
+In China, some previously curtailed capacity is restarting in Yunnan province, but there are questions about hydroelectric power availability and stability for both the Yunnan and Sichuan provinces where China's low-carbon aluminum suppliers concentrated.
+
+In the rest of the world, conditions are still not favorable for restarts and there is very little new capacity ramping up. On the demand side, China is expected to see growth this year for aluminum used in electrical grid investments and vehicle production. The country's weaker real estate market, however, has slowed demand for aluminum in the construction sector.
+
+In the rest of the world, we see strong year-on-year growth in the automotive market, particularly in Europe and North America. The same is true for electrical applications, although construction and packaging have slowed this year as a knock-on impact from higher interest rates, inflation and destocking trends.
+
+The long-term outlook remains positive as the world will need more aluminum from both primary and recycled sources for existing users as well as global decarbonization efforts, including the transition to renewable energy, more electric vehicles and recyclable packaging. Recovery is expected in the construction market long term as developing markets see interest rates stabilize with continued urbanization trend.
+
+While more aluminum will be needed, China is still expected to continue to enforce its 45 million metric ton per year capacity cap, which it will approach in the next year or two. Also, China's existing low-carbon capacity is likely to face ongoing challenges related to hydroelectric power reliability.
+
+In the rest of the world, we also see limited supply growth, especially in the production of aluminum made with lower carbon emissions. The announced projects in the pipeline are not expected to be enough to meet demand of our critical metal. Market conditions are expected to be favorable for aluminum in the future and Alcoa will also remain well-positioned as a low-carbon primary aluminum producer of choice in key regions. We are a domestic producer in North America and Europe, which are both deficit regions where customers prefer domestically and responsibly produced metal.
+
+Now, I'd like to return to an issue that we discussed in prior quarterly earnings calls, the continued risk for the London Metal Exchange or LME related to Russian origin aluminum. In the past two years, we've seen customers move away from Russian metal, particularly in Europe and North America. Also in Asia, many banks that traders use are not financing Russian metal. Many of these customers in this region are served by these small local traders.
+
+The dynamic regarding Russian origin aluminum should raise alarm as we've previously stressed at our last earnings call in April. The situation has since worsened. Russian stocks in LME warehouses recently reached an all-time high concentration, representing 80% of total LME aluminum stocks as of the end of June.
+
+The physical stocks in LME warehouses are the basis of the published LME aluminum price, which is widely used as a price reference in global aluminum contracts. Because those stocks are now predominantly Russian origin metal, which is unwanted by much of the world, it is difficult to have confidence that the LME exchange price matches the true physical price for non-Russian aluminum that customers largely require.
+
+We have continued to reiterate our position to the LME that should take immediate action to delist Russian origin metal. There is a real risk here that if the LME delays acting, a stockpile of metal that is under extremely punitive tariffs and/or self-sanctioned will continue to build up. That would then cause this unwanted metal to inappropriately influence the global benchmark on pricing, damaging the integrity and relevance of the LME's aluminum contract.
+
+Returning to Alcoa. We continue to see growing sales in our Sustana product portfolio as customers seek metal made with lower carbon emissions to reach their own sustainability goals. This year, we expect to see our sales of EcoLum brand to reach 40% of our total European production, which would be a 60% annual increase.
+
+We also offer a wide range of value-add aluminum products that serve a diverse end market, and we have seen the same demand trends that I discussed earlier play out in our order book. Our participation in a variety of end markets allows us to benefit from diverging trends as we can flex our value-add production to adapt to different market conditions across the various end markets.
+
+Now, let me discuss opportunities for our business. While we are currently working through challenging market conditions, we look forward to recovery and the expectation of growth in the long-term aluminum demand.
+
+And as we look toward this future, I'd like to stress not only the value of our current products such as our Sustana offerings in alumina and aluminum, but the value that is embedded in Alcoa as a pure-play innovations-focused aluminum company. We are well-positioned as the world moves to a decarbonized economy. The future requires more aluminum, which is a material of choice due to its lightweight, recyclability, durability and strength. And with customers increasingly focused on the need for responsible production, Alcoa is the company to deliver due to our environmental, social and governance practices.
+
+We know all metal is not created equally, and our focus on sustainability is what will differentiate us from other global competitors. That's why we're working so diligently to adapt to increased expectations in Western Australia, which will allow us to optimize our bauxite mines and return to higher-grade ore as soon as possible.
+
+And this focus on community engagement and responsible practices can also be applied globally across our mines, refineries, smelters and casthouses. Developing these systems not only helps us to surmount these immediate challenges, but it will also provide the roadmap to operating responsibly long into the future.
+
+Meanwhile, we're focused on finishing some key projects, including returning to Alumar refinery to normal production after the repair and maintenance projects I discussed earlier. And our focus on driving simple yet effective and proactive maintenance programs will ensure we are operating stably across our portfolio. We are also continuing to increase production by our operational improvements that allow us to creep our capacity, and we're investing in next-generation casthouse technology to grow our value-add product capabilities and capacity.
+
+Two recent examples of this include a new casting line at Deschambault to cast smaller ingots that will allow the smelter to produce alloys from Alcoa's award-winning EZCast family. And at our Bécancour smelter in Canada, we're working to install technology that will improve the surface quality of slabs, helping customers improve their recovery of finished products. It will also help us attract new customers, specifically in the packaging and automotive markets.
+
+For our production levels, I noted earlier that we're progressing with the Alumar restart and we're investing for the phased restart of the San Ciprián smelter in Europe and its 228,000 metric tons of aluminum capacity currently idled. We also have some other curtailed capacity both in refining and smelting, and we have options that will continue to evaluate should market factors and overall economics improve.
+
+Finally, we continue to work on next-generation technologies that have the potential to further differentiate our products from our competitors. These three projects, ELYSIS, our Refinery of the Future initiative and the ASTRAEA scrap purification process, are all part of our technology roadmap. These remain under development and will help us on our journey to decarbonize and achieve our net zero 2050 ambition.
+
+As you recall, ELYSIS is a partnership company based on process innovations that Alcoa first developed at the Alcoa Technical Center outside of Pittsburgh. The process eliminates all direct greenhouse gas emissions, replacing those with pure oxygen.
+
+ELYSIS is currently working to ramp-up this technology to commercial scale, including the development of larger smelting cells that would operate at 450 kiloamperes at the end of an existing potline in Quebec. Also, unlike some competing technologies, the ELYSIS process has already produced commercial-grade aluminum at research scale and has been used in end products from such brands as Audi and Apple.
+
+We also know that the final carbon footprint of aluminum is not only determined by the electrolysis process itself, but also by the energy source in the alumina that is used to feed those smelting pots. That's why we're also working on the Refinery of the Future which will help to improve a refinery's carbon footprint, reduce water usage and reduce bauxite residue. This includes electric calcination, mechanical vapor recompression and other developing technologies.
+
+Meanwhile, we're also continuing our R&D work in our ASTRAEA technology, our proprietary scrap purification process that can economically separate aluminum from other non-ferrous metals and impurities. It could provide metal of a purity level that would far exceed the quality of what most commercial smelters can produce.
+
+In closing, we continue to work to optimize our portfolio so we can succeed regardless of market cycles. We are focused on continued improvement and we have a strong balance sheet with $1 billion of cash, allowing us to drive improvements during a challenging market and to focus on operational excellence.
+
+Our priorities are clear, securing our mine approvals in Western Australia, driving stability across our operations, adapting to a volatile aluminum market and ensuring we operate the right portfolio for today and tomorrow.
+
+Also, we remain a supplier of choice and we're proud that customers come to us for solutions, including our recently announced contract with Emirates Global Aluminium. We not only sell low-carbon metal through our Sustana mine, but we are the only producer in the aluminum industry that also markets and sells a low-carbon alumina brand. These products, which include EcoLum, EcoDura and EcoSource, can help producers lower their carbon footprint by switching to our material. EcoLum is our low-carbon aluminum. EcoDura contains recycled content. And EcoSource is our low-carbon aluminum.
+
+We are encouraged to see demand and sales growth in this brand family. Albeit still a small percentage of our overall sales, still the growth demonstrates the rising demand for low-carbon technologies. This shows the strong potential and value in the work we're doing to bring forward our research and development programs and reinvent the industry we created.
+
+Molly and I are now ready to take your questions. Operator, who do we have on the line with our first question today?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question is from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Yes. Evening everyone, and thank you for the call. I have a couple of questions, but I guess the first question would be on the environmental permitting in WA. Maybe I'm misinterpreting your comments, but it seems like you're a bit more conservative now than on the last call and anticipating that this process might be a bit more onerous than you previously anticipated. I mean is that - is my interpretation fair? Or is the process going kind of as you expected?
+
+Roy Harvey
+
+Yes. Alex, I think I wouldn't interpret it as more onerous or really all that different from what we talked about the last time we were - we went through earnings. I think it's - we certainly had hoped it would be solved this last quarter. And so, it is taking longer and the timeline and we reiterate that the timeline is uncertain.
+
+However, I would continue to say that we're working collaboratively with the Australian regulators. We do have - we did have the Western Australian Environmental Protection Agency, EPA. So that by the end of this month, they believe that they'll give a decision about whether the referral is valid. So we are progressing. We're not there yet, but we're certainly progressing.
+
+On the other side of that, Alex, I would also say that I think we were - I was pleased with particularly how our Pinjarra refinery, which is our largest refinery in the system in Western Australia, was able to perform with bauxite grades that they were coming through. And so that's something where we can actively work as we go through this period of uncertainty. And as we start to work towards improved grades in the future, the better and more efficiently that we can operate that facility and Kwinana as well, which has the same bauxite source, the less impact that we have both financially and operationally.
+
+So really it's a very similar situation to what we found ourselves last quarter. It wasn't meant to look more conservative, but rather to say, hey, this is three months further delayed than what we had seen the last time we talked.
+
+Alex Hacking
+
+Okay, thanks. That's clear and I appreciate the clarification. And then I guess on the second question, the smelters where you're operating kind of at reduced production levels, Lista, Warrick, Portland. I know Warrick has its own power source. But for Lista and Portland, are you involved in negotiations for power costs next year? Is there any flexibility there? And if there isn't flexibility, is there a potential that production there could be further reduced if aluminum prices don't improve? Thank you.
+
+Roy Harvey
+
+Yes. Thanks Alex. I think the answer is going to be it varies and it depends, as it's always the case. And each facility has a different situation. So take Lista as an example. We decided to bring Lista down simply because spot energy prices had climbed so high and we were able to find a power contract that covered part of that facility and that was able to allow us to drive it back into profitability, which is not an easy - not an easy thing to do in Europe right now given where energy prices stand. And so we have the option, of course, to further curtail it as we go into this next round of power contracts or we also will have the opportunity to bring it back up again.
+
+The European market, of course, is slower than it has been, but it continues to have strong premiums and we continue to see a lot of customer demand, particularly for green and low-carbon aluminum, which is something that, Lista certainly does and also have a very highly value-added casthouse.
+
+Take Portland sort of out the other side of that. Portland, we really had to bring back down because of some instability happening in the production of anodes. So that's one where we have the power available. We can scale that back up again. But we're not going to do that until we are certain that we have stability and then of course we will make the decision about whether that's financially viable, whether we continue to - whether we consume that energy or we sell it into the open market.
+
+Warrick's a little bit different, of course, because we do have our own power source. That's one where we're really trying to work through what are the strategic plans for that facility, what do we want to do as far as long-term power source and how do we make sure that we're operating that smartly and efficiently. So that's one really that we have full control, whether we start back up some of the parts that are idled or what we choose to do that going forward.
+
+I'd also remind you, we've got the San Ciprián smelter that will start to come back at the beginning of 2024. Now that will be relatively modest production capacity at the beginning, but we do have a commitment by October of 2025 to have that fully restarted and it's about 228,000 tons. And I would remind you, that is our lowest-cost facility outside of electricity costs. So we are working very hard to find a way to get those costs down as low as we can, including the renewable power contracts that we've signed, starting really as we progress over these next couple of years.
+
+Alex Hacking
+
+Okay. Thank you very much.
+
+Roy Harvey
+
+Thanks, Alex.
+
+Operator
+
+The next question is from Carlos de Alba with Morgan Stanley. Please go ahead.
+
+Carlos de Alba
+
+Yes. Hello, good afternoon. Thank you for taking the questions. So I wonder if you could, perhaps Molly, quantify the cost savings that you expect to reach in Alumina from the initiatives that you have identified to sort of offset or reduce the impact of the lower bauxite that you will be mining. And in terms of the timing as to when those may kick in, is that something that you see for the fourth quarter or mostly in the first or second quarter of next year?
+
+Molly Beerman
+
+Carlos, we've already started to implement some of the savings initiatives. They didn't amount to a significant amount in the third quarter. So that's why we have kept the $55 million guide. But you will start to see changes related to changes in our labor, changes in our maintenance routine as well as we're looking at some modest CapEx to improve operating efficiency.
+
+So those will start to pick up some speed in the fourth quarter and then that will continue because we are continuing to identify additional opportunities to take at that savings into '24.
+
+Carlos de Alba
+
+All right. Okay, thanks. Maybe on the products that - Roy, on the low-carbon products that the Company offers, EcoLum for instance and others, you mentioned that the clients are asking for that, and it will represent 60% of your aluminum volumes in Europe. Are you being able to monetize these lower carbon products? Are you getting a premium? And is there a way you can give us a range of how much these premium represent?
+
+Roy Harvey
+
+Yes. So let me take a stab at that, let's sort of break it into two pieces. The first is around volumes and continued demand. I have to say, and this really starts in Europe and we're about 40% of our value-added now is going into these low-carbon products. We're seeing more and more pull. And you can see this, for example, with some of the automotive customers where they've set some pretty aggressive targets to be able to drive to net carbon - net-zero carbon, but we also see it in, for example, electric cables and a number of different places.
+
+And so I have to say, as we progress, and I'm probably been asked this question every single quarter for the last couple years, I am becoming more and more optimistic that those volumes are going to continue to improve and we're seeing that really take root in Europe and starting to see that in North America as well.
+
+And of course, there's a lot of connections between our customers in North America and Europe so that it tends to spillover. So, certainly, seeing good volume improvements and particularly going to continue to see those volume improvements, because we've got a lot of ongoing conversations with customers.
+
+On the realizable value, so the important thing here for us is that because we've, for the most part, turned to renewable energy, a lot of these sales right now are cost free, right? It's a matter of making sure that we have the right power source. Of course, there's all the work that goes into being a responsible producer and making sure that we can line up to the Aluminum Stewardship Initiative so that we can prove our credentials. But most importantly, this is essentially driving towards the scarcity or the fact that there is a differentiated product with less carbon content inside of our products. And so it's cost free.
+
+On the premium side, and you can see some of the published indices, which I think are pretty representative of the kind of premiums that we're getting, tends to range between $25 and $50 now, which is a beginning. It is certainly not where we see this continuing to go. And I would also argue, look at our low-carbon sales, EcoLum is a very good example of that, which is our low-carbon aluminum.
+
+Look at this as sort of the first step to making sure that our market is prepared for zero-carbon aluminum down the road. For our ELYSIS metal we want it to be very clear, the unique properties, the unique characteristics and the fact that this will be truly a differentiated product. And so really this is sowing the seeds that does create value for us in the short term, but more importantly, will be the seeds that will be significantly greater value down the road.
+
+Carlos de Alba
+
+All right. Excellent. Thank you very much. Good luck.
+
+Roy Harvey
+
+Thank you, Carlos.
+
+Operator
+
+The next question is from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Yes. Hi, good evening. Wanted to follow up a little bit on the timeline for the upstream bauxite inefficiencies that you've laid out. So, on the fact sheet that you've provided on your website or the Australia website on environmental assessment, there is a timeline that says the finalization of the ERD, environmental review document, is Q2, Q3. Is that what you're talking about that has to get finalized to kick off that nine to 12 month lag before you get kind of the optimization of the bauxite mining that you've anticipated?
+
+Roy Harvey
+
+Timna, two different sets of issues and I can see how it's pretty confusing. So that particular timeline refers to this next mine phase, essentially what we call Myara North and Holyoake which is the next sort of that big conveyor move that then gets to this next large field of bauxite. That is a completely separate process to what we've been talking about as far as the short term set of approvals that have been running on a five-year rolling basis. And so that runs through this full look at it as an environmental impact assessment that's run through the EPA.
+
+That represents sort of the end-state of where we're going and what we're trying to build this transition phase. And so that is a process that has a clearly set-out timeline, but that timeline can tend to change if they have additional asks as they change consultation periods, et cetera. So, that timeline pertains to that next mine phase and that will take considerable time to be able to develop that. So that's not a nine to 12 month, that will take a few years in order to prepare for the conveyor move, et cetera.
+
+The other side of that, our short-term approvals, is how do you take what is this sort of - this customized approvals process that we run today that was a five-year rolling process that we submitted every year, how do we then incorporate a lot of the same types of environmental protections, community consultations, how do we incorporate that into this current process and get to these short-term approvals that then allows us to already - that allows us to go into new mine sites that are part of the existing mine area.
+
+And so, does that answer your question, Timna?
+
+Timna Tanners
+
+Yes. I mean, it sounds like it's a bit apples and oranges or at least two somewhat separate instances and you did warn that it's a complicated regulatory process, so probably not great to spell it all out on the call. But I appreciate that they're a bit distinctive and we'll wait to get an update on the more immediate issues. So, shifting gears if we could, I did want to also ask you a little bit more color on the forecast you have for global aluminum and alumina. I know in last quarter's presentation, you had said that the markets were balanced. This time you're saying it's a mixed bag. And we have seen premiums fall. So I know the medium and longer term is positive, but just a bit more color on what you're seeing in the near term would be helpful.
+
+Roy Harvey
+
+Yes. Certainly, Timna. I think mixed bag is probably the right word for it. So, to go back to your first point, I don't see supply/demand balances being all that different than last quarter, to be quite honest. We're essentially on a knife edge and it can shift towards a very small surplus, shift towards a very small deficit. So in the end, we're really quite balanced, both in alumina and aluminum. And that's sort of where we expect it to be.
+
+What we are seeing, however, though, is that our markets, and particularly when we look at it, a lot of our sales are happening in North America and Europe, we're seeing some additional weakness than we did before and seeing some strength in things like electrical and transportation and we see that particularly outside of China, but also inside of China transportation continues to be very strong.
+
+And from a weakness standpoint, really billet which goes into construction and then slab which goes into packaging. And so you look at it, you've got some areas of strength, you've got some areas where it really hasn't lived up to the strength and where we're not seeing those increases year-over-year. And that sort of combined then with some of the supply issues that have happened. I know we have some facilities coming back up in Yunnan in China. That is not a surprise. I think we all knew some of that was going to come back up again. It doesn't take away some of the uncertainties around how much hydroelectric power they're going to be able to generate. It's not easy to shutter but - or bring back those facilities.
+
+But in the end, it all sort of comes through this this big calculation to get down to essentially a roughly balanced market. And that balanced market, of course, is waiting for what happens on inflation and therefore monetary policy that connects back with what's going to happen with the broader economy, whether there'll be Chinese stimulus.
+
+And so I sort of get back to, say, hey, it's a mixed bag, we're sort of more or less where we were at the end of last quarter, probably a little weaker demand, but also a little bit weaker supply as well.
+
+Timna Tanners
+
+Thanks. I appreciate the color. Thanks again.
+
+Roy Harvey
+
+Thanks, Timna.
+
+Operator
+
+The next question is from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you very much, operator. Good afternoon, everyone. And I first wanted to ask on the cost side, you called out the $65 million in Alumina, $25 million in Aluminum with continued raw material savings. And with lags first with caustic soda but then also kind of cost working their way through inventory, is that an order of magnitude we could expect also for Q4 or maybe even greater than what you've outlined for Q3? Thank you very much.
+
+Molly Beerman
+
+Lucas, we're actually seeing very notable improvements in the third quarter. So within that $65 million for Alumina and the $25 million for Aluminum, we've got $20 million related to the caustic improvement. And then within Aluminum, $30 million related to coke and pitch. As we would give an early look to the fourth quarter, we are seeing notable savings. That -- the trend is continuing. So we do see a nice step down heading into the fourth quarter.
+
+Roy Harvey
+
+Hi, Lucas, I'm going to add one very subjective comment, but we've been waiting for this cost relief to come through for a while and it's particularly frustrating on the caustic side because it takes so long to work its way through our processes. But now to finally start to see those raw materials come through in Q3 and beyond is certainly welcome relief and it's very relevant for Q3.
+
+Lucas Pipes
+
+Very helpful. Thank you. Then taking a step back from this and zooming out a bit. Where do you think you sit today on the global cost curve? And would you expect maybe a supply response from higher cost producers? You touched on it here and there throughout the call, but would appreciate maybe honing in on this point. Thank you.
+
+Roy Harvey
+
+Yes. Lucas, I'm not going to be able to give you a particularly educated view on cost curves, just because we tend to do that analysis on an annual basis and we do it next quarter. So you're one quarter early. I can give you some qualitative comments without giving you a quantitative number. I think through this part of the cycle, what we been suffering on - suffering from both on the alumina and aluminum cost curves is the fact that we have our short energy position sitting inside Europe.
+
+And so when you look at - fortunately, we have the San Ciprián smelter down so that one didn't impact us so much in this downturn. But the San Ciprián refinery has really suffered from natural gas prices and so they have drifted their way up the cost curve.
+
+Now, we'll find a resolution to that. That's a market resolution for the most part. We've also been managing the - essentially how much we're choosing to operate that plant and I have to tell you that our operators and our managers there on San Ciprián are masters of making the plant work really well, no matter what capacity they are running at.
+
+The other side of it is places like Lista in Norway, their cost jumped up because we used to have some of the least expensive spot energy on the planet and for a little while, it was some of the most expensive. We've been able to find a good middle ground, but certainly that's pushing us up the cost curve when we look at that.
+
+And so what we'll try and do when we come to our cost curve analysis is to talk a little bit about what the positioning will be, but also what are some of the sort of the significant events that might be causing that cost curve to differ from what should be a longer-term view on where we believe that we sit in more normal conditions.
+
+Now your next question is when do normal conditions come back. That's a really good question and I'd love to hear someone answer that for me too. We look out and our job is to make sure that we're managing the system in our portfolio as smartly as we possibly can. You see that in how we manage San Ciprián and the refinery. You see that in the way that we try to look across all of our facilities to make sure that they're creating value in this quarter and then for the next 10, 12 quarters, right?
+
+So we're working on that. We have a lot of opportunities to drive that next class of power contract. We're working in the midst of - with the Spanish government to try and find relief on natural gas costs. We're also looking for different ways to bring in other supplies. So there's a lot that we can do. We are not helpless. But we will give a lot more insight into cost curves and where we find ourselves in the next quarter. So more to come on that one, Lucas.
+
+Lucas Pipes
+
+I really appreciate all the detail. Thanks again and best of luck.
+
+Operator
+
+The next question is from Chris LaFemina with Jefferies. Please go ahead.
+
+Chris LaFemina
+
+Hi, thanks for taking my question. So I'm just trying to basically frame the range of possibilities. So you did $137 million of EBITDA in the quarter. And you have the benefit now of raw material prices that are going to start flowing through the P&L, some higher volumes as you're restarting some capacity eventually assume you get the mining licenses in Australia and you're mining high-grade bauxite again, so those costs come down. If we ignore the impact of changes in alumina and aluminum prices and all the stuff goes right for you operationally, what does that quarterly EBITDA number go to? Does it go from $137 million to $200 million? Does it go to $300 million? Can you give me some sort of ballpark as to where you can be, ignoring any change in alumina or aluminum prices?
+
+Molly Beerman
+
+Chris, that's hard to do with the market impacts. I'll take you back to our guidance. Again, we're focused on the downward trend for raw materials. We are improving production costs with our improvements in stability. Getting the higher volumes out is also helping us with our cost absorption. So we will stay focused on what we can control.
+
+Chris LaFemina
+
+Okay. Thank you.
+
+Operator
+
+The next question is from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Evening, Molly, Roy, Jim.
+
+James Dwyer
+
+Hi, Michael.
+
+Roy Harvey
+
+Hi.
+
+Michael Dudas
+
+Yes. I'm not sure when normalization is coming back in the near future, Roy, I sure. I want to further discuss on the Russian metal comments you made. Do you think that the current market is being restricted from a mechanism on where pricing is today, where pressure should be either better because of what's going on? And is there a real risk of that happening in the next several weeks to months, given the distortions in LME aluminum? And where do you get a sense of where those stockpiles may be and how it's going to flow through, given all the things that you discussed on that front?
+
+Roy Harvey
+
+Yes. Michael, so what I would say is that I don't necessarily see pricing broken right now. And you can essentially chart that back and say, how is - how are aluminum prices, in fact, set. And it's the exchange of warrants on the LME. And that exchange of warrants essentially represents people that are holding that material and then choosing to either continue to hold it or to sell it. And so that changes over on a daily basis. And that changeover from buyers to sellers is what sets the basis for the entire aluminum market.
+
+Now as you compare that with what's happening with headlines, what's happening with supply/demand, et cetera, we continue to see what appears to be an orderly market. LME metal is meant to be the metal of last resort. So if I'm selling metal, I only sell it to the LME because I can't find another buyer. So a great example is a lot of this Russian metal that came on warrant that came into the LME because they couldn't find another buyer, because nobody wanted to buy Russian metal. That's how the market - that's how that market of last resort works.
+
+On the buyer side, when somebody is going out to look for metal, it's also the market of last resort. Someone would prefer to buy from a producer because then you are giving those tons where you choose to buy them from a particular plant, from a particular producer, and you can understand what the logistics are going to be. Whereas when you're going - when you're sifting through warrants, when you're buying from the LME warehouses, you get it where you get it. You get a commodity-grade metal that's located in some place where LME has warehouses. So it truly is a last ton of last resort.
+
+Right now, you've got 80% of that metal, which represents Russian metal. And so there's still 20% of metal, for the most part, it's Indian that if I wanted to buy metal of last resort, I could buy enough tons so that I could actually get some of that Indian metal coming out and I can leave the Russian metal sitting inside the warehouse.
+
+And remember that whoever is holding those warrants will always give you the warrant that has the least value. They'll give you the Russian metal first. So let's say there's 200,000 tons of Russian metal, I need to buy 220,000 tons so I can get 20,000 tons out. Again, always representing the purchase of last resort.
+
+So right now, you can still put up enough capital to be able to buy those warrants to be able to get down to those non-Russian tons. But as we watch this sort of - almost this constant march up a higher percentage of aluminum from Russia sitting in inventory, the potential that even more tons could come into the LME because the customers, for the most part, are not buying these tons, and that's not universal. That is a generalization, particularly for North American and European consumers.
+
+As you watch that percentage increase and as those tons that make up that percentage also increases, it means to be able to use that market to actually buy non-Russian tons will require more and more and more capital.
+
+So I'd say right now, we're not seeing distortions. But the higher that percentage goes, the more tons are sitting on inventory, the more likely that you could start to see distortions. And effectively, you'll have a bunch of metal that nobody wants sitting inside the LME warehouses. And so, who's going to be buying and exchanging those warrants if that's not metal that anybody wants to actually take delivery of.
+
+Now remember, the other mechanism - and I'm not going to get any further than this, the other mechanism that people are buying and selling those warrants because they're essentially establishing the spot price versus the future contango or the future backwardation. So the reason there's another impetus beyond just trying to buy metal, which is also, if I buy it for $2,500 today, it's worth $2,520 in three days, as an example. And so I'm willing to do that because I can then establish a trade.
+
+So that's sort of the nuts and bolts of what's happening in the warehouse. But as you have less and less people willing to take Russian metal, as you start to see banks that are not willing to finance that metal and traders that have said they're not going to be dealing with Russian metal, it increases the risk of a non-functioning market. So that was a very long answer to a very short question. Did that help to clarify a little bit?
+
+Michael Dudas
+
+It did, Roy. Yes. That's very helpful. Thanks so much. Good luck with that.
+
+Roy Harvey
+
+Thank you, Michael.
+
+Operator
+
+The next question is from Katja Jancic with BMO Capital Markets. Please go ahead.
+
+Katja Jancic
+
+Hi, thank you for taking my question. Maybe going back to more near term, pricing has softened. And if this soft environment persists, Molly, you mentioned that you're focusing on what you can control. What are the cost - or what is the magnitude of cost savings you could potentially generate if this softer pricing environment persists and outside the raw material price declining?
+
+Molly Beerman
+
+Katja, let me start with we've spent the last several years really improving the portfolio, strengthening our balance sheet. Right now, we have a lot of liquidity, excellent $1 billion in cash, we have a revolver undrawn at $1.25 billion, no long-term debt maturities until 2027. We do have high working capital now. That will generally convert to cash, be a source in declining markets. So we will stay focused on operations. We'll adjust our spending and our operating levels as needed really to safeguard our assets and protect the long-term value for the shareholders.
+
+Roy Harvey
+
+Katja, I'll add one comment on to Molly's as well because she is exactly right. If prices continue to soften, it drives a review of the portfolio that we're operating. And so we - that's sort of in the Aluminum business. We're always doing portfolio reviews. It seems to be just part and parcel to what our business looks like. But in the end, we need to make sure that we're running the portfolio and to set up facilities that can create value in the part of the cycle that we're in, but also in the future parts of the cycle.
+
+We've, for the most part, walked away from savings that are good today and bad tomorrow. A lot of times, maintenance, you can save money today and then you end up having failures six months from now. So we don't spend a lot of time on short-term savings programs, but we do make sure that we can operate our plants to their best.
+
+And so that - when we look at where our facilities sit, we have a lot of levers that we can pull in order to make sure that they are working well. We have, a lot of times, support from national and local governments. But in the end, as conditions continue to move forward, we really need to think about how do we make sure that we have the right portfolio and continue to have the right portfolio.
+
+You've seen this in the decisions that we've made over - since we've been a standalone company and really over the last few years. And hopefully, we've built the analytical model so that we can understand that. We have a good understanding not just of today's markets, but where those markets we expect them to go. And so we tend to make those decisions not just for the next three months, but for the next 18 months.
+
+Katja Jancic
+
+Thank you.
+
+Roy Harvey
+
+Thanks, Katja.
+
+Operator
+
+The next question is from Bill Peterson with JPMorgan. Please go ahead.
+
+Bill Peterson
+
+Yes. Hi, good afternoon, and thanks for sneaking me in. My first question is on CapEx. You discussed deferring some growth in sustaining CapEx. Can you provide a little bit more color or detail on what type of projects or regions you're deferring this CapEx?
+
+Molly Beerman
+
+So Bill, this really applies to the whole portfolio of capital projects. So typically, as we're running the projects through the year, if we have projects that have maybe naturally slowed, we might fill the queue. We're just not doing that. We're going to keep the projects that we had in the plan on the time line. And so we'll just allow the projects to run a bit longer. So there's nothing really being deferred. It's just the open projects that we have are extending.
+
+Bill Peterson
+
+Okay. Thanks for that. And maybe, I guess, another one on capital allocation. So there are no buybacks in the quarter. I guess how should we think about capital returns and buybacks in the coming quarters? Are you looking for improved pricing in the marketplace, more clarity on operational improvements, working capital improvements? Just trying to get a sense of how you're thinking about the returns from here.
+
+Molly Beerman
+
+Yes. So Bill, our capital allocation framework remains the same. We position for growth, we manage our portfolio and then we do returns to shareholders, and all of those depend on us having excess cash. So right now in the operating environment, we're going to stay with our dividend. It's appropriate for this market cycle. And so we continue to review this actively with our Board. But for right now, we have nothing to announce there.
+
+Bill Peterson
+
+Okay, thanks. I look forward following the progress.
+
+Roy Harvey
+
+Thanks, Bill.
+
+Operator
+
+The next question is from John Tumazos with John Tumazos Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you. I wouldn't expect that you would draw down the revolver, increase the $1.8 billion of debt, increase the $3 billion of other liabilities to fund a tough market or the losses that we have much comfort from $990 million of cash balances. Maybe we improve on the $63 million a month cash drawdown of the first half. But a year from now, the cash in these conditions would be less. Should we expect a year from now to look for asset sales, inventory reductions, stock offerings, plant closures? Or how comfortable are you drawing down the cash to get through each successive tough month?
+
+Molly Beerman
+
+So John, just as you said, we're not going to leverage up in the near term. We do believe that we're in a very strong position now with our cash where it stands. And again, we have a lot of liquidity options should they be needed. I'm going to take you back to 2020 when we faced the pandemic and we did put in a very active cash management program. I mean there, we were able to cut CapEx, reduce working capital. We had a very robust program. And so if the market turns and goes further down, we will be looking at those types of programs to reinstitute them.
+
+John Tumazos
+
+What's the lowest level of cash balances that you're comfortable with, given the needs to manage raw materials between plants all around the world?
+
+Molly Beerman
+
+Yes. John, we've really not shared our cash levels because they differ depending on the market cycle what we're comfortable with and what we're not. So we don't kind of set an external target for cash.
+
+John Tumazos
+
+Thank you.
+
+Roy Harvey
+
+Thanks, John.
+
+Operator
+
+The next question is a follow-up from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Thank you very much for all the time and really helpful discussion. I wanted to follow up on Michael Dudas' question on the Russian situation. And Roy, if I understood you correct in your prepared remarks, you called on LME to act. And I wondered, do you act in your commercial agreements? Do you consider something else besides LME as a basis? I appreciate your thoughts on that. Thank you.
+
+Roy Harvey
+
+Yes. Lucas, it's a good question. I think today, there is no good alternative to the London Metal Exchange. And so what we truly hope is that we can influence, number one, the LME because we think there's just no reason that they can't make a decision immediately to no longer list Russia as deliverable metal.
+
+And also, number two, to work to - to work with our host governments, and particularly the European Union and the United States, to try and make sure that Russian metal is sanctioned, which then makes it very easy for the LME to no longer have that as a listed commodity.
+
+So there's a few routes to get there. We're not yet at the point where we say, hey, pricing has fundamentally broken down and we need to find a different pricing mechanism just because there's just not a lot of really great alternatives that sit out there. And so the market continues to function. We will continue to look at that. What we're trying to do is to prevent the need to try and find a different pricing mechanism, which then could be more volatile, but require just a bunch of different changes. So I think we've got some routes to not have to do that.
+
+Lucas Pipes
+
+I appreciate it. Thanks again. And again, best of luck.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+Operator
+
+That being our final question, this concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for closing remarks.
+
+Roy Harvey
+
+Thanks, Gary, and thanks to everyone for joining our call today and also very much for your continued interest in Alcoa. We're focused very clearly on driving improvements for the future. And we're focused on a future where aluminum will continue to be an important metal, an important metal for decarbonization, an important metal for across all the applications as our economies continue to improve.
+
+We've got a lot of advantages built into Alcoa. We're a pure-play aluminum company and we have tried to demonstrate that, we take actions so that we can make this Company better each and every day.
+
+I look forward to talking to you again in October where we'll report our third quarter results. And in the meantime, please all be safe. Good night, everyone.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

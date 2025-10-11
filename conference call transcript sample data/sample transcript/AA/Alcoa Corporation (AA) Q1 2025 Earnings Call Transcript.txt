@@ -1,0 +1,479 @@
+Alcoa Corporation (NYSE:AA) Q1 2025 Earnings Conference Call April 16, 2025 5:00 PM ET
+
+Company Participants
+
+Louis Langlois - SVP, Treasury & Capital Markets
+William Oplinger - President & CEO
+Molly Beerman - EVP & CFO
+
+Conference Call Participants
+
+Timna Tanners - Wolfe Research
+William Peterson - JP Morgan
+Chris LaFemina - Jefferies
+Nick Giles - B. Riley Securities
+Carlos de Alva - Morgan Stanley
+Daniel Major - UBS
+Katja Jancic - BMO Capital Markets
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation First Quarter 2025 Earnings Presentation and Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today’s presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Louis Langlois, Senior Vice President of Treasury and Capital Markets. Please go ahead.
+
+Louis Langlois
+
+Thank you, and good day, everyone. I'm joined today by William Oplinger, Alcoa Corporation President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Bill and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation.
+
+We have not presented quantitative reconciliations of certain forward-looking non-GAAP financial measures for reasons noted on this slide. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings press release and slide presentation are available on our website.
+
+Now, I'd like to turn over the call to Bill.
+
+William Oplinger
+
+Thanks, Louis, and welcome to our first quarter 2025 earnings conference call. Alcoa had strong first quarter financial and production results. We maintained a fast pace of execution on our priorities despite economic uncertainty, while progressing operational excellence through safety, stability and continuous improvement. Underlying the strength of our performance were positive market conditions.
+
+Let's start with safety. First and foremost, a strong safety culture supports operational excellence. We had no fatal or serious injuries in the first quarter, and we continue to improve our safety performance. Operational stability is shown by solid production, where the majority of our operations improved sequentially on a tons per day basis. We also continued to improve stability at the Alumar smelter in Brazil, currently operating at approximately 91% capacity.
+
+We completed a $1 billion debt offering in Australia, using most of the proceeds to repay existing debt. The new debt has extended the maturities at a lower after-tax interest expense than our previously outstanding debt. Lastly, we formed a joint venture with IGNIS EQT for our San Ciprian operations and are now resuming production at the smelter in accordance with the viability agreement.
+
+Now I'll turn it over to Molly to take us through the strong financial results.
+
+Molly Beerman
+
+Thank you, Bill. Revenue was down 3% sequentially to $3.4 billion. In the Alumina segment, third-party revenue decreased 8% on lower average realized third-party price and lower shipments due to timing and decreased trading. In the Aluminum segment, third-party revenue was flat due to an increase in the average realized third-party price, offset by lower shipments in the first quarter after strong sales in the fourth quarter of 2024.
+
+First quarter net income attributable to Alcoa was $548 million versus the prior quarter of $202 million, with earnings per common share more than doubling to $2.07 per share. The sequential improvement reflects increased aluminum prices and lower intersegment profit eliminations, partially offset by increased alumina costs and tariffs on our Canadian aluminum imported into the United States for U.S. customers. On an adjusted basis, net income attributable to Alcoa was $568 million or $2.15 per share. Adjusted EBITDA increased $178 million to $855 million.
+
+Let's look at the key drivers of EBITDA. First quarter adjusted EBITDA reflects higher aluminum prices and lower intersegment profit elimination, which more than offset lower alumina prices. Lower volumes, increases in raw material and energy prices and higher production costs were more than offset by improvements in price/mix and other costs. Lower volume in the first quarter was expected after a strong fourth quarter shipping schedule, mainly alumina from our Australian refineries. Other costs primarily relate to intersegment eliminations.
+
+The Alumina segment adjusted EBITDA decreased $52 million, primarily due to lower alumina prices, lower volume and unfavorable currency impacts only partially offset by favorable production costs and other costs. The Aluminum segment adjusted EBITDA decreased $60 million with higher metal prices and favorable currency more than offset by higher alumina costs and higher production, energy, raw material and other costs.
+
+Included in other costs are approximately $20 million for U.S. Section 232 tariffs of 25% on aluminum imports from Canada, which became effective on March 12. Outside the segments, other corporate costs decreased and the intersegment elimination expense decreased as expected with significantly lower average alumina price requiring less inventory profit elimination.
+
+Moving on to cash flow activities for the first quarter. We ended the first quarter with cash of $1.2 billion. Strong EBITDA led to positive cash from operations in the first quarter despite high consumption of cash for working capital build, which is typical in our first quarter periods. Working capital increased as inventories in both segments rose and alumina on higher raw material price and volumes and in aluminum on timing of raw material and aluminum shipments.
+
+Accounts payable decreased following elevated alumina trading payables in the fourth quarter. In the first quarter, we progressed our objective to reposition debt and delever with the issuance of $1 billion of debt in Australia and the tender of $890 million related to our outstanding 2027 and 2028 notes. It is our intention to continue to delever with an initial focus on the remainder of the 2027 notes.
+
+Moving on to other key financial metrics. The year-to-date return on equity was positive at 39.1%. Days working capital increased 13 days sequentially to 47 days with same level year-over-year, but elevated from our year end 2024 level. Our first quarter dividend added $26 million to stockholder capital return.
+
+We had positive free cash flow plus net non-controlling interest contributions for the quarter which includes the EUR25 million contribution from IGNIS EQT related to the San Ciprian joint venture formation. Proceeds from the debt issuance in Australia, less debt tendered added $95 million to the ending cash balance of $1.2 billion.
+
+As we turn to the next slide, we'd like to share an update on our capital allocation targets. Our overall capital allocation framework remains unchanged. It starts with maintaining a strong balance sheet throughout the cycles and sufficiently funding our operations to sustain and improve them.
+
+The optimal capital structure for our company is reached when investment grade leverage metrics are achieved, reducing our WACC and creating value for our stockholders through a higher company valuation, lower cost of financing and improved project viability. We want to maintain investment grade leverage metrics throughout all business cycles, not only at the mid or top part of the cycle.
+
+Based on this, we first defined a target for adjusted debt, which includes pension and OPEB liabilities. This target is $2.1 billion to $2.5 billion. Then, considering our historical use rate of cash, we target a cash balance between $1 million and $1.5 million. Netting the cash with the adjusted debt results in our targeted range of adjusted net debt of $1 billion to $1.5 billion. We believe this range fits our profile and anticipated use of leverage as a company.
+
+I want to clarify that we are not committing to receiving and/or maintaining investment grade credit ratings. The credit ratings are assessed by the rating agencies. We want to maintain the flexibility to raise additional debt for strategic opportunities at any point in the cycle.
+
+Our adjusted net debt was $2.1 billion at the end of the first quarter. As we get closer to the $1 billion to $1.5 billion target, we will look at all of our capital allocation priorities, including cash returns to stockholders in parallel to paying down debt.
+
+Turning to the outlook. We have one adjustment to our full year outlook. We are updating depreciation expense from $640 million to $620 million due primarily to favorable currency impacts.
+
+For the second quarter of 2025, in the Alumina segment, we expect to maintain the strong level of performance delivered in the first quarter. In the Aluminum segment, we expect performance to be unfavorable by approximately $105 million due to U.S. Section 232 tariff costs on imports of our Canadian aluminum, increasing approximately $90 million sequentially as well as operating costs associated with the restart of the San Ciprian smelter of approximately $15 million.
+
+While the lower average price of alumina will decrease overall Alcoa adjusted EBITDA, alumina cost in the Aluminum segment is expected to be favorable by $165 million. For intersegment eliminations, with the current market volatility, we recommend that you use the low end of the sensitivity range in your model.
+
+Below EBITDA, within other expenses, equity investment losses are expected to increase by $10 million in the second quarter. The first quarter included favorable impacts of $20 million due to foreign currency gains, which may not recur. Based on last week's pricing, we expect second quarter operational tax to be a benefit of $50 million to $60 million, which includes timing and catch-up adjustments related to lower alumina prices.
+
+In the appendix to the earnings material, you will see that our Midwest paid and Midwest unpaid premium sensitivity have been updated to reflect the expected trade flows as a result of tariff impacts. We also revised our regional premium distribution for your reference.
+
+Updates to the Midwest premium do not include the cost component of the tariffs. There is a new column on the sensitivity slide for the tariff cost impact, which will appear in the other bar of our EBITDA bridge. Since the second quarter will be the first full quarter of tariff, you should consider a quarterly tariff cost of approximately $105 million as a baseline, calculated based on an LME of $2,400 and the Midwest premium of $0.39 per pound. We will update our sensitivities as needed as our trade flows adjust to the tariff structure.
+
+Now I'll turn it back to Bill.
+
+William Oplinger
+
+Thanks, Molly. Let me take the opportunity to speak to the current status of U.S. tariffs applicable to the aluminum industry from Alcoa's perspective. While the U.S. Section 232 tariff structure has been in place for some time, in March, the tariff increased from 10% to 25%, and the exemption for Canadian metal imported into the U.S. was removed.
+
+This is the most material impact to Alcoa as approximately 70% of our aluminum produced in Canada is destined for U.S. customers and is now subject to 25% tariff cost, which totals an estimated $400 million to $425 million annually. Of course, there is a higher Midwest premium, which offset some of this cost and certainly benefits our U.S. smelters, but currently, the net annual result is approximately $100 million negative for our business.
+
+Next are the IEEPA tariffs on imports from Canada, Mexico and China. Since our aluminum products and the majority of our input materials from Canada and Mexico qualify under the USMCA provisions, Alcoa does not have a significant impact from this tariff at this time. The reciprocal tariffs specifically exclude Canada and Mexico, as well as aluminum products already subject to Section 232 tariffs, so no impact on Alcoa's aluminum sales.
+
+While alumina and other raw materials are excluded from the reciprocal tariffs, there is a portion of our input materials provided by Chinese suppliers that is now subject to the high reciprocal tariff. We expect these tariffs will increase our input costs by $10 million to $15 million annually as there are no suitable replacement suppliers.
+
+In 2024, the U.S. imported approximately 4.2 million metric tons of primary aluminum, with imports of Canadian aluminum representing approximately 70% or 2.9 million metric tons. The four operating smelters in the U.S. produce 700,000 metric tons of aluminum each year. If all idle smelting capacity in the U.S. would restart, which is approximately 600,000 metric tons, U.S. would still be short by 3.6 million metric tons.
+
+It takes many years to build a new smelter and at least five to six smelters would be required to address the U.S. demand for primary aluminum. These new smelters would require additional energy production equivalent to almost seven new nuclear reactors or more than 10 Hoover dams. Until additional smelting capacity is built in the U.S., the most efficient aluminum supply chain is Canadian aluminum going into the U.S.
+
+That being said, our global smelting portfolio and commercial experience gives us options to shift metal supply as needed if trade policies and economics warrant. We have operated for more than 135 years in the aluminum industry. Building on our experience, we will continue our engagement efforts with the U.S. government and policymakers to advocate for the best outcome possible.
+
+Now let's discuss our market. In alumina, after reaching an all-time high in the fourth quarter of 2024, alumina prices declined in the first quarter of 2025. This was due to relatively higher liquidity, mainly driven by the Chinese refinery ramp-ups and normalized production outside China following several disruptions last year, as well as more recent alumina price declines on softened sentiment given global market uncertainty.
+
+Though the market has resolved most of the issues leading to its tightness in 2024, there is still uncertainty about the timing of the planned refinery ramp-ups in Indonesia and India this year. With bauxite prices remaining relatively high and the current lower alumina price, we estimate that over 80% of Chinese refineries are unprofitable.
+
+Additionally, a recent announcement by the Chinese government stated that there would be higher scrutiny on new alumina projects regarding air pollution control, bauxite sourcing and red mud processing, which could bring additional constraints on growth in Chinese alumina production and may accelerate curtailments. This is a dynamic market and Alcoa's global network of refineries provides security of supply of alumina both to Alcoa smelters and our major customers, which are primarily in the Middle East.
+
+A final point to highlight here is the opportunity we had in the first quarter to capitalize on the tightness in the bauxite market. With the high prices in the first quarter, we participated in the spot market to capture benefits for some volumes from our joint venture in Guinea.
+
+Let's move on to aluminum. The LME aluminum price was generally resilient in the first quarter even with the decreasing alumina price. With tariff announcements earlier this month, the LME responded by turning lower, reflecting the uncertainty of the impact of tariffs on the global economy and aluminum market.
+
+While the Midwest premium increased with the introduction of tariffs, it has not reached the $880 to $990 per ton level, which analysts predict support shipments from any region to the U.S. The logistics still favor shipments from Canada to the U.S. compared to other potential major suppliers.
+
+In our view, the Midwest premium has not fully responded due to the uncertain market sentiment, as well as inventory build in the U.S. ahead of the tariffs. The depletion of these inventories should trigger some upward response.
+
+Despite the uncertainty caused by the U.S. tariffs, there were some supportive signs on the demand side in the first quarter, namely the Chinese stimulus and European fiscal loosening. Aluminum supply growth in the first quarter was very limited as smelter ramp-ups were offset by the effect of closures that took place at the end of last year.
+
+In North America, our aluminum value add product shipment volumes increased both sequentially and year-over-year with healthy demand for slab, billet and rod. However, it is difficult to say whether our customers were anticipating tariffs and therefore, buying in advance.
+
+In Europe, there were slightly lower VAP volumes in the first quarter compared to the fourth quarter but up year-over-year, with strong demand for rod and slab and billet demand finally improving. For both regions, we saw the negative impact of tariffs in our foundry order book, which is closely tied with the automotive market and faces the largest amount of uncertainty from the tariff impact.
+
+Turning to Spain. We recently announced the formation of the joint venture with IGNIS EQT to support the continued operation of the San Ciprian complex. The idle smelting capacity is now being restarted to meet our obligation under the viability agreement, which was signed with our workforce when we curtailed the smelter in 2021 due to exorbitant energy prices. We are now focused on safely restarting the idle capacity.
+
+We will focus on repeating the strong operational results delivered in the first quarter. However, we are now adding the challenge of navigating uncertainty in our markets. It's a good time to consider the actions we've taken both recently and in the past to be well positioned to address adversity and capture opportunities.
+
+As a pure-play aluminum company, vertically integrated from mine to metal with a global footprint and cost effective portfolio of assets, Alcoa has the ability to maneuver and respond to challenging and changing markets and policies. Security of supply through long-term contracts is valued by our customers. We also have the most comprehensive low-carbon products portfolio in the aluminum industry to meet customer needs.
+
+The company has a significant cash balance and a strong capital structure with no near-term debt maturities or other obligations requiring significant cash outlays beyond normal operations. We've taken strategic actions that strengthen the company over time, including the recent acquisition of Alumina Limited and the announcement of the sale of the Ma'aden joint ventures, which is expected to close in the second quarter.
+
+We have a track record of monetizing non-core assets, including transformation sites, which drive value for our stockholders. We also executed initiatives to be more cost effective as demonstrated by our over delivering on our $645 million profitability program last year. These competitive advantages and actions support Alcoa's resilience.
+
+In summary, as we close out the presentation, Alcoa had a strong first quarter with improved safety and stable production. As a company, we made good progress on strategic actions. Looking ahead, we plan to maintain a fast pace of execution on our 2025 key areas of focus and strategic initiatives, improve the competitiveness of our operations and navigate market challenges to deliver value to our stockholders.
+
+Operator, let's start the question-and-answer portion of the session.
+
+Question-and-Answer Session
+
+Operator
+
+We will now begin the question-and-answer session. [Operator Instructions] Our first question today is from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Yeah. Good evening. Hope you are well. I wanted to ask a little bit more about the tariff math, if we could. I know that we heard from Molly $105 million quarterly hit. And then I heard another $100 million from Bill. I just want to make sure I understood the distinction there. And I know that in the past, Molly had talked about tens of millions of impact. I think that was assuming a higher Midwest premium, but just was hoping for a bit more clarification, please.
+
+Molly Beerman
+
+Hi, Timna. So the first $100 million that we talked about, the negative $100 million to our overall business, that is when you consider we are getting a higher Midwest premium on our U.S. tons, that brings a value of about $95 million. We'll also get a higher value within our Canadian asset sale -- or sorry, Canadian metal sales into the U.S., that's $222 million. But going against that is the $400 million that Bill spoke of, the cost of the Canadian tariff. So that nets to the $100 million, and that's for the year. So that is a net number of the revenue considered against the tariff cost.
+
+When I spoke of the $105 million, that is a quarterly figure, that $105 is calculated based on an LME of $2,400 and a Midwest premium of $0.39, and those are the same assumptions that are in the first $100 million for the company as a whole. When we spoke, Timna, about the impact earlier, we were using different Midwest premium assumptions. We had expected that the Midwest premium would respond more quickly. It is not. It is still down from what we would hope. We see that because of the negative sentiment in the market as well as the fact that some tons did get stockpiled in inventory in the U.S. ahead of the tariff. And until that stockpile depletes, we don't have the impetus for price pressure up.
+
+Timna Tanners
+
+Understood. That's helpful. And then my follow-up on tariffs again would be any updated thoughts on the stickiness of these tariffs? And if sticky, do you think about restarting Warrick in what time frame? Thanks a lot.
+
+William Oplinger
+
+Hey, Timna. Thanks for the question. It's hard to make a restart decision based on a tariff that can change. And I really can't comment on the stickiness because we have seen the volatility of discussions around the tariffs over the last 60 days. So we just don't know whether they will stick. And we wouldn't necessarily make a decision to restart capacity simply based on tariffs just because they can change.
+
+Timna Tanners
+
+Understood. Thanks again.
+
+Operator
+
+The next question is from Bill Peterson with JPMorgan. Please go ahead.
+
+William Peterson
+
+Yeah. Hi. Good afternoon and thanks for taking the question. Maybe following up on the tariffs a bit. So you talked about engaging with governments, policymakers, U.S. and abroad. But can you provide, I guess, additional color on the level of engagement, who in the Trump and maybe Canadian administrations you're dealing with? And I guess, are you going at it alone as Alcoa or in partnership with other aluminum companies or maybe potentially customers of your products?
+
+I'm asking the second part in the context of some competitors either with a larger portion of domestic production or even like Middle Eastern competitors that are evidently announcing intentions to build U.S. capacity. I'm basically wondering, are there some in the administration that are sympathetic to your arguments that the U.S. really isn't going to be able to close the gap anytime soon?
+
+William Oplinger
+
+Bill, so it's a wide ranging question. I'll give you a wide ranging answer. We are engaging with both the U.S. government and the Canadian government. We're doing that as Alcoa. We're also doing that through the U.S. Aluminum Association. We have met either through ourselves or through the association with a number of President Trump's direct reports. And the message is fairly simple. The message is that the U.S. imports a lot of its primary aluminum and that in order to support the downstream processing jobs, we need to have economic upstream aluminum production that can come in through -- preferably through Canada but through other countries.
+
+We've met with the Canadian government, both the outgoing Prime Minister, Mr. Trudeau, also the current Prime Minister, Mr. Carney, and have had very good discussions there. So a lot of engagement, both through us and the Aluminum Association. And the way I would characterize it is that -- and I should say, it's been with the administration. It's been with the House members. It's also been with the senators. I would characterize it that people are listening to us. They're understanding the situation, and we'll see where we get to, but it has been at least a reception to the message that we've provided.
+
+William Peterson
+
+Yeah. Thanks for that. Thanks for those insights. And then, you had the cost curve on alumina, but I'm wondering where alumina pricing is tracking today, as well as potentially challenging fundamental backdrop ahead. Where do you think the marginal cost support of alumina stands today globally?
+
+William Oplinger
+
+So as of today, as I said in my prepared remarks, over 80% of the Chinese refining system is underwater. And so we believe that there's good support level at today's pricing. We just saw today, and this is very recent news, that alumina prices came back up overnight by $17. So it feels like there's some support at the levels that it's at. Now that is all based on bauxite pricing and bauxite pricing has been strong through the first 3.5 months of the year. And it still sits at $80 to $85 a ton bauxite pricing, and that is a support for alumina costs.
+
+William Peterson
+
+Thanks, Bill.
+
+William Oplinger
+
+Thanks, Will.
+
+Operator
+
+The next question is from Chris LaFemina with Jefferies. Please go ahead.
+
+Chris LaFemina
+
+Hi. Thanks, operator. Hi, Bill. Thanks for taking my question. Just wanted to ask on San Ciprian. So the slide that you have here, you talk about the impact on 2025. And then also the hedging strategy, you've deployed it to mitigate financial risks from 2025 to 2027. So if we're looking at, I don't know, $100 million to $120 million of negative cash flow from the restart of the smelter in 2025, what happens beyond 2025? How do the hedges help?
+
+And then secondly, I think there was -- the guidance had been that if you burn through roughly $200 million at San Ciprian, it comes to a point where you just can't continue to subsidize that. And does this hedging strategy that you refer to here protect you from that over the 2025 to 2027 period?
+
+Molly Beerman
+
+Chris, I'll take this one.
+
+Chris LaFemina
+
+Thanks, Molley.
+
+Molly Beerman
+
+Fortunately, we did start to put the hedges in place several weeks ago, and we have secured hedge pricing that will help us to manage the cost within the funding envelope. We are focused year-by-year on 2025. We released the guidance for the smelter. We expect to lose about $70 million to $90 million in EBITDA. The cash used by those operations will be about $90 million to $110 million. The CapEx that we referred to is already included in our CapEx guidance.
+
+Chris LaFemina
+
+Okay. So…
+
+William Oplinger
+
+It's important to remember also that a portion of that CapEx we would need to spend anyway. A portion of that CapEx is going toward the raise of the refinery at red mud lake that no matter whether we are running it or not, we would need to be able to make that because it also assists us in the final closure of that red mud lake.
+
+Chris LaFemina
+
+Right. And could you quantify what the EBITDA impact would be in 2026, if you assume that prices don't change? I mean how much of that $70 million to $90 million negative impact in 2025 is a function of restart and kind of other one-off costs that are not going to repeat? And also how much of that is protected by tariffs and -- or sorry, by your hedging in 2026? In other words, is this going to be $70 million to $90 million a year or is it going to be a lot less than that in terms of the loss in 2026 if we assume prices don't change? Thank you.
+
+Molly Beerman
+
+The smelter losses are heavier in 2025 because we have the inefficiencies of the restart. We've not yet released the '26 numbers, Chris. We'll look to do that as we get closer to the end of the year.
+
+Chris LaFemina
+
+Okay. Thank you.
+
+Operator
+
+The next question is from Nick Giles with B. Riley Securities. Please go ahead.
+
+Nick Giles
+
+Thanks, operator. Good evening, everyone. My first question was, you mentioned the higher scrutiny on future alumina production in China. But if 80% are unprofitable today, what do you think it will ultimately take for Chinese alumina refineries to curtail output?
+
+William Oplinger
+
+We're seeing part of it today already. The Chinese -- in my history in this industry, the Chinese are very quick to react to negative economic scenarios. And so, we're seeing it today with maintenance outages, extended maintenance outages. So I really believe that they will react quickly to loss making sites.
+
+Nick Giles
+
+Thanks for that, Bill. And then, maybe just a follow-up there. You mentioned spot bauxite opportunities in 1Q. And so, with the lower alumina prices, but bauxite prices remaining more resilient, could it make sense to reduce alumina production and sell more bauxite directly to Chinese refineries, for instance?
+
+William Oplinger
+
+I think the economics would be really, really difficult to do that. And the reason why I say that is the marginal tons that you run through the refineries are generally pretty low cost. And so I don't believe, and I haven't looked at the numbers recently, but I don't believe it would support curtailing refining capacity to sell bauxite into China. So I just don't think that would solve at this point.
+
+Nick Giles
+
+All right. Thanks for that, Bill. Just my second question would be, what's the impact of lower oil and other input prices on the cost side? Could you speak to when some of that could flow through? And if not, in the second quarter, could we ultimately see some benefit in the third quarter that might not be reflected in your current guide?
+
+Molly Beerman
+
+So, as we look at our raw material costs in the second quarter, we are seeing caustic price increasing. We have about a $5 million negative. We didn't call that out in the guidance because we have productivity initiatives to offset it. And likewise, on the smelting side, we have price pressure primarily in coke, that's about another $5 million. But the same, we didn't call that out because we expect to overcome that with productivity.
+
+Nick Giles
+
+Got it. Thanks very much. Continue, best of luck.
+
+Molly Beerman
+
+Thank you.
+
+Operator
+
+The next question is from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos de Alba
+
+Yeah. Thank you very much. Just on working capital, Molly, obviously, we're expecting all -- the consensus ourselves, an increase in working capital in the quarter, but it was a little bit more than expected. How do you see that playing out in the remaining quarters?
+
+Molly Beerman
+
+Hi, Carlos. We will see working capital come down significantly throughout the year as we typically do. We do expect a pretty sizable drop-off in the second quarter just coming off some of the high pricing. As we looked at the timing of shipments, as well as some of the buildup in raw material prices and volumes, we did hit a higher working capital level first quarter than we had expected.
+
+Carlos de Alba
+
+Fair enough. And then in your guidance, I just want to confirm that you're expecting the second quarter to have a tax benefit between $50 million and $60 million. So this is -- it's fair to say that it's because the expectation is to have negative profit in the quarter?
+
+Molly Beerman
+
+It's not negative profit, Carlos. It's the -- remember, we calculate our taxes always on a year-to-date basis. And so, we earned quite a bit in the first quarter. And as you look at declining alumina prices, then we have to do a catch-up entry for taxes to the first quarter. So it's really the catch-up entry that creates thus into a net benefit position.
+
+Carlos de Alba
+
+Great. Thank you very much.
+
+William Oplinger
+
+Is that clear to you, Carlos, because that's a tough concept. You forecast out for the year, when you close your books at the end of March, what your taxes will be and you book the taxes accordingly. Essentially, what we're saying is that profitability will be, at least with our current view, will be lower in the second quarter because of pricing coming down, and we will be booking a tax benefit associated with our full year tax guidance.
+
+So it's not that we're projecting -- don't think that, hey, they're projecting tax income because they're going to have an EBITDA loss, that's not the case. You project out the full year taxes and adjust it each quarter. And just I don't want you to walk away thinking, these guys are going to be projecting negative PBT in the second – pre-tax profit in the second quarter because of the tax guidance that we're providing. Feel free to...
+
+Molly Beerman
+
+Yeah. That's exactly correct. Thank you. [Multiple Speakers]
+
+William Oplinger
+
+I'm using layman terms, I'm sorry, because it's complex stuff. And the tone of the question was, man, you're going to have big losses. No, that's not. It's just a catch-up.
+
+Molly Beerman
+
+If you look at the two details, we will actually have regular tax expense related to earnings in the second quarter, but we will have a catch-up entry that will trigger a benefit related to the first quarter.
+
+William Oplinger
+
+Yeah.
+
+Carlos de Alba
+
+Great. Thank you.
+
+William Oplinger
+
+Clear as mud, but I'm sure Louis can clear everything up for everyone.
+
+Operator
+
+The next question is from Daniel Major with UBS. Please go ahead.
+
+Daniel Major
+
+Hi. Yeah. Thanks. Can you hear me, okay?
+
+William Oplinger
+
+Yes. Hi, Daniel.
+
+Molly Beerman
+
+Yes.
+
+Daniel Major
+
+Great. Yeah. Thanks. Just a follow-up on -- just to clarify the sensitivities around the tariffs. So I think you clarified before that the tariff is based on the LME plus the duty unpaid premium that's about $300, I believe, at the moment. So the 25% tariff, if that was applied to that, would it be right that, that would be about $975 million against the current Midwest of about $850 million. So is it the right assumption that if things normalize, the premium lifts by around $100, all else equal, that would be broadly neutral to the business relative to the $100 million guidance you've given based on the $0.39. Is that the right way of thinking about those sensitivities?
+
+William Oplinger
+
+We're not completely following the logic. And what I would suggest to you is you take that logic off-line with Louis later and he can answer it. What we can say is that the Midwest hasn't reacted as -- it's back to Timna's question. The Midwest has not reacted, as high as what we would have anticipated based on a 25% 232 tariff. And the reasons for that are the two that Molly listed.
+
+One, there's still uncertainty around the tariffs. And I think the market bakes in uncertainty around the tariffs given some of the swings that we've seen. And then secondly, there was some importation of aluminum in advance of the tariffs that will need to burn through in the United States until you see that marginal ton be really necessary to drive the marginal ton to come to the United States.
+
+Daniel Major
+
+Okay. Many thanks for that. And then the second question, on San Ciprian, following on from Chris' question. I think previously, you'd indicated that one of the requirements to put more cash into the complex was the release of the restricted cash. I think that still sits at about $88 million. Can you give us an update on when you expect that to be released and how that will be kind of distributed? Will that go into funding cash burn beyond 2025, or will it move back on to Alcoa's balance sheet and into the sort of net debt bridge?
+
+Molly Beerman
+
+We have had success having a portion of it released. So the money that was related to the restart, there's about $12 million that's been released, and we continue to have discussions with the workers' representatives on getting the balance released. There's about $75 million more there.
+
+Daniel Major
+
+And do you have an expected timing on the release of that $75 million?
+
+Molly Beerman
+
+Those discussions continue. We expect that we will get recoveries related to the restart costs. Those will come in as we spend, we'll get those pieces released. But the part that is held related to the anode bake furnace build, that's a CapEx project that we are not going to do during this recovery period. That's about $50 million, and that is the contentious point in the discussion.
+
+William Oplinger
+
+We are not planning on rebuilding the bake furnace through 2027. So the thinking is that, that would be held up, that cash.
+
+Daniel Major
+
+Okay. And then just a final follow-up, if I could, on the guidance you gave on the cash burn for San Ciprian, the $90 million to $110 million. Is that just the smelter and not the refinery?
+
+Molly Beerman
+
+Just the smelter.
+
+Daniel Major
+
+And I would assume the refinery is burning cash at $350 million alumina as well.
+
+Molly Beerman
+
+Yeah. The refinery has been near breakeven through the first quarter as well, but it will move into a loss position with the lower API.
+
+Daniel Major
+
+Okay. Thanks for the questions.
+
+Operator
+
+The next question is from Katja Jancic with BMO Capital Markets.
+
+Katja Jancic
+
+Hi. Thank you for taking my questions. Maybe going back to the Midwest premium, and I apologize if I missed that, but what was the higher Midwest premium assumed in the net $100 million calculation of the tariff impact?
+
+Molly Beerman
+
+Katja, we were comparing the January 31 Midwest premium. We kind of consider that the base before tariffs of $0.24 and then comparing it to the Midwest premium earlier this week at $0.39. So that's the comparison.
+
+Katja Jancic
+
+Okay.
+
+William Oplinger
+
+So the $100 million is based on a $0.39 Midwest premium.
+
+Katja Jancic
+
+And Bill, you said -- you mentioned the Midwest premium didn't react as expected based on the 25% tariffs. What would be the right Midwest premium related to the tariffs?
+
+William Oplinger
+
+I added it in my slide presentation, so you're going to ask me to go back to that. It was…
+
+Molly Beerman
+
+$880 to $990.
+
+William Oplinger
+
+Thank you, Molly. You know my numbers better than I do. $880 -- it's on Page 17 of the slide presentation $880 to $990. And that's what we would think the equilibrium would be at a 25% Midwest premium -- I'm sorry, 25% tariff.
+
+Katja Jancic
+
+Thanks. And then maybe lastly, just on the permitting in Western Australia. Is that still progressing as expected?
+
+William Oplinger
+
+It is. We have a public comment period coming up here towards the beginning of the second quarter. So it is progressing as expected.
+
+Katja Jancic
+
+Okay. Thank you.
+
+Operator
+
+The next question is a follow-up from Nick Giles with B. Riley Securities. Please go ahead.
+
+Nick Giles
+
+Thank you very much for taking my follow-on. Iceland's Prime Minister made some comments around concerns that shipments from Iceland to the EU could be subject to trade restrictions. Whether or not that's true, I was just wondering if you could comment on how Alcoa could be impacted by any trade action in the EU, and maybe separately, how Alcoa, your desire to participate in the EU's effort to ultimately reshore capacity? Thanks very much.
+
+William Oplinger
+
+Nick, it's a great question that doesn't have a great answer. And the reason why I say that is, there is just too much uncertainty still about what the EU will do in relation to the U.S. tariffs for us to speculate at this point. The U.S. tariffs are pretty well settled around the 232. However, the IEEPA tariffs and the reciprocal tariffs, there's still a lot of questions there. So for me to speculate what the Europeans will do is probably premature at this point.
+
+As far as reshoring capacity, we have capacity in two plants in Norway, one in Iceland, and we're restarting the Spanish facility. We've talked a lot about the restart of the Spanish facility and the financial burden that, that creates on the company. The reason why we're doing that is because we had a contractual commitment to restart it. And that's why we are restarting that capacity. So that, in and of itself, reshores a couple of hundred thousand tons of smelting capacity into Europe.
+
+Nick Giles
+
+That’s very helpful. Appreciate all the color.
+
+William Oplinger
+
+Thanks, Nick.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Oplinger for any closing remarks.
+
+William Oplinger
+
+Thanks for joining our call today. Molly and I look forward to sharing further progress when we speak again in July. Thank you. This concludes our call.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

@@ -1,0 +1,434 @@
+Alcoa Corporation (NYSE:AA) Q2 2024 Earnings Conference Call July 17, 2024 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President, Investor Relations & Pension Investments
+William Oplinger - President & Chief Executive Officer
+Molly Beerman - Executive Vice President & Chief Financial Officer
+
+Conference Call Participants
+
+Carlos De Alba - Morgan Stanley
+Katja Jancic - BMO Capital Markets
+Michael Dudas - Vertical Research
+John Tumazos - John Tumazos Very Independent Research
+Timna Tanners - Wolfe Research
+Alex Hacking - Citi
+Bennett Moore - JPMorgan
+Lucas Pipes - B. Riley
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Second Quarter 2024 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note that this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President, Investor Relations and Pension Investments. Please go ahead, sir.
+
+James Dwyer
+
+Thank you, and good day, everyone. I'm joined today by William Oplinger, Alcoa Corporation's President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Bill and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. We have not presented quantitative reconciliations of certain forward-looking non-GAAP financial measures for reasons noted on this slide. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings press release and slide presentation are available on our website.
+
+With that, here's Bill.
+
+William Oplinger
+
+Thanks, Jim, and welcome everyone to our second quarter 2024 earnings conference call. Before we get to all the good work we have done in the quarter, I'm pleased to say that we are nearing completion of the Alumina Limited acquisition. We held the Alcoa Stockholder Meeting yesterday and Alcoa stockholders have voted overwhelmingly to approve issuing Alcoa shares for the transaction.
+
+The Alumina Limited Shareholder meeting occurs in a few hours and we expect a favorable result there as well, which would lead to an expected transaction closing date of August 1. As you've heard me say before, we believe that this transaction is the right deal for both sets of shareholders and we look forward to realizing its benefits and welcoming Alumina Limited shareholders into Alcoa.
+
+Now let's move to the quarter. First, I'm pleased that our safety programs continue to drive the right behaviors and are being reflected in both leading and lagging indicators. Safety is the linchpin of our care for people value and the bedrock upon which we build operational excellence. Second, our profitability improvement programs are delivering results and remain on track. Third, operational stability is evidenced by smelter production records at the Canadian system and Mosjoen, a safe and timely curtailment of Kwinana and steadily improving stability at the Alumar smelter.
+
+In addition, we continue to work toward the best possible resolution at San Ciprian as we strive to find competitive energy solutions and also progress the potential sale process. Finally, while we have been actively working on many fronts to improve the company, favorable alumina, and aluminum markets have also helped improve our profitability and cash flows.
+
+With that, I will turn it over to Molly, who has the details.
+
+Molly Beerman
+
+Thank you, Bill. Revenue was up sequentially to $2.9 billion on higher alumina and aluminum prices. In the Alumina segment, third-party revenue increased 5% due to a higher average realized third-party price, partially offset by lower shipments. In the Aluminum segment, third-party revenue increased 16% on higher average realized third-party price and increased shipments. Second quarter net income attributable to Alcoa was $20 million versus the loss in the prior quarter of $252 million with earnings per share improving by $1.52 to $0.11 per share.
+
+On an adjusted basis, the net earnings attributable to Alcoa was $30 million, or $0.16 per share. Adjusted EBITDA increased $193 million to $325 million. Let's look at the key drivers of EBITDA. The second quarter adjusted EBITDA increase was primarily due to higher average realized third-party prices for alumina and aluminum, partially offset by lower volume and other costs. The Alumina segment increased $47 million, primarily as higher alumina prices more than offset higher energy and production costs. The Aluminum segment increased $183 million, primarily due to higher metal prices, partially offset by higher alumina costs.
+
+Raw material and production cost improvements more than offset volume impacts related to shipments from our restarted Warrick and Alumar smelters. Outside the segments, other corporate costs increased primarily due to various labor-related expenses. Intersegment eliminations were unfavorable in the quarter, which is expected as the higher average alumina price increase requires more profit elimination.
+
+Let's look at cash movements within the second quarter on the next slide. Year-to-date through June, capital expenditures and working capital changes were our largest uses of cash. The first half of 2024 capital expenditures includes an investment of $38 million, which is a portion of our commitment to purchase two vessels to provide bauxite transportation in Brazil.
+
+Two additional vessels will be leased. We have an opportunity for significant reductions in bauxite freight cost between our Juruti mine and Alumar refinery. We estimate savings to be $14 to $16 per tonne of alumina. The first vessel arrived in Brazil this week with an additional three ships to be received later this year.
+
+We hired a contract operator with considerable expertise in the region to manage the technical operations on our behalf. Through the first six months of 2024, working capital is a use of cash. While we normally start to reduce working capital after the first quarter, higher alumina and aluminum prices in the second quarter raised accounts receivable more than the decrease in inventories, leaving the working capital balance close to flat between quarters. We still expect to continue to reduce the working capital balance throughout the remainder of the year.
+
+Moving on to other key financial metrics. While improving, the year-to-date return-on-equity was negative 5.8%. Days working capital decreased six days to 41 days sequentially, primarily due to a decrease in inventory days, partially offset by a decrease in accounts payable days, both on higher sales in the second quarter and favorable changes in the balances.
+
+Our second quarter dividend added $18 million to stockholder capital returns. Free cash flow, less net non-controlling interest distributions was positive for the quarter at $101 million, improving sequentially by $370 million. The cash balance was maintained at $1.4 billion. In connection with the Alumina Limited acquisition, Alcoa will assume approximately $390 million of the debt drawn on their revolver.
+
+We are looking at delevering options and expect to reduce debt levels as we continue to focus on maintaining a strong balance sheet and improving operations. On the outlook for the third quarter, other corporate cost is changing from approximately $120 million to approximately $140 million due to the previously mentioned additional labor-related expenses. Interest expense is changing from approximately $145 million to approximately $160 million related to the Alumina Limited debt assumed at acquisition closing.
+
+Return-seeking capital is changing from approximately $90 million to approximately $110 million as we are considering several return-seeking projects with attractive rates of return, primarily enhancements to our value add product capabilities and small Creek projects.
+
+Regarding sequential changes for the third quarter, in the Alumina segment, we expect unfavorable impacts of approximately $10 million related to Australia bauxite grade. In the Aluminum segment, we expect favorable raw material prices of approximately $10 million. While the higher price of alumina will increase overall Alcoa adjusted EBITDA, alumina costs in the Aluminum segment are expected to be unfavorable by $60 million.
+
+Below EBITDA, we expect third-quarter interest expense to increase by $5 million. Based on last week's pricing, we expect third quarter 2024 operational tax expense to approximate $60 million to $70 million. Net income attributable to non-controlling interest will be reported through acquisition closing and is expected to approximate $20 million. In relation to our expected closing of the Alumina Limited acquisition on August 1, you will see certain changes to our financial statements. In the appendix, we have included June 30 financials with notations on the changes to be made in the third quarter.
+
+As expected, the income statement will no longer reflect the portion of net income attributable to non-controlling interest and the balance sheet will reflect the debt assumed and collapse the non-controlling interest equity into additional capital. On the cash-flow statement, the distributions to non-controlling interest will end. Please see the appendix for additional details.
+
+Now, I'll turn it back to Bill.
+
+William Oplinger
+
+Thanks, Molly. Let's start with the markets. In, Alumina prices are up versus the first quarter. Supply is currently tight and there is a limited supply of low-carbon projects in the pipeline. The Alumina price surged in the second quarter, driven by several supply-side disruptions and continued strong demand from smelters. Supply issues occurred in both China and the rest of the world. Chinese refineries curtailed capacity due to shortages of domestic bauxite amid continued environmental and safety inspections. In response, the volume and price of seaborne bauxite imports into China has increased this year.
+
+Outside of China, supply issues due to the Queensland force majeure in Eastern Australia, reduced Indian alumina exports and the Kwinana curtailment in Western Australia reduced supply. Demand increased as seasonally curtailed capacity in Yunnan province in China restarted as well as some capacity in Europe that is still ramping up. All these factors contributed to making the spot market tight.
+
+In the longer term, we expect the demand for alumina to continue to grow in line with primary aluminum supply growth. However, there are supply challenges from both bauxite supply and refinery carbon footprint. Refining in China is likely to become more expensive over time. Chinese refineries are expected to increasingly rely on seaborne bauxite as their domestic resources deplete. In addition, a new policy was put in place this year to add energy efficiency standards for new domestic refineries, requiring additional investment and time to ensure they meet the standards.
+
+Another potential supply challenge is the carbon footprint of the refinery projects in the pipeline. For primary aluminum to be truly low-carbon, it needs to be low-carbon from mine to metal. We offer our low-carbon EcoLum Primary Aluminum, which is produced with less than 4 tonnes of carbon dioxide equivalents per ton of aluminum produced, including Scope 1 and 2 emissions from mining, refining, smelting, and casting. And the world's only low-carbon alumina brand, EcoSource, which has a carbon footprint under 0.6 tonnes of CO2 per tonne of alumina, including Scope 1 and 2 emissions from mining and refining.
+
+However, when considering likely alumina refinery projects, there are a few low-carbon Alumina projects in the global pipeline and none that we expect to come online before 2030. Let's move to the aluminum market. In aluminum, prices have moved higher versus the first quarter, reflecting current market dynamics. On the supply side, there are limited new smelting projects in the near term and China continues to hold to its 45 million tonne annualized capacity cap. Some Chinese smelters have relocated to different provinces within China to fully utilize their capacity quotas. And as a direct result of the cap, some Chinese-affiliated smelter projects have advanced outside of China in Indonesia and Angola.
+
+While supply growth has remained limited, global demand continues to increase year-on-year. This has kept global inventories at historically low levels. Digging deeper on demand, this year, several trade defense actions in North America and Europe have been implemented, which are likely to support demand in those regions. Overall, there is a strong recovery in the Packaging segment. Electrical and transportation remained solid too, even though growth in the automotive segment has slowed in recent months, particularly in Europe.
+
+Building and construction remains the most challenged sector. However, the start of interest rate cutting in Europe and anticipated rate cuts in the US later this year could provide uplift for this sector. On the pricing side, regional premiums in the second quarter were up sequentially across North America, Europe, and Asia, likely driven by a combination of the US and UK sanctions against Russian metal in April and continued supply-chain disruptions in the Red Sea.
+
+On the green aluminum front, we are excited to note that there are now low-carbon aluminum premium pricing indices available in Europe, North America, and Asia, representing 90% of all aluminum demand outside of China. As a leading supplier of low-carbon aluminum, we believe these premiums support our view that the demand for low-carbon products is rising.
+
+In the longer term, we see a bright future for aluminum. We remain convinced of a healthy long-term demand picture with growth driven by society's transition towards a low-carbon future. Demand for low-carbon primary aluminum should grow steadily as aluminum users focus on meeting their decarbonization targets and minimizing their exposure to carbon emissions-based import duties. While both overall and low-carbon aluminum demand are expected to grow, there's a shortlist of likely smelting projects coming online in the next five to 10 years with less than 25% of the projects in the next five years using renewable power. So in summary, both the alumina and aluminum markets are showing strength and our long-term outlook remains positive.
+
+Let's move to Alcoa-specific topics, including our current operating performance and an exciting announcement for future operations related to ELYSIS. Whenever I visit our operating locations, we discuss three things, safety, stability, and continuous improvement. Safety is a core Alcoa value. It is an indicator of process stability and a perfect place to focus on continuous improvement. We continue to evolve our safety programs and we judge performance based on leading indicators such as the roughly 8,300 critical control field verifications that we perform every month.
+
+Evidence of our improvement is also clear in our lagging safety indicators such as the DART and total recordable rates, which are both improving substantially year-on-year. It's no coincidence then that many of our plants are setting production records.
+
+Our Canadian smelting system set a half year production record and the Mosjoen smelter in Norway set both a quarterly and half year production record. In fact, Alcoa's total aluminum production has increased for seven straight quarters starting in the fourth quarter of 2022. That's a sign of both stability and continuous improvement.
+
+Turning to a longer-term project, we recently announced further progress on the ELYSIS technology program. Our ELYSIS partner will build tonnes of production cells in Quebec using ELYSIS technology. Alcoa will have offtake rights for up to 40% of the metal and Alcoa will produce and supply the anodes for the demonstration cells at its technology center near Pittsburgh.
+
+Alcoa will also benefit from the technology development that occurs in the project. We're excited for this first large-scale technology demonstration project to get underway and look forward to its successful startup by 2027.
+
+Finally, let me provide an update on two key areas of ongoing focus. Our profitability improvement programs and our San Ciprian improvement and sales processes. Six months ago, we provided a list of targeted actions to improve adjusted EBITDA by approximately $645 million by the end of 2025 compared to a 2023 baseline. To date, our year-on-year improvement has already met more than half the target, and just under $300 million remains to be captured over the next 18 months. A large piece of the program, almost half was raw materials cost-savings, which includes materials such as caustic, coke, and pitch.
+
+Thanks to our procurement team's good work and favorable markets, we are ahead of our raw material savings target. While the path is harder from here, we have already achieved three-quarters of the raw materials target and expect to exceed it by year-end. Progress is also being made on the other elements of the program. The productivity improvement program has captured $30 million in year-on-year savings, about a third of its target. Warrick, thanks to its successful potline restart, has captured half of its $60 million internal target with another $30 million of its $90 million total dependent upon increased IRA funding. The Alumar smelter restart has captured a third of its target and we are pleased with its increased operational stability.
+
+Finally, we are starting to see financial benefit of the full curtailment of the Kwinana refinery, although the full benefits are likely to be realized in 2025. So in total, we are pleased with our progress to date on our profitability improvement programs. The final near-term improvement lever we outlined was finding a solution for San Ciprian. Our two-pronged approach has focused on improving the location's competitiveness and on pursuing a potential sale. Both the sale process and competitiveness improvement initiative rely on finding competitive energy for both the smelter and refinery.
+
+While electricity and gas prices are lower than the recent extreme highs, they're still not back in a range that could be considered competitive. The Spanish government entities could be helpful on multiple fronts. On electricity costs that could provide material CO2 compensation and eliminate the permitting denials and delays that have precluded availability of low-cost renewable power generation. Even with these challenges, we continue to work the sale process and aim to bring it to the conclusion this year. But as noted earlier, a successful sale will depend on government and union support.
+
+Summing it up, we are close to finalizing the Alumina Limited acquisition. We are excited to welcome the Alumina Limited shareholders to Alcoa and firmly believe that this transaction will enhance Alcoa's position as a leading pure-play upstream global aluminum company. It will provide Alumina Limited shareholders ASX listed global aluminum exposure and result in greater operational and financial flexibility and strategic optionality. Our safety and operational metrics are continuing to advance as we diligently progress our various improvement initiatives.
+
+We have accomplished a lot and we are targeting even more. Recent Alumina and Aluminum markets have been favorable and we believe the mid and long-term outlook for the aluminum industry is bright. It's a great time to be at Alcoa.
+
+With that, let's start the question-and-answer session.
+
+Question-and-Answer Session
+
+Operator
+
+And we will now begin the question-and-answer session. [Operator Instructions] And our first question today will come from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yes. Thank you very much and congratulations on all the progress that you guys have made, Bill and Molly. So one question is on the pace of synergies, assuming that everything goes as expected and the transaction closes in early August, the synergies that you have laid out, how quickly can you realize, where do you expect to see the pace of those synergies once again the deal is closed?
+
+And my second question is related to the decision of Alcoa to not participate in the funding of the ELYSIS first plant -- industrial plant. I understand that you have the 40% right to -- the right to purchase 40% of the material, but what was the thought process for not participating in the investment?
+
+Molly Beerman
+
+Hi, Carlos. It's Molly. I'll take the first question and then Bill can take the second. On the synergies with Alumina Limited, we outlined that we would have overhead savings of $12 million and that will start immediately. The other thing that we outlined is the capital allocation framework improvements that we expect to get, by able to place debt closer to the operations that need them, so within the jurisdictions where we can have a tax advantage. Now that will take time and we'll move debt over a period of time, not immediately.
+
+William Oplinger
+
+On the second question, Carlos, we believe the construct of the solution that we have on this first implementation of ELYSIS is a really smart construct. And the reason being is that they're implementing the 10 ELYSIS smelting pots at 100 kA at Arvida. So it's a good testing ground for that size of the pot. At the same time, we will be building the anodes and the cathodes at the technical center. So it's a good balance between the two partners. I really like the solution also because we have the option of taking 40% of the offtake. And so we will have access to the lowest carbon metal in the world once this is up and running. So very pleased with the way we structured this deal and looking-forward to the success of this first implementation.
+
+Carlos De Alba
+
+Great. Thank you very much. Good luck.
+
+William Oplinger
+
+Thanks, Carlos.
+
+Operator
+
+And our next question will come from Katja Jancic with BMO Capital Markets. Please go ahead.
+
+Katja Jancic
+
+Hi, thank you for taking my question. Maybe near-term, Molly, you mentioned in the Alumina segment, you will have an unfavorable impact from bauxite grade in Australia. Can you provide a little more color on that? I would assume that with Kwinana being shut down that that could be less of an impact.
+
+Molly Beerman
+
+Katja, thanks for your question. What we are indicating with the $10 million additional unfavorable costs related to the bauxite quality, we are seeing additional maintenance costs. We actually had been operating favorably in comparison to our original estimates on the bauxite quality impacts, higher caustic, higher energy, higher bauxite usage, but now we are starting to face some maintenance. And so we are sorting the maintenance level that's going to be needed to run at the lower bauxite quality.
+
+Katja Jancic
+
+And maybe how should we think moving forward, is this something that will continue? Could there be incremental pressures?
+
+Molly Beerman
+
+We will give you additional guidance. Honestly, the teams are sorting that now. So between the maintenance teams and our center of excellence, they're working hard to determine what the proper spend level is.
+
+Katja Jancic
+
+Okay. Thank you. I'll hop back into the queue.
+
+Operator
+
+And our next question will come from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good morning, gentlemen, Molly.
+
+William Oplinger
+
+Hi, Michael.
+
+Molly Beerman
+
+Hi, Michael.
+
+Michael Dudas
+
+Bill, maybe you can share your thoughts on the alumina market. And obviously with all the dynamics that's occurring, how does this environment compare to other environments you've witnessed with spiking and capacity issues? Is this something that has a little bit more sustainability? Is there a price level cost pressure that could impact? And how you're planning for those dynamics in your Alumina business, especially as you bring on the folks from Australia?
+
+William Oplinger
+
+So the alumina is -- the alumina industry today is in a fairly unique situation. We exited the second-quarter in a deficit to the tune of around globally for the industry, about a 3 million metric ton deficit. And for the full-year, we're anticipating that alumina will be in deficit. So it's a situation that is very tight and we're seeing it around the world.
+
+The only way that deficit gets solved obviously is if either smelters curtail or we get ramp-ups in alumina, there's really two things that drove that deficit in the near-term. One was supply issues from some of our competitors, specifically in Northern Australia and in China. So as we look-forward, that market only comes back into balance if those supply issues are solved.
+
+As far as the second question is when we bring on the Alumina shareholders and whether this has any impact on our running of our operations, you can understand that these prices we're pushing to get every ton out-the-door and trying to make sure that we gain the benefit of these higher prices. We will not have any significant operational changes associated with the acquisition since AIumina Limited was a 40% minority partner, but no operational changes there. I hope that answers your question, Michael.
+
+Michael Dudas
+
+It does, Bill. And just a quick follow-up. Regarding -- so with pricing of alumina spiking and some of the other issues you've talked about, is given where prices are, is there any suggestion that some smelters could curtail especially since energy prices kind of worked positive on the other way. Is there any impact that could alleviate the market a bit you think?
+
+William Oplinger
+
+It will depend on how long these prices persist. But clearly, at $480 a ton, it will depend on what metal prices and ForEx, but that puts a lot of pressure on marginal smelters. So as I look around the world at the smelters that could be exposed to these higher prices and the pressures associated with that, it would be in Southeast Asia and potentially the Middle East.
+
+Michael Dudas
+
+Thank you, Bill.
+
+Operator
+
+And our next question will come from John Tumazos with John Tumazos Very Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you very much. With the Kwinana outage and the Queensland gas curtailments and world aluminum metal output up 3.4% in the first five months, are there smelters that can't operate because they don't have alumina or are somehow work in process inventories or alumina in transit inventories getting used up?
+
+William Oplinger
+
+So, John, on the -- I think you're right in the near-term on that question. We are seeing very tight inventories of alumina. The deficit that we saw in the second-quarter of roughly 800,000 tons in a quarter, which for a full-year basis is around 3 million metric tons, it really put a stress on inventory levels around the world.
+
+And to similar -- to answer the question similarly to what I answered with Michael, the areas of exposure for smelters and I should have also listed India, but it's really India, Southeast Asia and the Middle-East that may be exposed to inability to get alumina. But at this point, we didn't see that in the second-quarter and it will depend on how long this deficit persists and whether there's a ramp-up associated with refining capacity.
+
+John Tumazos
+
+With the second possible question, thank you, if San Ciprian smelter and alumina were both off of your books, not the one-time charge or the severance, but how much would your alumina -- EBITDA improve every year with Spain off your books?
+
+William Oplinger
+
+I think the closest that we've probably guided on that was the losses that we saw in 2023, which I will say them and then Molly will correct me. But I think it was approximately $150 million of EBITDA losses associated with the Spanish assets in 2023.
+
+Molly Beerman
+
+That's correct.
+
+William Oplinger
+
+Thanks.
+
+John Tumazos
+
+Thank you and congratulations on being profitable again.
+
+William Oplinger
+
+Thanks, John.
+
+Operator
+
+And our next question will come from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Hey, great. Thanks and good afternoon. I wanted to ask if you have any insights into or any updates on the latest regarding the remaining amount that you've been looking into for 45x? And any insights into possible repeal, dial-back of the broader law, it's currently starting to get to be a hot topic and would be curious to any insights you have there?
+
+William Oplinger
+
+So no insights on 45x at this point. We've clearly had dialogue with the administration. They understand how critically important 45x is to the US assets. I would reiterate and I've reiterated it before, we're very appreciative of what they did around 45x on the first tranche, but including the second tranche would be important for the competitiveness of Massena and Warrick. What was your second question, Timna?
+
+Timna Tanners
+
+Just there's also some discussion of a broader repeal of IRA, so I don't know if that's on the same vein of what you were just addressing, but like 45x in particular in broader IRA.
+
+William Oplinger
+
+Yeah. As far as a repeal of IRA, I've not heard anything with this current administration. Clearly, there's been some discussion in the Trump potential administration that they may repeal IRA, but we first have to see who will win the election in November and then what actions they'll take.
+
+Timna Tanners
+
+Totally fair. And then if I could on the Spanish situation, if you were in our seat, how would you think about any exit costs? Is there a range of potential outcomes or how do we think about budgeting -- modeling for that by the end-of-the year when there will be a decision made?
+
+William Oplinger
+
+Unfortunately, I can't give you a great answer, Timna. We are working down two work streams. The first is to try to make the plan as competitive as we can. And as you well know, competitiveness for a refinery and a smelter comes down largely to energy costs and energy solution. So we're going down that path. The second path that we're going down is the sale process. To give you a little color on the sale process, we had around six companies that showed an expression of interest. We narrowed that down to a subset of those companies, got a second round and are now in the process of going through a final round with a subset of those bidders. So we will see whether we can come out with a successful solution on the sale process.
+
+If both of those work streams were to fail, the cash we believe will run-out towards the end-of-the year. Obviously, that is dependent on what the market environment looks like and we'll have to make some pretty hard decisions. I've made it clear since the beginning of the year. We're not willing to put cash into the entity, so some real hard decisions will have to be made then.
+
+Timna Tanners
+
+Okay, fair. I appreciate the color. Thanks again.
+
+William Oplinger
+
+Thanks, Timna.
+
+Operator
+
+And our next question will come from Alex Hacking with Citi. Please go ahead.
+
+Alex Hacking
+
+Yeah, thanks. I guess two questions. First question would be for Molly. In your prepared remarks, you talked about options for deleveraging. Could you maybe lay out what's on the table there? And then secondly, just following-up on San Ciprian, is the fate of the smelter and the refinery tied together? Is there a world where you sell one and not the other? Is there a world where you close one or not the other? Just anything there would be helpful. Thanks.
+
+Molly Beerman
+
+So Alex, on the first question on our delevering, we no longer have an externally stated net-debt target. However, right now, we're at $1.9 billion and that is higher than the levels that we were able to achieve in 2021 and 2022 right around $1.1 billion. So we do expect to delever. It will take us some time. We've done this in the past, but we expect really to focus on getting back to the strong balance sheet and that puts us in the best position for acting on future growth options.
+
+William Oplinger
+
+As far as San Ciprian goes, I would not roll out any options, Alex. It is difficult to sell part of the plant because the plant is connected between the two and there would need to be incremental capital put in place to operate the two independently. So I think that makes it difficult to sell separately. But as far as your second question is about potential curtailment, I hate to speculate on where we could get to, but I wouldn't rule out any options at this point.
+
+Alex Hacking
+
+Okay, thanks. Just a follow-up for Molly, if I could. Is that okay?
+
+Molly Beerman
+
+Yes.
+
+Alex Hacking
+
+I mean, in terms of delevering, I assume free-cash flow generation is option number one, right? But what else is potentially on the table? Asset sales or other things? I guess, in your prepared remarks, you just said you're looking to options. I'm just curious what the options are.
+
+Molly Beerman
+
+Yeah, we have a number of things we're looking at. We do -- again, we're assuming the $390 million debt in Australia. So we have options we want to look at placing debt there. We also are looking at options to delever elsewhere in our debt. What we want to do, Alex, is get a look at the cash flows through the end-of-the year and evaluate all our options based on the strength of the flows over the next quarter or two.
+
+William Oplinger
+
+And if I could just add to that, when she referred to options, it's really the options of what debt to pay down, where to have debt. It's not necessarily -- she wasn't signaling to you that there are options of vast asset sales. It's really looking at today's market prices and the fact that we typically take working capital down in the second-half of the year, what are our options. She's strategically looking at the options for where do we delever, how do we delever, not necessarily the source of cash for delevering.
+
+Alex Hacking
+
+I got you. That's a helpful clarification. Thank you so much.
+
+Operator
+
+And our next question will come from Bill Peterson with JPMorgan. Please go ahead.
+
+Bennett Moore
+
+Hi, Bill and Molly. This is Bennett on for Bill Peterson.
+
+William Oplinger
+
+Hey, Bennett.
+
+Bennett Moore
+
+On San Ciprian, are you able to give any context at least at a very-high level to the types of parties that have indicated interest so far?
+
+William Oplinger
+
+It spans the gamut of financial and strategics and non-traditional. So the expressions of interests were really from a variety of different types of parties. We cast a very wide net when we started this process. We wanted to make sure that there was -- that we really look at every opportunity to ensure the viability of this site. So when we looked at selling the asset, I think we sent out memorandums -- information memorandums to 60, I was going to say over 50, thanks, 60 or so parties and the half of dozens that produced an expression of interest were across those three areas.
+
+Bennett Moore
+
+All right. Thanks for that. And then one quick one on alumina. Wanted to get your thoughts on marginal cost support from Chinese refineries and whether this could be impacted over-time given your points out potentially having to import more bauxite going-forward?
+
+William Oplinger
+
+So it's very -- it's obviously a very fluid situation and my view and our latest thinking is that marginal cost, whether that's in China or outside of China, probably approximates close to $400 a ton. Now that will depend on where it is and what the caustic price assumption is and the currencies, but it's probably close to that.
+
+Bennett Moore
+
+Understood. Thank you very much.
+
+Operator
+
+And our last question today will come from Lucas Pipes with B. Riley. Please go ahead.
+
+Lucas Pipes
+
+Thank you very much, operator. Good afternoon, everyone. My first question is on the cost side. So first on the vessel purchase in Brazil, the right way to think about it that it's about a $30 million annual cost-saving. And then secondly, on Slide 17, going back to the profitability improvement program, the 295, I think in your prepared remarks, Bill, you mentioned kind of when you went through the different buckets that have been achieved, kind of what percentage has been achieved, but I wondered if you could maybe just speak to the 295 and what the major components are that you're looking to realize? Thank you very much.
+
+Molly Beerman
+
+So first, the question on -- sorry, I want to say [indiscernible]
+
+William Oplinger
+
+[Multiple Speakers] anything certainly we call it Project Condor. It's on the vessels in Brazil.
+
+Molly Beerman
+
+Yes. So on the ship purchases in Brazil, you're right, it's just over $30 million a year in savings for that effort.
+
+William Oplinger
+
+And before you go on to the next part of the question, I want to make sure that people understand, we're not going into the global shipping business. This is -- this was an opportunity where our cost structure was just fundamentally too high due to the market situation down in Brazil. While we tried to address that through market negotiations, we weren't able to get there. And that's why we've made this strategic investment in these four vessels. I don't want our investors or sell-side analysts thinking that we are more broadly going into the shipping business. We are not. This is -- as I've described internally, this is almost like having a conveyor belt, but it just happens to be on the water. All right. So go ahead, Molly.
+
+Molly Beerman
+
+So on the improvement programs, a couple more points on the raw materials. There aren't necessarily additional actions that we have to take. We are negotiating now on the purchase prices that we're seeing now are going to deliver the year-over-year improvement. Recall, we're on those lags in inventory. So the six months in caustic and the three months on coke and pitch, so good line-of-sight to realize that with the contracts that we have in place now.
+
+As far as the productivity and competitiveness program, we have already identified lists of hundreds of initiatives. They are being executed now. Internally, we're tracking that against revised budgets. Everyone across the company, all the budget managers have lost about 6% of their budgets. So they are adhering to those. And so that's how we're monitoring the $100 million program there.
+
+As far as Warrick, they hit about half of their run-rate already and that's with improved cost absorption after their restart and they do still have a series of initiatives to implement their traditional productivity. And then remember, with Warrick, we also had the $30 million of IRA funding that we're waiting a word on there. On Alumar smelter, a similar story to Warrick with them increasing their production, their cost absorption has already gotten about a third of their target. So improvement on the higher tons coming through. They are operating at just above 70% now. So we believe they're on track for the full-year by the end of 2025.
+
+And then Kwinana, they are obviously completely down now. We are seeing some higher ramp-down costs as well as higher initial holding costs. So for them they will get to the full-cost reduction, but it won't be until 2025. You'll see some minimal savings coming there in the second-half of 2024, but we won't hit that full run-rate till 2025.
+
+Lucas Pipes
+
+Thank you very much for this. My second question is a clarification on the additional business considerations. You're citing the unfavorable impact of higher alumina costs in the aluminum segment to the tune of $60 million. Is that over and above the usual sensitivity or how should we think about that $60 million? Thank you very much.
+
+Molly Beerman
+
+So that $60 million is not within your sensitivities. That's why we give that to you separately. So obviously, the higher alumina price is going to benefit us overall dramatically, but then we call out for you how much of that will show up in the aluminum segment as an additional cost.
+
+Lucas Pipes
+
+But there's nothing operationally that would drive those at higher costs. It's really just the price sensitivity for aluminum?
+
+Molly Beerman
+
+Just the price. Correct, just the price.
+
+William Oplinger
+
+Just the flow-through. And we only provide that for you because some people struggle with the modeling. And so it allows you to clearly understand what the alumina cost is in the aluminum business. In effect, Luke, that's the number that would show up on the quarterly bridge in effect for the segment.
+
+Lucas Pipes
+
+Very good. I appreciate that clarification. Thank you and best of luck.
+
+Molly Beerman
+
+Thank you.
+
+Operator
+
+And this concludes our question-and-answer session. I'd like to turn the conference back over to Mr. Oplinger for any closing remarks.
+
+William Oplinger
+
+Thank you. Just a couple of closing remarks. As you can see from the results, we made a lot of progress in the quarter. We improved both the safety and the operational -- operations across the company. We're about to close on the Alumina Limited transaction on August 1st and we've already captured over half of the improvement from the improvement programs that we're anticipating for 2025. So overall, it was a busy quarter and we made a lot of progress. I'd like to thank you for joining our call. Molly and I look forward to sharing further progress when we speak again in October.
+
+Operator
+
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect your lines at this time.

@@ -1,0 +1,366 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q3 2021 Earnings Conference Call November 11, 2021 2:50 AM ET
+
+Company Participants
+
+
+Conference Call Participants
+
+Zebin Zheng - Guosheng Securities
+Cherry Ma - Macquarie
+Kyna Wong - Credit Suisse
+Frank He - HSBC
+
+Disclaimer*: This transcript is designed to be used alongside the freely available audio recording on this page. Timestamps within the transcript are designed to help you navigate the audio should the corresponding text be unclear. The machine-assisted output provided is partly edited and is designed as a guide.
+
+
+Operator
+
+00:03 Ladies and gentlemen, welcome to AAC Technologies twenty twenty one Q3 Results Investor Webcast and Conference Call. Today's presentation will be conducted in English and question-and-session in English and [indiscernible] in the live channel with English simultaneous interpretation in interpretation channel. At this time all participants are in listen-only mode. [Operator Instructions].
+
+0:39 I'd now like to hand the conference over to your host today, Ms. [Maggie Wang] (ph). Please go ahead.
+
+Unidentified Company Representative
+
+00:46 Good afternoon. Welcome to AAV Technologies Q3 twenty twenty one results conference call. I'm Maggie Wang, Investor Relations Director of AAC. I’m glad to have our EVP and CIO Mr. Kelvin Pan; CFO Ms. Dan Guo and CEO of our Optics Business Group Mr. Jack Duan joining us today.
+
+01:10 Before we start, we would like to remind you that copies of our result announcements and the presentation are both available on our website. We would also like to draw your attention on the disclaimer on the last page of this presentation. Some information we discuss today may contain forward-looking statements. With that, I'm going to present our results for the quarter.
+
+01:34 For the nine months of twenty twenty one, the Group's revenue was twelve point eight six billion renminbi renminbi, up four percent year on year. Gross profit margin was twenty six point three percent, up three percentage point year over year.
+
+01:49 Net profit was one point one billion renminbi, up forty seven point one percent year on year. For the third quarter of twenty twenty one the gross revenue was four point two five billion renminbi, down six point one percent year on year. Gross profit margin was twenty two point seven percent, down zero point nine percentage points year on year. Net profit was one hundred and eight three million renminbi, down fifty seven point four percent year on year.
+
+02:22 Compared to the second quarter, the gross profit margin dropped two point three percentage points and the net profit dropped fifty two to point nine percent Q-on-Q. It was mainly due to the of disrupted global supply chain due to COVID-19, the increase in operating costs in China, and weaker demand from domestic customers on the back of chip shortage resulting in delays and cancellations of certain phone models.
+
+02:50 The supply chain and COVID-19 overhangs may linger and cause near term uncertainties to the Group's financial performance. Despite these external factors, the Group will continue to monitor supply chain dynamics closely, and improve operational efficiencies to meet client's demand, while managing internal resources in an agile manner.
+
+03:15 Here are some highlights on our business segment in Q3. For acoustics business, the gross profit margin for Android acoustics was impacted the overseas pandemic and the impact is expected to be elevated in Q4. The shipment for standardized small cavity speaker modules has accounted approximately ten perent of the total shipment of Android acoustics products. With the further advancement of Android technology, the sound system will also become one of the core component of the smart cockpit.
+
+03:49 The [indiscernible] acoustics solutions for smart cockpit has already been applied in one of the automotive OEM concept cars.
+
+03:58 For Optics business, the total shipment for our plastic lens and camera model decreased Q-on-Q, mainly due to the weaker demand from domestic customers on the back of chip shortage. The WLG hybrid lens project is progressing smoothly. Another new WLD project is expected to start mass production in the fourth quarter
+
+04:19 For EMD and PM business, the total shipment volume of the Optics increased Q-on-Q. With more applications narrowed and customers demand for step upgrades. We are expecting the annual shipment volume energy of [indiscernible] to increase significantly year over year. For the precision mechanics business, the group expanded smoothly in new businesses such as notebook and tablets.
+
+04:47 The revenue from non-smartphone markets in expected to account for over fifteen percent by the end of the year. The group’s acquisition of Toyo Precision is expected to bring synergies to the existing precision mechanics business.
+
+05:05 Now let's look at the highlights of our cash position and the financial position. As at thirty September twenty twenty one operating cash inflows were one point two six billion renminbi. And maintenance CapEx amounted to two point nine four billion renminbi. The net gearing was about eight point eight percent and and cash on book was about six point two billion renminbi, Group remains prudence in financial management, and stringently manages CapEx and R&D expenses to conduct active liquidity management.
+
+05:43 While maintain our prudent financial policy, the group will actively look for new development opportunities to lay a solid foundation for long term development. On twenty October, the group announced to purchase one hundred percent equity interest in Toyo Precision Appliance Kunshan Company. Ltd. at the Consideration of four fifty million renminbi. Toyo Precision mainly manufactures metal casing, bottom and parts of tablets, wearables and notebooks products. The acquisition will bring synergies to the business development of the Group and enhance the Group's capabilities in precision mechanics.
+
+06:27 Now I'll share more about our layout in automotive market. In automotive industries, the Group is promoting comprehensive solution for smart cars, across all the product lines including optics, acoustics, haptics and [indiscernible] to provide a complete portfolio of products for customers.
+
+06:49 The Group's automotive product portfolio will cover lens for LiDAR and video camera, which will include front-view, surround-view, OMS and DMS vehicle lens. The Group has been actively engaging with the Tier 1 automotive suppliers and automotive OEMs, with concrete timeline for automotive lens products to enter mass production phase in the future. At the same time, the development of more premium products are also underway as scheduled.
+
+07:21 The total acoustics solution provided the group will be applied in automotive application. In Q3, the Group has cooperated with a well-known Chinese domestic automotive OEM to co-develop an audio system in smart cockpit for its new concept car. The Group has also cooperated with a leading Chinese EV manufacturer to co-develop mass-produced products. And the system will be installed in the client's new car model. The Group will provide consumers with a superior acoustic experience underpinned by its acoustics' R&D platform and integrated algorithms and software development capabilities.
+
+08:08 Next, let's move to the analysis of each business segment. For Optics business in Q3 revenue from the optics business was about three ninety million renminbi, down seventeen point six percent year over year. Gross profit margin was fifteen percent, down nine point six percentage year on year. On a Q-on-Q basis, revenues decreased by fifty one point six percent and gross profit margin dropped by seven points versus Q2. It was primarily attributed by the shortage of upstream chip and raw materials resulting in delays and cancellations of domestic customers' smartphone models.
+
+08:53 The total shipment of the plastic lens declined Q-on-Q by fifteen six point six percent in Q3. Despite this, 6P plastic lens still accounted for over ten percent of the total shipped volume. The gross profit margin in Q3 decreased by eight point seven percentage points Q-on-Q to twenty four point seven percent due to the lower utilization rate and ASP. As the chip shortage situation is expected to be alleviated and customers' orders start to resume in the fourth quarter, the Group expects the shipment volume and gross profit margin for plastic lens is likely to recover.
+
+9:35 As for camera module business, in Q3 the monthly shipment was around five million renminbi, down twenty one point three percent Q-on-Q, With some orders delayed from Q3 to Q4 and new projects in the pipeline, the Group expects total shipment for camera module to recover in Q4.
+
+9:59 The WLG hybrid lens business is progressing smoothly. We have worked with a well-known smartphone OEM to provide 1g 5P hybrid lens for one of their flagship smartphone models, and this smartphone has been launched in October. Another new project is expected to start mass production in the fourth quarter.
+
+10:20 Now for the acoustics business, revenue in Q3 was two point two billion renminbi, up one point nine percent year on year. Gross profit margin was twenty six point three percent, down zero point three percentage points year on year. On a Q-on-Q basis, the acoustics revenue was up seven point eight percent and gross of the margin was down two point one percentage points. This was mainly because the business was impacted by the pandemic in overseas markets sustained from Q2 into Q3, which impacted the gross profit margin of the acoustics products for Android customers.
+
+11:03 The gross profit margin for Android acoustics in Q3 dropped seven point four percentage points Q-on-Q. And our Vietnam factory has already resumed full normal production. As the one-off impact from this overseas pandemic has been alleviated, the Group expects recovery of the gross profit margin for Android acoustics products towards the normal level in the Q4. In Q3 the shipment volume for standardized small cavity speaker modules has accounted approximately ten percent of the total shipment of Android acoustics products.
+
+11:44 Same for the electromagnetic drives and precision mechanics business in Q3 given the reduction in ASP haptics sold to major customers as well as the decreased ASP for precision mechanics business, revenue from this combined segment was one point four billion, down seven point nine percent year over year. Gross profit margin was twenty point three percent, up zero point two percentage point year on year. On a sequential base, revenue grew by fourteen point five percent, mainly attributed by the increased shipment volume for key products. The gross profit margin remained relatively stable and slightly decreased by one point nine percentage points Q-on-Q.
+
+12:37 The total shipment volume of haptic for Android customers in Q3 has doubled year on year. The Group provides an integrated hardware plus software customized solution for smartphone models across high, mid to low-end to help accelerate customer's upgrade and increase market penetration. As we are seeing increasing penetration of applications for x-axis motors in the smart devices, we are expecting to broaden the marker demand and provides new growth drivers the Group’s haptics motors business.
+
+13:18 The precision mechanics business has made smooth progress in expanding market penetration and diversified customer base. The shipment for metal casing products increased by thirty three point eight percent Q-on-Q as the group maintains a sound relationship with leading domestic Android OEMs and continues to diversify customer base The market share of the group’s metal casing business for smartphones has gradually increased. As metal casing products continues to penetrate into notebook markets, there will be further upside for this segment.
+
+13:56 The group project that the revenue contribution of notebook and tablet business carried over fifteen percent of precision mechanics this year. The Group’s acquisition of Toyo Precision will further strengthen the Group’s precision mechanics manufacturing capacity, expande the customer base and improve the overall profitability of this business segment.
+
+14:21 Lastly, for our MEMS business, in Q3 the MEMS business recorded a revenue of two fifty four million renminbi, down by thirty one point one percent year on year. Gross profit margin was fifteen point three percent, down three point seven percentage point year one year. Compared to Q2 revenue increased by six point five percent and gross profit margins declined by zero point six percentage points. Mainly due to higher production costs from chip price and ASP decline for major customer. More in-house chips will be adopted in MEMS microphone going forward which will help lower costs and hence drive profitability of this business segment.
+
+15:09 While maintaining a stable and high market share in the smartphone market, the Group's MEMS microphone products have extended from smartphone to other markets, such as TWS headset, smart speaker, tablet and automotive market with share gain in these markets.
+
+15:28 So this concludes the overview of our Q3 financial results. There are more supplementary information in the Appendix section for your reference.
+
+15:38 Now, our management team are here to take your questions. You can ask your questions in Chineseand English. We have simultaneous interpretation in other line from Chinese to English. Thanks. We can start the Q&A now. Thank you.
+
+Question-and-Answer Session
+
+Operator
+
+15:55 Thank you. We will now begin the question-and-answer session. [Foreign Language]
+
+[Interpreted] The first question is from the Guosheng Securities, Mr. Zheng. Please proceed with your question.
+
+Zebin Zheng
+
+16:43 Thank you management for this opportunity. I have two questions. The first two question, and we see this as a demand, the weaker demand and also the production -- supply side. We see this power rationing and the pandemic impact in the Southeastern Asia production. So how do we cope with these difficulties? So whether there are some impacts on our revenue and profits. And whether those will be improved in Q4? What’s the guideline for the Q4 for the company. So this is my first question.
+
+Unidentified Company Representative
+
+17:31 I would like to answer this question. You mentioned the external factors and from the macro direction. And we also see this change in the Q3 and we see the peak season in the Q3 in the overseas market. And also the shipments and demand of -- the overseas demand was strong and [indiscernible] segment volume for our acoustics and also the haptic motors is increasing and this show the stability of the demand of our products.
+
+18:19 And you also talk about the domestic market, actually the domestic market demand and also for the Android users and the Android users dropped by ten percent and is related to the sales of the smartphones and some were impacted by the shortage of chips. And the shortage of the chips delayed the new models of the smartphones and this cause new challenges for us.
+
+19:01 And for our -- haptic motors and with the decrease of the android uses that -- the overseas demand -- this overseas strong demand offset the weakening demand of the domestic market. And in the optics and other markets, especially for our android users the concentration is still very high. And we also see there is a year on year decline, but in terms of the recovery, we still have a prudent and optimistic attitude towards the Q4 and our optics is on recovery trend.
+
+19:52 You talk about this precision mechanics. The android users in the domestic market. They are facing this shortage after chips. And for last year, they just still have to be reserved. And for the baseline and we also will diversify our customer portfolio. So for this CMS market, the customer portfolio is about sixty percent to seventy percent. And we also extend our business to the notebooks and tablets, and this is very a prominent increase.
+
+20:52 And also, we acquired Toyo Precision and this is also the strategy for us to upper our business expansion. This will provide a good driver for our next year's business. And you talk about a specific factors. In Q3 the net profit dropped by less than two fifty million renminbi and it was impacted by the pandemic in Vietnam and in June, it was very savior. At present, the impact is very limited that we still encounter the delay after production and this also cause GP margin of ten percent. And [indiscernible] is about the staff cost. For example the social [indiscernible] and the funds.
+
+21:55 And Last year, we also have the foreign exchange net income. But for this year, the foreign exchange rate is very stable. But -- so the influence is very limited, it's less than one hundred thousand. You talk about the power rationing. The impact on us is limited and we are not impacted by the power cuts for a long time, because government is still supporting the high-tech enterprises.
+
+22:34 In the future, as far as I know, there will be some power tariff adjustment in Q4 and this will influence about zero point three percent and this is under control.
+
+Zebin Zheng
+
+22:55 Thank you. My second question is about the optics. So the revenue on the plastic lens and modules, as well as the profit of this plastic and module, so would you have any breakdown down?
+
+Unidentified Company Representative
+
+23:21 So you talk about the Q3 and Q4? You are asking the net -- gross profit. The plastic lenses -- the revenue of the plastic lenses and also there is profit of the plastic lenses and modules. For Q3 the plastic lenses the revenue is about two hundred million renminbi and modules is about one hundred eighty million renminbi. And for the lens, the GP margin is about -- it's less than twenty five percent and for the modules, the GP margin is about five percent.
+
+Zebin Zheng
+
+24:11 Thank you.
+
+Operator
+
+24:10 Next question is from Mr. [indiscernible] Company.
+
+Unidentified Analyst
+
+24:23 Good afternoon management. I have two questions. The first questions is about the investment on optics and I saw the large investment of optics. So for this R&S progress, would you elaborate more on this regard and WLG is one of our specialty. So, I would like to know more information on the WLG. So any progress on the penetration on the high end of the modules of our customers.
+
+Unidentified Company Representative
+
+25:11 Thank you for your question. And we are happy [indiscernible] and we also send our samples for customer evaluation and from our strategy we will continue to do this by 7P and 8P lenses. And for our direction of strategy, our focus was on the high end cameras to promote the WLG the hybrid lens on those high end products and the progress is very smooth, and we have two projects for this year -- for the first half of the year we have two, one on projects and we also are actively engaged with our customers. And the second, we also collaborate with our customers [indiscernible].
+
+26:21 And this new model will be launched in December. So this also use our hybrid lens. And next year, we have -- may enjoy our customers. So they will collaborate on this by 7P or 7+P projects and we have many projects in hand. The factories in [indiscernible] will ramp up and also the factory in [indiscernible] will recover, so the capacity of our production will be ramped up next year, and we have the confidence to reach over ten million shipment volume on the android products next year.
+
+27:25 In other areas, for example, automotive, [indiscernible] and industrial lenses we will also promote WLG technologies. WLG has its special performance and we also receive positive back feedbacks from our customers. For example, [indiscernible] the sales will be in last next year. And in medical -- health medical and other industry sectors, will also promote our WLG Technology.
+
+Unidentified Analyst
+
+28:08 Thank you. It's very clear. I have a follow-up question. And for the first three quarters, the shipment volume is increasing. So I want to ask the management what's the advantages for us in the market? In the lens market, and we also see the change in the lens market. So do please share with us the outlook on your competition landscape in lens market?
+
+Unidentified Company Representative
+
+28:54 And from this lens market perspective, we see an upgrading trends and this year, the market was impacted by the COVID and the shortage up the chips [indiscernible] the speed of upgrading was slowed down, but actually the demand is still there and in the next year the demand will be speeded up and the performance will be improved and the demand from the customer side will be increased. So we have the 6P and 7P and WLG, and we will increase our market share steadily. For the mid and low end products we will continue to have our cost factors, the advantages, and we will also leverage our modules production capacity and efficiency control our cost. Therefore, in the fears competition, we will still occupy an active position in the market. And this bring us as strong confidence in the next year's competition.
+
+Unidentified Analyst
+
+30:15 Okay. Thank you.
+
+Operator
+
+30:26 Next question is from [indiscernible]
+
+Unidentified Analyst
+
+30:29 Thank you management. I have two questions. The first question You talked in the opening remarks, the smartphone business is about fifteen percent so I want to know the specific business. And we also see automotive, for example, the comprehensive solutions for acoustics solutions to smart cars or the automotive industries. Put into my understanding and our focus is on this micro acoustics and the optics. So what's the cutting edge for us in the automotive industry and what kind of method for us to enter the market.
+
+Unidentified Company Representative
+
+31:27 As far us, I know the acoustics and optics are relatively independent. And we establish independent department for the automotive industry. The fifteen percent for the non-smartphone business for our precision mechanics. And this is successfully penetrated to the non-smartphone markets and including the tablets and notebook customers. So by the end of this year and next years, we will see more non-smartphone growth.
+
+32:19 And this is also in line with our integrated strategy. And we will have a stable growth and development for our precision mechanics. In terms of the automotive industries, our plan was started in twenty eighteen and twenty nineteen. So it doesn't start this year. And we embarked the journey in twenty eighteen and twenty nineteen. It's still in the incubation phase and with more projects and larger customer base and we will have independent BU for the automotive and the BU will also include different segments, for example, optics is many responsible for the optics And we will also have BU for the automotive.
+
+33:52 And for our technology on the automotive. And for our technology, the focus is on the high density manufacturing and the application capability. So for recent years we explore and develop the technology of the high dense performance and the energy with our customers. And this is our cutting edge.
+
+34:28 The customers -- automotive customers requirements is different from the [indiscernible] customers? Therefore, we cater the need for the customers of the automotive industries and we have a comprehensive systems.
+
+34:47 From the hardware plus software with the adjustments and the fine tuning and to meet the requirement of the customers, and then we can also provide separate spare parts. So in this market, we are very positive and we are proactive. And we think there are more potential and the feedback from the customers also bring confidence to us. And we think there is a great potential in the market.
+
+35:26 And of course, we will see the overall demand of the automotive customers and our strategy is flexible.
+
+Unidentified Analyst
+
+35:39 Thank you.
+
+Operator
+
+35:42 Next question is from Cherry Ma, Macquarie.
+
+Cherry Ma
+
+35:54 Good afternoon. So I want to know the casing development because you have acquired a Japanese company Toyo. So what's the layout for the future. And we see the product pipeline next year it's different. And before, our focus was on this -- one smartphone customer. So the notebooks and tablet will become our customer portfolio. So what we plan on this regard? And what's your scale for the next year? Thank you.
+
+Unidentified Company Representative
+
+36:31 Thank you for your question. The acquisition will help us to enlarge our market share and this is also a unique opportunity for us. The notebooks and the tablets business mentioned by Kelvin and in the progress. He says, second half of last year we are facing this pressure and we also do the customer diversification and at present, this customer engagement is very smooth. So this will help us to enter the market. So in terms of the pipeline and profitability, this is very helpful. And we don't have any other investment.
+
+37:38 And for this high profitability projects introduction, we will bring the flexibility and the top line. And those are the positive strategy for us.
+
+Cherry Ma
+
+37:51 Would you please elaborate on the specific number of the customers on android smartphones. And before maybe there was only one, next year this will increase?
+
+Unidentified Company Representative
+
+Yes. Actually, it's inconvenient for us to disclose the figures. But I can say that we have already entered the large -- the tablets customers, and the Toyo precision appliance and do that -- the metal casing and the precision mechanics And so the business progress is smooth.
+
+38:41 So any revenue change in terms of casing? At present, we don't have a specific deadline on metal casing and acquisition, and it's still in progress. So next year, we will have more information to disclose.
+
+Cherry Ma
+
+39:04 Thank you.
+
+Operator
+
+39:18 Next question is from Credit Suisse, Kyna Wong.
+
+Kyna Wong
+
+39:23 Thank you management. I want to ask question on Toyo. So for this year, the non-smartphone is about fifteen percent on the precision mechanics and Toyo contributed a part of it or we still have to wait for their contribution.
+
+Unidentified Company Representative
+
+39:56 Yes. And it doesn't include the acquisition it’s just in the announcement. And we are still in the progress and we don't have any problems. And for the consolidation, it will be in the December of Q4. So the consolidation -- the actual consolidation will be in next year.
+
+Kyna Wong
+
+40:34 Okay. Understood. Next, I want to know more about the plastic lens. In Q3 we see this fifteen percent to sixteen percent jobs Q on Q on Asp, I don't know it is correct or not. How do we cope with the pressure? 41:01 The 6P accounted for ten percent in Q3 and you have the target of fifteen percent to twenty percent. So what's the gap? So how do we see the ASP and product the mix impact in the Q4? So you talk about the fifteen percent ASP drop. This is about Q on Q or year on year?
+
+Unidentified Company Representative
+
+41:36 Q-on-Q.
+
+Kyna Wong
+
+41:36 Okay.
+
+Unidentified Company Representative
+
+41:42 The shipment volume are dropped Q on Q and this is due to the delay and cancellation of some smartphones, due to shortage of the chips, actually, in the ASP the Q on Q drop is only two to three percent. So next year Q1 and Jack also mentioned the external competition. So for the first half of next year, we will also see the ASP drop, but it won't reach the range you mentioned. You also ask about the percentage of 6P? So you talked about the 6P percent. 6P accounted about eleven percent of the total portfolio.
+
+42:50 And Q4 is still in the recovery trends and we have a positive attitude to both to Q1 and Q2 of next year. And for next year, we think the percentage will be less than fifteen percent with a steady growth.
+
+Kyna Wong
+
+43:14 Understood. Thank you.
+
+Operator
+
+43:17 Next question Everbright Security. Mr. [Wang] (ph).
+
+Unidentified Analyst
+
+43:26 Good afternoon. I’m from Everbright, and thank you for your acceptance of my questions. So other than the smartphones, so do we have any breakthrough on the automotive cars and automotive? So and we also see your acquisition of the [indiscernible] of LiDAR? Any outlook on this regard? And with the enrichment of our pipeline line do you have any management change or the structural change to support the business expansion? Thank you.
+
+Unidentified Company Representative
+
+44:14 For the non-smartphone business and all their pipelines on extensions. And at the same time, we actively are engaged with our existing customers on the acoustics and optics and precision mechanics on this non smartphone business and this progress is positive. And second is the notebooks and tablets markets. And we also expand our business and enlarge our customer base and there are new projects, this year. And next year, the projects will be improved and they do add new projects launched next few year as well? For the automotive, acoustics and Optics business are expanding to the automotive that this cycle will be longer.
+
+45:24 You talk about the deal collaboration. And after the announcement of -- in the middle of this year, we had actively negotiate with different projects, and we have are funnel the specific projects this year, and we have the confidence on the new projects and for the overall timeline of the projects, we think it will have any -- it will have the prominent result in the year of twenty twenty three around twenty twenty three. So the results will be reviewed in the next two to three years. And at present it is still in the layout phase.
+
+46:26 It includes the LiDAR cameras and also the [indiscernible] cameras. And for acoustics we also have different acoustic products. For example, the comprehensive stereo system or the individual speakers or this very -- like the woofer module or base module or the [indiscernible] module, etcetera.
+
+Kyna Wong
+
+47:06 Thank you.
+
+Operator
+
+47:09 Next question is from HSBC, Frank He.
+
+Frank He
+
+47:14 I have two questions and the first is on this automotive and the lens? We know that before the traditional lens is about the glass lens. So, I want to know the exact construction of the products of your hybrid lens. And how do you -- how do you plan to do this hybrid lens in the automotive markets? And for the automotive lens, we have a WLG plus the traditional glass recorded WLG is called 1G, etcetera. And this will be used in this [indiscernible] or this different cameras or surround or front views for the OMS and DMS. And this is our self
+
+produced lens.
+
+48:40 And in the [indiscernible] we are the autonomous production lies for the assembly. And for our traditional glass, we also have our production base in [indiscernible] and this is for the self-produced lens and this is also for our own shipment volumes. So you have WLG solutions and also this traditional glass and do you have this comprehensive solutions to customers, right?
+
+49:16 Yes, we have those solutions that we prefer at WLG, because WLG is more precise and the precision is high. Of course, it must tell you with the specification requirement of the customers. And for our traditional glass, so actually this is about to [indiscernible] glass.
+
+Frank He
+
+49:50 And the second question is about the GP margin and we saw this QonQ decline, and what's the reason. Whether it is related to the OEM factories and the cost In terms of lens.
+
+Unidentified Company Representative
+
+50:11 It also impacted by the industrial chain and one is about ASP. And also the second is about the cheaper price of the -- on upper stream. And we're also promoting the in-house production, and this will also increase our comprehensive GP margin.
+
+Frank He
+
+50:50 Thank you.
+
+Operator
+
+50:52 Next question is [indiscernible].
+
+Unidentified Analyst
+
+50:56 [Technical Difficulty] improve first half next year. And secondly, as well as there is a mentioned of the decline in Android acoustic produce for the third quarter profit margin. How much did it declined. I missed on the number. Thanks.
+
+Unidentified Company Representative
+
+51:33 May be I just try to clarify your question. Your question. is regarding performance in the Optics business? [Multiple Speakers]
+
+Unidentified Analyst
+
+51:45 I just want to get a sense of the platform or demand going forward.
+
+Unidentified Company Representative
+
+51:53 The market demand going forward for Q1 next, is that your question?
+
+Unidentified Analyst
+
+52:00 Yes. In terms of the visibility what is the company looking at?
+
+Unidentified Company Representative
+
+52:07 I think generally, obviously, I think there is still certain upstream uncertainties particularly related to some of the facts that’s mentioned earlier related to upstream situations. I think the car market’s expectation obviously, we monitor it closely and [indiscernible] close to customer their demand.
+
+52:33 Generally, I think there is still little bit of overhang with upstream chip shortage, which may persist until Q2 maybe next year the situation might be alleviated from Q2 onwards or the second half next year. [indiscernible] continue to impact certain customers demand . But if we take a more outlook into next year's total global market shipments. On a global basis [indiscernible] shipment growth.
+
+53:12 We currently would suggest it's likely to be similar to this year around mid to low single digits. Which is [indiscernible] if we go into next year we are still very confident to grow our market penetration in certain market segment. For example, haptic as well as optics business, I did talk much about our acoustic business particularly in [indiscernible] that we previously mentioned. So we're very confident that we will continue grow the total android customers shipment volume with our own unique offering of small cavity speaker modules, and this also helps to grow the profitability for the segment.
+
+54:03 Optics generally, as Jack mentioned earlier, continue to grow our market share. And also, we would be able to see a lot more contribution [indiscernible] and in the long term our unique WLG hybrid lens product as well which will just the overall products and profitability.
+
+54:25 And also on the haptic side android customer base, we will continue – even this year actually we have a multiple growth in the overall shipment volume with our solutions software plus hardware solutions, which actually provides a very [indiscernible] in gaming and other scenarios. We continue to see further penetration and the customer basis continue to grow on a [indiscernible].
+
+54:52 And these are all related to smartphone segments. And as we have mentioned earlier and emphasized, but this year we will be able to start to really layout a strategy and last year [indiscernible] automotive pipeline. We have been actively engaging OEMs, Tier 1 across various segments, such as [indiscernible] So product is very interesting to see that we are starting to focus on this area, making structural change to ensure that we attract talent from the market also have dedicated resources on the strategy that side of our business. It is also interesting to note that similar to smartphone segment automotive industry, as we are looking forward in the future [indiscernible] assisted – autonomous driving – fully autonomous driving in the next couple of years. The components one is for our vehicle, it is very attractive. We provide total solution as illustrated in our PPT earlier.
+
+56:14 You can see that our solution is actually quite unique, both in the optical lens side as well as our sound solutions, acoustic solutions side there must be component per vehicle. So this is this a very interesting areas for us as well. And on top of that, we are also diversifying [indiscernible] into notebook and tablet. We are also very focused on TV and other IoT devices. These are further growth momentum across smartphone sectors.
+
+56:52 So generally it's going to in the next year maintain a positive outlook and we believe a lot of cross [indiscernible] we continue see growth trends and drivers as well as their management is very focused on general measures, [indiscernible] We have anticipate a slightly low twenty five percent year on year traffic outstanding. Since next year, we anticipate on lower basis -- up to thirty percent or more drop. We also are implementing a very comprehensive reduction across various units. The next year from a general business performance [indiscernible].
+
+Unidentified Analyst
+
+57:51 Okay, got it. Thanks for sharing the numbers.
+
+Unidentified Company Representative
+
+57:54 Thank you.
+
+Operator
+
+58:01 Our is almost up, so we will receive the last question, And the last question is from Citi Bank [indiscernible]. Please proceed your question.
+
+Unidentified Analyst
+
+58:17 Good afternoon, management. We have a question here. And we have acoustics and the haptic and optics. So in automotive and VR and AR and what’s the volume in those segments, So can you have any outlook for the mid and long term. And my second question is about the lens and modules. So how many patents you have? If some litigation occurred, how do we protect ourselves and guarantee your profits? Thank you.
+
+Unidentified Company Representative
+
+59:14 For AR and VR, the growth we observed this year is very prominent. So we are in twenty nineteen and twenty twenty. And this is about five million renminbi to six million renminbi and this year it will surpass ten million renminbi. So the acoustics and the haptics motors in being VR and AR, we can see a faster growth.
+
+59:59 And with this VR and AR ASP. The ASP is still in the fluctuations. So this will create some influence on our business. So at present, the influence is very limited. But when the volume reached twenty million renminbi to thirty million renminbi, this influence will be [indiscernible].
+
+60:33 And for the automotive industries and especially for the electronics and the sound systems. This market is about forty billion renminbi to fifty billion renminbi. And for us, we will start from domestic market and enter the overseas market. For example, the European market and the overall global market in the future. So for the automotive industry at present we will embark this layout on the sound systems and our products are different from the other products, our energy density is high and performance is better than other products. Which means there will be more complicated software in the speaker systems and as well as the support from [indiscernible].
+
+61:55 So our target is still on this fifty million renminbi to sixty million renminbi medium market size.
+
+Unidentified Analyst
+
+62:15 Thank you.
+
+Unidentified Company Representative
+
+62:17 Please wait. We also have some additional remarks and for the patent, we have about two thousand five hundred patents. So any – there are new patrons in the application.
+
+Operator
+
+62:37 Thank you. This concludes the Q&A. I will hand over to the management. Anything to add or there's nothing to add. Thank you for your time. Thank you for your participation. You
+
+may go ahead and disconnect.
