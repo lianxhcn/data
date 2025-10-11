@@ -1,0 +1,4 @@
+- 本文件夹提供电话会议转录文本（conference call transcript）的示例数据。
+- codes.json 中收录了从 Seeking Alpha 网站获取的所有可取得转录文本的企业代码，以及每家企业可获取的转录文本数量。
+- test_json 文件夹中包含部分已爬取的企业转录文本 URL 链接，以 JSON 文件格式存储，每家企业对应一个 JSON 文件。包含的企业代码为["A", "AA", "AAALY", "AABKF", "AACAF", "AACAY", "AACG"]。
+- sample_transcript 文件夹中是基于 test_json 中的链接所爬取得到的各篇转录文本原文。
