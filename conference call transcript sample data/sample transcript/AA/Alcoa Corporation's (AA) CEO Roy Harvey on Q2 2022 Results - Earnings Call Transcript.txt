@@ -1,0 +1,536 @@
+Alcoa Corporation (NYSE:AA) Q2 2022 Earnings Conference Call July 20, 2022 5:00 PM ET
+
+Company Participants
+
+James Dwyer – Vice President of Investor Relations
+Roy Harvey – President and Chief Executive Officer
+William Oplinger – Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Timna Tanners – Wolfe Research
+Carlos De Alba – Morgan Stanley
+Emily Chieng – Goldman Sachs
+David Gagliano – BMO Capital Markets
+Curt Woodworth – Credit Suisse
+Lucas Pipes – B. Riley Securities
+Michael Dudas – Vertical Research
+John Tumazos – John Tumazos Independent Research
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation Second Quarter 2022 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today’s presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you and good day everyone. I’m joined today by Roy Harvey, Alcoa Corporation’s President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill. As a reminder, today’s discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company’s actual results to differ materially from these statements are included in today’s presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here’s Roy.
+
+Roy Harvey
+
+Thank you, Jim, and welcome to everyone joining today’s call. Once again, we had a strong quarter with results that included a sequential increase in revenue, solid net income, strong cash flows and increased capital returns to our stockholders. We will dive deeper into our results soon, but here are a few of the most important highlights. Net income was $549 million. Our adjusted EBITDA, excluding special items, was $913 million, which brings us to nearly $2 billion through the first half of this year. Our free cash flow less non-controlling interest was $383 million.
+
+Strong cash flow in the quarter supported capital returns to our stockholders. Year-to-date we have provided $387 million in capital returns. This includes $275 million in stock buybacks during the second quarter and $19 million in cash dividends, which the company paid on June 3rd at the rate of $0.10 per share. Also today we announced an additional authorization of $500 million for future stock repurchases supplementing the $150 million that remains from the prior authorization.
+
+Importantly, in these volatile markets, we continue to have a very strong balance sheet and we are well positioned for all parts of the commodity cycle. Our proportional adjusted net debt has reached much lower levels. It stood at $1.2 billion at quarter’s end down from $3.4 billion for full year 2020 and we ended the quarter with a cash balance of $1.6 billion. We also recently amended and restated our revolving credit facility to provide more flexibility, which Bill will discuss in more detail during today’s presentation.
+
+Before we do that, however, I want to reinforce an important foundational item. Our Alcoa Values, you see them on the left of this slide and they continue to guide our company. We act with integrity, operate with excellence, care for people and lead with courage. These values are our consistent guideposts and we lean into them even more during times of volatility and uncertainty. Importantly, our commitment to safety is embedded in these values.
+
+This year we’ve not had any fatal or life altering serious injuries or what we classify as FSIAs. Working safely remains our overarching goal. Every day our success requires continued vigilance in protecting the health and safety of our global workforce, including contractors and anyone who may visit our locations. With our values as a foundation, we continue to execute on our company’s strategic priorities. We are restarting some aluminum smelting capacity. The Alumar restart in Brazil is progressing and we expect some additional modest capacity at the Portland aluminum smelter in East Australia to come online beginning in September. Meanwhile, we have made production adjustments at two other locations. The high cost of natural gas in Spain prompted us to reduce the daily production rate of San Ciprián refinery to help mitigate some of those costs.
+
+And here in the United States, we made the decision this month to curtail one of three operating potlines at Warrick operations in the State of Indiana due to operational challenges. We also continue to move forward with our investment program, which includes some return seeking projects that we announced recently. At our Mosjoen smelter in Norway, we are working to boost the electrical infrastructure to increase its capacity by another 14,000 metric tons per year. In Canada, our Deschambault smelter broke ground this month on a project that will allow us to cast standard ingots for value-add products, providing more flexibility for customers.
+
+We have demand for this specific size, including for foundry alloys that are used in various automotive applications. And speaking of value-add products, we continue to have strong year-over-year demand for EcoLum, our low carbon aluminum in our Sustana family of products, which is gaining more traction with customers. In our aluminum segment, we also continue to progress on energy contracts that support the commitment we made to our workforce to restart the San Ciprián smelter beginning in January 2024.
+
+I’ll turn it over to Bill now to walk through the financials.
+
+William Oplinger
+
+Thanks, Roy. The second quarter of 2022 was our highest ever quarterly revenue at $3.64 billion. This quarter GAAP net income attributable to Alcoa of $549 million was higher than our adjusted net income of $496 million, mainly due to non-cash adjustments. These special items included mark-to-market gains on energy contracts, primarily at our Portland smelter of $106 million as well as a reversal of evaluation allowance of $83 million related to VAT credit in Brazil.
+
+Second quarter 2022 adjusted EBITDA was $913 million, up $295 million from the second quarter of 2021 and only $159 million short of last quarter’s record adjusted EBITDA. With another quarter’s excellent financial results our first half adjusted EBITDA, excluding special items, has totaled $1.99 billion.
+
+Let’s look at the key drivers of second quarter EBITDA. The largest sequential benefit in the second quarter came from improved shipment volumes. Other favorable factors included benefits from a stronger U.S. dollar and a higher alumina price index. Lower metal prices, which included approximately $40 million to set inventories to net realizable value combined with higher costs as well as lower aluminum and alumina premiums to more than offset those benefits.
+
+In the segments oxide EBITDA was $5 million a result of lower royalties’ income. Intercompany pricing, and the MRN divestiture, as well as higher maintenance and production costs.
+
+Alumina segment EBITDA increased $81 million sequentially on higher index pricing. The reversal of the valuation allowance in Brazil, favorable foreign currency and higher shipments with partial offsets from increased energy costs, higher raw material costs and production costs and an ARO charge for improvements to bauxite residue areas at Poços.
+
+In the Aluminum segment we saw benefits of higher shipment volumes, but earnings declined on lower LME prices, higher costs and lower by resale margins.
+
+Turning to the balance sheet and capital returns to the stockholders. Cash flows in the balance sheet further improved during the quarter, creating opportunity for capital returns. Days working capital improved six days to 43 days of working capital. And proportional adjusted net debt improved to $1.18 billion, while the cash balance grew $84 million to $1.64 billion.
+
+Return on equity is 41.9% year-to-date.
+
+With second quarter free cash flow, less noncontrolling interest distributions of $383 million, year-to-date free cash flow less noncontrolling interest distributions is $227 million.
+
+Capital returns to stockholders was $294 million in the quarter bringing the year-to-date total to $387 million.
+
+Here is a closer look at cash. Substantial EBITDA continued to be a strong cash generator. Our largest use of cash year-to-date remains the working capital build we experienced in the first quarter. But working capital change was actually a small source of cash in the second quarter. We expect working capital to further improve over the remainder of the year. Our next largest use of cash year-to-date was to pay income taxes followed by capital returns to stockholders. For the second quarter, our largest use of cash was capital returns to stockholders, which is a good segue to discuss our recent signed, amended and restated revolving credit agreement.
+
+At the end of the quarter, we executed an updated revolving credit agreement. We extended the maturity to June of 2027, decreased the overall facility size from $1.5 billion to $1.25 billion. We made several other significant changes as well.
+
+First, we achieved greater flexibility for certain cash uses, including dividends, share buybacks and investments. Second, the lenders released the collateral requirements assuming we maintain a BB rating or better. And third, we added pricing adjustments linked to two of our sustainability targets. We believe this is a very fair agreement and the new agreement provides a pathway to further improvements if we should achieve investment-grade status.
+
+Moving to our full year outlook in considerations for the third quarter. For our full year outlook, the only changes on this slide relate to shipment volumes. We expect Bauxite segment shipments to be between 44 million tons and 45 million tons due to lower internal shipments to San Ciprián and Western Australia refineries and lower third-party shipments from the MRN mine. We are setting Alumina segment shipments to be between 13.6 million tons and 13.8 million tons.
+
+Looking to the third quarter compared to the second quarter, in bauxite we expect adjusted EBITDA to improve approximately $10 million on higher internal demand with higher intercompany prices, offsetting increased production costs. In alumina, we expect approximately $30 million in higher energy and raw material costs with one third being related to San Ciprián refinery energy costs. We expect higher shipments and improved customer mix to offset remaining cost pressures.
+
+In the Aluminum segment, we expect Alumina cost to be favorable by $30 million. We also expect an approximately $30 million impact from higher energy and raw material costs not fully offset by production cost savings. Additionally, the Warrick potline curtailment is expected to result in an unfavorable impact of $20 million.
+
+Below the adjusted EBITDA line other income is expected to decline sequentially by $35 million on additional funding to ELYSIS and changes to Ma’aden joint venture’s income due to lower prices. In addition, based on recent pricing, the company expects 3Q 2022 operational tax expense to be in the range of $100 million to $110 million.
+
+Now back to Roy.
+
+Roy Harvey
+
+Thanks Bill. Now moving from our strong second quarter financial results, let’s discuss what we’re currently seeing in our markets and the long-term trends that remain positive for the aluminum industry.
+
+Overall, the market is expected to remain in a deficit this year. Pricing and global supply demand forecast have been dynamic, and this is happening for a variety of reasons. First, on the supply side, China has ramped up some smelters that were idled in 2021 due to intentional curtailments for project delays. At the same time, European smelters, and more recently, one smelter in North America have cut capacity due to higher energy prices.
+
+On the demand side, while there is some global uncertainty in the near term, demand continues to grow.
+
+And finally, we continue to see inventories decrease globally as supply has failed to keep pace with continued demand. Given the price and cost pressures over the past quarter, we also see significant amounts of global Alumina and Aluminum capacities that are likely to be cash negative based on an analysis through June, which means global operating capacities will remain under pressure.
+
+Based on June’s average prices, we estimate that between 10% to 20% of worldwide smelting capacity was underwater last month. At some points in the first week of July, the SHFE spot price are likely to have pushed around half of Chinese smelting capacity underwater. In these conditions, however, suppliers like Alcoa that produce in markets with structural deficits like North America and Europe remain in an advantaged position as many consumers preferred domestic suppliers with integrated supply chains. Those consumers have also looked to move away from relying on riskier imported volumes.
+
+For Alcoa, much of our value-add aluminum products are sold on annual contracts and we expect similar volumes and higher average premiums for our value-added aluminum products in 2022, compared with 2021.
+
+Now moving to the longer term, the structural factors in the aluminum market remain positive. The world needs aluminum, and it will continue to be a critical material for a sustainable society. Aluminum has been essential for modern life, and it will play an even larger role in the low carbon future. As we know, it is lightweight, strong, and most importantly, infinitely recyclable. It is being used to replace plastics and heavier metals in a wide range of applications. And it is vital for the ongoing transition to build the electric vehicles and renewable energy infrastructure the world will need to transition to a low carbon future.
+
+Global aluminum demand is expected to grow significantly in the years to come. The International Aluminium Institute forecasts global demand for aluminum will increase up to 80% by 2050 from a baseline of 2018. And that the demand will be met by both recycled and primary metal. The IAI estimates that up to 90 million metric tons of primary aluminum will be required per year in 2050. As China approaches its 45 million ton per year capacity cap, we expect new projects outside of China will be needed to meet demand while managing the rising costs of carbon emissions.
+
+Due to these carbon costs, we expect the bulk of global smelting projects in the future to seek renewable power. Those factors should also advantage today’s low carbon emitting producers like Alcoa as demand continues to grow for low carbon aluminum, particularly in markets like Europe and North America. These longer term factors continue to make us optimistic on the aluminum market and reinforce our need to continue strengthening our business as we prepare for a bright future.
+
+As I mentioned at the top of our call, we continue to work on optimizing our operating portfolio for today and tomorrow. First, we remain focused on driving returns, restarting capacity when it makes financial sense such as at the Alumar smelter in São Luís, Brazil and at Portland Aluminium, our joint venture smelter in Australia. In Brazil, we have successfully energized the first set of Alumar smelting pots, and we continue to add new pots to operations as the restart progresses.
+
+Our fully owned subsidiary in Brazil owns 60% of the smelter with the remaining percentage belonging to South32 both partners have agreed to fully restart the site’s 447,000 metric tons of capacity, which had been fully curtailed since 2015. We announced in September that we would restart Alcoa’s share, which is 268,000 metric tons. We expect the restarts to be complete in the first quarter of 2023.
+
+Next, we continue to take decisive action when either operational or cost pressures require adjustments to production. In December of last year, we reached an agreement for a two year curtailment of the 228,000 metric tons of aluminum smelting capacity at San Ciprian, which faced exorbitant energy costs. We successfully completed that full curtailment this year and were actively working on arranging competitive power arrangements to support agreed upon restart in January of 2024. Also at our San Ciprian location, the Alumina refinery is currently challenged with extremely high natural gas prices. They are higher there in fact, than anywhere else that we operate climbing to more than $25 per gigajoule, a nearly fivefold increase since early 2021. As such, we have reduced the daily production rate by about 15% to help mitigate the impact of these higher prices and continue to actively monitor this situation.
+
+Separately in the United States, on July 1st, we quickly acted to safely curtail one of the three operating smelting lines at our work facility in Indiana. Unfortunately, we have struggled with staffing shortages of the smelter, which uses older, more manual technology. The decision to curtail one line allowed us to work on these operational challenges while focusing on stability for the two remaining lines. And at the bottom of the slide, we were happy to announce this quarter, some return seeking capital projects in both Norway and Canada. These two initiatives will allow us to create capacity while adding value-add products for our customers.
+
+Next, I’d like to turn to our strategic priority to advance sustainably. Today, we have the aluminum industry’s most comprehensive portfolio of low carbon products in our Sustana brand family. These offer customers the opportunity to lower their carbon footprint by simply using our products which have lower carbon intensity than the industry average. Our Sustana family includes three products beginning with EcoSource, which is our low carbon smelter grade alumina. It has a carbon footprint that is two times lower than the industry average.
+
+Next, our EcoLum aluminum counts Scope 1 and 2 emissions from mined bauxite to cast metal and is 3.5 times better than the industry average. Finally, we also offer aluminum with at least 50% recycled content in our EcoDura brand. While still a relatively small portion of our overall sales, we do earn a premium on these products and we’ve experienced year-over-year growth in annual Sustana sales as the move toward more sustainable solutions gained momentum. We continue to see strong demand for our aluminum made with low carbon-emitting processes specifically in Europe.
+
+And focusing on our operating portfolio, we are also well-positioned for a world focused on lower carbon emissions. We have the industry’s lowest carbon intensity refining system. Our global smelting portfolio has 81% of its power sourced from renewable electricity, which makes us one of the world’s lowest carbon-intensity producers of primary aluminum.
+
+Additionally, we have obtained certifications from the Aluminum Stewardship Initiative, the most comprehensive third-party system to audit responsible aluminum production. We can globally market and sell ASI-certified bauxite, alumina and aluminum. Meanwhile, we communicated last year a Net Zero 2050 ambition, which builds on the progress we are already making against our existing goals to reduce greenhouse gas emissions and increase renewable energy in our smelting business. Meeting our Net Zero ambition relies heavily on technologies that we’re currently working to develop.
+
+At Alcoa, we take pride in the fact that the legacy of our company is tied to the invention of the aluminum smelting process. The discovery by Charles Martin Hall in 1886 transformed society turning aluminum from a rarely used material, it was the world’s most expensive metal at the time, into something that we use daily. That spirit of challenging the status quo lives on with us today.
+
+That’s why we have a strategic vision to reinvent the aluminum industry for a sustainable future. We are running forward to demonstrate what a low-carbon sustainable aluminum industry can look like. We have a suite of technologies under development with the potential to transform our industry and drive value for Alcoa and our investors. ELYSIS is the result of years’ worth of R&D work that started to Alcoa’s technical center.
+
+Now this joint venture with Rio Tinto remains focused on building out this process so it can be adapted for full-scale commercial use. ELYSIS has produced the world’s only commodity-grade aluminum manufactured without direct carbon emissions and its metal has been used by brands ranging from Apple to Audi. ELYSIS continues to be focused on its R&D development timeline with the technology available for installation from 2024 and then two years later for the production of metal from a first adopter.
+
+In addition to the environmental benefits, this innovation is being designed so it can save both operating costs and boost productivity when compared to a same-sized smelting cell. Our Refinery of the Future initiative is a combination of several different R&D projects and process improvements that aims to not only decarbonize the alumina refining process using renewable energy but also to lower the cost of capital in constructing a new refinery, reduced freshwater use and minimize and ultimately eliminate deposits of bauxite residue.
+
+As I noted earlier, the world is going to need more aluminum over the long-term and some of that is expected to come from recycled aluminum. We have a recycling process under development known as ASTRAEA that has been demonstrated at bench scale. It can use low-value non-ferrous scrap, remove impurities and other metals and purify the remaining aluminum to a standard that exceeds the quality level of most smelters.
+
+Finally, another project we have through Alcoa Australia leverages our leading position in alumina refining. High-purity alumina or HPA is used in a range of applications, including LED lighting and lithium-ion batteries. We are in Stage 1 of a multi-stage process that includes ongoing production trials and the detailed design of the demonstration facility. Each of these projects require intense effort, focus and problem-solving skills from our teams. But our R&D projects offer vast potential as we continue to act in a cost competitive and productive manner.
+
+As Bill and I prepare to take your questions, I want to quickly recap a few important points. Our company delivered strong financial results in the second quarter, and we had an impressive first half. The work that we have done over these past several years has put Alcoa in a good position for all market cycles, and we continue to work on improving our company. Alcoa provided substantial capital returns in the second quarter with our stock repurchase program and our third consecutive dividend payment. And we are proud to have announced today another $500 million authorization for future stock repurchases.
+
+We also consistently evaluate our portfolio in accordance with our strategic priorities. We will restart capacity when it makes sense to do so and inversely, we will act on curtailments, closures or divestitures if it brings value for our company and its future. Finally, we know that the aluminum industry is vital today and tomorrow, including an evolving economy focused even more on sustainability.
+
+Alcoa is the company to deliver. Today, we have a low carbon position with the industry’s most comprehensive suite of low-carbon products in our Sustana line. For the future, we are investing in technologies that have the potential to transform our industry and we are using industry-leading environmental and social standards to help chart the challenging and exciting course ahead.
+
+Importantly, we are led by strong values and our purpose is to turn raw potential into real progress. These simple statements help to drive us forward with our strategic vision to reinvent the aluminum industry for a sustainable future.
+
+Now, Bill and I look forward to taking your questions.
+
+Question-and-Answer Session
+
+Operator
+
+We’ll now begin the question-and-answer session. [Operator Instructions] And our first question will come from Timna Tanners with Wolfe Research. Please go ahead.
+
+Timna Tanners
+
+Yes. Hey, good afternoon.
+
+Roy Harvey
+
+Hey Timna.
+
+Timna Tanners
+
+Hey there, wanted to address kind of the energy concerns in Europe and I know you mentioned this as a headwind for some of your competitors. But if you could just give us an overview of your market conditions, I know you’ve mentioned in the past, Lista and the other one in Norway, I don’t think I can pronounce. And then if you could talk a little bit about a little more detail about San Ciprián, if it’s so easy to get wind power, why are your competitor is not doing it? So just a little more detail on Europe would be great. Thanks.
+
+Roy Harvey
+
+Yes, Timna, let me start on that one and then Bill can add in as well if I miss anything. So energy conditions in Europe, as I think everybody on the call knows, are seeing particular increases pretty much from where we were before. And there is, in fact, even more uncertainty when we think about how much of that – how much gas will actually be delivered into Europe, the need for potential restraints and what’s used, et cetera.
+
+So it is a very complicated situation that’s changing each and every day. And that is for gas, which is what we – natural gas, which is what we use inside of our San Ciprián refinery, but then also the knock-on impacts to the electricity market, which is what impacts our – the list of plant, which is our smaller plant up in Norway. So from our perspective, essentially, we have spot exposures in both of those, and we have been pursuing different paths for both and really have been trying to analyze the situation as it sits in front of us.
+
+So starting in Spain, and I’ll try to answer sort of your two questions there. Everybody will remember, we’ve curtailed the smelter. So thank goodness for that, because electricity prices in Spain have skyrocketed. And so we have an agreement there with the workforce until January 2024.
+
+As you said, we are in the midst of putting together long-term energy contracts there. It’s an agreement that we made with the workers. And there is also a lot of support from the regional government of Galicia and then the national government in Spain to try and offer incentives to the producers of renewable energies to also be able to supply us with energy.
+
+So we’re making good progress. We’ve signed one contract already. We’re working on some others. And that is all aligned to try and support the restart that we’ve committed to in January of 2024. Why are we able to do that instead of our competitors? I think there’s a lot of support regionally to help through the permitting process to be able to bring these new renewables facilities up.
+
+I think we also are very – have a very credible name and obviously are a very large consumer of energy. And so I think our balance sheet and our position helps to support and, in fact, helps to support some of the developers as they put together those investments. So I don’t think it’s necessarily a playbook that can’t be copied by others. But I think the location and who we are helps us support that program.
+
+The refinery consumes natural gas and we have a spot exposure there. We announced over the course of this quarter that we have brought down that capacity by 15%. We continue to experience very high gas prices. And so it is a developing situation. We look at what’s happening on alumina pricing. We also have a good amount of chemical sales that happens at that chemical non smelter-grade alumina essentially. Chemical sales that happen at that plant. And so that is a developing situation. We’ll continue to discuss any other decisions that we make down the road, but certainly a challenging environment.
+
+The last piece is on Lista in Norway. They are exposed to the spot market. But they have two advantages. Number one, Southern Norway, while it is impacted by European energy prices is still a step below what you’re seeing in places like Spain and other places. So that helps to keep the energy prices a little bit more realistic, although we have seen pretty significant increases.
+
+And the second piece is that they also have a very strong cash out. So we’re very, very heavily focused on value-add products. And so as we look at the energy prices that we were able to secure and as we compare that with the revenues that were coming in, we actually chose to take some of that risk off the table. And in fact, look forward a few over the months at the end of this year into 2023 and actually secure energy for that period.
+
+So we will be less exposed once we get pass these next couple of months because we’ll have those contracts in place. And we see that as the best outcome for Lista from a financial perspective. And of course, that certainly brings stability operationally and also stability to the workforce inside of Lista.
+
+So that’s how we’re dealing with where we have spot exposures. The other facilities that we have in Europe, essentially Mosjøen in Norway and Fjarðaál in Iceland have long-term power contracts, and so they’re not exposed to some of the spot issues that we’re seeing there. I don’t know, Bill, if you want anything else to add to that?
+
+William Oplinger
+
+I think you covered it really well. I guess the two minor points that I would add is that in Spain in the refinery, since we’re exposed to spot gas prices, we are seeing spot gas prices close to $30 per gigajoule, which results in a fairly large loss that we’re looking at in the third quarter, which is baked into the guidance that we provided, Timna. But the losses in the refinery in Spain are around $75 million a quarter currently. You addressed motions in a good situation given the fact that it’s up in Northern Norway. So it’s not exposed to the Southern European or Southern Norwegian energy prices. So that’s the only two things I’d add, Roy.
+
+Timna Tanners
+
+Okay. Thanks so much for the comprehensive answer and best of luck.
+
+Roy Harvey
+
+Thanks, Timna.
+
+Operator
+
+Our next question will come from Carlos De Alba with Morgan Stanley. Please go ahead.
+
+Carlos De Alba
+
+Yes. Thank you very much Roy and Bill. So just continuing with, I guess, the questions on costs. Any comments as to how do you see the cost pressures in alumina with the refineries there? And then also in that continent, how does Portland fits in your medium to long-term strategic view for the smelting business?
+
+William Oplinger
+
+So I’ll take the cost question first. It’s important, Carlos, for you to go to the outlook page, which I think is Page 30 of our deck. In alumina, we’re expecting $30 million in higher energy and raw material costs and third of that is related to San Ciprián. So as I said to Timna, we are seeing high energy costs in Spain and projecting that they’re a little bit higher in the third quarter versus where we are in the second quarter. Continue to see some high raw material costs flowing through.
+
+However, we are projecting a stronger shipment view in the third quarter for the Alumina segment. And we think that that stronger shipment will offset all the other cost increases or any other issues that we have in the Alumina segment in the third quarter. By then step back and think about the cost structure of raw materials that are flowing through both the Alumina and the Aluminum segment. We are now finally starting to see on an as purchase basis caustic prices going down in the second quarter already, and going into the third quarter. Now you know, there’s a six month lag on our caustic purchases that it takes to flow through and to our costs of goods sold. But it’s good to actually see that we think we’ve peaked out on caustic prices, at least for now. And we’re starting to see those come off and that’s a positive.
+
+On the smelting side, seeing something similar, but probably in the third and fourth quarter as coke and pitch peak out in the third and fourth quarter, they will start to decline from there. So we’re finally starting to see some relief from higher raw material costs, but as we’ve said all along, it takes some time to flow through the P&L. So let me turn it over to you, Roy, to answer the Portland question.
+
+Roy Harvey
+
+Yes. Carlos, so for Portland very specifically, let me start off a bit more generally and then get to a very specific answer to your question. So generally what we’ve been driving to do and I think this was in a lot of the materials that we’ve provided in the Investor Day that we did not seems like a world ago, but it wasn’t that long ago. We’re focused on driving down the cost curve and making sure that we have long lived assets that we can invest in and drive to have a portfolio that makes us a very strong company. We’re also very determined to move towards renewable energy because we see that as the way for us to be able to adapt to a low carbon world to meet our net zero by 2050 targets.
+
+And because more and more customers are demanding, are requesting, are pushing towards low carbon aluminum as well. And so we always look at every single one of our facilities in those lights. For Portland specifically, right now we have a coal heavy power supply not exclusively, but obviously that has been important for the development of Victoria state in Eastern Australia in general. They’re working a lot in order to change that. So I think as you look a number of years out, they’re moving very quickly towards heavier renewables.
+
+Right now we have a contract that I think has four years left, approximately four years left. That gives us time to evaluate what we want to do and how Portland fits in our long-term portfolio. When we look at facilities, we always talk about and this is very simplistic terms, fix, close or sell. We look for ways to repower and if we repower, can we secure renewable sources in order to do that repowering? We have always have the opportunity to curtail or close, obviously that wouldn’t happen until that that power contract ends.
+
+And of course, there’s always the option to be able to the best, if we see that we can’t solve those issues in a way that then matches our portfolio. So for Portland, we’re actively looking to find what is the right solution and how that fits with our portfolio and we’ll keep you updated as we think through and make those decisions.
+
+Carlos De Alba
+
+All right. Excellent. Thank you very much, Roy and Bill. Good luck.
+
+Roy Harvey
+
+Thank you, Carlos.
+
+Operator
+
+Our next question will come from Emily Chieng with Goldman Sachs. Please go ahead.
+
+Emily Chieng
+
+Good afternoon, Roy and Bill. And thank you for the update. My first question is just around the capital return strategy. So certainly great to see the additional buyback there, but was this step change in that program simply a function of the improvement in working cap and higher free cash flow this quarter or was it perhaps an increased confidence in the ability to weather through this period of macro uncertainty?
+
+William Oplinger
+
+I’m going to agree with both about that, Emily. Thanks for the question. But we have a capital allocation program that’s focused on maintaining a strong balance sheet, sustaining the plants and sustaining the operations. And then you’ve heard us say there’s three prongs of that capital allocation after we’ve done that. And in no particular order transforming the portfolio, positioning for growth and returning cash to shareholders.
+
+Given the strength of the balance sheet and the balance sheet, as you’ve heard us say numerous times with the work we’ve done around funded debt, pension and OPEB is substantially stronger than where it was even two years ago, much less four or five years ago. We have confidence in the strength of the company. And so we provided returns to shareholders in the second quarter as our cash balance was strong. Our cash generation was strong and we have confidence in the future ability of the company to weather through cyclical storms.
+
+And so that’s why we provided it. Just we announced an additional $500 million buyback. We still have $150 million left on the prior buyback authorization. It’s very consistent with what we’ve done in the past, where when we see the authorization getting low, we go out with a new level of authorization. So that’s what we executed upon in the second quarter.
+
+Emily Chieng
+
+Great. And just one quick follow up, if I may. Roy, you mentioned there was a significant amount of capacity that’s currently underwater given where spot prices have trended to. Maybe turning the question to the Alcoa set of assets. Are you able to share what percentage of aluminum and alumina capacity is still generating positive cash margins maybe said another way, what’s the aluminum/alumina breakeven?
+
+Roy Harvey
+
+Yes. Emily, I appreciate the question. I’m not going to be able to give you a direct answer because that’s not information we typically share. More generally I would just say is that when as we see facilities that are going underwater, we take evasive action to try and figure whether it’s best to continue to operate or to curtail or to find other actions. And so, and I think Bill had mentioned San Ciprian refinery as a good example of a place where with exorbitant gas prices, it’s simply a loss making enterprise at this point. And so that’s a good example of a place that we do pretty much constant analysis to see how can we optimize the outcomes there.
+
+But otherwise in general, we really don’t talk specifically about each of the plants, but we do take very seriously trying to make sure that we can maximize and optimize the returns at each and every one of our facilities and look for ways to improve them.
+
+Emily Chieng
+
+I appreciate the color. Thank you.
+
+Roy Harvey
+
+Thanks, Emily.
+
+William Oplinger
+
+Thanks, Emily.
+
+Operator
+
+Our next question will come from David Gagliano with BMO Capital Markets. Please go ahead.
+
+David Gagliano
+
+Hi guys. Thanks for taking my questions. My question is actually related to some of the cost questions that have been asked previously, but it’s just a bit of a broader stab at it. So, if we consider what’s been going on in the aluminum market, things have changed quite a bit obviously the last few months. We’ve seen China production ramp, we’ve seen the demand outlook incrementally negative, I think that’s a fair comment versus what it was a few months ago. And obviously commodity prices come way down. Slide deck 10% to 20% of the global aluminum smelting is underwater based on Alcoa’s estimates. And so my question is in terms of how you think about your business, your smelting business specifically?
+
+If we look at the 2.5 million tons to 2.6 million tons of capacity now, if say for whatever reason prices continue to go down another 10% and another 20% for example, and costs all kind of stay where they are, about how much of that 2.5 million tons to 2.6 million tons of capacity would be at risk of closure in a sort of a six-month to one-year weak pricing environment?
+
+William Oplinger
+
+Dave, let me take a stab at it first, and then Roy can follow up with some more information. We’ve done a lot on the portfolio over the last five and a half years, we announced a portfolio review going on three years ago, I believe it is. We curtailed Intalco. We repowered Portland. We are restarting São Luis almost at an restarting São Luis. We curtailed San Ciprián, which as Roy said earlier, boy, if we had not curtailed San Ciprián smelter, we’d be paying over $300 a megawatt hour on energy. So, we’ve done a lot to right size the portfolio and really get it in a position where it can get through some pretty tough economic situations.
+
+I’m not going to speculate on what gets done at a 10% or a 20% reduction. I hate to try to answer hypothetical questions. You’ve seen what we’ve done over five and a half years. If a facility needs to be curtailed, because it’s losing money, we don’t shy away from hard decisions. We do it in humane ways, but we don’t shy away from hard decisions. So Roy is anything you want to add to that?
+
+Roy Harvey
+
+Yes, I think you covered a lot of it, Bill. I would just call your attention, Dave, to three things. First of all, you talked about demand. We look out at demand and we continue to see growth this year. There is a lot of uncertainty. There’s a lot of questions, particularly in Europe, and of course, China with COVID. So there’s the potential that we continue to see customers stepping away. But realistically, what we’re seeing right now is that demand continues to grow for the year. And so we continue to have a good full order book. We have constant conversations with our customers. And of course, we have annual contracts, and we have – in the U.S. those tend to be priced annually, and in Europe they tend to be priced quarterly. We continue to see very strong premiums, very strong order books and value-added. And so while there is great uncertainty, I think, it continues to be a good story on demand. It’s just a question of where that takes us.
+
+The second thing is, is really around cycles. And Bill and I, and Jim have been around this business for a very, very, very long time decades at this point. And I think the one thing that is typically true is that as you see that revenue cycle turned down, you also tend to see that cost, that cost cycle turned down as well. Typically there is margin impression for the first few months, but then you start to see some of the relief on cost pressures, which Bill’s already talked about. And so we try to analyze our decisions based on that assumption. Now, every situation is very different, right? Russia, Ukraine is a very specific circumstance and what’s happening in the energy markets in Europe is very specific to what we’re seeing right now.
+
+But we always try to look to see how we can make sure that we’re squeezing costs out as quickly as we can. Of course, that’s the stuff that we control. It’s our workforce, it’s our – what we do on raw materials and our maintenance decisions, et cetera. But there’s a lot of places that we can try and drive out costs across the board and we continue to do that. And that sort of brings me to my third point, which, which Bill already touched on, which is the fact that we’re a very different company in a very different portfolio than where we were five years ago. And a lot of the strategy has been, so that we can be strong through the cycle, no matter what, even in the down part of the cycle, that we’ve built a balance sheet, that’s strong that we have a portfolio that’s better able to weather those changes.
+
+And in the end that we will continue to make decisions that need to be made. We don’t flinch away from making difficult decisions. While at the same time, we never stop trying to make sure that we can drive an improved business so that we can continue to operate and continue to operate things the way that they should be operated.
+
+David Gagliano
+
+Okay. That’s helpful. I appreciate the historical references. And yes, and I do remember those days as well. And I remember going through these contingency planning conversations with Bill, and I think you actually in the IR role at one point. And I thought, there was typically an answer that said, yes, what, if prices go down another 20%, we have 20% of our capacity is. And really what I’m trying to get to is, is that the case now? Or is it such that the cost structure to your point is so much better that the existing assets are not impervious but are, at what point, I guess, really what I’m trying to get to is at what point does the commodity price impact start to actually have an impact on the existing smelting capacity?
+
+I think just was kind of curious some sort of framework. It doesn’t have to be specific to the smelter or anything like that? And also just while you try to address that rambling follow-up, the Alumar restart, how does that factor into the thought process with regards to, that’s a 10% increase in your capacity in this environment, how does that factor into your thought process in terms of the rest of the portfolio?
+
+Roy Harvey
+
+So, I think the one thing I’ll add to try and address your first question there, Dave is that, we tend to look at a number of different actions that you can take as the world shifts. And first and foremost, like we’ve talked about portfolio already, but most of our smelters at this point are with long-term, low priced energy contracts. And so when you think about the danger of them turning negative, it is much lower because they have long life contracts and the fact is, those were set at a time where alumina prices were significantly lower than what we’re experiencing right now.
+
+So we can always move to stop, not relining. We can step into partial curtailments, full curtailments, there’s a lot of actions that we can take. And I remember all those wonderful slides that we used to put together that talked about those programs. I think if we were to get to an area where those things were to start to occur, we would certainly communicate that to you and into the market because that would signify that we’re getting to a point where we’d have to start taking action. Like we said, it’s really the sense that we’re in refinery and it’s listed that right now, where the places where we had to take decisions and we’ve already talked through those. So I won’t belabor the point.
+
+When it comes to Alumar, the São Luis restart and this is the plant that I used to work at. So, it’s near and dear to my heart. The restart started off a bit later than we wanted it to, but it continues to ramp up now, according to the plan that we wanted it to be just offset by those couple of months. I think they’re doing a very good job of restarting. We’ve got a long-term renewable power contracts in place at very attractive power prices. And so, it’s coming in at the – on the very strong end of our portfolio, and that’s why we chose to restart it. And that’s even before you get to value add taxes and all the add-on benefits of having an integrated facility and having a strong position inside of Brazil and a good, strong domestic market as well for the metal that we’re making. And so what it does is make our portfolio even stronger. And it’s great to be able to bring that plant back up again.
+
+William Oplinger
+
+And the only thing I would add to Roy as and I know we’re trying to address Dave’s question. One thing to keep in mind, Dave and this is a change from, if you looked back 10 or 15 years ago with the portfolio we had, today around 65% of our energy is LME linked. So that means when the LME is going up, we’re not getting all the benefit of the LME. And you’ve seen that, but when the LME goes down we’re – our energy costs are following that. So that’s a much higher percentage than it was, let’s say 10 years ago. And it positions the portfolio four times when the LME does go down, we’re not the ones that have to curtail.
+
+Roy Harvey
+
+No. And if I can just add one more piece onto it, also Dave, I know we keep adding on pieces and pieces. When you think about the smelters, big smelters very specifically at risk and who’s sitting at the very top end of that cost curve and what are they dependent on? I think it’s you look at it either in my prepared comments, but you look at sort of the average for Junes specifically in China and it was 10% to 20% that were underwater. That changed so significantly because of a change in SHFE prices that have reached at half of all smelters in China underwater, because those prices had come down over the course of a couple weeks.
+
+And so, when you think about how flat the cost curve is where our facilities sit on that cost curve, and then where some of the competitors sit on that cost curve, and then how beholden they might be to things like coal prices or specific alumina costs, et cetera. I think it helps you to understand that the decisions that we make are a bit more predictable and because of where we’re now located on the cost curve and the work on the portfolio, it’s just simply a different game than it was in a decade ago or five years ago.
+
+David Gagliano
+
+Okay. That’s helpful. Thank you.
+
+Roy Harvey
+
+Thanks, Dave.
+
+Operator
+
+Our next question will come from Curt Woodworth with Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yeah, good afternoon, Roy and Bill and congrats on the progression on the buyback, sort of the follow up to the power question and the LME linkage, we were somewhat surprised this quarter of the power cost is only 25% of the total for the smelting segment, whereas running 33%, 34%. And we sort of would’ve figured that, given the LME linkage and the fact that you have spot power Norway that would’ve gone up a lot. So is it – and also you have less buy resale. So could you address that? Is it simply a function of other things going up more or is there a lag – like a mechanism in place?
+
+Roy Harvey
+
+Curt, I think it’s a little bit of both that there is a little bit of a lag on pricing. So, it depends on which contract it is. It can be anywhere between 30 and 90 days. So, you do see a lag there. You also see some of the raw material costs have gone up and that would deflate the amount of percentage associated with energy. I don’t have a real, more precise answer for you than that Curt.
+
+Curt Woodworth
+
+Okay. And then just on buy resale and tolling that is about 25% of your shipments in the smelter segment. And you mentioned in the prepared remarks that margins have come down for that. I know some of that is I think, Ma’aden tolling, but can you just talk to what you’re seeing in margins on that part of the business, and if you could give us a sense for profitability there in terms of our model, that’d be helpful? Thanks guys.
+
+Roy Harvey
+
+Profitability is generally very low. We’re doing buy resale activities to try to essentially meet customer demands in certain areas. We may do those also for just to swap from a time perspective of when we need to make deliveries. And so profitability is not large on the buy resale. In the case of the second quarter, we did see with the rapidly declining metal price. There was times where we were buying at one price and turning around and selling it a little bit lower price, given some of the supply chain disruptions that we saw in the quarter. So that’s what was meant by my remark in the prepared comments.
+
+Curt Woodworth
+
+Okay. And then maybe just one quick one on the tax rate for the third quarter, I know that typically the Alumina segment has higher percentage tax base. Do you feel like the tax rate will move around much sequentially? Would it go up a little bit just given the fact that the LME maybe gone down a little bit more than alumina?
+
+Roy Harvey
+
+Tax rate could move around substantially depending on earnings levels and where the earnings come from? That’s why we, in my prepared remarks, I give you specifically the amount of tax expense that we’re anticipating for the company that gets you out of having to try to figure out what the actual tax rate will be. It’s our best given the current metal prices, current alumina prices, Forex, it’s our best estimate of the tax expense and it saves you from having to try to figure that out.
+
+Curt Woodworth
+
+Okay. Thank you.
+
+Roy Harvey
+
+Thanks, Curt.
+
+Operator
+
+Our next question will come from Lucas Pipes with B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+
+Good afternoon. Good job on the quarter. And I also wanted to ask a quick question on the cost side. So you mentioned the labor shortages at Warrick and 99% [ph] CPI, of course folks are feeling the pinch. What are you seeing on labor inflation? And if so, how quickly would that run through the cost structure? Thank you very much.
+
+Roy Harvey
+
+It depends by jurisdiction. And in certain jurisdictions, we have labor agreements that our combination of built in increases that are related to inflation. There are also places around the world, for instance, like Norway, where there’s a stipulation of how much increases get paid. So Lucas, there’s not one kind of monolithic answer that I can give you about wage inflation. And so it really depends on the jurisdiction.
+
+As we look out it’s getting harder and harder to determine how much wage inflation there will be just with the some of the volatility that we’re seeing in the marketplace. And just take the U.S. for instance we did have difficulty getting enough folks to work at in Indiana, which in large part led to the curtailment of the facility. But at the same time, we’re seeing some of our competitors curtail, so that may give us an opportunity to hire some people out of those facilities that may take some of that pressure off.
+
+Lucas Pipes
+
+Okay, thank you for that. My second question is on ELYSIS. You mentioned that priority to scale up the supply chain. What does that entail?
+
+Roy Harvey
+
+Well, essentially Lucas, and I’m not going to get too deep into the technical details because it’s proprietary. Essentially it means that as we’ve solved the – essentially, the essential manufacturing technology inside of the cell. And so right now, we started off, we’ve been essentially ramping up the amperages and increasing the size of the cell, working up to the 450 kilo ampere cells that’ll be operating here by the end of next year.
+
+As we ramp up that we need to start thinking about how we make sure that the proprietary material and technology that is the anode, the replacement for the carbon anode, that we can manufacture that, manufacture the cathodes and essentially manufacture everything that goes into what will be the design and finally the installation of that first and then those sequent ELYSIS cells.
+
+And so essentially it means how do you solve the supply chain, because these are new materials, these are new technologies and thus ELYSIS as an entity, and then Alcoa and Rio Tinto as the partners that have ownership in that entity really need to solve how are we going to make sure that we have the materials necessary. And the knowhow to be able to allow that deployment to happen as quickly as it could happen because of increasing demand for low carbon aluminum, and the very unique product that will be ELYSIS metal.
+
+Lucas Pipes
+
+That’s helpful. And then the commercial strategy would be to sell those packages by 2024. Did I hear that right?
+
+Roy Harvey
+
+The strategy that we have is that we’ll have a proven technology by the end of 2024. We’ll then go into a design phase for what would be the deployment of the essentially be putting into place that that first facility for first half metal coming in 2026. And so the decision about how we put together the commercial packages and then who is going to deploy at first and all those things are still decisions that will be made as well as the decision whether we choose to license or just keep it in house. And so that’s all – that all has option value for us as we solve technology problems and make sure that we have a – we have a great and cost efficient system that then we can choose to do what creates value for our shareholders.
+
+Lucas Pipes
+
+Very helpful. Thank you very much and best of luck.
+
+Roy Harvey
+
+Thanks, Lucas.
+
+William Oplinger
+
+Thank you, Lucas.
+
+Operator
+
+Our next question will come from Michael Dudas with Vertical Research. Please go ahead.
+
+Michael Dudas
+
+Good evening, gentlemen.
+
+Roy Harvey
+
+Hi, Michael.
+
+Michael Dudas
+
+Roy, I was intrigued by your comment that you made in your prepared remarks about customers looking to more advantage, more in in-market type of suppliers than maybe in the past. How quickly that changed and is that, and can you look at that relative to what’s going on in the global markets and with Russia and the dynamics that could be with us for quite a while and how that metal may or may not be part of what customers are thinking about as they go about their business?
+
+Roy Harvey
+
+Yes. Mike, I don’t think this is necessarily new. I started off my career in Alcoa in sort of the interface between operations and commercial and finance, trying to figure out how you fund the right products in the right places for the right customers, and I think it’s always been true that that customers want – the quality material that they want and they want to have it when they want it and thus there’s always been – there’s always been an advantage for the supplier, for the company that is close to the customer.
+
+I think what we’ve seen and if this was really brought into start contrast through the, the COVID pandemic, I think we’ve seen that people realize that supply chains are fickle. And I think that’s not just aluminum that’s across the board, and so what we’ve seen is more and more interest over these last two to three years of how can you guarantee not just the quality and the price, but also the fact that you’re going to have that material when you need it, because we don’t have the material you’re not going to be able to produce and therefore you’re losing demand or losing it to other competitors.
+
+That then add one more wrinkle which is Russia/Ukraine because Russia was importing into the U.S., it wasn’t importing into Europe. And all of a sudden you have a lot of companies that are choosing to no longer accept that metal, even if it’s going through traders. And so I think that, that’s even exacerbating the situation making people really think twice about how can they really drive towards – towards local suppliers.
+
+And so for us it’s an advantage for Alcoa because a lot of our capacity and a lot of our customers happen to sit in North America and Europe, which is where we have also the strongest premium environments where we offer our value added products and where we can – where we can actually create more value because we have cast houses that we can invest in and where we have good capacities inside of our value-add to make those connections with customers.
+
+And I’ll just add one more – one more quick piece to it, not to belabor the point, but as you think about then another overlay, which is low carbon and the drive to have products that are, have less carbon content that then is another – another decision point that a lot of our customers are making. And you see this particularly in Europe, in fact a good portion of our sales in Europe we’re already moving towards these low carbon products.
+
+Customers are now not just looking to have surety of supply, but they also want to make sure that that supply is going to have a lower carbon content. And so for Alcoa, that looks at scope 1 and 2 emission that goes all the way from bauxite to alumina to aluminum we can actually help them understand what is the material they’re going to be getting? What is the carbon content that sits in there? And then how can we evolve that through buying EcoLum products, which is our low carbon or even down to ELYSIS that becomes available down here a few years, like Lucas’s questions. So to me, it’s an advantage to be located where we are. It helps us drive the right number of customers, but it is also helping us to drive improved – improved revenues, improved connections with our customers.
+
+Michael Dudas
+
+Well, that sounds quite encouraging. Thanks for those folks.
+
+Roy Harvey
+
+Thanks Mike.
+
+Operator
+
+[Operator Instructions] Our next question will come from John Tumazos with John Tumazos Independent Research. Please go ahead.
+
+John Tumazos
+
+Thank you. The two smelter idling in the Midwest that were 30% of U.S. output didn’t benefit Midwest premiums it kept falling. There wasn’t much brouhaha in the press. I would’ve thought Tesla increasing output or Ball Corporation building two plants might have had some anxiety. Why are – why is there so much complexity with shrinking output? Is it just that autos and housing are particularly week this month as well?
+
+Roy Harvey
+
+Yes. John, let me take a stab at that because I think it’s a good question and we put some thought into it and as is always the case when it comes to pricing environments, there’s a lot of factors that go into it. So I’m going to give you some breadcrumbs. And I also know that, you’re good at putting together those breadcrumbs to have a view as well. So obviously there’s the supply side, which is pretty clear what’s happening. On the demand side, we continue to see an order book that is full. We continue to see a lot of demand for value-add products. And so, that to us really, we haven’t seen a lot of changes that have happened over the course of this year. And so that says those two things are more or less stable to where they were. And although you still continue to see a little bit of weakness in the automotive side, as we talked about last quarter as well.
+
+Add that then to the logistics of some of these imports coming into country. And so I think part of what you might be seeing is that when those imports in fact are able to get in, when those vessels can actually make it, and we understand there were a couple two, three vessels that were meant to come in Q1, but they actually came in Q2. And that tends to mean that it’s not just the – in the moment supply demand, but then there’s also this supply coming in from vessels that then makes a factor like Midwest that is so dependent on those deals that are happening in the moment that can have impacts that are a bit surprising.
+
+So on this one, everything that we see is that the Midwest premium is continued to reflect the strong demand that we see. It’s not yet reflecting the lack of that supply because it’s being substituted by some of these imports that came in a bit tardy, but have actually come in. I think the question will of course be, and I’ll leave that to you is, as you think through this, what happens in the future? And how does that change through time? But for us it’s – but for us we continue to see good demand and that supply obviously is having an impact.
+
+John Tumazos
+
+Do you think a solution would be for Washington to increase the 10% tariff?
+
+Roy Harvey
+
+We’ll probably leave that to smarter people to work through. From our standpoint, we’re always looking to have a very efficient market. And so for us, we want to make sure that we’re incentivizing demand. We want to be sure that we can have the best possible outcome for our plans that are operating in the U.S. and Canada and Brazil around the world. You know, I think we want to make sure that we don’t have unintended impacts that happen in downstream. A tariff is, it’s been effective to a certain extent that increasing at driving the market as we see it today, but it’s an imperfect instrument. And we just want to make sure that it doesn’t have unintended consequences.
+
+John Tumazos
+
+If I can ask one last one. The IAI at this morning had Eastern Europe, Russia, 5,000 times more output than April, another 30-day months. It would seem as though it’s four plus months now with the war in the sanctions, the plenty of alumina must be getting into Russia overland from China or even further from Vietnam or India overland or something in bauxite, alumina in Indonesia. There must be enough covered gondola cars and covered trucks given there aren’t that many hopper cars for overland transport from Asia.
+
+Does it appear that the Taishet 428,500-ton new greenfield smelter is, in fact, getting fired up? But they’re maintaining the old 3.75 million ton output plus firing up the new smelter despite the sanctions and most of their alumina getting cut off from the West? I hope President Biden’s, Jackass are listening.
+
+William Oplinger
+
+Hey John, we’re looking at a lot of the same import data that you look at, I’m sure. We’re having a hard time determining how imports, sizable enough imports are getting into Russia to support all of the smelting capacity. We don’t really have any better insight into what smelters are actually producing in Russia than probably what you do. But like I said, that the import data of alumina certainly wouldn’t suggest that they can keep all of the smelters running plus ramp-up Taishet but we have not heard anything different. So that’s where we stand.
+
+John Tumazos
+
+The aluminum price would suggest the output exists and that the sanctions or some kind of fantasy that the data the Russian submitted is truthful because the aluminum price goes down, unfortunately. Thank you. You guys are doing a great job in a tough time.
+
+William Oplinger
+
+Thank you very much, John.
+
+Roy Harvey
+
+Thanks, John.
+
+Operator
+
+And our final question is a follow-up from David Gagliano with BMO Capital Markets. Please go ahead.
+
+Roy Harvey
+
+Hi Dave.
+
+David Gagliano
+
+Hi, I promise it will be shorter. I just had a quick question on the cost, the costs that are tied to LME, 65% of cost side to LME. Is there any kind of lag in there?
+
+William Oplinger
+
+Yes, so 65% of energy, it’s not all costs, it’s energy costs. And the lag is anywhere between 30 and 90 days. So there can be a little bit of a lag there.
+
+David Gagliano
+
+Okay. That’s helpful. Thanks.
+
+William Oplinger
+
+All right. Thanks Dave.
+
+Roy Harvey
+
+Thanks Dave.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you once again for joining our call today and for your questions and continued interest in Alcoa. We will continue to execute on our strategies as we progress throughout the year. Both Bill and I look forward to talking to everyone again in October for our third quarter results. In the meantime, please be safe. Take care of yourselves and each other. Thanks.
+
+Operator
+
+The conference is now concluded. Thank you for attending today’s presentation. You may now disconnect.

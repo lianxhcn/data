@@ -1,0 +1,385 @@
+Alcoa Inc. (NYSE:AA) Q2 2007 Earnings Call July 9, 2007 5:00 PM ET
+
+TRANSCRIPT SPONSOR
+
+
+Executives
+
+Tony Thene - IR
+Chuck McLane - CFO
+Alain Belda - CEO
+
+Analysts
+
+Kuni Chen - Banc of America Securities
+Rob Clifford - ABN Amro
+David Martin - Deutsche Bank
+John Tumazos - Independent Research
+Greg Barnes - TD Newcrest
+Tony Rizzuto - Bear Stearns
+
+Operator
+
+Good afternoon, ladies and gentlemen, and welcome to the Alcoa 2007 second quarter earnings conference call. (Operator Instructions) I would now like to turn the call over to the Director of Investor Relations, Mr. Tony Thene. Please proceed, sir.
+
+Tony Thene
+
+Thank you. Good evening, and thank you for attending Alcoa's second quarter 2007 analyst conference. At today's conference, Chuck McLane, Vice President and Chief Financial Officer, will review the second quarter financial results, as well as current and next quarter's anticipated business condition. In addition, Alain Belda, Chairman and CEO, will then give an overview of the current market conditions and recent events.
+
+Before I turn it over to Chuck, I would like to remind everyone that the information discussed on this call contains forward-looking statements that involve future events and known and unknown risks and uncertainties, including current expectations regarding Alcoa's future performance and the potential benefits of the combination of Alcoa and Alcan. Actual results may differ materially from those discussed today in our presentation.
+
+Additional information concerning factors that may cause actual results to differ can be found in Alcoa's and Alcan's respective filings with the U.S. Securities and Exchange Commission; and in Alcan's case, the Canadian securities regulatory authorities.
+
+Lastly, certain portions of this discussion concerning the proposed transaction are addressed in a registration statement which Alcoa has filed with the SEC and the Canadian securities regulatory authorities. We urge you to read the registration statement, because it contains important information.
+
+In our discussion today, we have also included some non-GAAP financial measures. You can find our presentation to the most directly comparable GAAP financial measures, calculated in accordance with generally accepted accounting principles, and all related reconciliations on our website at www.Alcoa.com under the invest section.
+
+At this point, let me turn it over to Chuck.
+
+TRANSCRIPT SPONSOR
+
+
+
+
+Do you get frustrated during earnings season?
+
+Have you had trades go south because of bad earnings dates?
+
+We know what it's like. We’ve been there. We’re Wall Street Horizon and we work with some of the largest firms on Wall Street.
+
+Founded by former Fidelity Investments executives, we understand the power of trading on good information and the pain and suffering of trading otherwise. We obsess about earnings and economic events calendars so you don’t have to. Accurate. On time. Guaranteed.
+
+Let us help.
+
+Get Smart
+
+Get Wall Street Horizon.
+
+View our Free 30-day trial for investment professionals
+
+To sponsor a Seeking Alpha transcript click here.
+
+Chuck McLane
+
+Thanks, Tony. Good evening, everyone. In the second quarter, we continued to deliver outstanding results, achieving the second-highest earnings in the company’s history. Income from continuing operations was $716 million, or $0.81 per share. Included in our results was a favorable after-tax restructuring adjustment of $21 million, or $0.02 per share. This adjustment was generated as a result of completing the soft alloy extrusion JV with Sapa. The quarterly results also included $0.02 per share in after-tax transaction costs stemming from our outstanding offer from Alcan. As you can see, these offset one another in the quarterly earnings. It is worth noting that the strong results were achieved despite the $36 million or $0.04 per share of curtailment costs at Tennessee and Rockdale.
+
+Sequentially, all of our downstream segments improved, and three of four achieved record quarterly earnings. Quarterly revenue of $8.1 billion, an all-time high, was up 2% sequentially and 3.5% higher than the year-ago quarter.
+
+Just as a reminder, we completed the JV for soft alloy extrusions on June 1st. Once we did that, those revenues ceased to be included in our consolidated results. Were we to have included those in our consolidated results, our revenues would have been $8.3 billion.
+
+Cash from operations was a quarterly record of $1.35 billion, up $650 million from the year-ago quarter, and $822 million sequentially. Debt to capital at 29.4% continues to decline; in fact, this is the lowest level since the fourth quarter of 1999. We have achieved that leverage ratio despite being in the midst of a peak year of capital spending. We continue to exceed the cost of capital with an ROC of 11.8%. Excluding our growth investments, return on capital would stand at 14.7%.
+
+With those highlights as a backdrop, let’s move on to the income statement. Cost of goods sold as a percent of sales increased slightly on a sequential basis. Excluding the primary business curtailment and start-up costs, the underlying improvement was driven by productivity.
+
+SG&A costs as a percent of sales remained flat at 4.5%, though they included $26 million of transaction costs.
+
+Restructuring charges were a credit of $57 million. The main driver was the completion of the Sapa joint venture as the asset valuations were higher than originally anticipated. The corresponding tax rate for the transaction was also higher than originally forecast. The original net impairment that we took last year was therefore reduced accordingly. The net impact to after-tax earnings from restructuring was $21 million, or $0.02 per share.
+
+Interest expense increased due to slightly higher debt levels. Let’s move to the next slide and compare the performance against the sequential quarter. This chart illustrates the operational improvement captured in the second quarter. We were able to offset cost inflation and currency impacts with improved mix, volume and productivity, with each of our downstream segments showing improvement sequentially.
+
+The three main detractors from profitability on a sequential basis were lower LME pricing, primary curtailment costs and higher start-up costs in Iceland, all of which were either publicly disclosed or readily available. In addition, on a quarterly year-over-year basis, productivity, volume and mix completely offset cost inflation, energy and currency.
+
+Now let’s spend some more time on the details and walk through each one of the segments.
+
+For the Alumina segment, ATOI increased $16 million, or 6%. This increase was driven by slightly higher pricing and increased shipment volume, but partially offset by a continued weak U.S. dollar. In fact, the Australian dollar and the Brazilian real appreciated approximately 6% in the quarter, which led to a reduction in profit of $14 million sequentially. In addition, costs associated with the first quarter Guinea strike totaled $9 million in the quarter.
+
+Production was up 4% sequentially, right in line with the guidance we provided last quarter. In the third quarter, we anticipate a consistent level of production and shipments.
+
+Next, let’s move to the Primary segment. Sequentially, Primary Metals ATOI decreased by 8% due to the following: lower pricing, unfavorable currency which amounted to $18 million, increased Iceland start-up costs of $20 million which were up $4 million sequentially, and the impact of the previously announced Tennessee and Rockdale curtailment costs of $23 million. The remaining portion of that $36 million resides in corporate, due to our captive insurance company. Higher third-party volume and favorable mix partly offset these declines.
+
+Looking forward to the third quarter, we anticipate Iceland start-up costs of approximately $24 million. In addition, we will see continued curtailment costs out of the Rockdale facility, and seasonal increases to market power in the U.S.
+
+Now let’s move to the flat roll product segment. Flat roll products ATOI increased 50% to a quarterly record of $93 million. These results were driven by continued strength in aerospace and higher volumes in can sheet. Productivity gains continued to exceed cost inflation. Even with the China and Russian growth projects reflected in this segment's capital base, FRP as a whole returned higher than cost of capital in the quarter.
+
+Looking forward, we expect to see the normal third quarter seasonal slowdown due to the European holidays and the North American automotive shutdowns. The second quarter is typically the strongest quarter of the year from a volume standpoint. In the third quarter of 2006, this segment's profitability declined by 40%, due to seasonality and mill outages. We would expect an approximate 20% decline this year, linked specifically to the normal seasonal slowdowns.
+
+Moving on to engineered solutions, this segment again delivered outstanding results, with both record quarterly revenue and earnings. ATOI for the quarter improved by 13% from the previous quarter to a record of $105 million. Strong markets, market share gains and new product offerings throughout the portfolio continue to more than offset the substantial decline in Class 8 trucks of approximately 50% compared to the year-ago quarter.
+
+In addition, productivity gains continue to outpace cost inflation. In fact, the fastening systems business and the power and propulsion business captured double-digit year-over-year improvements to profitability and achieved their highest quarterly return on capital. This segment continues to make significant improvements each and every quarter and they have considerable upside remaining.
+
+In 2006, this segment improved profitability over the preceding year by 63%. Through the first six months of this year, they have built on that momentum by improving profitability an additional 8%. As we move to the third quarter, the Class 8 truck downturn will continue as we project a 48% reduction in build rates compared to third quarter of 2006. This segment will also experience the normal third quarter seasonal slowdown, due to the European holidays and the North American automotive shutdowns. We do not anticipate this decrease to be as pronounced as last year.
+
+One last item. The Alcoa Fujikura business will experience increased taxes of approximately $9 million, as a result of a tax rate change in Germany.
+
+Moving on to the Extruded and End Products segment, ATOI increased $12 million or 35% sequentially, as this segment experienced solid margins across the board, particularly in Europe. Effective June 1st, the soft alloy extrusion joint venture with Sapa was completed. Going forward, the financial results in this enterprise will be reflected in the following manner:
+
+As I said earlier, we've ceased recording revenue in this segment and from a consolidated standpoint. As a guide, the revenue of the soft alloy business was 634 in the first quarter and 407 in the first two months of the second quarter. We will, however, record the equity income in this segment as we move forward. This segment will also experience the normal third quarter seasonal slowdown.
+
+Moving next to the packaging and consumer segment, Packaging and consumer ATOI increased $18 million or 95% sequentially. This quarterly increase was driven by the normal seasonal upturn in the consumer enclosure businesses, as well as continued productivity improvements. Year-to-date ATOI has increased $11 million or 24% compared to the same period in ‘06.
+
+EBITDA margin for the quarter increased to 10% compared to 8.8% in the prior year quarter. Full year 2006 EBITDA margin of 7.6% increased to 8.8% for the first half of 2007. Looking forward to the third quarter, we expect productivity improvements to offset any cost inflation and closures is expected to experience its normal seasonal decline.
+
+Now, let's talk about my favorite subject, cash flow. We continued to build on a string of solid cash generation quarters with cash from operations of $1.35 billion, up $650 million year over year and $822 million sequentially. Working capital decreased $474 million in the quarter, driven mainly by improvements in inventories and payables.
+
+In terms of days of working capital -- the most appropriate measure -- we reduced 2.8 days year over year and 2.6 days sequentially. Capital expenditures for the quarter were $891 million, with 46% of that total devoted to the four major growth projects: Iceland, Mosjoen, Sao Luis and Juruti.
+
+The depreciation of the U.S. dollar continues to inflate capital expenditures. Comparing the first half of 2007 to the first half of 2006, the Australian dollar, the euro and the Brazilian real have all appreciated in the range of 7% to 9% to the U.S. dollar.
+
+As I mentioned earlier, debt to capital now stands at 29.4%. In fact, you may have noticed on the balance sheet that we are carrying a significant cash balance at the end of the quarter, pending the maturity of some short-term debt. Were you to take us down to a more normal cash balance, our debt to cap would be below 28%. This leverage ratio is another indication of our strong cash generation, particularly in a year of peak capital spending.
+
+Lastly, you should note that we were required to suspend our share repurchase program, pending the completion of the bid for Alcan.
+
+Now I'd like to turn to a couple of our performance trend measures. In the second quarter, we continued our trend of improving financial performance with the highest quarterly revenue and the second-highest quarterly ATOI. Each of our downstream segments demonstrated improved profitability, and three of four downstream segments established quarterly ATOI records. The bottom portion of this slide provides you with the Bloomberg trailing 12-month ROC metric. Not only are we adding value by producing a return higher than our cost of capital, these numbers include both the impact of restructuring, as well as the impact of construction in progress that has yet to contribute to the bottom line.
+
+At the end of 2006, we established six financial targets for 2007. Let me close by giving you a brief update on each one.
+
+First is ROC would continue to exceed the cost of capital. We were significantly over this threshold in 2006, with the trailing 12-month Bloomberg ROC of 13.2%, and we continue to excel through the first half of 2007.
+
+Cash from operations will fully fund our capital expenditures. Through the first half of the year, cash from operations was $1.9 billion, with capital expenditures totaling $1.7 billion. We expect cash from operations to be strong in the second half of the year, and as a result, we expect to hit this target even with the depreciation of the U.S. dollar.
+
+Volume, mix and productivity will completely offset cost inflation. We are tracking slightly behind this target on a year-to-date basis, primarily due to the depreciation of the U.S. dollar.
+
+EBITDA margins will increase year over year in every downstream segment. We are also achieving this target through the first half of the year.
+
+Full-year 2006 versus first-half 2007 margins are as follows: Flat Rolled Products has increased margin from 6.6% to 7.1%; Engineered Solutions has increased from 11.1% to 12.7%; Extruded and End Products has increased from 4.3% to 5.6%; and Packaging has increased from 7.6% to 8.8%.
+
+Debt to capital will remain in the 30% to 35% range. As I said earlier, we finished the second quarter at 29.4%.
+
+Lastly, we project our capital expenditures to be in the range of $3 billion to $3.2 billion. Our run rate through the first half of the year is $3.3 billion. The weaker U.S. dollar has hurt through the first half, and pending no recovery we would expect an impact to the second half as well.
+
+In summary, significant progress and value has been achieved through the first six months. We anticipate that trend to continue. Thank you, and I will turn the presentation over to Alain.
+
+Alain Belda
+
+Well, thank you, Chuck and good evening, everyone. I am certainly pleased with another strong quarter. We achieved the second-highest quarterly earnings in the company's history, the highest quarterly revenue in the company's history, the highest quarterly cash from operations in the company's history and improved earnings and margin in all our downstream businesses.
+
+On a half-year basis, we have established all-time records for revenue, net income, earnings per share and cash from operations. We are well on our way to another record year of financial performance.
+
+Now, I'd like to give you an update on the alumina market, and then close with a quick update on the many activities within Alcoa. But first, let me review our safety results. For those of you who may be new to this quarterly report, we always start with our safety numbers. Safety is one of our key substantial metrics and is a good leading indicator of how we run our businesses.
+
+For the second quarter 2007, our lost work day rate was 0.07, and our total recordable rate 1.12. Year to date, we have 306 locations that have not had a lost workday incident. That is 87% of the total Alcoa locations worldwide. This is benchmark performance for a global industrial company.
+
+Superior performance in this area of safety is not just the right thing to do, it also has a positive financial impact. Between 2001 and 2006, our cost for worker comp claims decreased from about 15% due to the reduction of severe claims. That reduction is worth more than $4 million per year.
+
+Now, let's get into current market conditions. On the demand side, China remains the major driver of growth. We project a consumption increase of 34% year over year. This is 60% higher physical consumption than the U.S. and 43% higher than Europe. Rapid urbanization is driving a tremendous demand in markets such as building and construction, consumer durables and high voltage transmission lines.
+
+For the other regions of the world, we see the following: a year-over-year decrease of 2.5% in North America consumption. However, we have been seeing an indication of a pickup in some markets. We see solid growth in the European consumption of over 3% after several years of weak growth. We see strong growth in Latin America, particularly Brazil, and good growth in India and Russia, as well as Japan. In total, we project a world consumption growth rate for 2007 of 10%.
+
+On the supply side, we have China increasing production by about 34%, for a total production number of 12.5 million tons year-over-year increase. This is equal to 85% of Alcoa's total operating capacity, just to put it in perspective. Recently, the Chinese government announced new measures to slow down the rapid build up by eliminating tax rebates on rod, bar, billets and wire products. We expect those actions to have an impact on the overall market over time. Our latest 2007 world production growth rate projection is just under 13%.
+
+In summary, our latest supply/demand balance is as follows: for alumina, we lowered our projections from a surplus between 1 million to 2 million tons to a range of balance to 1 million tons surplus. That change is driven by both a slower ramp-up of brownfield expansion and higher Chinese metal production. The spot alumina market supports this change, as recent prices have increased to the mid-300's per ton.
+
+For aluminum, we continue to project 300,000 metric tons of surplus for 2007. Keep in mind that this is less than 1% of a 38 million ton market. To keep this in the proper perspective, we need to look at days of consumption. Based on our latest global demand projection, daily consumption is equal to approximately 100 tons per day. Our projection of 300,000 tons surplus represents about three days of demand. It is at least what is required to cope with the work in process demand of fabricating capacity to transform the additional production out of China.
+
+Global demand in general remains robust. Europe is stronger than the U.S., while China continues at a torrid pace. In markets that are weaker, such as commercial transportation, we have demonstrated the capability to grow share, improve mix and introduce new products to partially offset the decline.
+
+Looking back over the last 18 months, we have an impressive track record of progress. Last year's strong financial performance continued this year with record revenue, record earnings, record cash generation and returns well in excess of the cost of capital. We increased the company's dividend by 13% and we continued improvements of our downstream business, with stronger margins in every segment.
+
+Key drivers are the productivity increases, market share gains and new product introductions. We believe that we have the long-term potential in these businesses and are investing for continued profitable growth. We have growth projects that are at or nearing completion, and will begin to generate earnings and cash flow.
+
+The greenfield smelters in Iceland will produce at full capacity in 2008 and the Sao Luis refinery expansion will come in line later that year. As capital expenditure trends down from its peak this year, we will see increases in cash flow going forward.
+
+We have an active portfolio management, the completion of the soft ally extrusion joint venture and our current efforts on the Packaging and ASL businesses. We believe we have addressed or are working on those downstream businesses that are not earning cost of capital. The remaining downstream assets are attractive.
+
+The flat rolled products business, the hard alloy extrusions, forging and fasteners businesses are thriving and will continue to improve. These businesses are based on proprietary alloys, technology, unique equipment, complex processes that serve rapidly expanding end markets. These are business that we believe belong inside Alcoa and we are investing and will continue to invest in them to improve profitability in the future.
+
+Driven by the many activities, the momentum continues with strong markets. Another record quarter, as supported by exceptional returns on capital and impressive cash generation.
+
+Now, let me give you a quick update on the Alcan offer. Since May 7, I have personally met with many shareholders. During those meetings, the majority of the questions are focused on four areas: synergies, growth opportunities, the commitment to Quebec and regulatory approval. I will address of each of these quickly before taking your questions.
+
+Alcoa is clearly the optimum partner for Alcan, with significant synergies of $1 billion that are available only to an Alcoa and Alcan combination. Those synergies are achievable because of our substantial geographic and business overlaps. With those significant synergies as support, and based on Alcoa price as of July 6, the offer was at 37% premium to Alcoa’s 30 days average price, a 45% premium to the 90 days average price, and a 24% premium to their all-time closing high on May 4.
+
+The combined company will have a robust portfolio of potential projects that can meet increasing demand and growth earnings. The combined company will be able to optimize the growth project pipeline and spread their risk by prioritizing projects that would be more difficult as a standalone company.
+
+We are confident that we can easily meet the terms of the Alcan continuity agreement with Quebec, and that condition is no longer an issue for our offer. Alcoa has an unparalleled ability to make commitments that meet and exceed all terms of the agreement and the Investment Canada Act.
+
+Beyond the obvious economic benefits that we can provide, Alcoa brings a world-class health safety and environment program and a reputation that is recognized in every country where we operate.
+
+Concerning regulatory process, we have carefully considered the competition approvals. In June, we filed with the U.S. competition authority all the forms required under the HartScottRodino. Last week, we received a second request, and as expected, this is a normal part of the process and we were not surprised by this content and remain confident that our proposed remedies and targeted market will resolve our competitive concerns.
+
+We will respond promptly to the second request, and intend to satisfy all regulatory requirements in a reasonable timeframe. We have also filed the formal documents in Canada and Australia and have submitted a draft to the European Commission as required. Obviously, this is a key item in the transaction process, and we are moving as quickly as possible to gain the necessary regulatory approvals. We have announced that we have extended our offers to August 10, 2007, as we continue to pursue regulatory approval.
+
+I believe Alcoa's offer for Alcan is truly a winning strategy and strategic combination. It is full, fair and provides a substantial value to Alcan shareholders. This transaction provides the necessary skill to compete in a changing global environment; combines an optimized portfolio of assets with an enhanced capacity for growth; combines strong technology, operations and talent with shared values and an unwavering commitment to sustainability; and an EPS and cash flow per share accretive within the first year.
+
+Together, Alcoa and Alcan will create the premier diversified global aluminum company with $1 billion in annual synergies, enhanced cash flow and a complementary portfolio of assets and enhanced growth opportunities. I am confident that the combination of these two companies -- two companies that belong together -- will create a stronger future for both.
+
+Thank you for your attention. Now we would like to take your questions.
+
+Question-and-Answer Session
+
+Operator
+
+Our first question comes from Kuni Chen - Banc of America Securities.
+
+Kuni Chen - Banc of America Securities
+
+Thanks and good afternoon. I want to ask about the upstream project pipeline with the potential merger with Alcan. Do you envision the pipeline changing substantially if Alcan and Alcoa merge?
+
+Phrased differently, do you think the organic growth potential of the combined company will be any different than if the two companies are separate?
+
+Alain Belda
+
+No, I think the organic opportunities for the new company are the same. The opportunities continue to be in aerospace, transportation, marine, building and construction, all the same fields, and packaging.
+
+Kuni Chen - Banc of America Securities
+
+So the growth potential is the same, whether it's a combined company or whether they are separate?
+
+Alain Belda
+
+The areas of opportunity are the same. The ability to do the right investment, if you're talking about upstream. On upstream, the opportunities are also to improve the risks that are inherent to the choices that we have to make as we look for energy around the world and decide where we're going to invest. Every plant is a major capital expenditure, they cost over $2 billion. The political risk of every decision is different. So I think it permits us to optimize investment decisions, location decisions and also permits us to choose to expand on brownfield opportunities rather than greenfield opportunities.
+
+Kuni Chen - Banc of America Securities
+
+Thank you.
+
+Operator
+
+Your next question comes from Rob Clifford - ABN Amro.
+
+Rob Clifford - ABN Amro
+
+Good afternoon. Along a similar vein, I wanted to explore the enhanced capacity for growth point that you talked about in the merger, along with your debt to capital guidelines of 30% to 35%.
+
+Now, with the large cash component, it will exceed that, certainly our numbers, pretty easily. Does that mean that you will curtail organic growth if you're successful in the Alcan deal to bring yourself back to that 30% to 35% rapidly, or would you scale down to that over a number of years?
+
+Chuck McLane
+
+I think we've said from the beginning that once the transaction is consummated, that we will definitely go above that target range of 30% to 35%. If you looked at our pipeline right now in something that gets started we've got projects that are going on that are in our pipeline, but no new ones in a very short timeframe of two to three years. So I don't think it's going to inhibit us. We already understand the leverage ratio that we are dealing with, but there's also a strong set of cash flows that are coming, especially those projects that are currently in progress, that will start to generate cash flows next year and the year after.
+
+Operator
+
+Your next question comes from David Martin - Deutsche Bank.
+
+David Martin - Deutsche Bank
+
+Thank you. Chuck, I wanted to come back to your comments about the fasteners business. There's been a lot of press and trade reports about yours as well as the industry's inability to supply fasteners to Boeing. Can you give us a little perspective on the issue, and maybe some numbers around the growth in that business for you?
+
+Chuck McLane
+
+Well, I can tell you that as you are aware, the backlog is significant and the deliveries are beyond anybody's estimates for this year. Certainly what came out of the Paris Airshow was beyond the expectations as well.
+
+Fasteners are one of the things that have been listed as something of a supply chain issue to deal with. I can tell you that we're working with our customers on a day-by-day basis to fulfill all of their requirements, and we have capacity that is being increased in certain locations in order to help meet those demands.
+
+But without getting to a specific number for you on growth, I would just as soon stay away from that.
+
+Operator
+
+Your next question comes from John Tumazos - John Tumazos Independent Research.
+
+John Tumazos - John Tumazos Independent Research
+
+Good afternoon. If for the September and December quarters the exchange rates and energy prices and outlooks were exactly as today and exactly as you described, how much higher would your cost per unit be on average in the third and fourth quarters?
+
+Chuck McLane
+
+From an exchange rate standpoint?
+
+John Tumazos - John Tumazos Independent Research
+
+Exchange rates, energy prices and outlook as you've described. Use a range, if it simplifies anything, Chuck.
+
+Chuck McLane
+
+Well, energy really has a lot to do with us, as you are probably aware, on rain in the third quarter. That's why we list it as a seasonal cost to us. So you tell me how much rain is going to fall, and I'll tell you how much the cost is going to go up.
+
+But on the exchange rate side -- look, it changes quarter to quarter, but I will give you a rule of thumb. If you've got a 1% change in the value of the dollar to our other major currencies, it's about $0.02 a share. Will that vacillate from quarter to quarter? It may, but it's a good rule of thumb for us.
+
+Operator
+
+Your next question comes from Greg Barnes - TD Newcrest.
+
+Greg Barnes - TD Newcrest
+
+I was wondering if you can give us any clarification on what the next steps are for the European competition authorities and what timing might look like?
+
+Alain Belda
+
+Well, this is the way it goes. You are going to have to submit the application once they comment on the draft application we made. I'm sure they are going to be working with the US DoJ as they normally do and this process will follow the normal process like you've seen many of those before. It just continues to go on, and we will answer the questions. There's nothing new here.
+
+Greg Barnes - TD Newcrest
+
+Do you have a timeframe on when their comments could come back to you on the draft?
+
+Alain Belda
+
+No, no, we don't have a timeframe.
+
+Operator
+
+Your next question comes from Rob Clifford - ABN Amro.
+
+Rob Clifford - ABN Amro
+
+If you could give us an update on Iceland, you mentioned before the massive capital costs in putting in greenfield smelters and political risks. I just wonder if you could outline some of the things you've learned about securing power and what has gone on there, and how that is progressing in terms of the ramp-up?
+
+Chuck McLane
+
+Securing the power, we are perfectly satisfied with the situation in Iceland from a hydro standpoint and a power standpoint. Some of the costs that we incurred were higher construction costs that most everyone else has been incurring during the ramp-up stage of that smelter being built.
+
+But I can tell you, even with pretty conservative metal prices and the capital costs that we have, where they are placed on the cash cost curve and what kind of return we will earn over the long term, we're still totally satisfied with.
+
+Rob Clifford - ABN Amro
+
+So the power has come on stream as you expected?
+
+Chuck McLane
+
+No. The power is not coming on stream. I thought you were referring to cost of the hydro project. It is a delay. We're working on temporary power right now and we're working with the authorities there that run the power project to get it up into a permanent situation as quickly as possible. We think that's going to be building up during the fourth quarter, and we still anticipate that next year we will get the full capacity out of that facility.
+
+Rob Clifford - ABN Amro
+
+So was the delay just due to slow construction or technical problems with the power side of the project?
+
+Chuck McLane
+
+It was some problems in actually the tunnels being built and the extra concrete that had to be put up to support the tunnels.
+
+Operator
+
+Your next question comes from Tony Rizzuto - Bear Stearns.
+
+Tony Rizzuto - Bear Stearns
+
+Thank you very much. With regard to the European regulatory environment, would you be prepared to divest ESWA if required to do so?
+
+Chuck McLane
+
+We will have to decide what we divest as we get the questions, Tony. We are not prepared to start negotiating or talking about that at this point in time.
+
+Tony Rizzuto - Bear Stearns
+
+As a follow up, if I may, on Russia you mentioned improved performance. Could you quantify what that may have been in terms of the numbers, give us a little detail on that in the quarter?
+
+Chuck McLane
+
+Well, if you looked at the reconciliations that we have, Tony, you would see that Russia, China, in Bohai and Kunshan had a loss of about $30 million last quarter, and it and down to about $15 million this quarter. You can assume most of that improvement was Russia.
+
+Tony Rizzuto - Bear Stearns
+
+It sounds like you are ahead of plan to possibly get to breakeven by end of year. It sounds like you might be a little ahead of target on that?
+
+Chuck McLane
+
+No, that's still our plan.
+
+Operator
+
+At this time, we have no more questions in queue. I would now like to turn the call back over to Mr. Thene. Please proceed, sir.
+
+Tony Thene
+
+Thank you for attending the call tonight. That now ends the second quarter 2007 analyst call. Thank you.
+
+TRANSCRIPT SPONSOR
+
+
+
+
+Do you get frustrated during earnings season?
+
+Have you had trades go south because of bad earnings dates?
+
+We know what it's like. We’ve been there. We’re Wall Street Horizon and we work with some of the largest firms on Wall Street.
+
+Founded by former Fidelity Investments executives, we understand the power of trading on good information and the pain and suffering of trading otherwise. We obsess about earnings and economic events calendars so you don’t have to. Accurate. On time. Guaranteed.
+
+Let us help.
+
+Get Smart
+
+Get Wall Street Horizon.
+
+View our Free 30-day trial for investment professionals
+
+To sponsor a Seeking Alpha transcript click here.

@@ -1,0 +1,160 @@
+ATA Inc. (ATAI) Q3 2018 Earnings Conference Call November 8, 2018 8:00 PM ET
+
+Executives
+
+Adam Prior – Senior Vice President-The Equity Group
+Amy Tung – Chief Financial Officer
+Kevin Ma – Chairman and Chief Executive Officer
+Jack Huang – President
+
+Analysts
+
+Operator
+
+Good day, everyone. Welcome to the ATA Inc. 2018 Third Quarter Financial Results Conference Call. My name is Javin. I will be your event operator for the call today. During the presentation, your lines will remain on listen-only. [Operator Instructions] I would like to advise all parties that this conference is being recorded. [Operator Instructions]
+
+And now I would like to hand it over to Adam Prior of The Equity group. Please go ahead.
+
+Adam Prior
+
+Thank you, operator, and hello, everyone. Thank you for joining us. The press release announcing ATA’s results for the third quarter ended September 30, 2018, is available at the IR Section of the Company’s website at www.atai.net.cn. As part of this conference call, the Company has an accompanying slide presentation available on the Company’s website. A replay of this broadcast will also be made available at ATA’s website for the next 90 days.
+
+Before we get started, I would like to remind everyone that this conference call and any accompanying information discussed herein contains certain forward-looking statements within the meaning of the safe harbor provision of the Private Securities Litigation Reform Act of 1995. Although the Company believes that the expectations reflected in its forward-looking statements are reasonable as of today, those statements are subject to risks and uncertainties that could cause the actual results to differ dramatically from those projected. There can be no assurances that those expectations will prove to be correct. Information about the risks associated with investing in ATA is included in its filings with the Securities and Exchange Commission, which we encourage you to review before making an investment decision.
+
+The Company does not assume any obligation to update any forward-looking statements as a result of new information, future events, changes in market conditions, or otherwise, except as required by law.
+
+Regarding the disclaimer language, I would also like to refer you to Slide number 2 of the conference call presentation for further information. All U.S. dollar amounts in this conference call, relating to financial results for the third quarter ended September 30, 2018, are converted from RMB using an exchange rate of RMB6.8680, US$1, the noon buying rate as of September 30, 2018.
+
+All historical conversions are accurate as of the time reported, unless otherwise noted. The Company reports its financial results under U.S. GAAP in RMB, and all percentages calculated in the presentation are based on RMB unless otherwise noted.
+
+For those of you following along with the accompanying presentation, there is an overview of the Company on Slide 3. On today’s call, the Company’s CFO, Ms. Amy Tung will provide a brief overview of financial highlights for the third quarter of 2018. ATA’s Chairman and CEO, Mr. Kevin Ma and President, Jack Huang will conclude the remarks with a brief discussion on ATA’s outlook and long-term growth strategy as we head into 2019 before opening the floor for questions.
+
+With that, I’ll turn the call over to ATA’s CFO, Ms. Amy Tung. Please go ahead, Amy.
+
+Amy Tung
+
+Thank you, Adam, and welcome everyone. I’ll begin on Slide 5 with financial highlights but first I’d like to note a few important changes in the way we reported our financial statements for the three and nine months ended September 30, 2018. With the closing of the ATA Online transaction in August, the balance sheet items related to the disposed business lines were not consolidated into ATA’s September 30, 2018 financial statements.
+
+For the periods presented in this deck and in the related press release, the results of the discontinued operations, less applicable income taxes, pertaining to the time period prior to the disposal date are reported as two separate components of income or loss on the consolidated statements of consolidated income or loss, which are: loss from operations of discontinued operations, net of income taxes, and gain from disposal of discontinued operations, net of income taxes.
+
+Briefly, ATA’s total net revenues for the three months ended September 30, 2018, were RMB1.1 million, compared to RMB2.1 million in the prior-year period. Same as the first and second quarters of 2018, the decrease was primarily due to reclassification of approximately RMB1.5 million in rental income from net revenues to other operating income, net, as a result of adopting the new revenue guidance ASC 606, effective January 1, 2018. The related costs of approximately RMB0.5 million were also reclassified from the cost of revenues to other operating income, net.
+
+Loss from continuing operations, net of income taxes, for the third quarter of 2018 was RMB1.5 million, compared to a loss of RMB14.5 million in the prior-year period, primarily due to the reversal of approximately RMB9.3 million in deferred taxes accrued, as a result of the ATA Online sale Transaction. Gain from disposal of discontinued operations, net of income taxes, for the third quarter of 2018 was RMB1.0 billion and income taxes incurred for the disposal of discontinued operations for the period totaled RMB89.1 million.
+
+As a result of this RMB1 billion gain from disposal of discontinued operations, ATA reported RMB1 billion or US$147.6 million in net income for the third quarter of 2018, compared to a net loss of RMB16.5 million in the prior-year period. As many of you are aware, in connection with the closing of the ATA Online transaction, ATA paid a special cash dividend of US$6 per ADS to shareholders in August. The total amount of cash distributed in the dividend was approximately US$140 million.
+
+As shown on Slide 6, ATA has a history of returning capital to shareholders through dividends since the Company’s IPO in 2008. Including this most recent special cash dividend, the Company has distributed approximately US$7.42 per ADS in dividends in aggregate as a measure of rewarding shareholders for their continued support.
+
+Slide 7 provides balance sheet highlights. As of September 30, 2018, ATA’s cash and cash equivalents were US$31.2 million, which takes into account payment of the special cash dividend I just mentioned. This compares to US$8.2 million in cash and cash equivalents at December 31, 2017.
+
+Working capital was US$29.2 million, and total shareholders’ equity was US$42.7 million at September 30, 2018, compared to US$34.6 million and US$56.1 million, respectively, as of December 31, 2017.
+
+I’d now like to turn it over to Kevin who will say a few words about ATA’s outlook and growth strategy. Please go ahead, Kevin.
+
+Kevin Ma
+
+Thank you, Amy. I will make my comments brief. Those of you who have been following ATA since the beginning of 2018 know that the Company has transformed quite a bit in the past year. Slide 9 summarizes these major developments, including Jack’s appointment as president in January, the ATA Online sale transaction from entry into SPA to ultimate closing, and finally, our M&A activities.
+
+ATA intends to maintain its NASDAQ listing, and we will continue working to both grow our operations and serve as responsible stewards of capital for all of our shareholders. As Amy mentioned, our management team has a documented history of successfully returning capital to our loyal shareholders and we expect to utilize our strong financial position to continue pursuing opportunities in the education industry.
+
+As we continue to cultivate the remaining portion of ATA’s business, which includes development of K-12 assessment tools and content and two university partnership projects focused on vocational and international education, we also believe our expertise in assessment/learning technologies and reputation within the sector will allow us to take advantage of exciting prospects as education in China continues to grow and evolve.
+
+With that, I’ll turn it over to Jack for an update on our M&A activities.
+
+Jack Huang
+
+Thank you, Kevin. In August, we announced that ATA signed a definitive agreement for the acquisition of Beijing Biztour International Travel Service Co., Ltd. Beijing Biztour for short and [indiscernible] in Chinese, for which we had previously announced a strategic investment in March. We continue working closely with the Beijing Biztour team to complete the acquisition and anticipate closing before the end of the fourth quarter of 2018.
+
+In addition to making progress on the acquisition, ATA’s management team has been actively involved in restructuring and streamlining Beijing Biztour’s businesses since we announced the definitive agreement in August.
+
+This month, we appointed Ms. Nan Sun, who previously served as General Manager of EURASIA Education, a subsidiary of New Oriental, as the new CEO of Beijing Biztour. Ms. Sun has over 18 years of experience in the international education space and U.S. market. We believe her vision and insight will prove helpful as we work to utilize ATA’s resources to maximize the growth potential of Beijing Biztour’s educational study tour business while exploring ways to improve this promising business model.
+
+Slides 10 and 11 provide additional background on this acquisition. The terms of the definitive agreement remain the same as previously announced with ATA acquiring Beijing Biztour for a total purchase price of RMB50 million as noted on Slide 10. The Company filed a Form 6-K on August 17, 2018, which contains the definitive acquisition agreement and additional information. Interested parties may access it on the SEC Filings page on ATA’s website or on the U.S. Securities and Exchange Commission website at www.sec.gov.
+
+Beijing Biztour is one of China’s largest providers of B2B educational tour services, offering international educational study tour services for students in China, who are interested in overseas study tours primarily in the U.S., United Kingdom, and Australia. Utilizing ATA’s expertise in leading technologies and our longstanding industry connections, our initial goal is to increase outreach to support a growing population of students seeking learning experiences outside of the classroom, specifically educational international travel programs.
+
+Moving to Slide 12, which outlines our overall growth strategy. Having completed the Transaction during the 2018 third quarter, we are now fully focused on working toward our long-term goal of leveraging ATA’s expertise in assessment/education technologies and services, as well as our industry relationships, to scale the growth of well-established education enterprises to expand our presence in China and beyond, transforming ATA into a leading international education service provider.
+
+The Beijing Biztour acquisition is one of these opportunities and we continue to explore the possibility of using the proceeds from the ATA Online sale transaction to fund M&A opportunities within the education sector while also continuing to support the remaining portion of ATA’s business, which includes development of K-12 assessment tools and content and two university partnership projects focused on vocational and international education.
+
+We believe ATA is well positioned to execute on this growth strategy, and we look forward to answering any questions about our plans during our upcoming visits to the U.S. for investor meetings.
+
+With that, operator, let’s open it up for questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thanks so much. Hello, everyone. The question-and-answer session will now begin. [Operator Instructions] I would like to hand the call over to Adam Prior.
+
+Adam Prior
+
+Thank you, operator. At the current moment, we do not have any questions in the phone queue; however, we do have a webcast open for the Company in which we are taking questions. We’ve received a few, and I’ll read those and then turn it over to management for their comments.
+
+The first comes from Jason Huang of Rimor Capital Management. And the question, the first one is, I am trying to understand our current business portfolio. Is our K-12 assessment tool segment contributing the vast majority of revenue at this point? And is there any timeline to improve the quarterly loss in this segment to a breakeven level?
+
+And with that, I’ll turn it over to management to address that, and then I’ll come back and read the next question.
+
+Amy Tung
+
+Thank you, Adam. For the K-12 assessment tools segment, it is true that it is contributing majority of the revenue at this point. Since this K-12 assessment tool business is still a technology-oriented startup company, we expect that it will take some time to see substantial financial contribution. However, with the vote of confidence from MOOC-CN investment, which has significant resources and authority within the space of online education, we believe that this company can develop effective education assessment tools and content and be able to more quickly penetrate China’s K-12 education system.
+
+Adam Prior
+
+Thank you, Amy. As I read through the next question, it says, for Beijing Biztour. And this question also comes from Jason Huang of Rimor Capital Management. For Beijing Biztour, what is the current revenue breakdown between the regular travel agency business and the educational tour business? And can you give any color on the margins within that business? And I’ll turn it over to you.
+
+Amy Tung
+
+For the revenue breakdown, for Beijing Biztour, actually it is more for the educational tour business. So agency business is only a very rare case for Beijing Biztour’s business. We are actually in the process of closing the deal for Beijing Biztour, and we’ll have more color on our next conference call. And we are also working on a budget for the coming year so we will share more color in the next call for the revenue and also the other details.
+
+Jack Huang
+
+Adam, a couple of points on top of the answer from Amy.
+
+Adam Prior
+
+Of course.
+
+Jack Huang
+
+All right. This is a very, very good question. So Beijing Biztour is entirely education tour focused, All right. So in this sense, our revenue will be coming entirely 100% from this sector, sort of education tour related. We’re in a very interesting period of time because we are right now in the middle of completing this deal and also working on plans, working on budgets, as well as our strategy for the coming year, especially the execution plan for the coming year. So, I totally agree with Amy, there will be more information on the – our Biztour with this coming earnings call.
+
+Adam Prior
+
+Okay. And the second half of his question relating to Beijing Biztour, from Rimor Capital is and I’ll read it exactly. Within the education tour business, what percentage of the year-to-date revenue is from U.S. products in the first three quarters this year? And then he also asks if there is any material impact in terms of customer choices given the current trade between China and the United States, if there’s any impact in customers’ choices with that?
+
+Jack Huang
+
+This is a very good question. I mean I just returned from a visit to the Ministry of Education in the States led by senior officials from the Chinese Ministry of Education. So from this visit, we met and talked to the Secretary of Ministry and we also talked to a number of senior members of the American Ministry of Education. Even though, we have sort of trade disagreements between the two countries, but both parties strongly believe there will be no material impact on the number of students in terms of student exchange between the two countries.
+
+As a matter of fact, the American government welcomes Chinese students to study in the States. When I was introducing ATA and our acquisition of Beijing Biztour, when I was telling the Secretary of Education Ministry, that we roughly send thousands of students from China to have short-term studies or to have study course in the United States and she was very, very impressed.
+
+From this perspective, I do not foresee any sort of negative impact caused by the trade dialogue between the two administrations on the study tour business. As for your first question, the U.S. is a very attractive destination for Chinese students to study short-term study tours or long-term study. So from our data, more than 60% or 70% of our students actually go to the United States and the rest of the students go to other speaking countries such as Australia, Britain, Canada, New Zealand, and continental Europe.
+
+So we’re looking forward to – at a market level, the international study tour business actually enjoys a very, very strong growth in the past sort of five years. We see more than 20%, 30% of growth year-over-year in the past five years. That’s the reason why we started this acquisition and with this acquisition we’re trying to transform ATA from a regional business to an international education provision. Thank you, Adam.
+
+Adam Prior
+
+Thank you. Finally, we have one question again on the webcast portion from Jason Huang of Rimor Capital. And the last question is what is management’s plan to allocate capital between the K-12 assessment segment and Beijing Biztour?
+
+Jack Huang
+
+Our strategy as far as this acquisition is concerned is very straightforward and clear. We acquire to invest and to grow. So we’re prepared to invest major resources available right now to Beijing Biztour and to grow that to be the leading platform, B2B international tour operating platform in China.
+
+And the reason why we want to invest is because the market is growing very fast and penetration rate is getting higher and higher, and the size of the market is very, very good. We’re talking about millions of Chinese students going abroad for study tours every year, and the largest B2C operator in this field actually only recruits around about 20,000 or 30,000 students a year, so in comparison to millions of students going out a year, we have very big room for growth. So in order to take advantage of the market growth, the size of the market, we have to invest and we have to invest for growth.
+
+Adam Prior
+
+Thank you, Jack. And that is all that we have from the webcast portion. And thank you to everyone who has queued up for a question. And they were very detailed. With that, I’ll turn it back to the operator to see if there are any remaining questions on the phone line.
+
+Operator
+
+Thank you so much. [Operator instructions] I would like to hand it over to management.
+
+Jack Huang
+
+Thank you again. And thanks again to all of you for joining us. If anyone has questions for us, please feel free to reach out directly to us or our Investor Relations firm The Equity Group. We look forward to speaking with you all again during our next quarterly report. As always, we welcome any visitors to our office in Beijing. Thank you.
+
+Operator
+
+Thank you so much. Ladies and gentlemen, that concludes our conference call for today. You may now disconnect. Thanks for joining and have a very good day.

@@ -1,0 +1,592 @@
+Alcoa Corporation (NYSE:AA) Q4 2019 Results Earnings Conference Call January 15, 2020 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President of Investor Relations
+Roy Harvey - President and Chief Executive Officer
+William Oplinger - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+Curt Woodworth - Credit Suisse
+Matthew Korn - Goldman Sachs
+Chris Terry - Deutsche Bank
+David Gagliano - BMO
+Lucas Pipes - B. Riley FBR
+Timna Tanners - Bank of America
+John Tumazos - Independent
+Paretosh Misra - Berenberg
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Fourth Quarter and Full Year 2019 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Mr. James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, Shawn, and good day everyone. I'm joined today by Roy Harvey, Alcoa Corporation's President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the Company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA.
+
+Also a note on our financial statements, effective January 1, 2019, the Company changed its accounting method for evaluating certain inventories from LIFO to average cost. The effects of the change in accounting principle have been retrospectively applied to all prior periods presented. Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here's Roy.
+
+Roy Harvey
+
+Thank you Jim, and thanks to everyone for joining us today. We've got a lot to discuss, so let's start with a quick overview of the fourth quarter results. For the fourth quarter, we reported a net loss of $303 million or $1.63 per share. This includes charges associated with the closure of our Point Comfort refinery in Texas, which had been fully curtailed since 2016, and it includes the cost of additional actions we've taken to manage liabilities associated with pensions and other postemployment benefits.
+
+Excluding special items, we reported an adjusted net loss of $57 million or $0.31 per share. On an adjusted EBITDA basis, excluding special items, we generated $346 million. Lastly, we closed the fourth quarter with $879 million in cash, the second sequential quarterly increase in our cash balance.
+
+Now, as we prepare to close out 2019, let's review some of the actions we've taken and how our priorities are guiding us to make additional improvements. Last quarter, we've refreshed our company's three strategic priorities. First, we are focused on being a low-cost producer, which means reducing complexity to better compete through all parts of the cycle in our commodity markets. Second, we intend to improve our margins and invest wisely to drive returns. And finally, we are working to advance sustainably, which includes actions toward a strengthened balance sheet, a cycle proof portfolio, and an enhanced reputation for environmental and social excellence.
+
+We've made quick progress last quarter with these refreshed priorities and more will be done in the quarters ahead to reinforce Alcoa's competitiveness. We have moved with speed to further reduce overhead with a new leaner operating model. We are working to generate additional cash from the sales of non-core assets, and we have started a comprehensive review of our current portfolio to improve long-term profitability.
+
+Turning to our fourth quarter business update, most importantly we had no serious injuries in the quarter. We also continued our strong operational performance with new quarterly production records from our bauxite mine in Juruti and our Wagerup refinery. In the fourth quarter, we also completed a modernized labor agreement in Australia covering more than half of our unionized employees there.
+
+We also became members of the International Council of Mining and Metals known as ICMM, which is dedicated to improving the sustainable development performance in the industry. We are working with ICMM to develop a global standard for the safe management of tailings dams and we're honored to be part of this very important effort.
+
+Also in December, our joint venture ELYSIS shipped to Apple aluminum produced with a new carbon-free smelting process. Alcoa invented this technology which eliminates all direct greenhouse gas emissions. Instead, this breakthrough process produces pure oxygen. As an early investor, Apple asked to purchase the first commercial batch of aluminum produced with this new process while ELYSIS works to scale up this technology so it can be licensed in 2024. In a world becoming more and more focused on sustainability, this technology has the potential to transform the conventional process used to produce aluminum.
+
+Now, let's turn to the full year 2019. In addition to closing another fatality free year, our 2019 accomplishments span across our business and throughout the year. We drove improved stability in our operations and set annual production records for both our bauxite and alumina portfolios. We reached several new modernized labor agreements with the Australian workers union in November and with unions in the United States and Canada earlier in the year. Taken together, these contracts cover almost 70% of the unionized employees in these three countries.
+
+Importantly, they incorporate provisions that will allow our plants to better compete. The multi-year agreements feature improved salaried union collaboration and efficient work practices. In the U.S. we reached a four-year master agreement that covers approximately 1,600 active employees at five locations. In Canada, we’ve reached agreements with the two separate unions that represent 100% of our unionized employees in that country.
+
+First, at Baie Comeau [ph]we secured a six-year agreement that covers about 600 employees. Next, after an 18-month lockout we reached a six-year agreement at Bécancour smelter that was ratified on July 2. Today, the smelter's restart is progressing well under that new labor contract and is on schedule for completion in the second quarter. All employees eligible for recall are now back to work.
+
+Also last year, we completed the divestiture of the historically unprofitable Avilés and La Coruña smelters in Spain after reaching an agreement with workers' representatives at these two facilities. In November, we also implemented our new operating model for a leaner company, which will provide annual savings beginning in the second quarter of this year. Finally, in our markets, 2019 ended in a global deficit for aluminum and surpluses in bauxite and alumina. We see slight surpluses ahead in 2020 for bauxite and alumina and a balanced market for aluminum. We will discuss more on the markets and these other topics after Bill provides a detailed review of the results.
+
+So with that, I'll turn it over to Bill.
+
+William Oplinger
+
+Thanks Roy. Reviewing our income statement, revenues were down $131 million or 5% sequentially due to lower realized prices for alumina and aluminum, partially offset by improved volumes. Year-over-year, revenues declined $908 million compared to the fourth quarter of 2018 again on lower alumina and aluminum prices. In the quarter, restructuring charges drove the net loss attributable to Alcoa Corporation of $303 million or $1.63 per share on 185.6 million average shares for the quarter.
+
+Special items in the fourth quarter totaled $246 million after-tax and non-controlling interest. The key components this quarter were the $274 million charge related to the closing of our Point Comfort Texas alumina refinery, $75 million related to pension and OPEB changes, and $23 million of Bécancour restart costs partially offset by non-controlling interest and favorable interim tax impacts.
+
+Now let's look at the income statement excluding special items. Our fourth quarter adjusted net loss excluding special items was $57 million or $0.31 per share. Adjusted EBITDA excluding special items was $346 million. Our fourth quarter EBITDA margin was 14.2%. The full year operational tax rate ended the year at 67.9%, higher annual rate required through-up of prior periods in the fourth quarter adding $28 million to the expense or $0.15 per share and brought the operational rate for the quarter to 99.5%.
+
+Let's look closer at factors driving adjusted EBITDA. This quarter lower raw materials cost partially offset the impact of lower alumina and aluminum prices. Lower market prices for alumina and aluminum drove adjusted EBITDA down $77 million and $23 million respectively. Taken together, all other impacts improved $58 million sequentially, partially offsetting the price impact.
+
+Raw material costs primarily our carbon at the smelters and costs to get the refineries continue their improvement, but were partially offset by higher production costs at mines and smelters. Intersegment eliminations drove the change in other category as lower alumina prices, changes in refinery cost structures, and lower alumina inventories released profits held in inventory.
+
+Now let's move to the segments. In the segment bauxite adjusted EBITDA continued near its record high level at 42% EBITDA margin. Alumina adjusted EBITDA declined $90 million on lower sales prices. Aluminum adjusted EBITDA improve $32 million sequentially from better alumina costs, partially offset by lower aluminum prices and lower value added product premiums. Non-segment impacts contributed $6 million and $18 million better than last quarter. Intersegment eliminations were favorable $15 million and other corporate costs improved $3 million.
+
+Turning to cash, in the fourth quarter we ended the year with cash of $879 million up $38 million sequentially. Year-over-year cash decline $234 million. A quick review of our major cash sources and uses for 2019, our total cash sources were $2 billion consisting of $1.7 billion in adjusted EBITDA and approximately $300 million sourced from changes in working capital.
+
+The largest outflows of cash were tax payments including $351 million in payments of prior year income tax, net distributions to our joint venture minority interest partner of $421 million, $379 million of capital expenditures, as well as $240 million of required pension and postemployment benefits funding made in addition to the $52 million related expenses within adjusted EBITDA. Outflows also include $220 million in restructuring payments, primarily the Saudi rolling mill and the Spanish smelter divestitures.
+
+Now let's take a look at the balance sheet. Our balance sheet remained strong and reflects solid management in 2019. Our fourth quarter days working capital was 27 days down three days sequentially and even with last year's fourth quarter. We controlled total capital spending to $379 million a level $20 million lower than in 2018. Our key balance sheet metric proportional adjusted net debt increased $135 million from last year primarily due to a lower cash ending balance.
+
+At year end our consolidated pension and OPEB net liability rounded up to $2.4 billion, up only $40 million year-over-year in spite of lower discount rates increasing the net liability by approximately $600 million. Global pension asset returns were approximately 17% and actions taken to manage the pension and OPEB liabilities offset the increase related to the discount rate.
+
+Now let's move to our outlook for 2020. First let's look at the income statement impacts. We expect shipments to increase year-over-year in all three product segments as the existing facilities preproduction in bauxite and alumina and in aluminum our Bécancour restart ramps up. With the divesture of the Afobaka hydroelectric dam in Suriname and the Gum Springs, Arkansas treatment facility and the closure of the Point Comfort refinery, we expect transformation EBITDA to be negative by approximately $85 million compared to negative $7 million in 2019. A majority of that impact is from the divestiture of the Suriname dam.
+
+Part of the positive impact of our new operating model and overhead cost reductions can be seen in the lower other corporate impacts expected to improve by roughly $13 million. The remainder of the impact we expect to see in the operating segments starting in the second quarter. DD&A expense is also estimated to improve and we expect interest expense in our operational tax rate to be similar to 2019 levels, although market conditions can greatly impact the tax rate.
+
+For cash flow impacts minimum required pension and OPEB funding is planned to increase roughly $100 million as historical pension asset returns were also funded. Sustaining capital expenditures are expected to increase to approximately $400 million. The key reasons for the increase are mine moved. Willowdale mine in Australia will move major infrastructure several miles to a new reserve area, an elaborate process that occurs there roughly every 25 years. We are also starting a mine move at Juruti in Brazil expected to be complete in 2021.
+
+We will target return seeking capital of $75 million. Prior period tax payments are expected to be roughly $300 million lower in 2020 as alumina prices were lower in 2019 and large prior year tax through-ups are not expected. We expect environmental ARO payments to increase to approximately $150 million reflecting the impact of the Point Comfort closure.
+
+As usual, in the appendix we also list additional considerations expected for the first quarter. They include bauxite adjusted EBITDA to be down approximately $35 million on lower sales prices and seasonal maintenance outages. In alumina, we expect $5 million sequential benefit from the Point Comfort closure while improvements from lower bauxite, energy and raw material costs will offset the unfavorable mix of sales contracts and impacts of scheduled maintenance overhauls.
+
+In the aluminum segment approximately $10 million benefit from lower alumina costs compared to the fourth quarter. Benefits from the Bécancour restart and lower raw material costs are expected to be more than offset by higher energy costs in Europe, lower shipments of rolled products and price and mix impacts in North America yielding an expected $5 million to $10 million sequential negative impact.
+
+Also in the second half the year we expect to see the impact of the higher cost natural gas contracts for Western Australia refineries that we announced in 2015 and 2018. These contracts cover 90% of Western Australia requirements and begin in the second half of 2020. In 2015 and 2016 we made $500 million in cash prepayments related to the 2015 contracts and net of those prepayments we expect 2020 cash payments for WA gas to increase our total Australian refining cash cost to 2.5% or $50 million compared to 2019.
+
+So with that, I'll turn it back to you Roy.
+
+Roy Harvey
+
+Thanks Bill. As we start the new year, I'd like to recap our final view of the 2019 markets and provide new estimates for 2020. In bauxite, the market ended the year with a smaller surplus than we estimated in the prior quarter. Decreased supply from Guinea, largely due to rainy season supply chain disruptions in the second half of the year is the primary reason for the lower surplus. For 2020 we expect the market to be in a similarly sized surplus with increased supply from Guinea and Australia serving demand in China where we project bauxite imports will increase by close to 20 million tons year-on-year. Chinese refiners continue to build strategic stockpiles to mitigate their supply chain risks.
+
+In alumina, the year also finished with a smaller market surplus than we estimated previously. This revision is due primarily to some delays in Chinese refinery restarts and expansion. In 2020 we expect a roughly balanced market globally. Increased demand from Chinese smelters is expected to outpace alumina supply increases. As such, we expect China to remain a net importer of alumina in 2020 bringing in tons from the rest of the world surplus to meet its deficit.
+
+Finally, in the aluminum market we maintain our estimate of a full-year deficit for 2019. In 2020 we expect the global market will turn to surplus driven by additional supply from smelter expansions and restarts more than offsetting modest global demand growth. We expect that China will continue to be a market, a surplus market and in the world ex-China we expect a balanced to slightly surplus market.
+
+Last year we lowered our expectations for 2019 world ex-China global aluminum demand growth, primarily due to trade tensions, lower trade volumes, declining growth, in manufacturing activity, most notably in Europe and North America. For 2020 however, we are anticipating a rebound in demand growth in both world ex-China and in China. We expect to see a recovery in key aluminum end use sectors including such important markets as the European transport sector and the construction and transportation sectors in China. In summary, while 2019 economic conditions posed real challenges to the aluminum market, we are cautiously optimistic about 2020 from a return to demand growth.
+
+Now let's transition from the current state of our global markets to medium to long-term market trends and connect these developments to the strategic programs we announced in October. In bauxite, China's appetite for imports is likely to continue unabated with its imports projected to double between 2018 and 2025 due to the continued depletion of its own domestic supply. China is also strategically stockpiling bauxite due to concerns about supply chain risks. Meanwhile, Alcoa has ownership in seven bauxite mines globally with the first quartile cost position. These assets are strategically located to supply our own top-tier alumina refining system and serve the third-party market.
+
+As Bill mentioned, we are increasing CapEx this year to fund additional mine moves which sustained our cost position and provides continued access to our long-lived bauxite reserves. We can provide high quality bauxite for both, our own internal refining system and to global customers, which we see as a competitive advantage.
+
+In alumina, Chinese refineries will continue to face higher costs for bauxite relative to world ex-China refineries due to the higher costs associated with importing seaborne bauxite. This too illustrates the advantage of the low cost position of our refining system, which is fully served by our own bauxite mines and have a low-cost and highly dependable supply chain. Looking forward, the complexity in China's bauxite supply will support steepness in the global cost curve.
+
+Alumina is notoriously difficult and costly to inventory, which tends to keep supply and demand closely linked to a market efficient and transparent pricing mechanism. And the management of bauxite residue is complex and Alcoa has developed and deployed market-leading and cost-efficient best practices and that gives Alcoa another competitive advantage in this attractive market for our company.
+
+Finally, in aluminum, Chinese over capacity continues to challenge the global market in the form of increased exports of semi fabricated products or semis. Chinese net semis exports are projected to increase from just under 3 million tons in 2018 to over 4 million tons in 2025. The extra supply of Chinese semis will be exported to the world ex-China effectively displacing primary aluminum in those markets. This trend of growing Chinese exports competing with aluminum produced outside of China is nothing new.
+
+In fact, over the past five years Chinese exports of aluminum semis and finished products have captured more of the ex-China total aluminum consumption growth than ex-China smelters did. This growth has been fueled by China's unfair subsidies which were detailed in last year's report by the Organization for Economic Cooperation and Development or the OECD. The report clearly demonstrates that nonmarket forces, including financial subsidies and value-added tax rebates have contributed to increases in aluminum smelting capacities and incentivize the Chinese exports of semis with negative impacts across the value chain.
+
+As a company we support free trade, but it needs to be fair. That is why we are encouraged by yesterday's agreement by the trade ministers for the United States, the European Union and Japan to strengthen existing World Trade Organization rules on industrial subsidies, which would include aluminum. This is a positive sign in our continued call for governments to address unfairly subsidized overcapacity in China and to ensure a level playing field.
+
+While the rise of Chinese exports resulting from subsidies has become the single most important issue facing the aluminum industry, we are not waiting for government action or policy changes to transform our business. We are evaluating our portfolio to ensure that our locations are sustainable financially and environmentally.
+
+As I said earlier today, our strategic priorities will guide us to improved competitiveness with low-cost operations. At the end of our portfolio review, we expect not only to have an improved cost position, but also to lead in a world becoming even more focused on sustainably produced products. In aluminum, we currently hold a high second quartile position in the cost curve and once we complete the capacity review, we expect to enter the first quartile.
+
+From an environmental perspective, we expect that our smelting portfolios carbon dioxide intensity will improve almost 50% due to the changes that we make as part of the portfolio review. Today, we're already one of the lowest per ton emitters of carbon dioxide among global producers and approximately 70% of our metal is produced with renewable energy. And once we've progressed through our portfolio review, we expect to be the lowest carbon emitter with 85% of our metal produced with renewable energy. We believe that this environmental footprint, strengthened by our continued portfolio actions will provide a true advantage in a world focused on sustainability.
+
+Now, let's spend a bit more time discussing our most recent actions to improve. First, at the top left of the chart, our new operating model took effect in the fourth quarter beginning in November. It is expected to result in annual savings of $60 million in operating costs beginning in the second quarter. We have eliminated our prior business unit structure and consolidated our sales, procurement and other commercial capabilities.
+
+Importantly, we are bringing our operations closer to our management team, enabling faster decisions. Also, we are making quick progress in our plan to generate between $500 million and $1 billion in cash through the sale of non-core assets over the next 12 to 18 months.
+
+A few weeks ago, we announced an agreement to sell our Gum Springs waste processing facility. While the team there expanded the scope of services this facility can provide, it is not a core function at Alcoa. So, we have agreed to sell the location to a global environmental firm in a transaction valued at $250 million. We will receive $200 million when the transaction closes this quarter, and another $50 million upon the satisfaction of post-closing conditions.
+
+The additional cash we generate from the sale of non-core assets will assist us in our work to reshape our existing portfolio. As part of that multi-year portfolio review, we made the decision last month to permanently close the Point Comfort alumina refinery in Texas, which has been fully curtailed since 2016. This is the first action in a five-year review process, which is focused on 4 million metric tons of global refining capacity, or 27% of our current portfolio, and 1.5 million metric tons of smelting or approximately 50% of that segment's capacity.
+
+Finally, we marked an important milestone in Suriname, where we successfully completed the transfer of the Afobaka hydroelectric dam to the government, effective December 31, 2019. This happened in accordance with closure agreements approved earlier in the year by Suriname's parliament. While the transfer of the dam ends an important chapter in our history in the country, we will remain to work on remediation of the sites for years to come.
+
+In closing, Alcoa has made significant progress since we launched as an independent company in 2016. We've resolved numerous legacy items and strengthened our balance sheet by managing our liabilities and eliminating high cost unprofitable capacity from our portfolio. There is still much work to do, and our strategic priorities will continue to guide us as well our values. We are focused on being low cost, which means that we will consistently work to reduce complexity so we can better compete in a global cyclical commodity industry.
+
+We will be margin focused. With our new operating model, we are streamlining our operations and we'll work to further improve our productivity across Alcoa, so we can drive returns across the value chain. And finally, we aim to advance sustainably, capturing both financial and sustainability improvements to deliver value for Alcoa's stockholders. We have a clear roadmap for success, and we are determined to progress no matter where we find ourselves in the commodity cycle.
+
+And with that, Bill and I are ready to take your questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] Our first question today will come from Curt Woodworth with Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+Yes, thanks. Good evening.
+
+Roy Harvey
+
+Hey, Curt.
+
+William Oplinger
+
+Hey, Curt.
+
+Curt Woodworth
+
+Hi. So, first one for you Bill, could you just kind of walk through some of the cash restructuring items this year between Point Comfort, the corporate restructuring, as well as any kind of cash startup costs from Bécancour to try to get a little bit of feel for what is normalized? And then you talked about transformation being $85 million this year. How much of that would be non-recurring as well or what's kind of in that number is my first question?
+
+William Oplinger
+
+Yes. So, if you look at the page that has the sources and uses of cash, and on that I think we talked about $200 million of cash outflow associated with kind of restructuring items. The big numbers there are really two things. One is the rolling mill divestiture. In total, that was $100 million in the second quarter.
+
+The -- in addition to that, the exit of the Spanish smelters, the combination of the curtailment, the layoffs, and then the subsequent divestiture in the quarter adds about $70 million. And then the rest is various restructuring activities, so about $200 million there. We've not disclosed how much -- I guess we have, I'm sorry. In the second half of this year -- I'm sorry, in 2019, we expended $25 million on an after-tax basis in Bécancour for the restart. So that's included in those numbers also. So those are the big items.
+
+When you then go to transformation, transformation, as you know, is approximately 22 sites around the world where we manage the closure and curtailment of those sites. The big swing between 2019 and 2020 is that in 2019 we had the Afobaka dam that was producing revenues for our Suriname facility. We have subsequently handed that dam back to the government of Suriname, and so we won't have that. So, approximately $50 million of that difference between $7 million and $85 million is the impact from the Afobaka dam.
+
+In addition to that, we are now starting to spend money on Point Comfort. And so, as we take Point Comfort into closure, we will spend money. And so that's the biggest driver, in addition to the Afobaka dam that bridges that difference in '19 and '20. So we have given you enough color there to help you out.
+
+Curt Woodworth
+
+Yes, that helps. That helps a lot. And then I guess the second question is just with respect to the market. You know, entering the year, I think you had a forecast of 4% to 4.5% growth in China and it came out to 1%, which is a pretty meaningful downward revision. And you know, we're all well aware that they have plenty of excess capacity and maybe not totally clear with the cost curve for that looks like.
+
+But when you kind of look at what happened in China this year, you had pretty dramatic inventory reduction, semis exports despite the worsening overcapacity situation arguably was flat and semis exports were actually down 14% in the fourth quarter, and up until, you know, a couple days ago, the shipping [ph] price is at a 16 month high.
+
+So, you know, now you're kind of looking at this year, forecasting a pretty sharp reacceleration in global demand, yet the supply seems to overwhelm that. And I guess, do you think, is – it seems like you still are very concerned on the China semis piece, but maybe if you could kind of walk through how you think it could affect price and sort of the China piece would be helpful? Because it seems like what you would have thought would have transpired in '19 certainly did not in terms of the pressure on the ex-China market.
+
+Roy Harvey
+
+Yes, Curt. So let me -- let me try and hit a couple of pieces in that and make sure – and we can make sure I'm answering your question. So, I mean, from the perspective of semis, where – when I look at that, one of the concerns that I have is that essentially, as you see the, as you see these semis grow coming from China, and I recognize that there are some differences that happened quarter-on-quarter. But it essentially is pulling demand from rest of the world back into China.
+
+And so the more that they tune up their business in semi fabricated products and coming both from scraps and from primary, it tends to pull that demand growth or just pull basic demand from the rest of the world. And where I am mostly concerned comes to the fact that the way that they've built their industrial policies is to – is not to incentivize the selling of primary metal, but rather is to incentivize the production and then export of these semi fabricated products.
+
+Just to the value added taxes and the rebates offered for those products, it's just – essentially it's meant to capture those first basic set of products coming out of China. And so, it comes down to the supply and demand across all of aluminum and whether that is coming from both scrap or coming from primary aluminum and then how that interacts with the actual consumption of aluminum inside of China or outside of China.
+
+In the end, I think it's a global market, and I think there are distortions between pricing inside of China and outside of China, but the distortions are economically motivated and they are connected back with these policies.
+
+And so, when we look at the two China's, the two markets, they tend to operate with their own set of supply and demand fundamentals, but it is those semi fabricated products and in the worst of cases, fake semis, which we have seen continue in smaller portions but still there, it is what reconnects those markets back and brings essentially both the marginal capacity in China and connects it to the price setting that happens around the world.
+
+And we see that in aluminum and to a certain extent, we also see China serving that role of marginal producer in alumina as well. So, I mean, from a broader market perspective, the most important thing is that we see that demand ramp back up again. And as we look at this and as we look at the balance of risks both in trade policy and trade tensions, which obviously ratcheted down a little bit today, certainly not back to where they were a couple years ago.
+
+You know, I think – and as we look at the actual data coming out, whether it's in construction, construction of housing inside of China or automotive in Europe, I think we feel fairly confident with where we have projected out aluminum demand growth over this coming year. But as you highlighted and circling back to the very beginning of your question, Curt, that can change depending on how those metrics evolve.
+
+I would like to think that there are risks to the upside, but I also recognize the fact that this is the best estimate we have right now.
+
+Curt Woodworth
+
+I mean, in terms of the sort of the trade deal negotiations, has there been any communication with the government regarding the massive export rebate that they get on semis, or any dialogue around trying to make amends for what are pretty clear, substantial subsidies on semis?
+
+Roy Harvey
+
+So we spend a good portion of our time trying to make sure that we educate all the jurisdictions where we happen to produce in the U.S. obviously, as a very important set of discussions to make sure they understand how those subsidies in fact impact the market. I think one of the best things that we've had is that the publishing of the OECD report which has helped to put into numbers from an independent third-party, or as independent as it can be.
+
+I think that has helped to explain, quantify and demonstrate that how that subsidization works and how it then connects over into the – not just into primary aluminum, but into the downstream – into those semi fabricated markets as well.
+
+So I think we've, I think we've done a good job explaining it, but now we need to see real action that starts to correct it. And again, this announcement just yesterday with the agreement between Japan, the U.S. and the EU is a great first step. It pushes us in the right direction, but it is a first step and doesn't necessarily have the actions yet delineated about what will make the difference. So, it's a good beginning, but just a beginning.
+
+Curt Woodworth
+
+Great, I appreciate your comments. Thank you.
+
+Roy Harvey
+
+Thanks, Curt.
+
+Operator
+
+Our next question will come from Carlos [indiscernible] with Morgan Stanley. Please go ahead.
+
+Unidentified Analyst
+
+Thank you very much for taking the question. So, first one is related to the USMCA. Given the concern that you just expressed on the impulse or the exports of semis from China, I'm not aware maybe it did happen, but I'm not aware that in the new text, it is required even over time that to receive the benefits of the new agreement you need to pour and melt the aluminum in the region as they did for the steel.
+
+Was there any reason why that may not have been included in the final test Roy? And would it be possible to maybe add something similar to what they have done in the field which - is it going to seven years. Seven years after the signature of the signing of the agreement is when it kicks in, but it definitely will protect some of the producers in the three countries?
+
+And then my second question, if I may, is just on, is you mentioned that the better demand growth outlook in 2020 versus last year, you alluded to Europe transport and construction and transport in China, but nothing in the U.S. I wonder if you could give us some comments as to how you see the different end markets gain in North America?
+
+Roy Harvey
+
+Sure. So, let me hit the USMCA first and I'll probably steer clear of trying to look into the minds of the negotiators to figure out exactly how they came to their conclusions. You know, I think there are incremental improvements. I think the – when you think about the expectations for growing that produced and manufactured in North America, I think it is positive on whole of USMCA, but it does, as you mentioned, fall short of where it could have been.
+
+Why that is the case, and the relative lobbying interests of how that log is put into action, I think is beyond my ability to explain clearly. I think it is – I think on the whole, it is positive. Of course, we would have liked to have been even more positive given our footprint in Canada and the U.S. particularly.
+
+On your second question about the demand growth outlook and particularly in the U.S. you hit the – you hit my main points. I think we're seeing some green shoots in Europe, particularly in transportation. I think China will come back. In the U.S., I think we've not yet seen that we've turned the corner as far as starting to see growth again in our end markets. I think there are the catalysts to perhaps start to see that improve. But from my perspective, and as we look across, as we look across each of these different markets, the fact is there's just not a - we're not yet at a point where we're actually seeing that manufacturing pick up, and therefore starting to see that turn into actual aluminum orders.
+
+I think as we alluded to also and Bill talked about it, it's from a value added market standpoint as well, it's a difficult market out there with [indiscernible] back in the mix. Because remember there were sanctions at the beginning of last year, which was during the normal season where we signed all those contracts. And we've also, because of the elevated premiums, both Midwest and product premiums in the U.S. have started to see that some additional imports have been coming into the U.S. even though they have to pay the duty.
+
+So, it's - we've not yet seen that demand turn and we still haven't – and we're seeing headwinds when it comes to our value-added premiums in the U.S. as well. Again, I think there are catalysts for positive change. I think the recent developments that we've seen with China, and particularly as we start to advance towards Phase 2 part of the deal, I think that gives us the catalyst for improvements happening more quickly. However, right now, this is the best estimate we've got Carlos.
+
+Q – Unidentified Analyst
+
+Excellent, thank you very much, Roy and all the best to you guys.
+
+Roy Harvey
+
+Thank you.
+
+William Oplinger
+
+Thank you, Carlos.
+
+Operator
+
+Our next question will come from Matthew Korn with Goldman Sachs. Please go ahead.
+
+Matthew Korn
+
+Hey, good evening, everybody.
+
+Roy Harvey
+
+Hey Matt.
+
+William Oplinger
+
+Hey Matt.
+
+Matthew Korn
+
+A question for you, Bill. Next year, the 70%-80% tax rate, little higher than we thought. I know, the elevated levels last couple quarters had included some catch up to expense, prudently speaking. Is the expectation for the next year is that all jurisdictional mix, are there other pieces at play that we should know about?
+
+William Oplinger
+
+No, it's all jurisdictional mix, right. I mean, what it comes down to is we make money in Australia and we've got tax rate in Australia that gets applied to the BBC [ph]. We lose money in certain jurisdictions around the world where we are reserved for taxes. So, we essentially have no tax benefits and that's how you end up getting to that, that high rate.
+
+Matthew Korn
+
+Got it. Second, I'm interested, you've moved more towards the sustainability, you made that as part of your framework. You got the emphasis here on the carbon free aluminum. What can you tell us, I guess technically is fitting to this call. How the ELYSIS is actually produced? I've been on the website, I wasn't able to extract a whole lot of information.
+
+I know it's early in the process, but it's also commercially you made your first delivery. So, anything you can say and how the economics of this compares, is the premium on price expected, does that make up for what I'd assume it's additional cost? What can you tell us more about that as a commercial enterprise?
+
+Roy Harvey
+
+Yes, Matt, I thought you were asking about the technical aspects and I was going to launch into a 45 minute discussion of how we do that. And secrecy at the end of that. It sounds like you're looking more for parts of how the economics we expect the economics to work. We've been working on this for a while Matt. And the idea was always to find a process that is more economical and has a better invested capital cost versus what we saw as traditional smelting technology.
+
+In the meantime, of course, China has come roaring in with good technology and at the same time with pretty reduced capital costs. So, the world has changed quite a bit. We still believe that when we think about the cost of installing capacity and the operating costs of then operating it and focused on projects outside of China, we have - this process is going to be more economically efficient. And because you're no longer changing anodes in such a short cycle, you end up having pretty significant savings on the operating side as well.
+
+I would also argue, and where I think that this can become an even more powerful opportunity for the future is by nurturing and growing that what is today a niche market for premiums for sustainable metal and particularly for what will be the lowest carbon metal on the planet when you connect one of the – when you connect this ELYSIS process to hydropower and to alumina and bauxite that is mined and then refined in low carbon intensity ways.
+
+When you bring this all together, it will be the lowest carbon metal on the planet. I think that is - we're comfortable with making that statement. And so, you have to then determine what is that premium going to look like. I think it says a lot that Apple was – that Apple chose to invest with us. And I think it also means a lot that they wanted that first commercial production of metal, because there will be a demand.
+
+What we need do as an aluminum company, and I know some of our competitors are working on this as well is nurture and develop that market, so that premium will exist. Or on the other side, a discount exists for carbon intense products that might be produced outside of – or in other peoples systems.
+
+So that - I'd love to tell you that we have quantified what that number will be, but that's really that looming question that we need to decide not only for ELYSIS but for our portfolio, because just transitioning back to the changes that we're making in Alcoa, in the existing portfolio that we have, we have the benefit that we're making these changes because they're the right thing to do financially. Future proofing and cycle proofing our portfolio and smelting is the right thing to do.
+
+We need to be in the first quartile because it's a rough and tumble business. But also having the added benefit of then being the lowest carbon emitter of all the smelt – of all the smelting systems in the world, then positions us to capture that premium for ELYSIS, yes, but even more importantly for the broader portfolio, which is a lot of tons as we emerge from there.
+
+So to me, the reason we talk more about it is because I think it is a trend that is growing in importance. I believe that at some point, that premium or that discount will become more real, but would not hazard a guess as to what that number is going to be at this point.
+
+Matthew Korn
+
+Got it. Last quarter could you emphasize how much you saw? Sustainability is something tied in environment and also economics. So, we'll be watching carefully as this market develops. Thanks very much guys, good luck.
+
+Roy Harvey
+
+Thanks Matt.
+
+William Oplinger
+
+Thanks Matt.
+
+Operator
+
+Our next question will come from Chris Terry with Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Hi, Roy and Bill, thanks for taking my question. Hi. Yes, the first question I had just thinking big picture, Slide 23 where you go through - it's not new, I don't think, but the target to get to $2 billion to $2.5 billion net debt, including the pension, just wondered if you could, given where you're at today, if you could just step through a few of the pieces there? So may be as a start, if you could split out, maybe the target on net debt as opposed to the target on the overall pension? And then, if I'd just do the math on that, you're trying to reduce it, I guess, 0.8 to 1.3. You should get another $200 million from the Gum Springs transaction.
+
+And then if you do reach the upper end of your $1 billion, $500 million $1 billion asset sales target, you take up most of that. So, there's not a lot allowed for in actual cash flow. Am I reading that correctly? I just wanted you to step through the lightest and how you saying that that goal, that two to four-year goal?
+
+William Oplinger
+
+Yes. So, one thing I would just start out by saying Chris is, if you look at Page 40, that's the reconciliation of the net debt calculation. So, if we start there, that would say that we're sitting at the end of 2019, at a $3.4 billion net debt calculation. So, to get to that level that we're targeting, we would need to come off of that $3.4 billion.
+
+Essentially what we have said and first of all, that was originally a three to five-year target, we are now making that a two to four-year target because one year has passed. We can get to that level of net debt by simply making our required minimum pension contributions. There's a bunch of assumptions built into that, and I'll tell you what those assumptions are. We hit our expected return on assets, 6.5% for the U.S., varies across other parts of the world, but it is a big number, 6.5% in the U.S.; and discount rates don't change substantially from where they are today,
+
+So, simply by making our minimum contributions, we can do that. That should then lead you to the question, okay you started going down the path of $200 million of, at least in the near term, $200 million for Gum Springs, an extra $50 million once we meet those post closing requirements and the additional asset sales. And remember, I would tell you that Gum Springs, maybe we didn't say this, but Gum Springs was included in our asset sale list.
+
+So, we've executed now on nearly half of the bottom end layer of – or level of that asset sale list. So, then we will use that cash and redeploy it in the capital allocation model that's on Page 23, right? So that capital allocation model is pretty clear, we want to have $1 billion cash on the balance sheet. We want to invest in the business in sustaining capital this year, that'll be $400 million. We want to do small return seeking projects of $75 million this year.
+
+And beyond that, any excess free cash flow will be used for the four items down at the bottom, essentially the debt reduction, repositioning the portfolio, the large- the mid-size growth projects that we have, and then returning cash to shareholders. So, that's the way you should be thinking about it. And just to circle back to your original point, we think we can get to our net debt target simply by making our minimum pension contributions over the next few years.
+
+Chris Terry
+
+Okay, thanks. That's helpful. I just had a couple of follow-up on the cost side. As we think about, you've gone through some of this already, but just thinking about over the course of 2020 and then into the future as you want to move down towards the first quartile in the aluminum business, just wanted if you could step through some of the opportunities, particularly on the cost side and that's across all your business. So, maybe if you could discuss caustic carbon energy, et cetera, just directionally over the next, say 12 to 18 months? Thanks.
+
+William Oplinger
+
+Sure, I'll hit the raw materials piece first and then we can talk more broadly about some of the other things that will help us drive towards that first quartile. You know, that back in 2018, we saw significant cost headwinds in raw materials and 2018 is ancient history at this point, but we did see large increases.
+
+2019 was a year where we captured some of that back in raw materials. 2020, I would tell you that that is accelerating the amount of production of raw materials in 2020 is larger than what we saw in 2019. I would project that we should see approximately $175 million of reduction in raw materials in 2020.
+
+That's coming from two areas. That's first in caustic prices and then the second is in lower carbon prices. So, we are seeing some of that come back that we have seen higher costs over the last few years. As far as addressing the repositioning of the portfolio down to the first quartile, that's going to be a combination of two things.
+
+First, is the asset review that we have. We've said that we have 1.5 million metric tons of smelting capacity that will be either improved significantly, sold or curtailed. And then, in addition to that, and Roy can speak more about this, we're looking to really energize the productivity side of our business and to start to drive incremental cost savings, not only in the smelters, but on the on the refineries also.
+
+Roy Harvey
+
+And Chris, just to add a little bit on to Bill's last point, and I won't - I won't belabor it. But I think as we look towards this year's market and last year's market, I think we've regained a lot of stability across the portfolio. But part of what we're trying to do with this operating model change is to make sure that we are being very clear in binary with each and every one of our plant managers about what success looks like for all of our plants.
+
+And so, that I believe will help us to drive a mentality about how to drive costs out of our plants as quickly as we possibly can. And that is raw materials first, and there's also a component of your usages of those raw materials and how smartly you can do that and when compared with the price of what you're using. But it also connects over to maintenance costs, to how you drive your plants to the choice about how you run electricity through your pots so that you are getting the best financial outcomes.
+
+So, I think it's - we're determined to see real improvements there. I actually have a lot of confidence in our new operating team and we have some fresh people that are looking at problems that we've been working on for the last decade. And we're determined to make sure that that ends up being improvements in productivity and improvements in the end of our cost efficiencies. So, more to come on that, certainly Chris, but it's - it is really one of the most important things we'll be doing in 2020 and beyond.
+
+Chris Terry
+
+Okay, so thanks, guys. Just one more if I may. The CapEx guidance of sustaining CapEx of $400 million versus $290 million for 2019, is that $400 million - is that the go-forward, right, we should expect in beyond 2020 as well or is there other items in that? Thanks.
+
+Roy Harvey
+
+Yes. So just to put some characterization around the $400 million, spend $290 million in 2019, the big difference between 2019 and 2020 are the two mine mills. We've got one in full swing down in Australia in 2020 and we will just be starting one in Brazil, in 2020. Both of those will be wrapped up in 2021. We haven't provided an outlook past 2020 but I think at least in the bauxite segment, we will have elevated spending on the mine moves for the next couple of years and so that's what's driving it.
+
+Chris Terry
+
+Okay, thanks. That's all from me.
+
+Roy Harvey
+
+Thanks Chris.
+
+William Oplinger
+
+Thanks Chris.
+
+Operator
+
+Our next question will come from David Gagliano with BMO. Please go ahead.
+
+David Gagliano
+
+Hi, thanks for taking my questions. I just have a couple of fairly good ones. First, on the $35 million, quarter-over-quarter decline in EBITDA on the bauxite business, how much of that is due to the seasonal volume decline and how much of that is due to the price decline?
+
+William Oplinger
+
+The price decline is the biggest piece of that, Dave. Out of the $35 million, I would tell you probably two-thirds of that is coming from both intercompany and external pricing. And the intercompany clearly has picked up on the refining side, but so out of the $35 million, two-thirds is price, and a third is seasonal lower volumes.
+
+David Gagliano
+
+Okay, and then just a related question. As we think about that moving forward just for segment modeling purposes, I'm assuming that that piece that's price decline driven is pretty much reasonable run rate moving forward at this point, correct?
+
+William Oplinger
+
+Yes, for 2020. We typically reset internal bauxite pricing once a year, unless there's a major move in the marketplace that changes, which we haven't really seen over the last couple of years. So, yes, I think assume that for 2020.
+
+David Gagliano
+
+Okay, great. And then my other question, slightly bigger picture. When I look at the volume targets for 2020, they imply year-over-year growth of about 5% to 8%. Obviously, there's a fairly cautious backdrop in terms of calling for a global surplus in primary aluminum. I get Bécancour restart, but my question really is without identifying specific assets, how much of that 3.0 to 3.1 million tons of third party shipments should we consider to be under review for curtailment realistically as we move through 2020 if prices stay soft and premiums continue to fade?
+
+William Oplinger
+
+Yes, it's really - it's really, really difficult to answer, Dave. When we look at the portfolio, clearly, there are some plants that are fairly high cost and we'll be looking at those in 2020 in light of market dynamics and those decisions will be made fairly quickly. I can only point you to the fact that 90 days in to our announced strategy, we already have closed or at least announced the closure of Point Comfort and have already executed on nearly half of the bottom end of the range on the asset sales.
+
+So, I would tell you, we look at each plant, we look at the run rate economics and we look at the current market environment and we'll make decisions fairly expeditiously.
+
+Operator
+
+Our next question will come from Lucas Pipes with B. Riley FBR. Please go ahead.
+
+Lucas Pipes
+
+Hey, good afternoon everybody. I have a quick follow-up question on the Gum Springs transaction. Is that akin to a sale-leaseback and if so, what sort of EBITDA contribution was this plant or would this plant be generating under the current – under the structure that you agreed to? I would appreciate any color on that. Thank you.
+
+William Oplinger
+
+Yes. It is not a sale-leaseback. It is an out and out sale, and it's a sale to Veolia. And as far as EBITDA contribution in 2019, the plant lost $12 million. We had, we had kind of use of improving the planet to be a breakeven in 2020. That gives you a pretty good indication of the contribution of Gum Springs to our financials.
+
+We do have a mid-term contract for processing and spotlighting. So, we know that they will be taking our SPL for a number of years, but from my perspective, this is a really good deal. It gets the plant, it's a good deal for Alcoa. It's also a good deal for our shareholders, but it's also a good deal for the plant. It gets the plant to be owned by a company that's going to grow the capabilities and our employees that are Alcoans today that are going to Veolia have a bright future. So, I think it's a really good transaction.
+
+Lucas Pipes
+
+That's very helpful. And it's not like you're guaranteeing a certain number of profitability to the plant?
+
+William Oplinger
+
+No, absolutely not. I mean, we will be sending our CL there for a number of years, but we are not guaranteeing a profitability level.
+
+Lucas Pipes
+
+That's very helpful. I appreciate it and best of luck.
+
+Roy Harvey
+
+Thanks.
+
+William Oplinger
+
+Thanks, Lucas.
+
+Operator
+
+Our next question will come from Timna Tanners with Bank of America. Please go ahead.
+
+Timna Tanners
+
+Yes. Hey, Happy New Year.
+
+Roy Harvey
+
+Hey, Timna, thanks.
+
+Timna Tanners
+
+Hey there, thanks. So just a follow-up on a few points I wanted to clarify. If you could give us an update on talks for the Portland complex and energy subsidies, how to think about that complex going forward? And then along those same lines, how far along are we in terms of the benefit already being or still yet to come in terms of the Bécancour startup and the Spanish smelter closure?
+
+Roy Harvey
+
+So, let me start on Portland. Essentially the deal that we agreed to was a 4.5 year deal. And in that we'll go out to the middle of 2021. And so in between now and that particular moment in time, we need to see if there is a repowering solution or if there is another eventuality for that plant. So, in the midst of discussions with government, it's a plant that operates very stably. It is a very good – it is good technology. It just happens to be one of the most highest energy priced markets on the planet.
+
+So, you'll not see action on that, in fact, part of that agreement is that we wouldn't take action until the middle of 2021. On Bécancour, your second question, Timna, we're about halfway through the restart from a pot standpoint. We actually have all employees will be back in the plant and back helping to tend those pots by the end of this month.
+
+We're having a very good – so far, we're having a good startup and I've been very pleased with it. And it's an important situation where we've been following this lockout for 18 months. It is important for us to reestablish those connections with our employees. But also it is an environment that takes a lot of care. Those Bécancour workers, happen to be some of the best that we have around our system. So really positive to see how that is progressing, so on the right track.
+
+William Oplinger
+
+Yes, let me throw some numbers around that. On Bécancour, Timna, when we announced Bécancour restart, we said we would spend $30 million to $35 million after tax in the second half of 2019, and an additional $30 million to $35 million in the first half of 2020. We are actually – the spending has probably been a little bit more backend loaded than what we anticipated.
+
+So, we spent about $25 million in the second half at Bécancour, that gets pushed to the first half of 2020. So, at this point, we're not reducing our overall estimate of the spend. Put Spain in a little bit of perspective for you. The fact that we have divested Spain, Spain was about $40 million EBITDA hit in 2019 and that's before any of the special items. That was just the operations. So, we won't have that EBITDA hit in 2020, clearly, since we don't own the assets.
+
+We still have some payments that have to go out to our partner, our partner, the people who bought it, who are known as partner. And that's about $68 million that has to be done over the next six quarters. So, we still have that cash outflow over the next six quarters, and that's 68 million total.
+
+Timna Tanners
+
+Okay, super helpful.
+
+William Oplinger
+
+Hope that helps.
+
+Timna Tanners
+
+Yes, that's great. Thank you. And then another question I wanted to ask is, just taking a step back, I know in the past, you've talked about thinking about cash returns to shareholders at above $1 billion and above $1 billion in terms of cash on the balance sheet. And it seems like you're getting close to that level, but obviously, also a lot of cash requirements into next year.
+
+So, I just want to – any updated thinking on is that you hit a $1 billion and you start to think about it, or you want to position that for a couple quarters or how those priorities changed or how you think about cash returns? Thanks.
+
+William Oplinger
+
+Yes, the priorities clearly haven't changed. The capital allocation model is the same as the one that we announced last quarter. If we get to the $1 billion level, we'll balance between those four items. And as you said, there are some things that are going to cost us cash, the repositioning of the portfolio will cost us some cash, but we'll balance.
+
+What I would tell you is, I was personally pleased with the fact that we generated cash in the fourth quarter again, we generated cash in the third quarter. These are, you know, fairly tough market environment and we generated cash and at the same time we made the contributions towards all the things that we needed to contribute towards.
+
+So, for instance, we made our mandatory required pension contributions in the fourth quarter. So, from an overall perspective, I would tell you that one of the bright spots in the quarter is -- was the cash balance at the end of the year.
+
+Timna Tanners
+
+Okay, fair enough. Thanks again.
+
+Roy Harvey
+
+Thanks, Timna.
+
+Operator
+
+Our next question comes from John Tumazos, Independent. Please go ahead.
+
+John Tumazos
+
+Thank you. Could you elaborate a little bit more on the Chinese aluminum demand? We read that vehicle sales fell 8.2% last year. Which other markets were up in China and which are the markets are the one or two biggest markets for aluminum in China?
+
+Roy Harvey
+
+So that's a pretty - that's a pretty broad question, John. So, so let me sort of couch it in terms of how we see that market growing into 2020. I don't know John, exactly here where you were going with the question, but hopefully at least it gives you the right direction.
+
+William Oplinger
+
+And after you’ve done that we'll put some numbers down on it.
+
+Roy Harvey
+
+Yes, so from - when you look across the board, the largest component sits inside of construction. I think one of the highlights that people saw in the Chinese market last year is that you started to see building starts come back again. Unfortunately, for last year, aluminum really comes in at the end of the process. So, what we're hoping to see this year is that those building - those building starts turn into building completions.
+
+We have started to see that turn the corner as we come into 2020. And so that's going to help drive some growth in the construction market. And happily, that is the largest consumption of aluminum that happens inside of China.
+
+From a transportation standpoint, that one is also an important market. We believe that that – the stimulus programs and what's happening in China is going to be driving that into a positive growth as well for this coming year.
+
+I think it was a difficult, difficult 2019. I don't particularly have the negative 8% that you that you reference. But we should see that come back, and in fact, come back to be one of the strongest, strongest growth, growth, growth in the markets that we'll see across China.
+
+I would just also mention that we continue to see some decent growth in packaging and foil. In fact, that growth will be down a little bit compared to the strong growth that we saw in 2019. That's a pretty big contributor to the overall aluminum consumption in China. But I think we continue to see that that aluminum as a packaging material continues to be strong and continues to grow.
+
+William Oplinger
+
+You had all the things that I wanted to cover. I mean, it is a big market John, is construction and Roy addressed that. The next kind of bigger markets are packaging and foil, machinery, transportation. We did see transportation in a contraction like you did, probably not the same level that you're referencing, but we see that turning around pretty well in 2020. So those are the big markets.
+
+John Tumazos
+
+Thank you.
+
+Roy Harvey
+
+Yes, thanks John.
+
+Operator
+
+Our next question will come from Paretosh Misra with Berenberg. Please go ahead.
+
+Paretosh Misra
+
+Thanks for taking my question. Just to follow-up on a couple of other questions. On the end market, how close are you to your end market customer now given that you don't have any downstream business? Do you know every shipment going out of your facility whether it's going to construction or automotive or is that more about you having some market intelligence or market sources that's how you have a read on the market demand?
+
+Roy Harvey
+
+Yes, I'd say Paretosh that when we get to the actual aluminum consumption that goes into the end markets, that is because of who we are, it is Alcoa Corp. instead of Alcoa Inc. We are a step removed from that final, that final end market. So, we put our effort into trying to understand what's coming out from other analysts and from what we hear and what we see in our sales of value added products and aluminum value added or rolled products and aluminum.
+
+So, I think it's more - it is more an interpretation and not so much driven by what our - what's coming out of our smelters. We do have a pretty good idea of where our metal is going, particularly when it comes to value added products. So, typically it is very different whether it's going into the can sheet or whether it's going into billet [ph] or extrusions, et cetera. But it's - particularly for P1020 for the commodity grade that can go into any kind of use.
+
+Paretosh Misra
+
+Got it. And just a quick follow-up on the aluminum shape premiums, so has there been any change this year versus last year? I guess that's mostly a contract business.
+
+Roy Harvey
+
+Yes. You know, and the fact is, is that there has been a change and unfortunately it's not for the better, it is in fact a decline. What we're seeing really – and remember that we are very-very-very skewed towards North America and Europe, but we're seeing pretty significant declines for two reasons. Number one, we've seen that when Midwest premium come down, and number two we've seen product shape and our premiums also come down.
+
+That, I would tie it over to two things. Number one, that Rusov [ph] has come back into the market. So, if you remember at the end of 2018 and beginning of 2019, with most of those contracts were set for 2019 annual year, particularly in North America Rusov [ph] was still under sanctions, so they were not able to step into a lot of those value added businesses.
+
+For 2020, obviously, the sanctions are behind them. And thus they are now fully participating and are really driving to recapture market share. So that is certainly having an impact on the amount of material that's available.
+
+And number two, and also important is because you had a period of such differentiated higher Midwest premiums, I think it attracted a decent amount of imported material that we'll really start to see coming into 2020 markets. You've seen that come in.
+
+I think that could change if it seemed the West premiums come off their highs. But at the same time, we're seeing and more imports both from Rousav [ph] and from others in the 2020 value added premium markets.
+
+Operator
+
+Thank you. This concludes our question-and-answer session. I would now like to turn the conference to Roy Harvey, for any closing remarks.
+
+Roy Harvey
+
+Good. Thank you, Shawn. And I would like to thank everybody for your time and attention today. We will continue to act aggressively to improve this Company and to act on the strategic program that we've set out, and to make sure that we position ourselves for success into the future. So, thank you for joining us, and we look forward to talking to you here three months down the road.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation and you may now disconnect.

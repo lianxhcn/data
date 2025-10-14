@@ -1,0 +1,524 @@
+Agilent Technologies, Inc. (NYSE:A) Q1 2023 Earnings Conference Call February 28, 2023 4:30 PM ET
+
+Company Participants
+
+Parmeet Ahuja - Investor Relations
+Mike McMullen - President & Chief Executive Officer
+Robert McMahon - Senior Vice President & Chief Financial Officer
+Padraig McDonnell - President of Agilent CrossLab Group
+Sam Raha - President of Agilent Diagnostics & Genomics Group
+Jacob Thaysen - President of Agilent Life Science & Applied Markets Group
+
+Conference Call Participants
+
+Matt Sykes - Goldman Sachs
+Brandon Couillard - Jefferies
+Vijay Kumar - Evercore ISI
+Puneet Souda - SVB Securities
+Rachel Vatnsdal - JPMorgan
+Dan Brennan - Cowen
+Patrick Donnelly - Citi
+Jack Meehan - Nephron Research
+Josh Waldman - Cleveland Research
+Lisa Garcia - UBS
+Paul Knight - KeyBanc
+
+Operator
+
+Ladies and gentlemen, welcome to the Agilent Technologies Q1 2023 Earnings Call. My name is Bill and I will be coordinating your call today. [Operator Instructions]
+
+I will now hand you over to your host, Parmeet Ahuja, to begin the conference. Parmeet, please go ahead.
+
+Parmeet Ahuja
+
+Thank you, Bill and welcome, everyone, to Agilent's conference call for the first quarter of fiscal year 2023. With me are Mike McMullen, Agilent's President and CEO; and Bob McMahon, Agilent's Senior Vice President and CFO. Joining in the Q&A after Mike and Bob's comments will be Jacob Thaysen, President of the Agilent Life Science and Applied Markets Group; Sam Raha, President of the Agilent Diagnostics and Genomics Group; and Padraig McDonnell, President of the Agilent CrossLab Group. This presentation is being webcast live. The news release for our first quarter financial results, investor presentation and information to supplement today's discussion along with the recording of this webcast are available on our website at www.investor.agilent.com. Today's comments by Mike and Bob will refer to non-GAAP financial measures. You will find the most directly comparable GAAP financial metrics and reconciliations on our website.
+
+Unless otherwise noted, all references to increases or decreases in financial metrics are year-over-year and references to revenue growth are on a core basis. Core revenue growth excludes the impact of currency and any acquisitions and divestitures completed within the past 12 months. Our guidance is based on forecasted currency exchange rates. During this call, we will also make forward-looking statements about the financial performance of the company. These statements are subject to risks and uncertainties and are only valid as of today. The company assumes no obligation to update them. Please look at the company's recent SEC filings for a more complete picture of our risks and other factors.
+
+And now, I'd like to turn the call over to Mike.
+
+Mike McMullen
+
+Thanks, Parmeet. And thanks, everyone, for joining our call today. The Agent team delivered an excellent start to 2023, exceeding both top and bottom line expectations. Q1 revenues of $1.76 billion or up 10% core. Agilent's broad-based portfolio and resilient growth model are on a full display during the quarter with growth across all end markets and geographic regions. Operating margin in the quarter are 27.1%, up 80 basis points. Earnings per share of $1.37 were up 13%.
+
+Let's now take a closer look at our first quarter performance, starting with end market highlights. Chemicals and Advanced materials led the way for us with another outstanding quarter, delivering 14% core growth with strength across all geographies. The strength in our pharma business continues and is up 11%, with both large and small molecule growing nicely. This is on top of 17% growth last year. Our environmental friend business grew 12%, while the academia government and the food markets both grew 8%.
+
+On a geographic basis, China once again led the way. Our China team continued their record of strong execution overcoming any disruption associated with COVID and delivered 13% growth during the quarter, exceeding our expectations. In Europe, we also delivered stronger-than-expected results, growing 10%. The Americas shows a solid results with 8% growth.
+
+Looking at our performance by business unit. The Life Sciences and Applied Markets Group delivered revenues of $1.03 billion, up 11% core. LSAG delivered growth across all end markets and regions. Our LC and LC/MS platforms continued their strong performance during the quarter, growing faster than the market at 16%. Demand in the chemicals and advanced materials end market continues to be strong. particularly for materials used in manufacturing semiconductors and batteries. Our Spectra business grew more than 20% in the quarter and we continue to strengthen our base in spectroscopy across multiple end markets.
+
+In Q1, we announced an appointment at the Insight200M. This system is used at checkpoints throughout the London Heathrow Airport to officially provide enhanced security and ensure passenger safety. The Asian Crosse group posted revenue of $381 million in Q1. This is up 13% core as the team continues to take advantage of record instrument placements over the past 2 years along with continued growth and attach rates. Across our team's deep knowledge of customer lab operations continues to drive consistently high levels of customer satisfaction. The breadth and diversity of our product offerings is driving record renewals for support contracts. At the same time, our Enterprise Services business continued its strong momentum, driving growth and converting competitive accounts.
+
+The Diagnostics and Genomics Group delivered revenues of $342 million, up 5% core. Our pathology-related business performed well with double-digit growth led by the Americas and Europe. NASD posted another strong quarter, growing 22%. Our Train B manufacturing expansion remains on track to come online mid-calendar year. In January, we announced an additional $725 million expansion of our NASD facility that will double our oligo manufacturing capacity. And 2 weeks ago, we are pleased to have the Governor of Colorado join us in our groundbreaking ceremony at the Frederick site. In addition to organic investments, we continue to invest externally in new technologies and partnerships. In the quarter, we welcomed the Avida Biomed team into Agilent, further enhancing our genomics capabilities. Avida is early-stage life sciences company designed to assist clinical researchers using NGS approach in the study of cancer.
+
+We also continue to partner with new technology platform companies to drive our solutions in the marketplace. This quarter, we announced a partnership with the Akoya Biosciences to combine our companion diagnostic and IHC workload expertise with their solution to drive multiplex tissue assay development for biopharma.
+
+In addition to these business group highlights, Agilent was again recognized among the top 100 most just companies in the U.S. by Just Capital and CNBC. As part of this announcement, we are very proud to be the leader in the medical equipment and services industry for our treatment of employees and focus on customer relations.
+
+The Agilent team navigated challenging market uncertainties in Q1 and yet once again produced excellent results. It was a great start to the year. Q1 was another outstanding example of the work we've done to build a resilient company with multiple growth drivers. Those growth drivers create through targeted investments that aim to expand and enhance our business in high-growth areas are the heart of our Build and Buy growth strategy. As we look ahead to Q2, we remain confident in the strength and resilience of our business. We have an unstoppable One Agilent team that continues to execute at an extremely high level and is well prepared to deal with any challenges they face.
+
+Given the strong start to the year, we are raising our full year core revenue and EPS guidance while also keeping a close eye on macroeconomic conditions. I will provide the detail on our overall outlook but overall, we remain convinced our strategic focus and unmatched execution capabilities will continue to drive strong results.
+
+Thank you for joining us today. And now, Bob, over to you.
+
+Robert McMahon
+
+Thanks, Mike and good afternoon, everyone. In my remarks today, I'll provide some additional details on revenue in the quarter as well as take you through the income statement and other key financial metrics. I'll then finish up with our updated full year guidance and initial guidance for the second quarter. Unless otherwise noted, my remarks will focus on non-GAAP results.
+
+We are extremely pleased with our Q1 performance. It was a very solid start to the year. Q1 revenue was $1.76 billion, exceeding our expectations. Revenues were up 10% core and 5% on a reported basis. Currency was a 5-point headwind which was an improvement from the beginning of the quarter, while the M&A contribution was as we expected. Pricing for the quarter was higher than the full year forecast also as we expected. Now I'd like to share some additional detail on our end markets. Results in our largest market, pharma were again very strong. Pharma grew 11% following 17% growth of last year. Performance was solid across both small and large molecules. Small molecule grew 12%, while large molecule grew 9%. And as Mike mentioned, Chemicals and Advanced Materials also continued to be very strong, growing 14% during the quarter on top of 15% growth last year.
+
+The chemical and energy subsegments of the market are doing well while the advanced materials market continues to deliver outsized growth. Semiconductors and batteries are driving demand, helped by government investment in this area. The food market grew 8% during the quarter, driven by double-digit growth in China. The environmental and forensics business grew 12%, led by the Americas as increased testing for PFAS chemicals drives customer investment in this area and recently approved U.S. legislation leads to broad spending in the environmental market.
+
+Our business in the diagnostics and clinical market grew 4% versus 11% growth last year. Pathology led the way for us here, partially offset by industry-wide challenges in the genomics market. And the academia and government market was up 8%, led by LCs and services. Regionally, Europe and Asia showed strong results.
+
+On a geographic basis, the China team delivered 13% growth and Europe grew 10%, both exceeding expectations. The Americas had another solid quarter coming in at 8%, in line with our expectations.
+
+Now let's turn to the rest of the P&L. First quarter gross margin was 56.5%, up 40 basis points from a year ago. The gross margin performance, coupled with good cost discipline and SG&A helped drive our operating margin to 27.1%, up 80 basis points from last year. Below the line, our tax rate was 13.75% for the quarter and we had 297 million diluted shares outstanding, both as expected. And putting it all together, earnings per share were $1.37, up 13% from a year ago. In summary, Q1 ended with 10% core top line growth and 13% earnings per share growth, a very good start to the year. Now some metrics on cash flow and our balance sheet.
+
+In Q1, we generated $296 million in operating cash flow, up 16% versus last year, while investing $76 million in CapEx. CapEx spending continues to be driven by our scale-up of our Train B manufacturing line and other capacity expansion projects. In the quarter, we returned $142 million to shareholders through $67 million in dividends and by repurchasing shares worth $75 million. We also announced we're increasing our dividend by 7%, along with a new $2 billion share repurchase authorization continuing our successful balanced approach to capital deployment. Our balance sheet continues to remain healthy as we ended the quarter with a net leverage ratio of 0.8.
+
+Now let's move to our revised outlook for the year and the upcoming quarter. The macroeconomic environment remains dynamic and interest rates and currencies continue to be volatile. However, given the good start to the year, we are increasing our full year revenue to a range of $7.03 billion to $7.10 billion. This increase updates our full year core revenue guidance to a range of 5.5% to 6.5%, increasing the midpoint of our guidance to 6%. We've also seen the dollar weaken against major currencies in the first quarter although it has rebounded somewhat in February. And as a result, the full year guide reflects $100 million of favorable currency movements since our initial guide in November. And for the full year, we still expect currency to be an almost 300 basis point headwind to reported growth. In addition, we're also raising our full year EPS guidance to a new range of $5.65 to $5.70 per share.
+
+And lastly, given the recently announced NASD expansion to double our oligo manufacturing capacity -- we are updating our forecasted capital spending for the year to $500 million, up $200 million from our guidance at the beginning of the year. Now turning to Q2, we expect revenue in the range of $1.655 billion to $1.680 billion. This represents core growth of 6% to 7.5% and reported growth of 3% to 4.5%.
+
+Currency is expected to be a headwind of 3.1 points, while M&A will contribute 0.1 points of growth in Q2 which is consistent with Q1. Second quarter non-GAAP earnings per share are expected to be between $1.24 and $1.27, representing growth of 10% to 12% versus the prior year.
+
+I'm pleased with how the team has delivered in the first quarter. We are focused on the things we can control. Our team is driving strong execution in the marketplace and coupled with our broad portfolio of products and services, we expect to continue to grow faster than the market as we go through the year.
+
+Thanks for being on the call. And now I'll turn over things back to Parmeet as we take your questions. Parmeet?
+
+Parmeet Ahuja
+
+Thanks, Bob. Bill, if you could please provide instructions for the Q&A now.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] We take our first question this afternoon from Matt Sykes of Goldman Sachs.
+
+Matt Sykes
+
+Mike and Bob, maybe we'll start on ACG, just given the quarter that it had and the comp it was facing last year, you've talked in the past about areas of underpenetration. I think China was a region you called out. Could you just maybe kind of give us a mark-to-market on where you feel from sort of an end market and regional standpoint, there's still a lot of room for that growth in ACG if we see it continue throughout this year and into next?
+
+Mike McMullen
+
+Yes. Thanks, Matt. First of all, I appreciate the recognition of the numbers we posted and we think there's still a lot more opportunity in front of us. And I want to actually have provide a little bit more color on where those opportunities may lie.
+
+Padraig McDonnell
+
+Yes. So look, I think the broad product offering across the hardware platforms where we've had a value to -- where we add a lot of value to customer operations has been broad-based. We certainly see a lot of our offerings, particularly around asset utilization and so on, being able to be used outside pharma in different industries and we see that as an opportunity to grow. I think also given our big installed base and our ability to attach in different markets and sectors is going to continue as we go through the year.
+
+Mike McMullen
+
+Yes, I think we see a lot of opportunity, obviously, in China. That's when we flagged in the past. The other one that we're pointing to is a lot of the growth has historically been centered in the pharma space. We're seeing growing interest in the CAM space as well. So I think from an end market perspective, that's an area we would expect to see some more growth. And geographically, the China story still hasn't fully played out yet. And then again, I would just remind you, Matt, some of the points we made in the call, record renewals for support contracts and also clearly taking share on the enterprise level. Those attach rates we keep talking about are going up as well. So a lot to like here.
+
+Matt Sykes
+
+Great. And then maybe just kind of refresh us on your outlook for instruments. I mean you've kind of guided to a mid-single-digit growth for the full year. Given that we're a little ways into this year, you probably have a little more visibility on that backlog. How are you thinking about sort of the back half for instruments overall?
+
+Mike McMullen
+
+Yes. So first of all, let me -- I'm taking a bit on this with Bob but let's -- I'll talk about the backlog, first of all, I think it's very important to just to remind the audience that the quality of our backlog remains extremely high. So -- and you can see the great work of our team at to work down the backlog but we're not seeing any cancellations or anything pulling out of backlog. So that gives us level of confidence around the revenues we can forecast. I think there really isn't anything new to talk about today relative to new news relative to the second half, we still remain -- we still want to acknowledge the uncertainty about the back half of the year. So really no new news here. It's very consistent to what we talked about in November. I think you're going to hear a lot of us talking about normalization of growth rates -- normalization of deal cycle times. So the funnels remain healthy. The deal cycle times are I think we've already more towards historical levels. And Bob, I don't know if you'd add anything to that?
+
+Robert McMahon
+
+No, I think you're right. I mean, I think, obviously, we had a very strong start to the year with double-digit growth from LSAG we will go up against very tough comps in the back half of the year with the recovery of the business. But as Mike said, pleased with the very good start but not anything material change.
+
+Operator
+
+The next to Brandon Couillard of Jefferies.
+
+Brandon Couillard
+
+Mike, I think you said China was up 13% in the quarter. That's a lot better than we've heard from some of the other counterparts. Could you unpack that a little bit for us? Could it perhaps have been due to the fact that you're 1 month later maybe talk about linearity in China through the quarter and if your outlook for the full year. So I think it was high single digits has changed at all.
+
+Mike McMullen
+
+Well, I'm glad you noticed, Brandon and if you were in the conference room here, you see there's a lot of smiling in the room here because really proud of what the team has done here. So I don't think it's all a timing issue. It's about execution and its ability of this team to execute because our teams were hit with waves of COVID during the quarter. But we know how to execute. We've also enabled the -- our ability to interact with customers digitally. So while people maybe couldn't go to the office or couldn't go to customer sites, they were able to support the customers. So we were just -- we were just delighted with the performance out of China in Q3. And Bob, I think it was a broad-based story. We had growth and double-digit growth in pharma, chem, food. So it was really pleased with the results. I know our narrative is different than others are saying but I also think my team in China capability is also different.
+
+Brandon Couillard
+
+Got it. And then on the NASD Train C, I guess, expansion. Can you just talk about time line for that build-out. And as I remember back to Train B, I think a good amount of that was already kind of earmarked for customer demand. In the same case this time around with the current expansion.
+
+Mike McMullen
+
+Yes. I want to tag team a bit with this with Sam and myself and Bob. So we evenly refer to Train B. That's the latest expansion that's coming online this year. In fact, we had a chance to see that firsthand when we went to the groundbreaking ceremony for what we call Project endeavor or as you're referring to [indiscernible]; it looks really good. We're on track for that mid-calendar year go live and we have a full book of business for that just a matter of ramp. And again, project up. And then I'm going to pass it over to Sam and maybe you want to remind, Brandon, what our plans are with the new expansion, when we expect to see some of that first revenue coming into Agilent.
+
+Sam Raha
+
+Yes. Yes, happy to do so. And as you mentioned, Mike, first of all, we're tracking right on plan for Train B, right, midpoint -- midyear coming on. And it was great to see first-hand, Bob joined me really the progress that we're making, the facility is looking really, really nice. A lot of validation work happening miles and miles of stainless steel piping and other infrastructure that's been put in place. As you also noted, we did at the end of February, the middle of February, pardon me, the groundbreaking for trains, C and D. And these projects will take some time but we've started the process and the first revenue from that would be coming online in 2025. And remember, there's 2 trains, Train C and Train D, both dedicated to siRNA, antisense capabilities as well as expanding our ability to serve customers with single guide RNA or CRISPR. So excited about the progress in the NASD team under Brian Crude's leadership is firing in all cylinders.
+
+Mike McMullen
+
+Sam, unless you're going to commit to me for earlier to go live. I think you meant to say '26, right?
+
+Sam Raha
+
+Did I say '25? Thank you, Mike, for catching. Usually, you're the one that accelerates me instead of the other way. Indeed, it's '26. Thanks for catching that.
+
+Robert McMahon
+
+Yes. And Brandon, to your point around the question of purchase orders and so forth. We have good visibility into the pipeline in the funnel but we haven't started taking orders given the time frame there. So we have high confidence that we wouldn't be putting in $725 million into the expansion.
+
+Operator
+
+We're going next now to Vijay Kumar of Evercore ISI.
+
+Vijay Kumar
+
+Congrats on a good print here, Mike. My first question here on the second quarter guidance, 6% to 7.5% organic. That's a sequential step down of 250 basis points at the high end. I guess the comps get easier. Is there anything in the second quarter? Was there any timing of revenues that got to fall to Q1? Or any China impact, anything that can explain here at the sequential guide for 2Q?
+
+Mike McMullen
+
+Yes. I'll pass this over to Bob for additional detail but I think the answer is no, not the unusual about movements between the quarters. And Bob, I think what we're going to do is we want to set up another guide in Q2 that was above our full year guide. So that was the process there.
+
+Robert McMahon
+
+That's exactly right. I mean, I think as we look at this, we just came off a 10%, still 6% to 7.5% is still significantly above where we're forecasting the full year and I think we feel good and I think it's consistent with how we have guided in the past.
+
+Mike McMullen
+
+I have missed we're very prudent yet today, Bob?
+
+Vijay Kumar
+
+I was waiting for that, Mike. So have to say the second quarter is a prudent guide. Is that a fair comment?
+
+Mike McMullen
+
+That is correct.
+
+Vijay Kumar
+
+Fantastic. And then I did have one on this NASD, Mike -- at Novartis. I think they're pulling their API manufacturing in-house. And I know you're starting to train to see maybe provide some context and how big is Novartis as a customer? What's the pipeline looking in ASD and uses at risk?
+
+Mike McMullen
+
+Yes. I'll tag team on this. I'll lead and Sam, if you want to add some additional color. But first of all, the announcement from Novartis is no new news. We -- that has always been part of the plan and we actually have contractual agreements relative to how much of the on market demand we get. So that's all well known. But relative to the Novartis is one of the many customers we have in this business and we really have worked hard to build a diversified book of business. And we talk a lot about Novartis great customer. I talk a lot about Anylam because we're allowed to talk about those programs but we have a much broader base book of business. And I think that gives us a lot of confidence as we move forward because we have a number of programs that we're supporting. We know not everyone is going to hit but we know that there's going to be a lot of success rates there as well.
+
+And Bob?
+
+Robert McMahon
+
+Yes, let me just add something. I mean I would say this means nothing to our expansion. I mean or I want to be very clear about that. I mean I think we feel very good about -- we've continued to be capacity constrained. We've had more orders than we can satisfy. And I think that continues to be the case and we feel extremely good about the overall technology and our position in the marketplace.
+
+Mike McMullen
+
+Thanks, Bob. I appreciate that build.
+
+Sam Raha
+
+Mike, if I can just add just a couple of quick things, right? We've stated this before. We think the therapeutic oligo market for the suppliers that we are $1 billion today, growing to $2.4 billion by 2027. And what's really encouraging about the market is the number of molecules that are advancing, right? Just to give you a little bit more color, we're doing work with over 30 pharma partners today and on dozens of programs at various stages. So the pipeline of programs are working on, some of which have the potential of being molecules also broad populations is absolutely there and something that we're excited about.
+
+Operator
+
+We go next now to Puneet Souda of SVB.
+
+Puneet Souda
+
+So first one, Bob, I don't know if I heard it on the call, contribution sort of from pricing in the quarter and for the full year. If I'm correct, you are still expecting 3% pricing contribution this year and that would imply a 3% volume contribution which it appears below historical levels for what Agilent has grown. So just maybe just -- we're trying to understand, given the tailwinds you're seeing in China, NASD and the other areas and obviously, congrats on the strong growth in the quarter. So is there anything you're seeing beyond sort of tougher compares that are emerging in the sort of the second half?
+
+Robert McMahon
+
+No, it's a great question. So I did make a quick reference in the prepared remarks. Actually, Q1 was higher than the overall 3% as expected. We are still planning and forecasting that 3% price contribution for the full year of FY '23. And you're right, that would speak to roughly a 3-point volume. What I would say is we're taking it 1 quarter at a time. As we've said, we're dealing with -- looking forward, there's still some uncertainties around macro. And that's where I think our forecast and our guidance is prudent to use that word again. But I wouldn't say anything has materially changed since the beginning of the year from that standpoint. And I've been very pleased with our ability to continue to maintain that pricing throughout the course of the last several quarters and I would expect that to continue going forward.
+
+Puneet Souda
+
+Okay. That's helpful. And then on the Lunar New Year, is that part of -- is that baked into the guide as well? And I just wanted to clarify on China. I mean obviously, you have heard about the stimulus, your -- actually Agilent is listed -- one of the companies listed within the document that was put out for the loan stimulus for China. This is sizable. How are you thinking about it? You obviously have the longest and one of the most legacy positions in China. So just trying to understand what does that mean for China growth in 2023 and '24.
+
+Mike McMullen
+
+You want to take the first part of the question.
+
+Robert McMahon
+
+Sure. Yes. But the impact of Lunar New Year was not only in Q1 but it's also been reflected in our Q2. It was roughly 0.5 point headwind in Q1 and that's come back to us in Q2. So it was kind of as planned. And in regards to the stimulus, the way we're looking at this is Sims got kicked off in the calendar Q4. There is a section in there that's focused on equipment for universities and hospitals. But from our perspective, it's still early. So we're kind of waiting right now to see how it plays out. And but I think at this point, we really haven't put anything assumed in our guide or China growth relative to the stimulus. So if it does get deployed and comes to our way, then that will be an upside to our current forecast.
+
+Mike McMullen
+
+And I think Puneet, you said it well. I mean, our business in China continues to be very, very strong and I couldn't be prouder of the team, how they delivered in Q1 and that's continuing strong momentum throughout the second half of last year and we would expect that to continue here in Q2 as well.
+
+Operator
+
+We go next now to Rachel Vatnsdal at JPM.
+
+Rachel Vatnsdal
+
+Congrats on the quarter. So first up on semiconductors, one of your peers have flagged that they were expecting the semiconductor market to be soft throughout 2023, just as semiconductors or semi customers were facing a reset just given a macro environment. So you mentioned strength in semi-dry prepared. So can you just walk us through, first off which part of the market do you guys really play in, in semis? And then are you seeing any of the softness that one of your peers have flagged?
+
+Mike McMullen
+
+Yes, I'll start and then we'll turn it over to Jacob to give some additional color about where we play and so forth. But I would say the short answer is no. I mean, our spectroscopy business grew over 20% in the quarter and we're still seeing strong demand. And Jacob, you want to provide a little more color?
+
+Jacob Thaysen
+
+Yes, absolutely. We have -- I would say we have the strongest portfolio in atomic recopy for this market in semi but generally speaking, in material science. And we continue to see demand from the semicon industry, both in the fabs but also in the upstream for all the fine chemicals that goes into the fabs, they require the same level of QC testing like they do in the labs and hence, they are using the same instruments. So we see a lot of benefits. Those were the new fabs built but also for the continuous operation in the labs. So we expect this to continue for a while. We, of course, see a lot of news around investments into this in other parts of the world, also particularly in the U.S. Obviously, that will take some time before it comes into play. But we are -- we expect the whole semicon market to continue to be an upside for us. But as I mentioned also, we also see a lot of interest in the rest of the materials market, particularly in lithium batteries, where we see a lot of demand, not only for our spectroscopy business but really across our broad portfolio where lithium battery needs both the LCs, the GC, the spectroscopies and the CMS. So we are very excited about that space and see a lot of continued growth there.
+
+Mike McMullen
+
+And Jack, I think the point you made earlier, too, about some of the funding environment, we're seeing some government funding coming in from different parts of the world as part of the semiconductor industry which has benefited us.
+
+Rachel Vatnsdal
+
+Great. And then maybe just shifting over more towards pharma biotech. The small molecule grew faster than large molecule this quarter. You've talked in the past about some of that outpaced strength in small molecule being driven from spending related to instrument purchases that were delayed back in 2018, 2019 time frame. Can you walk us through really what inning are we in, in terms of that catch-up spend? And how long can you sustain an outpaced growth in small molecule before it kind of resets back to that normalized level? And then just update on large molecule as well.
+
+Mike McMullen
+
+Sure, Rachel, do I dare pass this question to the Danish member of the staff over that baseball analogy but I think, Jacob, got a great print on LC and LC/MS 17% growth, clearly outpacing the market. And I think we saw some really good strength in small molecule in particular this quarter.
+
+Jacob Thaysen
+
+Yes, absolutely. I will start by saying, I don't think this is a baseball game. I think there is a continuous opportunity on indicate space. So -- and we see both opportunities and we continue to believe that there is a big market in small molecules. And I think the current performance is a reflection of the investments we have done into -- we made into our portfolio over the past years both for the LC and the CMS. So it's really, really focused very much on where we have gone strategically on a lot of investment into making robust reliable and routine instruments and instrument solutions. We continue to spend significant time to truly understand our customers' pain point that is not only about the overall performance but also about how you can ease of use, a lot of smarts we put into the instruments and of course, also continues on focus on uptime of instruments. And our commercial organization is brilliantly going out and connect both our consumables and also the service contracts to it. So this just continues to be a great business for Agilent.
+
+Robert McMahon
+
+Yes, Rachel, maybe -- this is Bob, maybe I can add a few points because we talked at the beginning of the year, about this strong performance kind of normalizing this year. We also said if it continues, we're going to take it. And I think what you're seeing is some of that as well. But we still do think that this will normalize over time. And the portfolio that Jacob and team have I think speaks very well to us growing faster than the market. And I think you talked about the biopharma, the beauty of our business is we've got that nice diversification across both small -- and small and large molecule and certainly starting up the year very nicely.
+
+Operator
+
+We'll go next now to Derik DeBruin [ph] of Bank of America.
+
+Unidentified Analyst
+
+This is Peter [ph] on for Derik. Could you just dive a bit more into the latest on what you're seeing in Europe? You've expressed in bending some caution, particularly in Chem on the last call. So if you can touch on that as well, that would be great.
+
+Mike McMullen
+
+Yes. So I hope it came through in the call remarks and I'll make a few comments here, then invite organ here as well but we were delighted with the print in Europe in the first quarter exceeded our expectations. Actually, the strength across the marketplace was pretty good. I think 5 of our 6 end markets were growing high single digits or better. I think the standouts for us were actually the chem markets along with diagnostics. But I have to say we continue to watch closely the investment plans particularly for our large accounts in the chemical space as well as pharma space. But we're off to a really good start but that's -- that remains a watch area for us. But again, we're delighted with the broad-based growth we had. And I don't know if you...
+
+Padraig McDonnell
+
+I think you said it all, Mike, I think it's broad-based in 5 out of 6 markets, growing high single digits. And I think what the team has been able to do has been able to really work together to take share in a lot of areas on all the markets and our focus, of course, on attach rates in both services and consumables has really benefited as well.
+
+Mike McMullen
+
+I think we don't talk about weather but I think the more favorable weather environment in Europe actually has put less pressure on customers relative to energy cost and energy demand. So that's been net positive but we're still keeping an eye on things.
+
+Unidentified Analyst
+
+Okay. And then could you just discuss your margin outlook and then pacing across '23? What's kind of -- and then further ahead, kind of what's the level of expansion potential going forward? How much gas is left in the tank there, looking out in the out years?
+
+Mike McMullen
+
+You want to take that, Bob?
+
+Robert McMahon
+
+Yes. I still have gas in the tank, yes. I mean I think, obviously, despite the inflationary environment that we're in, we're still able to manage growing our margins. You saw both a nice balance here this quarter with about half of it coming through gross margin as well as half of it coming through OpEx. I think as we think about it going forward, I think that 50 to 100 basis points over the course of the next several years is still a reasonable way to think about it. That's how we're thinking about the rest of this year as well.
+
+Operator
+
+And we'll go next now to Dan Brennan of Cowen.
+
+Dan Brennan
+
+On the quarter -- maybe just the first maybe the first one, another a few questions asked on the Chemical and Advanced Materials segment. But obviously, great growth in the quarter. Just wondering, with your new higher guide for the year, are you assuming something above the mid-single-digit outlook that you previously guided to for the year? And would love if you can give us any color on kind of how the growth broke out this quarter between advanced material and then chemical and energy.
+
+Robert McMahon
+
+Yes. That's -- it's a great question, Dan. I'll take that. And so with our revised guide, we have ticked it up a bit, given the strong performance that we had in Q1. And we continue to be surprised to the upside. When we talked about it at the beginning of the year, what was a source of upside. This would have been one of the markets that we would have talked about. And what we're seeing is actually good growth across all of the submarkets in our chem market. If I think about the chemical and energy markets, those were up high single digits and the growth was really outsized in that advanced materials that we've been talking about. So that semiconductor in batteries area grew in excess in the high 20s.
+
+And so this is a continued strength really given not only the investment there but really the power and strength of our portfolio to be able to supply critical tools and instrumentation into markets that are really continuing to expand. So we're expecting that don't book high single digits and the high 20s for the rest of the quarter, so we'll take it. But we're expecting a slight uptick there, given the strong performance that we had in Q1.
+
+Dan Brennan
+
+Great. And maybe just one on the balance sheet. Obviously, the -- it's in great shape, leverage is very low. Just wondering what you're seeing from the M&A environment. Obviously, Waters had a deal in the quarter. I'm wondering what you're seeing in terms of -- have you identified any interesting opportunities like what's the appetite like for sellers to kind of move forward? Just wondering what we could expect for management while it's always hard at time. I'm just kind of wondering about your appetite potential to do something bigger since you guys have been looking for the right fit.
+
+Mike McMullen
+
+Yes. No, I think you're closing -- happy to comment on the day your closing comments exactly where our head is at which is the right fit. So we think the environment is much more favorable than it was a year ago. We think it's now much more of a buyer's market, so to speak. Most people are willing to come off at a view of last round. There's still some dialogue around there. So we're -- we have obviously nothing to announce but we remain very interested in looking for opportunities that can augment our core organic business and this is at the heart of our build and buy growth strategy. As I've said a number of times, the buy side is all optionality for us. We'll do just fine with all the bets we have right now. But if we see the right thing, we will move on it. And we just have also just wanted to make sure we stuck with our framework and we don't ever want to have buyers remorse. So we've been very happy with all the deals we've done to date and we'll continue to use that framework moving forward. I think that fit piece that you described is really a key criteria for us.
+
+Operator
+
+Our next question comes from Patrick Donnelly of Citi.
+
+Patrick Donnelly
+
+Maybe one on just the order side. I know you guys talked a little bit about the backlog remaining pretty healthy. Can you just give a little bit of color in terms of what the order growth looked like in the quarter? I know last quarter, you guys started eating into the backlog a little bit which is natural, just given the supply chain is normalizing a little bit. Can you just talk about, I guess, order growth versus revenue growth, what you saw in the quarter? And any color there would be helpful.
+
+Mike McMullen
+
+Yes. Let me make some summary comments and then Bob, feel free to jump in here. But as you mentioned, we don't specifically provide book-to-bill ratios. But what I can tell you is that orders for the quarter were greater than revenue. So -- and so we continue to grow orders with particular strength in our ASD and the services business. On the instrument side, we continue to bring down this record backlog we had as we really are focused on meeting those customer shipment requirements and really thanks to the great work of the order fulfillment team, we've really been able to get back to a normal flow of shipment times and delivery commitments.
+
+Again, I would just say that the funnels remain healthy, the backlog is still a very high quality. I think we have pretty much next to no cancellations. So the quality is good. It gives Bob and I that level of predictability around revenue from that backlog.
+
+Robert McMahon
+
+Yes. I would say, as Mike said, I mean, the backlog continues to be healthy and we haven't seen anyone back out of any cancellations or anything like that, that would be beyond kind of the normal activity.
+
+Mike McMullen
+
+But I would emphasize one point I made earlier, the deal cycles are reverting towards the historic norms in this space. Again, this whole construct that we see of a normalization of particularly the analytical instrumentation marketplace evolving.
+
+Patrick Donnelly
+
+Yes, that's helpful. I appreciate that. And maybe just on kind of the environmental spend, PFAS testing. You've called out the last couple of quarters, Mike, I know you're excited to see some actual infrastructure dollars coming through in the U.S. here. Can you just talk about what you're seeing there, kind of where we are? I mean, it seems really early but just your perspective on kind of how that's tracking, what impact you guys are seeing from that and obviously, the durability as well.
+
+Mike McMullen
+
+Sure. Happy to talk about that. And I actually happen to have Jacob talk about it because I think you've just spent some time in front of the Board recently and talking about the PFAS opportunity. I don't want to educate the Board on what it's all about but the durability of growth we're seeing, we see here.
+
+Jacob Thaysen
+
+Yes, absolutely. And we continue to see a lot of opportunities in the PFAS where at the beginning was really all about looking for PFAS in the water supply and now it's moving into food and other types of areas. So I think you are right, we are still in the early phases of the growth opportunity. As you know, the U.S. infrastructure build, there was a $4 billion set aside to PFAS testing. And so we have one of the leading solutions here. I mean PFAS is very difficult to measure. So you need high-end instrumentation but also very specified sample prep and consumables to really make sure that you don't contaminate why you measure. So we have spent a lot of energy of putting a high-quality solutions out there and we continue to see a lot of opportunities and we will continue to invest in this space beyond PFAS. I think environmental is really a place that there will be a lot of investment going in over the next decade. So really excited about that area also besides the Advanced Materials.
+
+Operator
+
+And we'll go next now to Jack Meehan at Nephron Research.
+
+Jack Meehan
+
+Wanted to spend a little time on DGG. Maybe start with the pathology business. So double-digit growth was stronger than, I guess, what we've seen in the last few quarters. Was there anything you noticed in terms of the uptick in the quarter?
+
+Mike McMullen
+
+Yes. Jack, I'm going to actually pass that over to Sam because Sam actually is calling in from Denmark. He's actually with the pathology team right now. So you can get it latest and greatest on the ground from Glostrup. Go ahead, Sam.
+
+Sam Raha
+
+Yes. Thanks, Mike. Jack, thanks for the question. I'd offer you a couple of things that we've observed in the quarter and I think are also promising going forward. First of all, we continue to see the trend of hospitals and health care systems being able to work through COVID and start to reprioritize cancer diagnostics. So overall, I think that's been something that's positive. We've continued to see strength in our IHC solutions, be it our companion diagnostic solutions that are in the market. But more broadly speaking, including for the antibodies that we have, that we sell as ready-to-use reagents. We're also continuing to see good traction for our advanced staining system, the Dakotas. So all of that, you look at that geographically, we've had some good success, particularly in Europe but the Americas as well.
+
+Jack Meehan
+
+Great. And then sticking with DGG, either for you, Sam, or for Mike. Just on the genomics side, I was backing into sort of like a high-teens decline in the quarter, if that sounds right. I'm just curious, different companies have called out different issues in this end market. If you could talk about just maybe what exactly you're seeing, that would be great.
+
+Mike McMullen
+
+Bob, I don't remember the exact number but it was down but not to that extent.
+
+Robert McMahon
+
+Yes, it was down close to double digits but not high teens.
+
+Mike McMullen
+
+Okay. And I'm going to have Sam talk about this but we're seeing some what we think is a transitory disruption in the diagnostics side of genomics that there's a lot going on with a lot of the diagnostic firms where we provide our solutions into their assays. So Sam, your perspective on the think would be really good.
+
+Sam Raha
+
+Yes, happy to provide that. And building on what you said, Mike, right, there's a lot of public information now that I'm sure, Jack, that you're aware of, it restructuring or other sort of operational challenges at a number of customers from research into technology-driven genomics companies and diagnostic testing companies are going through. Based on that, we've definitely seen conservatism from customers that they've pulled back on purchasing levels. They're working down excess safety stock that they perhaps have built up. And we've just seen a little bit of hesitation in purchase patterns. Now that being said, just recently, earlier in February, I had the chance to attend AGBT which is one of the most important technology and science conferences. And there, we definitely saw good interest for our early access that we've been doing for our SureSelect cancer CGP which is a comprehensive cancer panel 679 genes. We continue to see really good interest in our Magnus automation system which is the walk away for our SureSelect platform and our broad-based market leadership and genomics and NGS QC remains intact. So I think this is some market headwinds that we're seeing but it's just, I think, a transitory thing, as Mike mentioned.
+
+Operator
+
+We take our next question now from Josh Waldman of Cleveland Research.
+
+Josh Waldman
+
+For you -- two for you, if I may. First, on the core growth guide, I wondered if you could provide a bit more color on the considerations that went into reiterating the top end of the core growth outlook for the year. I guess, maybe a bit surprised, we didn't see more of the Q1 upside flow through to the full year. I'm wondering if maybe this is backlog work down benefit here in the quarter that starts to abate as we get into the second half for some, I guess, something else?
+
+Mike McMullen
+
+Yes. Bob, I'll let -- I think the headline is more just the recognition of the continued uncertainty about the back half but...
+
+Robert McMahon
+
+Yes, I think the way to think about that, Josh, is we raised the midpoint of the guidance delivered 10% in Q1. We're saying that Q2 is going to be higher than the full year. And we're going to take this 1 quarter at a time, given some of the uncertainty that we're seeing. Obviously, we did talk about having great visibility into Q1 with some of the backlog activities and so forth. But I wouldn't say it was just that. I mean, I think what I would characterize it as a prudent guide given kind of what we're seeing and taking it 1 quarter at a time.
+
+Josh Waldman
+
+Got it. Okay. And then, Mike, following up on pharma, I think these accounts typically start to get better clarity on their full year budgets this time of year. Wondered if you could update us on what you're hearing from key pharma accounts with respect to instrument budgets and purchasing plans here in '23?
+
+Mike McMullen
+
+Yes. Sure, Josh. In fact, Padraig, I think you've just done recently around with some of the large pharma accounts and...
+
+Padraig McDonnell
+
+Yes. So I think what we're seeing is our funnels are very, very stable on it. And of course, you're correct, the pharma budgets are set around this time of the year. And I think we're watching closely on how that moves to the second half but for now, no change.
+
+Mike McMullen
+
+So I think we probably haven't seen any surprises on those like themselves but they're not aggressively releasing yet either. I think that's -- that's why I made a few times on this call comments around normalization of deal cycle times.
+
+Operator
+
+And we'll take our next question now from Lisa Garcia of UBS.
+
+Lisa Garcia
+
+Congrats on the quarter. I wanted to talk about sell analysis if we could. Obviously, it's like a $400 million business over for you at this point. I'd love to hear about performance. And then I think in a recent presentation, kind of indicated that it's pharma that's like maybe the largest customer set followed by research. So it would be great to get a sense of kind of the different customer groups and what you're seeing there?
+
+Mike McMullen
+
+It's hard to get all the good news in but I think we had a good start to the year at cell analysis, Jacob, as I recall?
+
+Jacob Thaysen
+
+Yes. We had another good quarter in sale analysis. Actually, we're really proud of what we build up of the business over the past years here in cell analysis in the M&A and the acquisitions we have done. And you're absolutely right that the main opportunities are within the biopharma academia and we've actually done a really good job in diversifying where we had some of the business we acquired was very exposed to academia and we've been able to really penetrate into the biopharma over the past years. So we continue to see opportunities and especially actually in the high end of the business that there's still a lot of opportunities in the biopharma space and especially in understanding the immune system, immuno-oncology, CAR-T and others is areas that we have put a lot of investments into and we see that pays off. So I believe there is still a lot of opportunities in front of us here. There is a strong correlation there in the biopharma academia space. There's a lot of collaborations where especially if you look into the CAR-T where you see a lot of the big university hospitals that is investing into this. So it's kind of a crossover between the academia and biopharma right now. So we see opportunities in both those areas right now.
+
+Lisa Garcia
+
+Awesome. And then I guess...
+
+Robert McMahon
+
+Just one other comment. Just you had asked about kind of growth rates. What I would say is it grew faster than the overall company faster than LSAG.
+
+Lisa Garcia
+
+Awesome. Super helpful. I guess if I could just squeeze in one last one on the attachment rate. You're just crossed over the 30% line. I think I'm more thinking about kind of -- how do we think about kind of the incremental, particularly I'm thinking about services, ACG did pretty well this quarter. The revenue progression as we're looking at a larger installed base that's been put out over the past couple of years?
+
+Mike McMullen
+
+Yes. And I'll have you make some cost or part. But I think we're expecting the continued step-up in that attach rate.
+
+Padraig McDonnell
+
+Yes. I think there's significant opportunity to drive growth for our business and it's about at 1 point of attach rate is about $30 million annually. And we know our customers have adopted workflow solutions that a tight integration on the instruments. And that allows us, of course, with the 1 commercial organization to demonstrate the value and of course, attach more services and consumables. I will say if you think about what Jacob said about PFAS and biopharma, our focus on solution selling has really paid off. That's really driven attach rates. And I think our overall attach rate in both services and consumers are now in the low 30s and that represents a 2% increase and we expect that to grow as we move forward.
+
+Mike McMullen
+
+And as your question focused on the attach rate on services. But I'd be remiss not to have Jacob talked about what's going on in attach rate to consumers that ties in this workflow solutions because we did make some changes organizationally but the ACG strategy of driving connect rates and services and consumables remains intact.
+
+Jacob Thaysen
+
+Yes, exactly. And I think along what Padraig mentioned is that there's been a lot of investment from both the businesses and in commercial about driving connect rate also with consumables. And it's more about selling the full solution and hence, going out not only present an instrument but percent, the instrument is the consumables, informatics to go after as Padraig was mentioning, PFAS, other workflows in the biopharmas and really addressing -- we're starting to addressing the high-end parts of the market. And we've seen a significant uptake in our attach rates in our consumables and -- and I would say we are -- we will continue to see growth. We still have a long -- a lot of opportunities but I've been really impressed with the team to take it from the 20s up way beyond the 30s now.
+
+Operator
+
+We'll go next now to Paul Knight of KeyBanc.
+
+Paul Knight
+
+On the RNA or the oligo production business, it looks like we've had, I guess, 4 or 5 here in the last 4 years or so dominated by Alnylam and Novartis. I'm assuming that this customer count you talk to and project count is expanding well beyond that group of that customer. So my question really is what's your position in the market? Do you think you're the dominant vendor? And two, does this number of partners suggest you're going way beyond Novartis and Alnylam?
+
+Mike McMullen
+
+Paul, I'm really glad you hung on and got your question because very enthusiastic to answer that question. We have a much broader base of business beyond 2 very good customers but the programs go much, much, much broader than that.
+
+Robert McMahon
+
+And we are the market leader.
+
+Mike McMullen
+
+Yes. We crossed over on the siRNA piece. We are clearly the market leader. We are going to be going after more aggressively the CRISPR space where we can't yet claim leadership. But overall, we've really -- with the capacity expansion, the continued great work of our team. We continue to gain market share. And from the math we're doing, we've now crossed over in the leader in the space.
+
+Paul Knight
+
+So in fact, what you're really building out is the kind of market or the technological I guess, threshold we've now achieved. Is that fair to say?
+
+Mike McMullen
+
+I'm not sure I understand completely the question. But I think what we're doing is, I think I got it which is we're actually expanding our portfolio which is we're the leader in siRNA. We've got a broad base of business broad-based set of number of pharma customers. Over time, you hear more about those when their therapeutics come to market. but also we're expanding into the CRISPR area. We've got a small business there right now. We do really well. We just don't have all the capacity we need and that's part of the storyboard what we're doing, what we call Project Endeavor.
+
+Robert McMahon
+
+Yes. And Paul, to build on what Mike was saying is not only are we expanding but I think just as importantly, the market is expanding. And so the Alnylams of the world were the pioneers of this technology or one of the pioneers. But if you look at the number of products that are in the clinic or compounds that are in the clinic, it goes well beyond the 2 customers that you just talked about.
+
+Sam Raha
+
+Rob, maybe just to add just a twitch color to that. The actual number of programs that are in various stages has literally doubled over the last 4 years. And then in terms of pharma partners, we're not in a position today to share anything publicly. But I already said we're working with more than 30 pharma partners. And I think what's encouraging for us is even within pharma, the caliber of the companies that have now entered and advancing molecules at various stages. So this is a market that is maturing the number of FDA approvals that have happened, European approvals that have happened. So there's momentum in the market. And we are -- we've worked hard to be the leaders in siRNA but there's momentum that's there for us to ride as well.
+
+Operator
+
+Thank you. And gentlemen, it appears we have no further questions today. Parmeet, I'll hand things back to you for any closing comments.
+
+Parmeet Ahuja
+
+Thanks, Bill and thanks, everyone, for joining. With that, we would like to end the call for today. Have a great rest of the day, everyone.
+
+Operator
+
+Thank you, Parmeet. And ladies and gentlemen, this concludes today's call. Thank you again for joining and you may now disconnect your lines.

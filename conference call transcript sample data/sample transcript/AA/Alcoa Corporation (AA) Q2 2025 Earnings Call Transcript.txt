@@ -1,0 +1,374 @@
+Alcoa Corporation (NYSE:AA) Q2 2025 Earnings Conference Call July 16, 2025 5:00 PM ET
+
+Company Participants
+
+Louis Langlois - Senior Vice President of Treasury & Capital Markets
+Molly S. Beerman - Executive VP & CFO
+William F. Oplinger - President, CEO & Director
+
+Conference Call Participants
+
+Alexander Nicholas Hacking - Citigroup Inc., Research Division
+Carlos De Alba - Morgan Stanley, Research Division
+Christopher LaFemina - Jefferies LLC, Research Division
+Daniel Edward Major - UBS Investment Bank, Research Division
+Glyn Lawcock - Barrenjoey Markets Pty Limited, Research Division
+Henry Hearle - Unidentified Company
+John Charles Tumazos - John Tumazos Very Independent Research, LLC
+Katja Jancic - BMO Capital Markets Equity Research
+Lawson Winder - BofA Securities, Research Division
+William Chapman Peterson - JPMorgan Chase & Co, Research Division
+
+Operator
+
+Good afternoon, and welcome to the Alcoa Corporation Second Quarter 2025 Earnings Presentation and Conference Call. [Operator Instructions] Please note that this event is being recorded. I would now like to turn the conference over to Louis Langlois, Senior Vice President of Treasury and Capital Markets. Please go ahead, sir.
+
+Louis Langlois
+
+Thank you, and good day, everyone. I'm joined today by William Oplinger, Alcoa Corporation's President and Chief Executive Officer; and Molly Beerman, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Bill and Molly.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings. In addition, we have included some non-GAAP financial measures in this presentation. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. We have not presented quantitative reconciliations of certain forward-looking non-GAAP financial measures for reasons noted on this slide. Any reference in our discussion today to EBITDA means adjusted EBITDA. Finally, as previously announced, the earnings press release and slide presentation are available on our website.
+
+Now I'd like to turn over the call to Bill.
+
+William F. Oplinger
+
+Thank you, Louis, and welcome to our second quarter 2025 earnings conference call. We delivered strong operational performance this quarter, both in terms of safety and stability. This is an important value driver for the company. We maintained a fast pace of execution on our priorities and continue to steer through changing market conditions.
+
+Let's begin with safety. Safety performance remained strong in the second quarter with no fatal or serious injuries reported. Injury rates continue to trend below our full year 2024 benchmarks, supported by a sustained emphasis on leader time in field. This initiative enables leaders to engage directly with teams, conduct safety observations and deliver both positive reinforcement and constructive feedback. We continued executing on our strategic priorities. On July 1, we closed the sale of our 25.1% stake in the Ma'aden joint ventures for a total value of $1.35 billion, consisting of $1.2 billion of Ma'aden shares and $150 million of cash. In late April, we successfully concluded a 5-year tax dispute in Australia with a favorable ruling for Alcoa. The Australian Review Tribunal affirmed our long-standing position, determining that no additional tax was owed.
+
+This outcome reflects the substantial effort and dedication of our internal and external legal and tax teams whose strong defense was instrumental in achieving this result. Throughout the quarter, we steered through frequent tariff updates that demanded agile decision- making and rapid adjustments across both sales and supply operations. We redirected portions of our Canadian production to serve non-U.S. customers to mitigate Section 232 tariff impacts.
+
+In parallel, we sustained active advocacy and engagement with policymakers on both sides of the U.S.-Canada border. Finally, our recent customer engagements continue to signal encouraging demand trends. We extended our supply agreement with Prysmian, a global leader in energy and telecom cable systems and completed our first North American sale of EcoLum, a value-added low-carbon product, further reinforcing our position as a supplier of choice for sustainable aluminum solutions.
+
+In summary, we delivered strong performance across the areas within our control while continuing to advocate for trade policies that support both Alcoa and the broader U.S. aluminum industry. Now I'll turn it over to Molly to take us through the financial results.
+
+Molly S. Beerman
+
+Thank you, Bill. Revenue was down 10% sequentially to $3 billion. In the Alumina segment, third-party revenue decreased 28% on lower average realized third-party price, partially offset by increased shipments. In the Aluminum segment, third-party revenue increased 3% due to increased shipments and favorable currency impacts, partially offset by a decrease in average realized third-party
+
+price. While the Midwest premium increased during the quarter in response to the increase in U.S. tariffs, the increase was more than fully offset by lower LME, resulting in a decrease in the realized price of aluminum. Second quarter net income attributable to Alcoa was $164 million versus the prior quarter of $548 million, with earnings per common share decreasing to $0.62 per share.
+
+On an adjusted basis, net income attributable to Alcoa was $103 million or $0.39 per share. Adjusted EBITDA was $313 million. Let's look at the key drivers of EBITDA. The sequential decrease in adjusted EBITDA of $542 million is primarily due to lower alumina and aluminum prices and increased U.S. Section 232 tariff costs on aluminum imported into the U.S. from our Canadian smelters. The Alumina segment adjusted EBITDA decreased $525 million, primarily due to lower alumina prices. In addition, higher production costs, energy costs and raw material costs were only partially offset by higher volumes.
+
+The Aluminum segment adjusted EBITDA decreased $37 million. While lower metal prices and unfavorable currency were more than offset by lower alumina costs, the segment was impacted by $95 million in U.S. Section 232 tariffs, which includes the increase in the tariff rate from 25% to 50% effective June 4. These impacts were only partially offset by price/mix improvements and higher volumes. Outside the segments, other corporate costs increased, while intersegment eliminations changed favorably due to lower average alumina price requiring less inventory profit elimination.
+
+Moving on to cash flow activities for the second quarter. We ended the quarter with cash of $1.5 billion. Cash from operations was positive again this quarter, providing $488 million, along with a working capital release of $251 million. Working capital decreased from the first quarter as accounts receivable came down with the lower prices for alumina. Subsequent to close of the second quarter, on July 1, we received approximately 86 million shares of Ma'aden and $150 million of cash for the sale of our interest in the Ma'aden joint ventures. The majority of the cash will be used to pay related taxes and transaction fees.
+
+Moving on to other key financial metrics. The year-to-date return on equity was positive at 22.5%. Days working capital was flat sequentially at 47 days. Our second quarter dividend added $27 million to stockholder capital returns. We had positive free cash flow for the quarter of $357 million.
+
+Turning to the outlook. We have 4 adjustments to our full year outlook. First, we are adjusting our annual outlook for aluminum shipments to 2.5 million to 2.6 million metric tons, down from our initial estimate of 2.6 million to 2.8 million metric tons. The change is due to reduced shipments from the San Ciprián smelter where the restart was disrupted by the nationwide power outage in April.
+
+As separately announced earlier this week, the joint venture has decided to resume the restart process in the third quarter. The reduction in aluminum shipments will primarily impact the third quarter due to the timing of the San Ciprián ramp-up. Second, we are lowering other corporate costs to $160 million from our initial estimate of $170 million due to reductions in corporate expenses and favorable currency impacts. Third, we are increasing our outlook for interest expense to $180 million from our prior estimate of $165 million due to unfavorable value-added tax assessments. And last, we have adjusted the return-seeking CapEx outlook for 2025 to $50 million, down from $75 million as the pace of spend has not matched the original forecast.
+
+For the third quarter of 2025, in the Alumina segment, we expect performance to improve by approximately $20 million with lower maintenance costs and higher production. In the Aluminum segment, we expect higher Midwest premium revenue in relation to the increased tariffs. Premium changes can be calculated from the sensitivities provided in the appendix. Those premium gains will be offset by approximately $90 million in sequential expense increase for tariff costs. With the increase in the U.S. Section 232 tariff rate from 25% to 50%, we expect quarterly tariff costs to approximate [ $215 million ] based on an LME of $2,600 and Midwest premium of $0.67 per pound. While costs related to the San Ciprián restart will be higher sequentially, they are not material, and we expect to cover with improvements in other operations. Alumina cost in the Aluminum segment is expected to be favorable by $100 million. Our updates exclude impacts from the recently announced tariffs on U.S. imports from Brazil.
+
+Below EBITDA, other expenses in the third quarter are expected to remain consistent with the second quarter. Based on last week's pricing, we expect third quarter operational tax expense of $50 million to $60 million. Tax expense in the third quarter is notably higher than the second quarter, which included a catch-up benefit to reflect the annualized effective tax rate when applied to year-to- date earnings. In the appendix to the earnings materials, you will see that our Midwest paid and Midwest unpaid premium sensitivities have been updated to reflect the expected trade flows as a result of additional tariff impacts. We also revised our regional premium distribution to align with our efforts to redirect tons and optimize margins.
+
+Currently, approximately 30% of our Canadian aluminum production is available for spot sales and can be redirected to customers outside the U.S. when the premium shipping and tariff netback calculations favor another destination. Additional updates to our sensitivities may be needed as we continue to adjust our trade flows to the tariff structure.
+
+Now I'll turn it back to Bill.
+
+William F. Oplinger
+
+Thanks, Molly. While tariffs continue to drive near-term volatility, the broader outlook for aluminum demand remains robust. This slide illustrates Alcoa's long-term demand forecast underpinned by powerful global megatrends across key sectors. Transportation leads as the largest and fastest-growing sector, driven by the shift to electric vehicles, lightweighting initiatives and increased vehicle production. Construction shows more modest growth tempered by a slowdown in China, though emerging markets and favorable macroeconomic conditions like lower long-term interest rates and increased fiscal spending in Europe offer upside potential. Packaging is expanding rapidly, fueled by consumer preference for recyclable materials. Electrical demand is accelerating due to the global energy transition with aluminum playing a critical role in renewable power generation and grid modernization.
+
+Other sectors, including consumer durables and machinery and equipment are also expected to grow steadily. Importantly, the geography of growth is shifting. Primary aluminum demand is projected to grow significantly faster in markets outside China at a 3% CAGR from 2025 to 2030, while China's growth slows to just 0.2% CAGR, largely met by recycled metal. Within Alcoa's core regions, North America is expected to lead with a 3.8% CAGR and Europe is projected to grow at 1.5%. Three structural drivers underpin the overall aluminum growth trajectory. The green and digital transition. Aluminum is essential to electrification, decarbonization and digital infrastructure, supporting everything from electric vehicles to data centers. Second is the rise of developing economies, the China transition and reshoring in North America and Europe.
+
+As China's growth moderates, developing economies are stepping up. Meanwhile, reshoring in North America and Europe, often driven by trade policy continues to boost regional demand. Third, material substitution. Aluminum's recyclability and performance make it a preferred alternative to copper, plastics and other materials, especially in closed-loop systems. Despite short-term uncertainty, these megatrends provide a resilient and compelling road map for long-term aluminum demand growth.
+
+Now turning to our markets, starting with alumina. After a sharp decline during the first quarter, alumina prices rebounded somewhat in recent months. As noted in our previous earnings update, over 80% of Chinese refineries were operating at a deficit due to high bauxite prices and low alumina prices. In response, approximately 10 million metric tons of refining capacity in China was curtailed or reduced for maintenance during April and May. These production cuts contributed to a more balanced market and supported the price recovery seen in the second quarter.
+
+Looking ahead, market dynamics will continue to be shaped by capacity expansions in Indonesia, India and China. As new supply comes online, we anticipate further production cuts and plant maintenance in China may be necessary to maintain market balance in the second half of the year. On the bauxite front, prices have remained elevated due to supply uncertainty stemming from mining license withdrawals in Guinea. These disruptions could intensify with the onset of the rainy season, further tightening supply. In this dynamic environment, Alcoa's global refinery network continues to provide reliable aluminum supply to both our smelters and key customers. We're also capitalizing on high bauxite prices with our Juruti mine on track to achieve record sales volumes this year.
+
+Let's now move on to aluminum. LME prices dipped in April, coinciding with the reciprocal tariffs announced on April 2, but regained momentum over the course of the quarter. Despite this recovery, prices remained below first quarter levels, reflecting ongoing market volatility. U.S. Midwest premium initially surged in early June following the implementation of the 50% Section 232 tariffs, reaching $0.68 per pound and now stands at $0.67 as of late last week. This remains below analyst estimates of approximately $0.75 per pound to fully offset the tariff costs. The Midwest duty unpaid index calculated by subtracting the tariff from the duty paid premium has shown negative or near 0 values at times. This theoretical index only holds when the market is priced on marginal imports, which hasn't consistently been the case.
+
+In response, we sold over 100,000 metric tons of Canadian metal normally destined for the U.S. to non-U.S. customers since March, and we'll continue this strategy until the Midwest premium fully reflects the new tariff structure. From a demand perspective, conditions remained steady in both Europe and North America, although sector performance is mixed. Electrical and packaging continue to perform well. Construction appears to be stabilizing and automotive remains the most affected by tariff-related uncertainty. In China, easing trade tensions with the U.S. are providing a modest boost to demand. On the supply side, growth was limited in the second quarter with only marginal increases from smelter restarts and expansions. Global production remains constrained, particularly outside of China.
+
+Specific to Alcoa, in North America, our value-added product order book remains stable with strong demand for slab, billet and rod. In Europe, VAP volumes improved slightly in the second quarter with billet demand strengthening and rod and slabs demand holding firm. However, foundry orders softened in both regions, largely due to uncertainty in the automotive sector tied to tariff impacts.
+
+We are progressing the approvals for our next major mine regions in Western Australia, Myara North and Holyoake as well as our current mine plan, which had been referred by a third party. The 12-week public comment period for both approvals, which began in late May, is a statutory part of the Environmental Impact Assessment process. It enables individuals, communities and stakeholders to share input, raise concerns and recommendations for consideration. Concurrently, we are supporting the public comment period through a comprehensive communication and engagement campaign.
+
+The focus of the campaign is to ensure that the public has access to accurate information and facts about our environmental performance in Australia and understands our commitment to responsible mining in the Northern jarrah forest. Some key highlights include over 55 years of rehabilitation experience. Only 2% of the Northern jarrah forest has been cleared for mining. No mining in old growth forests, operations are limited to areas previously cleared for timber and 75% of cleared forest has been rehabilitated. The campaign also showcases the expertise and dedication of our Alcoa professionals who apply a science-based approach to biodiversity and rehabilitation.
+
+Given the complexity of advancing 2 mine approvals at the same time, the volume of documentation submitted by Alcoa and independent experts and the anticipated effort to review and respond to public submissions, the original time line for mine approvals is no longer feasible. While ministerial approval was initially targeted in the first quarter of 2026, it is now expected that the process will extend beyond that time frame. Following the public consultation period, we expect the Western Australia EPA will publish a revised time line.
+
+We remain committed to working collaboratively with the Western Australia EPA and other stakeholders to secure ministerial decisions as early as possible in 2026. In the meantime, we have developed multiple contingency plans and expect to continue accessing bauxite of similar grade until the new mine regions are operational. We will continue to engage with stakeholders to fulfill our responsibilities as a trusted miner and to sustain our right to mine for decades to come. To conclude, in the second quarter, Alcoa delivered strong safety results and operational performance in areas within our control. We also made meaningful progress on our strategic priorities. Looking ahead, we remain focused on executing at pace across our 2025 priorities, enhancing operational competitiveness, navigating market dynamics to deliver long-term value for our stockholders and advancing the approval process for our Western Australian mine plans. With that, let's open the floor for questions. Operator, please begin the Q&A session.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from Katja Jancic with BMO Capital Markets.
+
+Katja Jancic
+
+Maybe starting on the tariff side. Molly, I think you mentioned that the current outlook doesn't include anything for potential, I guess, 50% tariffs on Brazil. How would -- if that does happen, is there any way you get impacted from that potentially?
+
+Molly S. Beerman
+
+Katja, it depends on if alumina is indeed excluded. Our read of it now is that it's covered under the annex. But until we see the executive order that would be related to Brazil, we can't assure that. If that were the case, we are sourcing our U.S. smelters with Brazilian alumina. Now we could redirect supply and provide them from Western Australia, but obviously, that will take time and cost more in terms of shipping. But we have that option. And depending on how that executive order is written, we can adapt.
+
+Katja Jancic
+
+Okay. And maybe just another question, Bill, on the Western Australia contingency plans. Can you discuss what some of those plants could be? And how could that impact your cost?
+
+William F. Oplinger
+
+So at this point, as far as an impact on cost, we don't anticipate any impact in 2025 or 2026. The expectation that we would be into the new mine areas in late 2027 has now slipped out into 2028. We have a series of contingency plans that cover different mining areas, potentially going deeper in the pits that we're in that allow us to be comfortable that we are working through the process, and we'll get the right approvals.
+
+Operator
+
+And your next question today will come from Alex Hacking with Citi.
+
+Alexander Nicholas Hacking
+
+Just following up on Katja's question there on WA. If the delays to the new mine areas are extended, can you keep mining the lower grade areas for a period of additional years? Or it would be more urgent than that?
+
+William F. Oplinger
+
+So we'll continue to mine the areas that we're in today. And as I said to Katja, the -- no impact on '25, '26. As we said, we expect it to be in the new mines in late '27. That slips out till 2028 at this point, but we do have contingency plans in place that can go up to -- all the way up to a 15-month delay if needed.
+
+Alexander Nicholas Hacking
+
+Okay. What if it's longer than 15 months?
+
+William F. Oplinger
+
+We'll work through that, and we'll look at what implications it has on operating rates in Pinjarra, but we'll work through that when we get there.
+
+Alexander Nicholas Hacking
+
+Okay. And then just following up on the tariff maths. I mean, Molly, you mentioned that I think it was $215 million a quarter in Section 232 cost. Is that being more than offset by what you're getting on the additional Midwest premium at the moment?
+
+Molly S. Beerman
+
+Yes. Alex, let me give you the numbers of what we experienced for the second quarter. So if you look at -- in our bridge discussion, we talked about the tariffs being $95 million more in the second quarter. That's on top of the $20 million that we paid in the first quarter. So the cost in the second quarter was about $115 million. We only saw a Midwest premium uptick of about $60 million. So we had margin compression of about $55 million, and that's related to our Canadian tons. Now obviously, we're getting a benefit on our U.S. tons, but I'm giving you the compression that we felt on the Canadian.
+
+Alexander Nicholas Hacking
+
+Sorry, the $60 million additional, is that -- that's just on the Canadian tons or that includes the U.S. tons?
+
+Molly S. Beerman
+
+Just on the Canadian tons. If you look at -- so Alex, let me just give you a little bit more color. If you look at the pricing today, so it's LME at $2,600 and Midwest premium at $0.67 a pound, we are near neutral or even slightly positive if you look at the volumes as a whole because the higher uptick in Midwest premium on the U.S. tons would be more than the net negative on our Canadian tons. So that's at this current pricing. If this were to hold from a whole year perspective, we would be about neutral to slightly positive.
+
+William F. Oplinger
+
+And the one point that we continue to make is and I think other analysts that follow the space make it, the current Midwest doesn't support the overall tariff costs coming out of Canada. So current -- Midwest is sitting at $0.67, $0.68. We think it needs to be between $0.70 and $0.75 depending on how you look at it to cover total tariff costs. And that's why we have moved -- repositioned metal going that was expected to go into the U.S. that is now going into destinations outside of the U.S. just because that math doesn't work currently. And anywhere we can take advantage of that, we will and move tons for other destinations.
+
+Operator
+
+And your next question today will come from Daniel Major with UBS.
+
+Daniel Edward Major
+
+Just very quick first one. Just to clarify the maths on the tariff costs, you had $115 million cost in the second quarter, and you said it's going to be a negative $90 million delta. So it's $205 million the run rate of cost in the second quarter. Is that correct?
+
+Molly S. Beerman
+
+That will be the third quarter cost, yes, $205 million. And then we're saying again at latest pricing. So if you dialed forward, that would be the $215 million that we guided to in tariff cost.
+
+Daniel Edward Major
+
+Sorry, you said latest pricing, you mean spot pricing or like...
+
+Molly S. Beerman
+
+Yes. Sorry. The $205 million is what we gave as the outlook for the third quarter. So that's a $90 million sequential change. And then we were also saying that our quarterly tariff cost at today's pricing is $215 million.
+
+Daniel Edward Major
+
+Got it. Clear. That's very good. Yes. Then second question just on San Ciprián. You updated the respective net income drag and cash burn this year. Can you give us any sense of expectations for 2026 at this point? My guess would be the refinery will continue to burn cash. But is there any guidance you can give on either the cash burn or [ not ] at the smelter and the refinery?
+
+Molly S. Beerman
+
+Yes, Daniel, we're not giving the guide there yet, but you're right. At recent market prices, the Spanish operations are challenged. From the smelter, the delay to the restart after the power outage has driven the full ramp-up into '26. We do expect after full ramp-up that the smelter will be profitable, but the refinery -- while having a first quarter '25 income, they will move into a loss position for the rest of the year, and they will struggle still at this API level into '26.
+
+Daniel Edward Major
+
+Okay. But at spot, you can confirm that the smelter would be cash neutral?
+
+Molly S. Beerman
+
+The smelter had fully ramped up a level would be profitable.
+
+William F. Oplinger
+
+But remember, it won't be fully ramped up in 2026. I mean it will hit the -- our anticipation is that it will hit the ramp-up schedule for 2026. But for the full year, it still will -- it will be going through the process of ramping up.
+
+Molly S. Beerman
+
+We won't be fully ramped up until midyear '26.
+
+Operator
+
+And your next question today will come from Nick Giles with B. Riley.
+
+Henry Hearle
+
+This is Henry Hearle on for Nick Giles today. So on our estimates, you have about 50,000 metric tons of spare annual capacity at Warrick and the Midwest premium has increased sharply to reflect that tariffs may be stickier than originally thought. So my math, the spare capacity at Warrick could generate over $100 million of EBITDA annually. And so what prevents you guys from restarting this capacity today?
+
+William F. Oplinger
+
+Thanks for the question, and it's a great question. We're currently running 3 lines at Warrick. We have a fourth line at Warrick that would produce approximately 50,000 tons. The issue in Warrick is that, that fourth line needs a lot of work and will take some time to get restarted. So our estimate is that it would be about $100 million investment to restart that fourth line, and it would take us about a year to get it up and running. So we will certainly continue to run the numbers on Warrick. We would need to ensure that the tariffs will stick around for quite a while given that ramp-up curve in Warrick before we made the decision of investing another $100 million in a restart in Warrick.
+
+Henry Hearle
+
+That definitely makes sense. Continued best of luck.
+
+Operator
+
+And your next question today will come from Bill Peterson with JPMorgan.
+
+William Chapman Peterson
+
+On the mid-2026 restart of San Ciprián, it still implies 75% utilization. Can you remind us of, I guess, when the term of the agreement with the workforce comes to [ an end ] and whether the delayed restart has any impact on that?
+
+William F. Oplinger
+
+So after -- Bill, thanks for the question. After the power outage occurred in Spain, we declared force majeure with -- on that contract because it limited our ability to be able to meet the deadlines that are included in the contract. Recall that we had anticipated a full restart by October 1 of 2020 -- sorry, 2025. And then from there, we had some flexibility on how we run the plant after that full restart. Because of the power outage, we have said that we were not going to meet that October 1 deadline, and we've moved it back to the middle part of 2026.
+
+William Chapman Peterson
+
+Okay. And then kind of a different angle on the tariffs. And last quarter, I asked you about conversations with the U.S. government. But I guess in light of the tariffs remaining where they are now, how should we think about the commercial strategy, things like tariff cost sharing? And maybe perhaps you can share additional color on your shifting flows to non-U.S. customers. How should we think about that in the coming months? And then finally, is there any opportunities from relief from the Canadian government in the meantime?
+
+William F. Oplinger
+
+So we have had extensive conversations on both sides of the border. I've been talking to the Carney administration often. I've been talking to the U.S. administration often. And at a 50% tariff, you saw us take action to redirect 100,000 tons to non-U.S. customers. As Molly said in her prepared remarks, we have the ability of about 30% of the Canadian volume to be able to redirect that to non-U.S. destination. And we will do so as long as the netbacks make more sense to ship it to other places than the U.S. So we've been very dynamic and handled this situation very quickly, and we'll continue to do so in the future. I felt like that was a multipart question. Did I miss any [indiscernible]
+
+William Chapman Peterson
+
+Yes. Just anything on tariff cost sharing that you might add?
+
+William F. Oplinger
+
+Well, when you say tariff cost sharing, we -- through the Midwest premium, the Midwest premium is largely passing on the higher tariffs to our customers. So just to be clear, we are saying the Midwest premium needs to be, let's say, $0.75 to fully cover the tariffs. We're able to pass through 90% of that through a higher Midwest premium to our customers. So while we're not particularly thrilled with the tariffs, our customers are paying significantly higher prices for aluminum in the United States than they would pay anywhere else in the world.
+
+Operator
+
+And your next question today will come from Chris LaFemina with Jefferies.
+
+Christopher LaFemina
+
+It might be a dumb question, but isn't it the case that the tariffs are really just a net neutral for you? Because if you're diverting tons away from the U.S. because you can get better prices elsewhere, the Midwest premium goes up. And unless the Midwest premium is high enough for you to sell to the U.S., well, then you want to sell there. And at the end of the day, it's really -- I mean, in equilibrium, it should be a net neutral. And it's the customers in the U.S. will pay the premium. But I'm not really sure why the guidance should be
+
+for any net impact other than if you only consider where Midwest premium is today and where the LME price is today. But over time, shouldn't it be a wash? That's my first question.
+
+William F. Oplinger
+
+So let me address this, and Molly can certainly feel free to jump in. With all the numbers that Molly gave us earlier in the call, in the end, if the Midwest premium reacts accordingly, it's a net neutral to Alcoa. However, there's a big however there. Our customers in the U.S. are seeing significantly higher prices than anywhere else in the world. And if you assume that they can pass that on to their customers, then I get the net neutral to them, but somebody ends up eating that tariff cost. And there are dedicated supply chains from Canada to our customers, literally trains that go from door to door from our plants to our customers that our belief is that it makes the most sense for the industry to have metal being able to flow from Canada to the U.S. with either a lower tariff or no tariff at all. And so -- and that's the best thing we think for our customers and for our industry to be able to do that.
+
+Christopher LaFemina
+
+Right. So in that case, the impact of the tariffs is really on total demand, in which case, LME prices would go down. But the net impact -- I mean, other than the overall kind of price -- global LME price impact, the impact on Alcoa should still be neutral, right? Because either way, the Midwest premium has got to equal the tariffs over time.
+
+Molly S. Beerman
+
+Chris, you have to remember that we do have customer contracts. So we don't have full flexibility to move the metal dynamically. So 70% of our Canadian metal is on contract, so that needs to flow into the U.S. for customer commitment.
+
+Christopher LaFemina
+
+Okay. And then sorry, just a second question on the ATO, which I think you had $225 million in taxes now by the middle of next year. Is any of that provisioned on the balance sheet yet? How do we think about the kind of cash flow impact of that and the balance sheet impact of that?
+
+Molly S. Beerman
+
+Yes. That is fully reserved on the balance sheet now as a tax payable.
+
+William F. Oplinger
+
+And Chris, I'm just going to add to that, and I can't help myself. That is a major win for Alcoa. That was a large overhang on the company and on the stock. We have been battling that for 5 years now. And to get that behind us is a really big deal. And I'll give some credit to our tax and legal team here that stuck with it and really presented a great case. So I'm pleased that we're able to put that behind us.
+
+Operator
+
+And your next question today will come from Carlos De Alba with Morgan Stanley.
+
+Carlos De Alba
+
+Just on the last point you made, Molly, that 70% of your Canadian smelting output is under contract to be sold to U.S. customers. When does -- when can you start renegotiating potentially those contracts so that, that 70% decreases?
+
+Molly S. Beerman
+
+So those are annual contracts, but also understand we have firm customer relationships that we're not going to jeopardize. So Carlos, you could see some flexibility, but it's going to be a careful balance of respecting our strong customer relations as well as moving the metal to get the best margin.
+
+Carlos De Alba
+
+All right. Okay. And if I may, just on the progress on the Alumar smelter in Brazil. What is the capacity utilization at which you are running? And when do you expect to get sort of a steady state?
+
+William F. Oplinger
+
+So we continue to struggle with the Alumar restart. And we're sitting at about 92% capacity today. So net-net, we moved a little bit forward over the last quarter. The issue there, Carlos, is some of the patch pots that we had not anticipated having to reline are failing faster than what we had anticipated. So it's a battle. We take, I would say, a step and a half forward and a step backward just about every day in Alumar. And we're anticipating that we'll have that restarted completely this year. However, I've told you that before. And I think we're -- that's my target, but I've missed my target before. So take that with a grain of salt.
+
+Operator
+
+And your next question today will come from Lawson Winder with Bank of America.
+
+Lawson Winder
+
+Bill and Molly, thank you for today's update. Just wanted to follow up on the Ma'aden closing. And whether there's any new thinking on the potential to monetize that amount or even just simply lower your overall borrowing cost using that as collateral?
+
+Molly S. Beerman
+
+Lawson, while we have the option to monetize those shares during the lockup period, recall the lockup period, we cannot sell shares until the third, fourth and fifth anniversary, [ the third ] each year. But to monetize those would be complex transactions, and that would be classified as debt on our balance sheet, and that might not really be a cost-effective source of liquidity either. While we don't expect to hold the shares for an extended period of time after each lockup period expires, we don't have plans to monetize and advance. Right now, we don't have a specific use for the cash that would [ have ] us add that debt to our balance sheet.
+
+Lawson Winder
+
+And then as you report those gains and losses going forward, I assume you'll be adjusting those out?
+
+Molly S. Beerman
+
+Yes. So it will be mark-to-market, and you'll see special items to remove that from our regular operations.
+
+Operator
+
+And your next question today will come from John Tumazos with John Tumazos Very Independent Research.
+
+John Charles Tumazos
+
+I'm curious as to the confidence you have in Spain restarting this week that the utility will deliver electricity. Presumably, the population grows something like 10% July, August with tourism. And then there's air conditioning, electricity demand in the heat of the summer. So are there any guarantees of power delivery or something that's different than August 28 when the wind didn't blow?
+
+William F. Oplinger
+
+So John, it's a question that we've been wrestling with since the wind didn't blow on the date earlier in the year. We've been working with the national and regional representatives of the country, and they have developed, and this is obviously not just our prompting, but prompting from other industry. In Spain, they've approved a list of 65 actions in the energy sector that are designed to make the electricity grid more resilient. They are incorporating additional tools in the networks like voltage control, working on stability in the face of oscillations. So they are working to strengthen the electrical systems. There's no guarantees in life, and -- but they are taking, we believe, the right measures to ensure that the power stays on.
+
+John Charles Tumazos
+
+As you start up Monday, the 14th, how many pots per week do you energize? Is the circumstance in late July and August where you're really not drawing very much electricity because of the gradual nature of the process?
+
+William F. Oplinger
+
+Yes. So it's a gradual ramp-up process, and we should hit the target by the middle part of next year. My recollection is there's 500 pots in Spain. So we'll be starting -- you can do the math on how many pots we have to start to hit total production by the middle part of next year. But yes, we'll be starting a few pots a week to get to that restart done.
+
+Operator
+
+And your next question today will come from Glyn Lawcock with Barrenjoey.
+
+Glyn Lawcock
+
+Firstly, Bill, just wondering if you could share any thoughts on how discussions with the government are going regarding the tariff. I had heard that maybe Canada could be in line for a reduction relative to the rest of the world. And then secondly, I don't want to put the cart before the horse, but net debt came down, you're almost within sight of that $1 billion to $1.5 billion range. Just your thoughts on timing for when we may hear some words on capital management and what you're potentially thinking if it's not too early?
+
+William F. Oplinger
+
+Glyn, on the tariff discussion, I want to emphasize exactly how much advocacy and engagement we've been doing over the last 3 or 4 months. I've spent time in Ottawa. I've spent a lot of time in D.C. I have met with Mr. Hassett, Mr. Lutnick, Mr. Greer. I even had a very, very brief discussion with President Trump while I was in Saudi Arabia, and we're talking like a 15-second discussion with President Trump while I was in Saudi Arabia. And we're doing really 2 things.
+
+One is an underlying education of how short the U.S. market is for aluminum and how long it would take to replenish that via building plants in the U.S. And recall, and I know you know this, but building a smelter in the U.S. would probably take us at least 5 years in order to replace the 4 million metric tons of aluminum that comes outside of -- from outside of the U.S. We need 6 gigawatts of energy, that's not gigawatt hours, that's 6 gigawatts of energy. And it would probably cost $30 billion to put 4 million metric tons here.
+
+So we're educating the government on those facts. And then secondly, we're educating them on how tight the supply chains are between the U.S. and Canada and the fact that we think it makes a lot of sense to have metal coming out of Canada to support our downstream customers. And then there's one last data point. There's something like 12 or 13 jobs in the downstream that are supported by every Canadian primary upstream job. So the relationship between how much jobs can be created in the upstream is really outweighed by how many jobs there already are in the downstream processing business in the U.S. Do you want to address the capital flows?
+
+Molly S. Beerman
+
+So Glyn, thanks for the question on the cap allocation. We made good progress this quarter on our adjusted net debt target. At the end of the second quarter, we were at $1.7 billion. That's an improvement from the $2.1 billion from the first quarter. We are about $200 million away from the high end of our target at $1.5 billion. While we reach the top end of the range, we will look across our capital allocation priorities, so returns to shareholders, portfolio actions as well as any growth opportunities. We do recognize that we have a bit more work to do inside the target. The adjusted debt, which we define as including the gross debt plus the pension is at $3.2 billion and that's above the high end of that range that we've targeted at $2.1 billion. So we will work on some delevering.
+
+We do have our 2027 notes, a portion of those remain about $141 million, those are now callable at par. We also have a portion of our 2028 notes that are now callable with a small premium. That's about $219 million. So we'll look at keeping in mind that our cash target is $1 billion to $1.5 billion. We'll work on some delevering.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Oplinger for any closing remarks.
+
+William F. Oplinger
+
+Thank you for joining our call. Molly and I look forward to sharing further progress when we speak again in October. That concludes the call. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

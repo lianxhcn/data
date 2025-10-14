@@ -1,0 +1,572 @@
+Aareal Bank AG (AAALF) Q4 2023 Earnings Conference Call February 29, 2024 5:00 AM ET
+
+Company Participants
+
+Jürgen Junginger - Head of Investor Relations
+Jochen Klösges - Chairman of the Management Board & Chief Executive Officer
+Marc Hess - Chief Financial Officer
+
+Conference Call Participants
+
+Christian Leukers - CQS
+Graham Stuart - Autonomous Research
+Jérôme Legras - Axiom AI
+Jakub Lichwa - TwentyFour
+Paul Fenner-Leitao - Societe Generale
+Anke Reingen - RBC
+
+Jürgen Junginger
+
+Good morning, everybody and thank you for joining our conference call. Today's agenda will cover the results, the prelim results for 2023 and the outlook for 2024. I'm joined by our CEO, Jochen Klösges; and our CFO, Marc Hess. They will take you through the presentation, which will be followed by a Q&A session.
+
+Now I'm pleased to hand over to Jochen. Jochen, the floor is yours.
+
+Jochen Klösges
+
+Thank you very much Jürgen. Good morning, and welcome. Today, we will of course be talking about our company, about figures, markets and trends. And we will certainly also be talking about US property markets in detail, which are currently once again in focus.
+
+Now let me first take a look at the political and economic environment in which we operate. 2023 was a difficult year. We have all learned that nothing is certain anymore and nothing can be taken for granted. Neither peace nor freedom are guaranteed. And – so we continue to find ourselves affected by the deep suffering that war has brought upon the Ukrainian people. And in addition last year another war erupted in the Middle East, which shocked us deeply and made the global political situation even more uncertain.
+
+All of this affects us during a period, which is challenging from an economic point of view as well. That also applies to the commercial property market, which brings me to our business. There's no doubt that 2023 was a challenging year, especially regarding the performance of the US office property market. You know us, we are used to dealing with these adverse conditions and we have succeeded before in difficult markets.
+
+In times like these, it is not German angst, but German's preservance that is needed. We proved this throughout the Corona virus pandemic, when nobody believed in hotels anymore. We carried around €10 billion of hotel exposure through the crisis. And it is these hotels that are helping us now through the cycle because they are contributing to our strong earnings power.
+
+The US office property markets have turned down over the last year. Why is that? A combination of working from home, soaring interest rates, and excess capacity, which already existed beforehand, explains this development. We are assuming that the US office markets will continue – continue to experience change for quite some time.
+
+However, in the fourth quarter of last year, the markets turned out to be even more challenging than anticipated. As a result, we recognized a loss allowance of some €190 million in the fourth quarter. This will enable us to reduce our NPL portfolio by around €0.5 billion in the first quarter of this year.
+
+As I already pointed out in the past, we have been dealing with the challenges and burdens resulting from a downturn in the US office property, since the spring of 2023. We have been working with our clients and partners on resolving every individual case, restructuring exposures and recognizing loss allowances, where appropriate. As we reach the end of this cyclical downturn, will the markets turn around quickly now? Frankly, it doesn't look like it yet. While we have not seen any new NPLs in January to February, we are preparing for more to come just to be on the safe side. This means that even though 2024 will remain challenging, we are prepared in the best possible way.
+
+The restructuring we have completed so far plus the €0.5 billion, which we will resolve in the first quarter are evidence of exactly this. The challenges posed by the current market situation are substantial without any question but we can deal with them. Thanks to our significantly increased earnings power, we are able to weather developments, such as those seen last year while showing respectable profitability for the bank at the same time. In fact, our profitability was very close to the previous year's level for the bank.
+
+We not only have the financial resources necessary to deal with such a situation as a further strength our bank has an experienced team that has seen such cycles several times before in different markets and has the knowledge and the tools to implement customized solutions for each individual case. Everyone is talking about US offices today, but the problems in this segment overshadow the perception of the entire commercial property finance business. The vast majority of our widely diversified commercial property financing portfolio is stable and healthy. This was also true in 2023.
+
+One thing that's particularly important to me is that there are clear differences between the office markets in the US and in Europe. We saw one single new NPL exposure in Europe last year, which needed to be restructured. The case involved a retail property in France and will be settled or is already settled in the first quarter of this year without a substantial loss. As part of the overall picture, we have also used 2023 to invest heavily into Aareon and into the reduction of legacy NPL exposures.
+
+We consciously accepted these additional non-recurring charges on our annual results in order to further strengthen the position of Aareal Bank Group. Following these comments, let us now turn to the figures. As you know, our group consists of two parts whose development we have illustrated here on this slide. On the left, the banking business, which comprises of our commercial property financing portfolio and our services to the housing and energy sectors in Germany. On the right, our software business, which comprises all of Aareon's activities, plus, generally speaking, the ERP systems and other digital services for the European property and housing industries.
+
+First, the bank. The strong growth in earnings was a very positive factor for the year under review. The aggregate of net interest income and net commission income exceeded €1 billion for the first time, an increase of 31% over 2022. It was thanks to this strong profitability that we were able to offset the provisions arising from the US office market and to afford significant investments. We increased the loan loss of loans to €510 million. This item is largely driven by write-downs on US office property loans, which amounted to €360 million. But it also includes conscious expenditure of €115 million for running down our exposure to Russia and some legacy non-performing loans.
+
+Our NPL ratio, which has risen slightly as a result of the new NPLs related to use office property financings, will markedly decrease again as a result of the restructurings I mentioned. By the end of the first quarter of 2024, NPLs will have roughly returned to the prior year's level, that means to 2022 levels. We have continued to keep costs fully under control. Our cost income ratio, which is excellent by comparison with our peers, stands at 32%, which costs stable within the bank.
+
+As far as capital is concerned, despite growth and turbulence on the markets, we were even able to slightly increase our CET1 ratio to 19.4%. And despite a substantial loan loss allowance and proactive investments, the bank's 2023 operating profits amounted to €221 million and was close to target and prior year. This is evidence of the bank's strong operating profitability and resilience and a very important aspect, especially in times like these. It also puts our consolidated operating profit of €149 million into perspective. Without the investments of around €100 million in our software subsidiary, Aareon, we would have reached the target corridor notwithstanding the loss allowance for exposures in the US in 2023.
+
+So let's take a look at Aareon. We used the last year to make these significant investments into Aareon, as already mentioned, of just under €100 million, a good €60 million more than originally planned at the beginning of the year. We have thus optimized our product range, invested in sales and processes, and have also enhanced efficiency. When you asked me at the 2022 annual press conference two years ago I was not complying with some shareholders demand to spin off or sell Aareon, I said the company was not ready yet. Today, I can tell you that we achieved the targets we had set for Aareon for 2025 already at the end of 2023.
+
+The share of recurring revenues compared to total revenues continued to increase last year from 74% to 81% bringing a high degree of stability to the income structure of Aareon. Aareon enjoyed strong organic and inorganic growth since 2021. It has consolidated its structures and expanded its business throughout Europe. In addition to the DACH region, it is in France, the Netherlands, Scandinavia, the U.K. and now also in Spain.
+
+On the earnings side, Aareon is also well on track. Adjusted EBITDA, which is a key indicator increased by 33% to €100 million last year reflecting Aareon's strong operating performance at the same time its adjusted EBITDA margin climbed from 25% to 29%. This has enabled us to evolve Aareon into a Rule of 40 company, faster than originally planned. This key performance indicator for software companies means that the sum of Aareon's adjusted EBITDA margin last year 29% and revenue growth last year 12% exceeds 40%.
+
+Aareon has now passed this threshold. Moreover, we succeeded in refinancing our subsidiary last year. The facility previously provided by Aareal Bank to Aareon was replaced by external long-term debt and we strengthened Aareon's capitalization via a capital increase in the last year as well. These facts tell us that Aareon is ready for the capital markets sooner than planned.
+
+One of the things we want to do in the future is to exploit further growth potential by strengthening the partnership between the bank and Aareon over the long-term. To this end, we have placed the collaboration between Aareal Bank and Aareon on a new footing via First Financial, which is at the heart of a new joint venture between Aareon and Aareal Bank. The Bank and Aareon will benefit from this equal measure. Together we want to offer even better solutions to the housing and commercial property industries in Germany and in Europe, and realize significant efficiency potential for our clients.
+
+What does it mean specifically? Firstly, we want to tap into the additional growth potential that Aareon's German client base represents for the Bank's deposit taking business. Secondly, we are exploring opportunities to expand the deposit taking business to Aareon's international clientele. And thirdly, we are investing in First Financial, which provides software and payment services thus creating the basis for Aareon Pay, a new product group for integrated payment solutions within Aareon.
+
+By taking the partnership between the bank and Aareon to a new level, we have created an important new approach that will contribute to continued profitable growth for both parts of the group. At the same time, we have established new strategic options for our group.
+
+Let me summarize. We made substantial investments in the substance of the group during the financial year under review and shoulders heavy burden in the U.S. Nonetheless thanks to our strong operating performance, we achieved a respectable consolidated operating profit of €149 million. At the same time, we significantly strengthened the bank's operational resilience and further improved Aareon's position. We are as well placed to continue growing profitably. We want to more than double. We want to really more than double our consolidated operating profit to between €300 million and €350 million in 2024 million, and do it in an environment that remains challenging.
+
+I would now like to hand over to Marc Hess, who will talk about our financial results for the year and review in more detail. Marc, please.
+
+Marc Hess
+
+Yes. Thank you, Jochen and good morning to you all from my side as well. As Jochen has already pointed out the Bank and Aareon achieved an impressive operating performance in the past financial year especially driven let's say by the earnings momentum that we have seen and you can see on page 5 an overview of the main indicators.
+
+First the bank. I think we can say it was a very difficult market environment. Nevertheless, the Bank generated an operating profit of €221 million. And this is not only close to the original target, but it's also close to the prior year despite the active NPL management that we were pursuing and unbundling charges -- some unbundling charges of Aareon.
+
+Over two years, we have more than doubled the pre-provision profit of or to now €731 million. That's up 67% and or €300 million only in last year. And we believe this is clear evidence that we have a significantly improved what we call operating resilience since we launched our new next level strategy back in 2021 early 2021.
+
+So on that basis we are also able to slightly increase our CET1 ratio to 19.4% despite of the portfolio growth and of course despite of the market headwinds. When we're looking at the fully loaded figures so -- for fully phased in with an output flow of 72.5%. We would be at 13.4% already. That's also up compared to 2022 by 0.1 percentage points. So we were at 30.3% at the end of 2022.
+
+Looking at Aareon, we originally announced investments for 2023 of €35 million. During the year, we even found more opportunities. So we invested €61 million more than originally planned all-in-all €96 million. And therefore we are now ahead of plan and we expect a contribution of €20 million from these investments already in 2024 going on. And therefore the EBITDA which did perform nicely on an adjusted basis last year will even be up this year to €160 million to €170 million in that range.
+
+Turning to the next page looking even in more detail at the Bank generating an operating profit of €221 million as I just said. We had additional expenses for restructuring the Aareon third-party debt facility which was originally given by the Bank to Aareon and now financed externally that was another €10 million burden here last year which was obviously unplanned.
+
+So if you include that we would even have been at €231 million. This is why I'm saying really not far away from the original plan and also not far away from 2022. And this despite of the really significant risk provisions that we built which I would like to explain. For 2022 they totaled €510 million you know that is including the fair value P&L line always so a little bit more than only shown in the risk provision line. Two-thirds of that obviously applied to the US office loan book. But these provisions enabled us to really actively manage our NPL book and thus significantly reduce the NPLs.
+
+One on the legacy side which we announced when we went into the year, here we said we wanted to reuse them. We finally did by €500 million more than we expected. That was also a little bit taking more risk provision than we originally expected. And I think in these times that's even more important we prepared the way for solution of another €500 million non-performing US office loans now in the first quarter of 2024 already.
+
+Here we booked another, let's say, €75 million in Q4 to really accelerate this process. So as I just said we want to restructure them we want to reduce the NPLs by €500 million office in the first quarter this year and this is 50% of the total US office NPL book. So we believe a clear market test.
+
+Coming to the outlook. We are targeting an operating profit of €250 million to €300 million just for the bank in 2024.
+
+Next page shows the Aareon, how did it develop in the recent years? Well, revenues have been rising from as you can see here €269 million in the year 2021 to now €344 million, so dynamic development. Jochen will elaborate on that in more detail later on. And we are expecting as you can see a strong growth to -- well not even to continue -- even to accelerate in 2024. So we are targeting a range of €440 million to €460 million in revenues.
+
+That also has of course positive implications on the adjusted EBITDA, which was also performing nicely. So obviously here all the investments that we took are not reflected, it increased by -- from €75 million to €100 million in 2023. And here we expect another increase to €160 million, €170 million range in 2024.
+
+As I just said, we had significant investments, which we did in 2023 deliberately. We planned €35 million as you can see in the chart at the end it was €96 million, and that led to a negative EBT or PBT contribution in our segment reporting of minus €72 million but we will have a strong turnaround given that these investments, of course, will not be continued and they will show positive effects. So all-in-all from minus €72 million to plus €50 million in 2024.
+
+If we are looking at the summary of the income statement on page 8, we had an original operating profit target of €250 million for the group. This included the €95 million of investments that you can see on the table. And as I said, we invested more in a swift NPL reduction, more in Aareon. So I think this explains the deviation. In total, €221 million spend in 2023. So I think we can really say that we invested into the future basis of this bank heavily.
+
+So this is the reported results on the operating side. As I said the momentum remained really strong. And this is why we are targeting an operating profit target of €300 million to €350 million for 2024 as Jochen just explained. And this includes loan loss provisions that are expected to gain above average or I would even say significantly above average, but below what we saw last year with this swift reduction program.
+
+So we think we are really prepared to be -- really prepared the best way for 2024. If we are looking back into 2023 and the individual items, you can see here strong momentum in net interest income 39% up. So just under €1 billion, same is true for net commission income. Fees were up 11%.
+
+Most of that obviously coming from Aareon. And these are new record levels for the bank. In NII this reflects both segments of the bank I have to say and BDS in the RSF business commercial real estate lending, we had portfolio growth but we also had very good margins. You will hear that here at that later on. And in BDS, our deposit business of course we benefited from the normalized interest rate environment.
+
+As I just said fee income mainly driven by Aareon, risk provisions €520 million. This as I've just mentioned includes the €69 million of the fair value P&L line. And as I also said, the significant risk provisions are attributable to the persistent headwinds of course of the US office market, but also to the investments in active reduction of NPLs.
+
+So also to mention we are out of Russia. So we sold our Russian exposure last year, which also let's say cost us like €35 million at the end. Admin expenses while the first site here increased by 13% to €645 million as you can see. But this is only attributable to the investments in Aareon.
+
+If you're looking at the bank, costs remained mainly stable and the cost/income ratio even improved significantly from 40% to 32%. We had a high tax burden last year. That's a -- I wouldn't say a technical effect, but a result of the takeover, because here in Germany, when you're taken over by another company which we were Atlantic Bidco as you know, you have to write-sdown the deferred tax assets. And that's simply the fact and this is what brings the tax ratio up this year.
+
+With that, back to Jochen.
+
+Jochen Klösges
+
+Thank you, Marc. Let's turn to our business lines and start with Structured Property Financing. You see here on the Page 10 with a portfolio size of €32.9 billion, we reached our portfolio target for the past financial year.
+
+Average loan-to-value ratios in the existing portfolio remained at a healthy 56%. Our portfolio composition has not changed much, compared to the end of 2022. Hotels remain our largest asset class and Europe, remains our largest region.
+
+Germany accounts for only 7% of our total business. And we are no longer involved in China or Russia. And we have only minimal involvement in Property Developments that accounts for less than 1% of our portfolio.
+
+However, we do continue to finance buildings that are being renovated, to enhance their energy efficiency. This is evident in our growing green loan portfolio which now stands at €4.8 billion in which we want to grow between €6 billion and €7 billion by 2026. Our total Lending Volume Classified as Green rose to €9 billion now accounting for 28% of our portfolio.
+
+On the next page and you see we hit our new business target of €10 million. In doing so, we've grown across all asset classes, but especially in hotels and especially in Western Europe.
+
+We also selectively underwriting business in the US, in finance offices and the markets we cover. Although the office market in the US is currently experiencing a significant downturn, offices account for the vast majority of the Global Commercial Property Markets.
+
+There are excellent properties that require upgrading to the latest ESG standards in this sector and that's why just under one-third of our total new business was green loans of which, €1.3 billion went into offices, representing around 70% of our new business in office properties. However, the bulk of our business continues to be in Hotel Financing.
+
+A good example is the financing of the Le Méridien Étoile in Paris for Henderson Park Capital Partners. This hotel enjoys a prime location opposite the Congress Center just minutes from Champs Élysées and the Arc de Triomphe.
+
+We have also grown in new asset classes. Last September, we formed a dedicated team to finance alternative living properties. The objective is to further expand our business in this growth segment which comprises student housing, micro apartments and co-living. We are already one of the leading providers in this sector.
+
+And for example, we financed a £380 million portfolio, comprising three student accommodation properties in London last year. The bank has also been active in New Zealand since last year a good complement to our already established market coverage in Australia.
+
+This enables us to serve clients who are active in both markets from a single source. And in principle financings in New Zealand are eligible for inclusion and fund lease cover, offering attractive financing options especially for hotels and in the alternative living sector.
+
+What is important for all new business is that we continue to assign high priority to conservative risk standards. Loan-to-value ratios for new business averaged 54% in 2023. We also continued to achieve very attractive gross margins averaging approximately 290 basis points clearly exceeding 2022 margins.
+
+Let's now take a look at the key indicators in the loan book. The KPIs in our portfolio remain in a healthy range and are better overall than in 2019, the year before the pandemic. Despite the strong headwinds from the US office market, the average loan-to-value ratio of 56% is at a very conservative level. Debt servicing capacity yield on debt, once again improved significantly to 9.6%. Hotels in particular are doing very well with strong cash flows. Thanks to the clear pickup in travel after the pandemic.
+
+The retail sector has also recovered faster and more distinctly than many expected. Overall, much of life has returned to normal after the pandemic and we are seeing the effects. At this point, I would like to point out a parallel between retail and office properties. Retail properties had already been declared dead because of the trends towards online shopping. However, we have helped and continue to hold the opinion that the market is changing with differentiating factors, which is – which is why we have continued to finance very well-positioned retail properties.
+
+Now the office property markets are changing due to the trend of working from home. And here too new criteria for measuring quality will have to be applied in the future. Of course, location remains the most important differentiating factor but sustainable carbon-efficient properties with flexible space concepts will play an increasingly important role. And this has also been a factor in selecting new business for us in 2023 already.
+
+The next slide shows the breakdown of our performing office property finance portfolio by country. The US accounts for the largest share, followed by France, the UK, Poland, Sweden and Belgium. Germany only accounts for 3% or roughly €250 million. In this context, it is notable that average loan-to-value ratios for our office portfolio stand at 70%, whereas in Europe the figure is 55%. This is a clear indication that developments in the US office market have not spilled over to Europe.
+
+Why is that the case? Certainly, a different interest rate environment and lower vacancy rates in the European markets. For example, we see in Paris 8%, which is a much lower number compared to certain cities in the US. Also ownership structures differ between the continents. In Europe, this often leads to longer investment horizon. This means that there is a greater willingness in Europe, to repay debt through new equity injections in order to maintain equity positions and keep the properties.
+
+And in European real estate financing we see interest rate hedges, additionally commercial real estate in Europe is generally not financed by different layers of that leading to lower LTVs and a very limited market for junior and mass tranches. There are also some so-called soft facts. For example, in the US, it generally takes much longer to get to work from home. People in the US also tend to have larger houses or flats than here in European cities, which makes working from home a lot more attractive from a US perspective.
+
+In addition, European cities often offer a better mix of areas where you can live, shop and work at the same time. This means that you may live a little closer to work in European cities compared to in the US and the quality of life in central office locations can be higher in Europe.
+
+It is I guess fair to say that overall, we currently see no signs that developments in the US are directly spilling over into Europe. This is due in particular to structural differences between the two markets that I have just described. However, it should be noted that poor properties in poor locations will also face problems in Europe but this is a universal principle in commercial property that has nothing to do with the current market development.
+
+On the next page, now let us look further at our US office loan portfolio. A large part of the portfolio is located in New York with the rest mainly spread through other major cities. We concentrate on high-quality Class A properties in A markets. Most of our performing loans have maturities in 2025 or later and only €240 million is due in 2024.
+
+The values of all the office properties were reviewed in 2023 and around 80% of these valuations were undertaken externally. We found that a little over half of the market values have decreased by up to 20% since the end of 2022 and that the others were down by between 20% and 55%. These market value decreases are reflected in increase in the average LTV, which is up from 62% at the end of 2022 to 70% for the US office property loan portfolio at the end of 2023. The revised level includes new business with an LTV of 50% and outflows in NPLs.
+
+On page 15, we are monitoring -- you see we are monitoring all US office loans closely and have a regular interaction with our borrowers. We expect high-quality buildings in allocations to recover first and this is the category where our loans are focused. Additionally, we expect the level of interest rates in 2024 to take pressure out of the market and help to stabilize values.
+
+At the end of 2023, we again stress tested our portfolio for a further 20% decline in value. The stress test showed that the average LTV of our US office portfolio would increase from 70% to 88%. And one correction please, please read on the chart, on the upper part of the chart the LTV of the performing US office portfolio not at 92%, read please 85%. But again, on the basis of the stressed market values, only around €75 million would have an LTV of over 100% and around €260 million would have an LTV in the range of 80% to 100%. The result shows that we have headroom even under very conservative stress conditions.
+
+Now, I would now like to expand a little on a topic that is likely to be of interest in view of the current situation, the development of non-performing loans and how we deal with them. We really reviewed our strategy in early 2022 with a view to resolving NPL cases much more quickly than we used to. And more recently, by the way we hired US industry experts to support our team and these are our colleagues with a great experience and track record from large US banks.
+
+But again, back to the year 2022 -- at the beginning of 2022, you see that here on the chart, we had a non-performing loan portfolio of totaling €1.6 billion. Some of these NPLs have already been in the portfolio for many years. And then in 2022, we reduced these old NPLs by around €800 million and in 2023 we made a further reduction of €400 million out of that bucket of €1.6 billion. Only a residual balance of €100 million will remain from these legacy exposures by the end of this year of 2024.
+
+Then in 2022, new NPL cases totaling €370 million were added, of which we had reduced around already €300 million by the end of 2023. The remainder will be almost completely removed from the NPL portfolio by the end of this year too.
+
+Next to the year 2023 NPLs. Developments on the US office property markets combined with other factors required significant NPL additions of around €1 billion on a net basis last year. Some of these cases were solved quickly that same year. The only European exposure of around €100 million will be settled or is already settled without the loss in the first quarter of this year. €150 million in US office NPLs have already been resolved in 2024 and we have in total scheduled around €0.5 billion for solutions in the first quarter of 2024.
+
+So, why I'm explaining all this in such detail? Well, it is important for me to convey two messages to you. Firstly, we actively address these situations and have both the people and the resources to work out a variety of solutions with our clients. And secondly, despite all the challenges, it is about really making real progress in the management of non-performing loans. This costs money, but it is an important prerequisite for success throughout the cycle.
+
+Please note that, we are on the same page as our owners in this respect. Our investors expressly support the strategy and share the associated short-term consequences for the bank's financial results, for example, in the last year.
+
+All-in-all, our NPE ratio in accordance with the EBA's Risk Dashboard definitions was 3.4% at the end of the year, However, given the reduction of NPLs that has already been prepared, we expect the NPL ratio at the end of March 2024 to be back down to end 2022 levels. We will change over to calculating the NPA ratio in accordance with the EBA's definition this quarter, which most of our competitors use establishing a better comparability.
+
+On the next page, I would now like to talk about BDS. The average volume of client deposits from the housing industry rose to €13.6 billion, exceeding the target level of around €13 billion set for the last year in 2023. Our solutions are nowadays used to handle the payment transactions of more than 4,000 clients in the housing and commercial property sectors, who between them are managing more than 9 million rental units. The deposit business this generates is granular and very stable given that we are deeply, really deeply integrated in our clients' payment processes.
+
+We have had firm routes in the housing industry now for decades, a business we have maintained even in times of low interest rates for our clients. Today, we are benefiting not only in terms of funding, but also on the earnings side. At €238 million, net interest income for this segment was more than 1.5x the previous year's figure.
+
+Whilst this increase reflects the normalized interest rate environment, it is also the result of a consistently high volume of deposits, demonstrating strong client loyalty. On average, our clients remain loyal for more than 20 years. But it is not only net interest income that continues to gain traction, net commission income also did well rising to €33 million in the year under review. This business gives us a second, stable and profitable pillar in the bank and, as you all know, things stand better on 2 feet.
+
+And now let's turn to Aareon. As I mentioned a few minutes ago, Aareon has seen an outstanding performance over recent years. It continues to grow at an accelerated pace with sales revenues rising 12% and adjusted EBITDA up by 33% and in 2023.
+
+I've already discussed Aareon's Capital Markets readiness and the long-term partnership between the bank and Aareon. In terms of business activities, Aareon has further expanded its geographical footprint in Europe by entering the Spanish market in 2023. And Furthermore, during the past financial year, Aareon acquired Embrace, a Dutch provider of CRM solutions and UTS a company for managers of condominium owners associations here in Germany.
+
+The M&A credit line previously provided by Aareal Bank, which we refer to as a hunting line has been replaced by Aareon's external long-term debt financing. Even though the change will low double-digit million charge per annum, it shows that Aareon is capable of raising finance on its own, and that's a further important milestone. So Marc will now look at our funding activities and, of course, our capital base and then explain our outlook to you.
+
+Marc Hess
+
+Yeah. Thank you, Jochen. Turning to page 20, the pie chart here, I think shows very well how diversified our funding structure has become that was one of the major cornerstones of our strategy to really diversify the funding more than originally and thus become more independent from the capital market. And I think we can really say today that we made good progress, of course, as you can see BDS is one major source of our funding. Pfandbriefe are of course still the most important capital market instruments. In total, also can see we've seen here at the chart, we had to tap the capital markets by €2.4 billion last year, significantly less than in the previous year, despite of the growth that what we have seen. And I can also say today, that there is no need to raise any senior preferred funding, at the Capital Markets in 2024 and 2025 and we did not have the capital market here in 2023, as well that was on the private placements the €0.2 billion.
+
+To get more independent from the capital market, I think one major element is Raisin. We started the comparison in 2022, we had €600 million deposits at the end of 2022. And this has been grown to € 2.6 billion, just at the end of last year. So, very important. And these are all term deposits, fixed interest and more than 90% have a term of two years and more. So, very reliable source on that end. We even plan to further strengthen our cooperation with Raisin, we are the first German bank to go on their international platform. So, in early February, I think it was the sixth - we started to be on their Dutch platform, and we want to expand that during 2024 even to other European markets.
+
+So, I think a very stable situation on that side and this can be reflected if you look on Page 21, you can see the liquidity ratios. They are all well above the minimum regulatory requirements. We have -- as can be seen here considerable buffers in the LCR and the NSFR and these have been kept basically on the same level, despite of the volume growth that we have seen.
+
+So, what we also can say, I think it's also important to note here, that the terms of our fundings have longer terms than our property financing. So, the funding terms are around four years while the property finance portfolio has typically, a term of three years. So, very balanced and with the buffer on that side.
+
+I think also good news on the capital situation, very solid. Page 23, you can see that we have a CET1 ratio that has been increased over the last couple of years, despite of all the crisis -- that we had to face -- so -- no sorry -- I'm not jumping one page, going back.
+
+I'm going back to Page 22. So looking at the Pfandbriefe, as I just mentioned obviously, it's one of our main funding instruments at the capital markets. What you can see here we have a AAA rated Pfandbriefe with the Moody's rating of AAA the cover pool is €16.5 billion diversified over 20 countries. And we have an LTV in this cover pool of 33.5%. So as you know, the Pfandbriefe standards are very conservative and we are of course in line to reach the Moody's rating we are relying on overcapitalization, even on top that's 16.5%, and we even are above that threshold with 19.6%. So also here very comfortable buffers.
+
+So now to CET1 capital on Page 23. As I just said, we have been improving that despite of all the crisis that we had to face, be it COVID, be it Russia, be it now the US crisis, and we are now at 19.4%. So despite of portfolio growth, despite of the LTVs coming under pressure on the US offices, we even increased it by 1 -- 0.1 percentage points during 2023. And 19.4% very sound ratios. Also happy to give you the fully phased ratio, with the 17.5% output flow that's 13.4%. So I think also very comfortable also an increase by 0.1 percentage points. And leverage ratio also to be mentioned 6.6% that compares to 6.0% end of 2022.
+
+So now, not to get confused again, going to the outlook. I think we can say that the environment will remain challenging from different aspects. The economic development most likely sluggish, inflation persisting, I think there was more optimism in the market at the end of last year. Nevertheless, we will see first interest rate reductions. That's good and bad for our bank. Obviously, we benefit because we do have a diversified business model in our two segments. We benefit from higher interest rates as you have seen in the net interest income of our BDS segment from the deposits of the other -- on the other hand of course higher rates weight on the valuation of commercial real estate, which leads them to higher risk provisions.
+
+So all-in-all, we expect first rate cuts by mid of this year as many others do, which I would say has a neutral effect then on us on both sides. If you add it up -- all-in-all with regards to the U.S. office property market, we only expect a little improvement certainly not in the first half of this year, and this is also reflected in our risk provisioning planning.
+
+Nevertheless, we are optimistic about the Group's performance in 2024. As you can see here in the bank, we want to continue to grow our credit portfolio, but less than in the previous years. So just by €1 billion that also means less new business is needed €8 billion to €9 billion, which means that we can continue to be very selective here. And we expect stable deposits on the BDS side of around €13 billion. So all-in-all, the bank's operating profit as Jochen already mentioned and me too should increase to €250 million to €300 million despite of the risk provisions, which are projected to remain at above average levels.
+
+We mentioned today this morning in the press conference that we expect that we plan for around €350 million of risk provisions for 2023. So significantly below -- for 2024, --sorry -- significantly below 2023 especially the swift NPL reduction for the legacy portfolio, of course, is not necessary. This gives us some relief here.
+
+Of course, the markedly increased profitability is one factor why we expect to reach these high levels on a PBT basis. When it comes to -- when it comes to Aareon, we will continue to grow. As I already said, we expect really -- impressive from my point of view increases in the revenues. As I said, the foundation was laid in 2023 and 2023 and the year before EBITDA should of course benefit from that here. In addition, we will benefit from the efficiency measures, so the investments that we did in 2023.
+
+And therefore, on a group level EBT, PBT, however, you want to name it, we expect a positive contribution of €50 million for 2024. And that all-in-all leads to our expectation that we can have a pre-tax profit on the group's level of €300 million to €350 million in 2024.
+
+So, now I would like to hand back to Jochen for his closing remarks.
+
+Jochen Klösges
+
+Thank you, Marc. Yes, please allow me to summarize in conclusion. Firstly, we finished the 2023 financial year with respectable results, which was characterized by strong growth in income, a high level of investments, and of course, significant challenges from the U.S. office market.
+
+Secondly, we have invested in the substance of Aareal Bank Group and further strengthened the foundations for profitable growth both for the bank and for Aareon in the years to come. And thirdly, we are confident that in a still challenging environment we will more than double our consolidated operating profit in the current year. This confident outlook holds a fundamental message. Yes, the current situation is very challenging indeed. But as we have shown this year, we are actively managing these challenges. And since we are pursuing long-term goals, we are continuously working on improving our business models. And we are convinced that the investments of recent years will pay off.
+
+Marc and I will be happy now to answer your questions. Thank you very much.
+
+Question-and-Answer Session
+
+Operator
+
+Ladies and gentlemen, at this time, we will begin the question-and-answer session. [Operator Instructions] The first question is from Christian Leukers from CQS. Please go ahead.
+
+Christian Leukers
+
+Good morning. Thank you. You have a very strong front book margin. So there's obviously a good organic opportunity to sort of grow your book and you've got lots of capital to do that. How would the shareholders or your sort of owners look at inorganic opportunities? Because you did mention M&A for Aareon, but what about for Aareal, because there might be some opportunities in the market there on the M&A side as well. Thank you.
+
+Jochen Klösges
+
+Yes. I must say, it's today way too early to talk about that. Regarding Aareon, we are quite happy with the development we saw in the last year in terms of growth on the sales side, recurring revenues and EBITDA and Marc explained that we are also having very ambitious targets for Aareon in -- for the year '24 and to really execute on the success of Aareon and to see the results of the business basically then delivering on these targets is our clear focus. So it's way too early to talk about M&A. And I guess that's also the view of our shareholders.
+
+Marc Hess
+
+And with regards to the bank, I think that was your question. We don't believe really that M&A is needed to further develop our business. As you have seen, we can grow organically. Here we very strongly focus on profitability. I think this is reflected in the margins. So on the BDS side, we are I can say so not looking for any M&A opportunity on the RFZ [ph] side. So we are not looking for any M&A opportunities.
+
+On the BDS side, so on the deposit side, you have seen very small acquisitions, like we acquired an artificial intelligence company in order to really support our services and our processes that was in the low single-digit million euro area in terms of acquisition price. If we have something here at the market that would really help us to improve our services, we would look at that. But no broader M&A plan.
+
+Christian Leukers
+
+If I look at your new business outlook in structured property finance, it's slightly lower than the '23 number. Is that -- given the new margin is that -- are you sort of just being conservative? Or could be outperformed there on the new business side? You've got €8 billion, €9 billion.
+
+Marc Hess
+
+Yes. Yes that's what I just mentioned. It's a little bit lower than last year. Last year, we grew by €2 billion. This year we want to grow by €1 billion. As I said, the focus is very much on profitable growth. So we want to be selective and this is just reflected in these figures.
+
+Christian Leukers
+
+All right. Thank you, very much.
+
+Operator
+
+The next question is from Graham Stuart from Autonomous Research. Please go ahead.
+
+Graham Stuart
+
+Hi. Thanks for taking my questions. I had a couple. You said, you haven't seen any new NPLs year-to-date, but you want to be conservative. Can you talk a little bit about your new NPL inflow assumptions for '24 please? And then secondly, on this disposal of €0.5 billion of US office NPLs at 26% coverage, I mean I guess I've always thought about coverage levels of 50% to get rid of CRE NPLs. So, what comfort can you give me that 25% coverage is really the right level to exit these loans please? Thank you.
+
+Marc Hess
+
+Hi Stuart. Thank you for your question. I will take the two. The first question -- let's answer the second question first. What comfort can we give you? Well, as we just explained, we want to solve and therefore reduce our NPL on the US office book in the first quarter this year so the first month. And if April is even included whatever so really now actually by €500 million, that's 50%.
+
+We are already in the negotiations. We have provisioned them in the fourth quarter and we don't expect additional loan loss provisions for that reduction. So I think that is a market test. And therefore we can say we are confident that our provisioning levels are right.
+
+Of course this is a very swift a very quick reduction. So, this is why we took let's say another €75 million on top in risk provisions in Q4 that is for me really an excellent premium. It's like with a car, you have a value of €20,000, if you want to sell it next week, yes, probably you have to accept a little bit lower price. So, this is exactly what we are doing here. And this is why I'm saying I think overall that's a good test. And--
+
+Jochen Klösges
+
+Yes. Yes. And then the other question I guess was about the potential NPL inflow in 2024. And yes this is pretty complicated to give you a forecast about that. You see Marc already elaborated on our overall forecast for 2024. That includes still a pretty high number of NLPs as a budget for 2024 compared to normal is a little bit lower than last year but still a significant number.
+
+And you could probably also take away from our explanations that we are still pretty much cautious about the development of the U.S. office market in 2024 and our focus is clearly on restructuring all the single cases together with our clients. When I take a look at our European portfolio including office.
+
+So, far I can say you know that also the office markets in Europe are exposed to higher interest rates and to the work from home issues. But so far we saw no negative impact within our portfolio. We mentioned that we had one new NPL in Europe last year and that was a retail property in France, which has already been paid back -- I guess it was yesterday. That was paid back without any substantial losses here on our side yes.
+
+So, you see me here knocking on wood and nobody knows exactly what the future will bring. But currently we see clear distinctions between the dynamics in U.S. office markets and European office markets, but we are still cautious and carefully monitoring everything.
+
+Unidentified Analyst
+
+Okay. Thank you. Maybe if I could just go back to your first ask again. I mean you're saying you're going to get to these NPLs already in Q1. I mean we're in almost in March. So, you must have had some pretty detailed conversations.
+
+I mean can you just confirm these are professional real estate investors who if there was going to be an allergic reaction to your kind of pricing levels would have you already had that kind of allergic reaction.
+
+Just to give me comfort that this isn't something where you're going to come back and say sorry it ends up going nowhere.
+
+Marc Hess
+
+Yes you can confirm that.
+
+Unidentified Analyst
+
+Thank you.
+
+Marc Hess
+
+And again be rest assured when we are now talking about these €0.5 billion talks about that, because that already started I don't know in fall or in late summer or now in last year. So we are in constant conversations with the clients. So this is nothing which can be realized within one weak here. That's what I want to say.
+
+Unidentified Analyst
+
+Yes, got it. Thank you.
+
+Operator
+
+The next question is from [indiscernible] from Morgan Stanley. Please go ahead.
+
+Unidentified Analyst
+
+Hi, thanks for the call. A couple of questions from my side. On, Aareon just trying understand how if ever it was supposed it could affect capital would you be able to give us what the current mark of your share of Aareon is currently marked at effectively on a deconsolidated basis the RWAs associated with that? And then also any CET1 goodwill deductions are occurring because specifically of Aareon that would be the first question.
+
+The second question when I go through your CRR disclosures the RWA densities. I think I last had on the CRE book close to like 25% that seemed a lot lower than a number of peers.
+
+Just wondering could you just help me understand what the reasons behind that are? And as kind of PEs go up and LGDs probably creep up, what are your views on how those RWAs move over the course of 2024 and 2025? And then the third question is just around the BDS deposits. Are there any kind of ratings triggers where any of that will kind of move to other providers or things like that?
+
+Jochen Klösges
+
+Yeah. So let me start with the last question about BDS deposits. We're doing the deposit taking business with our BDS clients here within the bank for decades now. Finally, we are talking about, trying to speak about two types of deposits. One kind of deposits are rental deposits and deposits for the condominium associations here, which is very stable, very granular, small amounts and we basically are able to help our clients to process these deposits in the most efficient way and that's why they are doing the business with us. The other things are the side deposits and they basically represent the working capital of all clients. And that again, we are also pretty deeply involved into their payment processes and that's why we saw and see currently the very stable development of the overall BDS deposits. Then I'm not quite sure whether I understood your first question. I guess Marc will take the question about the RWAs. The first question was about Aareon and potential valuation of Aareon. Is that right?
+
+Unidentified Analyst
+
+No, just the book value. So above what level effectively do you trigger the P&L gain? And then also there must be on a consolidated basis there would be some CT1 deduction for the goodwill to try and understand what those amounts are? So let's say you removed Aareon on a book value effectively how the capital would change.
+
+Jochen Klösges
+
+So again, Marc will take the question about the RWAs and sorry, we do not disclose the book value of Aareon. We did that not so far, I guess. And yeah, you see the amount of money we finally invested into Aareon in the last, also three years. Secondly, you see the very impressive EBITDA development, I guess in 2021 it was roughly 65, now we're targeting 160. That shows you that we clearly have the target to create a significant amount of value. But please, please forgive me that I am not willing to speculate about a potential value of Aareon not disclose our book value currently. Sorry, yeah?
+
+Marc Hess
+
+And this, of course, then goes hand in hand with the RWAs. I mean, what I can confirm is how you look at it. Aareon is not consolidated for regulatory purposes. That means that we only have to account for their book value as RWA, but obviously if we now would disclose the RWA, you could recalculate the book value. So sorry for that. Here, we would like to get to give the details. And then I think your last question or it was...
+
+Unidentified Analyst
+
+It was on the risk entities. They were coming -- when I last saw the CRR disclosures, they were coming in at like 25%. That seemed low versus some fears. I was just trying to understand how that is expected to develop over 2024 and 2025 as PDs and LGDs kind of increase?
+
+Marc Hess
+
+It's a very difficult, a very bad line, So let me interpret what you said. You said the RWA weighting, yeah?
+
+Unidentified Analyst
+
+Yeah, yeah, exactly. The density.
+
+Marc Hess
+
+The RWA density, that's what you're talking about. You say it's below other competitors?
+
+Unidentified Analyst
+
+Correct, yeah. And I just want to understand how that would progress as kind of PDs and LGDs went up.
+
+Marc Hess
+
+Yeah, sure. Well, of course, we are running internal models, so we are on an IRBA model. IRBA, of course, model here, as you can see, we are already taking the higher off, yeah. So we are calculating the standard approach under Basel IV, currently with a 50% output floor. And we are also calculating the revised IRBA and then compare and take the higher off in RWA, so this is the €19.4 million. Well, what is in there? And are they as you say or interpret them comparatively low, because we have high collateralization and we have good values, good LTVs especially.
+
+This market development had some impact. You can see that we are up €900 million this year. Of course that reflects the growth of our portfolio. But it also reflects the LTV changes. Of course, we also have given that the Aareon hunting line is now out as said, it's a not consolidated entity from regulator purposes. So it was fully backed with RWAs. Here we had a relief of around €200 million and this was consumed basically by higher charges due to the value development of the total book, which was influenced by US office. But as you have seen before with the LTVs, the LTV of the book only went up by 1%. So don't be surprised that this was hardly a development.
+
+For me it's difficult to compare that to others. I don't know what others do and how their models look like. These are our models. And, of course, they are reviewed by the supervisors. If we go to a Basel IV fully view, here you can see we have given full transparency. Commercial real estate obviously is hit most by the introduction of Basel IV and the 72.5% output floor because the collateralization is not taking into account in the way it was before. So here I think that's very comparable then. We are at 13.4% and therefore still I think on comfortable levels.
+
+Unidentified Analyst
+
+Thank you very much.
+
+Marc Hess
+
+Thank you.
+
+Operator
+
+Next question is from Jérôme Legras from Axiom AI. Please go ahead.
+
+Jérôme Legras
+
+Yeah. Good morning and thank you for taking the question. Actually two questions on capital market funding. The first one is you mentioned, no preferred senior needs but possibly non-preferred senior. So happy to hear your thoughts about non-preferred senior benchmark issuance with the current spread environment, which is of course quite challenging?
+
+And the second question is on your fund raise bonds, whether you have issues with US office loans, which are in the cover pool if you have to remove them, if you have had to remove some or if there is a risk that you might need some new assets as collateral for the cover pool if the LTVs go above a specific threshold either for regulatory reasons or because of the rating agencies? Thank you.
+
+Marc Hess
+
+Yes. Thank you very much for your questions. As I just said for liquidity purpose, we don't need to tap the market with a senior preferred issuance. We still would like to do a senior non-preferred issuance this year. So a benchmark size, €500 million. This is to keep the subordination of the Moody's rating. So it only has rating purposes, it doesn't have any liquidity purposes.
+
+Therefore, as you said in the current market environment, which is certainly seeing accelerated spreads at very low turnovers and hopefully after the presentation of our set of figures today, they will come back to somewhat normalized levels. But in the current environment that wouldn't be, I think possible or at least not from a commercial point of view interesting.
+
+So as I just mentioned, most likely we would tap the market if the conditions are right, is there any plan for the next six months? No there is not. So potentially at the end of the year if the market has normalized then we would look for that senior non-preferred benchmark issuance.
+
+What we do regarding the cover pool, of course, we always manage it actively. That means we always take out NPL. So as you have seen we have €1 billion NPLs in US office new in 2023. Presumably some of that was in the cover pool that's always replaced and there is no NPLs in the cover pool, and of course also let's say we have to manage it according to all the other thresholds that have to be matched.
+
+Jérôme Legras
+
+My question was more on performing loans if beyond some kind of LTV threshold on performing most of the offices loan, you have to take them out even if they are not NPLs?
+
+Marc Hess
+
+To be honest, I have to clarify. So, we would like to come back to you. If you just call our IR partner, he will give you the answer right away. I'm aware of the policy regarding NPLs but we will clarify that.
+
+Jérôme Legras
+
+Okay. Thank you.
+
+Marc Hess
+
+Of course all the thresholds as I just said have to be met and the LTV on the pool is like 33.
+
+Operator
+
+The next question is from Jakub Lichwa from TwentyFour. Please go ahead.
+
+Jakub Lichwa
+
+Hi, there. Thanks for holding the call and the Q&A session. So, the first one is actually just on the timing of the sale for the US book. I mean obviously you're indicating Q1, we are nearly in March. Is this something
+
+Jürgen Junginger
+
+Jakub, there's a lot of background noise with you. We can hardly hear you.
+
+Jakub Lichwa
+
+Sorry, can you hear me any better now, just trying to manage.
+
+Jürgen Junginger
+
+Not really. We try, please just try slowly maybe we can chase.
+
+Jakub Lichwa
+
+Okay. So, what is the timing on the sale of the US book?
+
+Marc Hess
+
+Well, as we said that's time for now for the first quarter. I'm not saying that this may not take until the 15th of April, but we would certainly like to give you a positive message then with our Q1 results. So, it's time for now.
+
+Jakub Lichwa
+
+Okay. What is IPR on the new business at the moment?
+
+Marc Hess
+
+We will have a look. So let us check that. Maybe we take the next question and we come back to that still during that call.
+
+Operator
+
+Next question is from Alexei Lougovtsov [ph]. Please go ahead.
+
+Unidentified Analyst
+
+Good morning. Thank you very much for the results and encouraging guidance. I have a couple of questions. So, on the NPL formation €1 billion of NPLs that were added in the US last year, how did it happen? Were those loans maturing in 2023? Or did they going to nonperforming because of interest payment default and subsequent acceleration?
+
+And my second question is about the overall portfolio slide 10. 37% of loans classified as in Western Europe. Could you please provide more color on which countries are in Western Europe on that chart? And also, your exposure to Germany is quite low. Do you view it as a positive or a negative?
+
+Marc Hess
+
+Yes. Interesting question. I think in these days, we view it as a positive. I think you have all read that the German market is also under pressure. Also important from our side to stress, we are not financing any developments. Here you know that in Germany, there is particular -- stress in particular and we also do not have any signal exposure.
+
+So, when it comes to Western Europe, I can just give you the figures. It's Belgium €600 million, it's mainly France €3.7 billion. It's UK €5.3 billion. We have very little in Luxembourg, Netherlands €1.7 billion and then Austria and Switzerland, both €300 billion. So this is how Western Europe is comprised. Germany, as you have seen is then in addition €2.2 billion. So that was total commercial real estate, yes all the object classes.
+
+Unidentified Analyst
+
+Yes, yes. I understand.
+
+Jochen Klösges
+
+Yes. And regarding your question about the NPL evolution in the US last year, yes, so multiple things can happen that finally alone is qualified as an NPL. It's not really -- the trigger is not really -- is a loan due. It's more about is there an assessment that it's unlikely to pay -- then obviously, if it's 90 days past due, then finally if the client and the property together can't meet our cash flow requirements, meet the debt service cover requirements or in some cases we see then reach of covenants. And so all these events – events are monitored, valued and then negotiated with the clients. and – but there are clear rules when a performing loan has to be reclassified as an NPL and that is always also checked and tested by our auditors and by many involved parties. So I hope that answers your question.
+
+Unidentified Analyst
+
+It does. Thank you very much. It is very helpful.
+
+Jochen Klösges
+
+Thank you. Thank you.
+
+Operator
+
+The next question is from Paul Fenner-Leitao from Societe Generale. Please go ahead.
+
+Paul Fenner-Leitao
+
+Hi, team. Thanks very much for the presentation. I've got two kind of add-on questions to ones that have already been asked. On the issuance of NPS, you mentioned a loss given failure specifically. You've got a negative outlook at Moody's. It's been on for a while. Do you think the prospect of the issuance of that bond protect your A3 senior rating? Is that the idea? What are you hearing? What are the latest conversations with Moody's? Or is it a given that that gets downgraded? And could that change if you do get downgraded, before you issue this year? Does that mean that you're less likely to need to issue? Question number one.
+
+Question number two, is you've got an AT1 outstanding that you didn't call a couple of years ago, got decent regulatory capital position you're well above your subs, the bond is trading well below par. What are your – can you just update us on your philosophy around the potential call? And what's your appetite for liability management of that bond you could get a decent gain out of it? Thank you.
+
+Marc Hess
+
+Yes. Thank you for your questions. Well, of course, when it comes to Moody's, these are confidential conversations we have with them. So obviously, I cannot, let's say, talk about the discussions we have with them. Obviously, as I just said, we would like to place a senior non-preferred still this year at the end of this year in order to support the subordination and therefore to keep the up-notching.
+
+I think that's somehow independent from the yearly revenue of the rating that will take place, let's say on a regular basis here. As you know, we have a negative outlook now for I think more than two years. On the one hand, obviously the situation on the US office market is difficult, that weights on commercial real estate finances that weighs on us.
+
+On the other hand of course, we have today presented from our point of view a decent set of figures. I think we have provisioned comprehensively on the one side. We have certainly shown very good momentum on the revenues. Costs are under control. Liquidity is – has substantial buffers, very solid level of our CET1. And we think this should all be reflected. And hopefully, we can keep our A minus rating here with Moody's. This is certainly what we are working on.
+
+With regards on the AT1, what's our philosophy? Well you've seen we have not called them last year. We didn't call them the year before. That was always quite difficult market environments. We are still in a difficult environment. I mean last year remember there was -- exactly at this point in time there was Credit Suisse. There was the US regional banks. The year before Russia just invaded the Ukraine. The year before COVID started so very difficult market environment. This year, well we are still talking about US and you have seen the elevated spreads on AT1. I mean, it's very clear if we call it we have to replace it. So would you, let's say, advisers to do it now? Probably not. We have not taken the decision yet but I think you can read my words here.
+
+Paul Fenner-Leitao
+
+Thank you.
+
+Operator
+
+The next question is from Anke Reingen from RBC. Please go ahead.
+
+Anke Reingen
+
+Yes. Thank you very much for taking my question. Two more simple questions. First is -- with respect to there have been a few articles or comments that the regulators to provide focusing is on commercial real estate. Do you expect that might accelerate potentially on the pace at which you have to take provisions anything on capital requirements or higher risk ratings? Or what could be the implications be given that there seems to be some focus.
+
+And then with respect to US commercial real estate, what do you think will sort of like eventually stabilize the market? Or is the oversupply? Or is it rates coming down? Is it just time? Just that would be great if you can maybe just shed some light on your thinking. Thank you very much.
+
+Jochen Klösges
+
+Yes. So let me take these questions. So when you -- when you talk about the regulator you know that we are regulated by ECB [indiscernible] bank and BaFin. And we are in constant talks with them in each and every situation. So this is something which is for us as usual. And obviously when something extraordinary happens then we provide them with extra reports and have conversations that is for us currently -- this is as usual and they are obviously following in the picture about everything that's going on here. So nothing really extraordinary for me to mention today about that.
+
+And then, yes, what could stabilize the markets. Again I'd really like to emphasize again, If you're talking about Europe, if we're talking about logistics, if we're talking about hotels, if you're talking about retail that all is stable. As I mentioned, we saw no issues currently within these parts of our portfolio. We're still talking about the US office portfolio.
+
+And for me I guess the next important step is that everybody will gain some confidence that we will not see further increasing interest rates that basically we all get a grip on inflation rates and that everybody can then now calculate in a much better and sustainable way what are the key parameters for future investments. That's currently very important.
+
+Second point is obviously that we do not currently see any new projects coming to the market that was stopped already in 2022 and which each and every quarter which not provides new property to the market. Finally, supply will decrease and will then find a better balance in terms of supply and demand in the future.
+
+And thirdly, even in the US we see an increasing trend again for people going back to the offices. When you talk to our colleagues in the US last spring or summer everybody was pretty much convinced, okay, most people would like to spend as less time as possible in the office. Now we see increasing numbers. People are coming back to the offices and not only, because the employer is asking for that, because also people would like to be back in the office. So these are the trends, which needs to stabilize. And then we're going to see a stabilization of the whole market, again, but forecasting when will be the turning point. This is the $64,000 question currently, which I unfortunately can't really answer.
+
+Anke Reingen
+
+Thank you very much.
+
+Jochen Klösges
+
+Welcome.
+
+Operator
+
+Last question of today is from [indiscernible]. Please go ahead.
+
+Unidentified Analyst
+
+Hi. Good morning. Just one question. Most of them have been answered. What is the average cost of your new deposits in 2023? Like what kind of rates are you paying for those deposits? Thank you.
+
+Marc Hess
+
+Well, if you're talking about the BDS deposits, we wouldn't disclose that, because this would finally then, let's say, disclose our total margins and everything. So please -- hope for your understanding that we wouldn't -- when it goes to Raisin, of course, you can see the current prices that we pay on their platform for each and every time band. So I think that's very transparent.
+
+Jochen Klösges
+
+And let me add about the BDS deposits. Of course, we are in a competitive environment. Our customers -- our corporate customers, of course, they know what are the market conditions and we need to manage that. And this is true for each and every bucket of the deposits. So I would say nothing which really differentiates us from other banks everybody here in a more and more increasing environment in terms of clients asking for higher interest margin for deposits. That is something which is I guess in development which is -- which was expected.
+
+Unidentified Analyst
+
+Right. So but the -- like from what you said this should be comparable to the kind of interest rates you're offering on your platforms currently. I mean, there shouldn't be much huge differences.
+
+Marc Hess
+
+Well, on the platform it's basically term money. As we stress more than 90% has more than two years. Obviously, when it comes to the BDS deposits, a large part of that more than €5 billion is current accounts. Typically, you don't pay any interest on current accounts. There is overnight money here obviously that is very close to market to short-term rates there is more longer-term accounts. So it's a mixture. Yes, it's a mixture.
+
+Unidentified Analyst
+
+Okay. Okay. Thank you.
+
+Jochen Klösges
+
+So I guess no further questions. Thanks everybody for attending this conference call. We hope that we answered all your questions. If there are further questions, don't hesitate to call Jürgen and his colleagues. They will come up with follow-up answers. So we wish you all a further good start into this year and thanks for participating. Thank you very much and bye-bye.
+
+Marc Hess
+
+Thank you. Bye-bye.
+
+Jürgen Junginger
+
+Thank you. Bye.

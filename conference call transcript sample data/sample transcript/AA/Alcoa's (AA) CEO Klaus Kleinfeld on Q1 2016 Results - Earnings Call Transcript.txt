@@ -1,0 +1,662 @@
+Alcoa, Inc. (NYSE:AA) Q1 2016 Earnings Conference Call April 11, 2016 5:00 PM ET
+
+Executives
+
+Matthew Garth – Vice President of Financial Planning & Analysis, IR Contact
+Klaus Kleinfeld – Chairman and Chief Executive Officer
+William Oplinger – Chief Financial Officer and Executive Vice President
+
+Analysts
+
+Evan Kurtz – Morgan Stanley & Co.
+Curt Woodworth – Credit Suisse
+David Gagliano – BMO Capital Markets
+Justin Bergner – Gabelli Asset Management
+Anthony Rizzuto – Cowen & Co.
+Josh Sullivan – Sterne Agee
+Chuck Bradford – Bradford Research
+Justine Fisher – Goldman Sachs & Co.
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the First Quarter 2016 Alcoa Earnings Conference Call. My name is Shannon, and I will be your operator for today. As a reminder, today's conference is being recorded for replay purposes.
+
+I would now like to turn the conference over to your host for today, Matthew Garth, Vice President of Financial Planning & Analysis, and Investor Relations. Please proceed
+
+Matthew Garth
+
+Thank you, Shannon. Good afternoon, and welcome to Alcoa's first quarter 2016 earnings conference call. Let me begin by apologizing for the late distribution of the press release. Our newswire provider network went down, so we distributed the release as quickly as we could.
+
+I'm joined today by Klaus Kleinfeld, Chairman and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Klaus and Bill, we will take your questions.
+
+Before we begin, I'd like to remind you that today's discussion will contain forward-looking statements relating to future events and expectations. You can find factors that cause the company's actual results to differ materially from these projections listed in today's press release and presentation and in our most recent SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release, in the appendix to today's presentation and on our website at www.alcoa.com under the Invest section. Any reference in our discussion today to historical EBITDA means adjusted EBITDA, for which we have provided reconciliations and calculations in the appendix.
+
+With that, I'd like to turn the call over to Klaus.
+
+Klaus Kleinfeld
+
+Very good, Matt. Thank you very much.
+
+So, in the usual fashion, let me characterize the quarter solid performance, strong productivity separation on track. We have for your digestion actually separated out the Arconic as the new value-add company will be called, and new Alcoa gives you a better taste for the future two firms.
+
+Let's start with the Arconic segments. Revenue, $3.3 billion, down 2.2% overall. Now this is really a combination of the growth of 6.7% predominately acquisition related and a decline of 8.3% from metals and FX changes and also minus 0.6% from divestitures or closing of operations.
+
+Profits are up 8%. Record adjusted EBITDA margin of 16.4%. If we then go down into the segments: Global Rolled Products, profit up 26%, the EBITDA margin per metric ton probably the best measure of how they are doing, $374. And if you include the Warrick, cold metal plan, it would have been even at $390 per metric ton.
+
+Engineered Products and Solutions, record first-quarter revenues, record first-quarter profits, up 4%. Transportation and Construction Solutions up 3% profitability, and record first-quarter adjusted EBITDA margin of 14.9%.
+
+Good news also, we've been able to secure supply agreement with Airbus for 3D-printed titanium parts for Airbus on the plane. So, this is obviously also indicating important future business opportunity. We've been able to secure multi-year $1 billion industrial gas turbine contract, the largest IGT contract to-date. We have been able to sell Remmele Medical proceeds of $102 million. $179 million of productivity plan of $650 million in 2016.
+
+Global Rolled Products, Transportation and Construction Solutions are on track to meet their three-year targets. And we have set a new goal for EPS that will better reflect the aerospace market and the Firth Rixson performance. And obviously, we'll go into it and I'll talk to this in detail in my presentation.
+
+So, then, when you go to the new Alcoa segments, third-party revenues of $1.7 billion, down 32%. This also is a combination of growth of 4.5%, offset by 26% to lower prices and FX and another 10.6% to the curtailment and closures of operations. Both segments are profitable.
+
+We've been able to sign a $350 million third-party bauxite contract. Ma'aden, the refinery, is now at 80% nameplate capacity. We've been able to curtail, fully curtail, we are able to fully curtail Point Comfort by the second quarter. Warrick smelter is closed. $175 million of productivity, plan is $550 million in 2016. We've sold the natural gas pipeline, our stake in it, in Western Australia for $154 million. And we are on track to meet our three-year targets, which is a cost-curve target to get down to 38% of aluminum and the 21st percentile for Alumina. And as a third point, separation is on track.
+
+So, with this, let me hand over, Bill, to you.
+
+William Oplinger
+
+Thanks, Klaus. As we usually do, let's review the income statement.
+
+First quarter 2016 revenue totaled $4.9 billion, down approximately 15% year-over-year. Organic growth and growth from the recent acquisitions was offset by lower Alumina and metal pricing and the impact of divested and closed businesses.
+
+Cost of goods sold percentage decreased by 230 basis points sequentially, largely due to productivity gains. Overhead spending increased year-over-year, primarily as a result of costs related to plan separation of the company and the acquisition of RTI.
+
+Other expenses of $34 million were related to the results of our Ma'aden joint venture and unfavorable currency translation. First quarter effective tax rate of 73.2% was primarily due to non-deductible separation costs and tax associated with an asset sale and discrete tax items in the quarter. Excluding these impacts, our operational rate was 32%.
+
+Overall, net income for the quarter was $16 million or $0.00 per share. Preferred dividends were $18 million in the quarter, which reduced EPS by $0.01 per share. Excluding special items, net income was $108 million or $0.07 a share.
+
+Let's take a closer look at the special items. In the quarter, we recorded after-tax charges of $92 million or $0.07 per share primarily related to restructuring and separation costs. Restructuring across the business included accelerated depreciation of the Warrick smelter, costs from the Wenatchee and Point Comfort curtailments, and headcount reductions associated with lower market demand largely in the aerospace businesses.
+
+In the EPS segment, we've reduced 600 positions in the first quarter and have a plan to reduce an additional 400 positions this year. Also, given the current market environment, we're evaluating a further reduction of up to 1,000 positions.
+
+Portfolio transaction costs stem from work being done separate the company. Note that roughly 75% of the restructuring-related charges are non-cash.
+
+Now let's look at our performance versus a year ago. First quarter adjusted earnings of $108 million were down $255 million from the prior-year quarter, driven largely by the drop in Alumina and metal prices. Lower prices predominantly related to new contracts that have been signed over the last year drove a negative impact also. However, strong productivity gains in all segments contributed $232 million in savings, which more than offset $80 million in cost increases. The largest driver of these cost increases were costs associated with our recent exits in the upstream business as well as increases in labor and benefits.
+
+Now let's move to the segment results. GRP turned in another strong quarter, as growth in automotive sheet shipments and solid productivity gains were partially offset by spending on growth projects and utilizing cold metal at the Warrick facility after the smelter shutdown. As Klaus alluded to, EBITDA per ton was $374 a metric ton or $390 a metric ton excluding the costs associated with the Warrick curtailment, well above the three-year target of $344 a metric ton.
+
+As we look to the second quarter of 2016, we expect GRP's performance to reflect the following factors: strong automotive sheet shipments; lower commercial transportation build rates; and $15 million of costs after-tax to secure metal as a result of the Warrick smelter curtailment. Overall, ATOI for the segment is expected to be up 5% to 7%, excluding the Warrick impact.
+
+Let's move to EPS. EPS posted record revenue for the first quarter, driven by the inclusion of RTI, now known as ATEP, Alcoa Titanium and Engineered Products. ATOI was $162 million for the quarter, up 4% versus the prior year. ATEP contributed $17 million in ATOI, which is ahead of our business case estimates. Firth Rixson delivered ATOI of $11 million and an EBITDA of $34 million.
+
+On an operational basis, after-tax productivity gains in the segment of $66 million more than offset cost increases of $39 million and growth projects spend of $15 million. As I mentioned in the overall Alcoa Bridge, the unfavorable price mix is mainly in our base aerospace segments. Klaus will spend some more time talking about the performance drivers in EPS here shortly.
+
+As we look to the second quarter, we expect the aerospace market to remain solid. However, it'll be tampered by declines in legacy program deliveries, careful new program ramp-ups and inventory management at OEMs. We expect to gain share through innovation and continue to drive productivity across all businesses amid pricing pressures. Overall, for the second quarter, we anticipate ATOI to be up 5% to 10% year-over-year.
+
+Now let's move to TCS. TCS first quarter revenue declined 9% year-over-year, driven by the North American heavy-duty truck market and the relatively weak Brazilian market. ATOI for the first quarter was $39 million, up slightly versus the prior-year quarter as productivity gains more than offset currency, the market headwinds and cost increases.
+
+As we look to the second quarter, we expect improvement in the North American non-residential construction market with sustained levels in Europe, continued softness in the North American heavy-duty truck market offset by European improvement, continued weakness in our Brazil operations stemming from the current economic environment. However, the second quarter ATOI is expected to be flat year-over-year as strong productivity gains counter these factors.
+
+Let's now move on to Alumina. Sequentially, the Alumina segment was heavily impacted by declines in API pricing, which fell another 19% on average this quarter. Strong productivity at our operating locations and improved mix of smelter grade shipments priced on API helped to partially offset these pricing headwinds. We've ramped down our Point Comfort refinery, which is currently operating on one digester and we will be fully curtailed in the second quarter. Preproduction, however within our system, will offset the Point Comfort decline yielding flat production sequentially.
+
+As we look forward to the second quarter, API pricing, as it usually does, will follow a 30-day lag; an LME pricing to follow a 60-day lag; continued expansion of third-party sales of bauxite, as Klaus alluded to, we recently signed a large bauxite contract; benefit from acceleration of our productivity program. ATOI is expected be up $15 million excluding impacts of pricing and currency.
+
+Let me turn to Primary Metals. Primary Metals' first quarter ATOI improved by $54 million sequentially due to very strong productivity improvements and further declines in Alumina costs. The closure of the Warrick smelter was completed in the quarter. Looking forward to the second quarter, we expect production will decrease 50,000 metric tons because of the Warrick closure. Pricing, as it usually does, will follow a 15-day lag to the LME; and energy sales will continue to decline. With our accelerated productivity program and favorable raw material costs, we'll more than offset these headwinds. In this segment, ATOI is expected to be up $10 million excluding the impacts of pricing and currency.
+
+Before I move on to working capital, let me summarize the second quarter guidance. GRP up 5% to 7% excluding the Warrick cold metal plan, EPS up 5% to 10%, TCS flat in tough market conditions and the Upstream up $25 million excluding pricing and currency impacts.
+
+Take a look at working capital. DWC increased 14 days year-over-year. Acquisitions, mainly ATEP, drove 10 days while the organic business increased by four days. In the organic portion of the business, the increase of four days is almost entirely related to the ramp up of our automotive sheet business and new growth programs in EPS.
+
+We move on to the cash flow statement. Cash from operations was negative $430 million for the quarter, leading free cash flow of negative $681 million. This reflects our usual seasonal increase in working capital as well as annual incentive compensation payments, semiannual interest payments and the third to five annual DOJs and SEC settlement payments related to the Alba case.
+
+This quarter, we contributed $70 million of cash to the pension plan. One question we often get asked is, whether the pension expense sits in the segments or in corporate? So I'll take a second to clear that up. Pension expense associated with the active employees and retirees from existing businesses is included in the respective segment. Pension expense associated with sold, closed businesses or corporate employee sits in corporate.
+
+Capital expenditures for the quarter were $251 million with $123 million related to return seeking projects. We ended the quarter with $1.4 billion of cash. We've also announced the sale of a few assets to increase our cash position, so let me take a look at those in more detail.
+
+As you can see from this slide, we've initiated the sale of non-essential assets as part of our actions to strengthen liquidity. During the separation process, these include both Upstream and future Arconic assets. We've announced the sales of our stake as Klaus alluded to in the Western Australia pipeline. And ATEP's medical device business and have already closed on the pipeline deal.
+
+In addition, we are redeeming the corporate-owned life insurance program, which was set up a number of decades ago. Those sales generated $234 million in the first quarter with approximately $270 million more expected in the second quarter.
+
+So, if we move to the balance sheet, we ended the quarter with $1.4 billion in cash on hand and debt at $9.1 billion, resulting in net debt of $7.7 billion, slightly higher than our position last year at this time.
+
+Now let's take a look at the aluminum market fundamentals. We're revising our 2016 global demand for aluminum from 6% to 5% with consumption on pace to reach 59.7 million metric tons. The slight decline in demand is from two key markets, China and North America. Chinese growth is being reduced to 6.5% versus our prior forecast of 8% due to slower growth in the construction and electrical segments. North American demand growth is being reduced to 4%.
+
+However, at the same time, we've seen a reduction in supply leaving our 2016 deficit projection largely intact. Aluminum supply growth is projected at only 2% year-over-year. At approximately 3% supply growth, China's net supply growth rate is the lowest it has been since the global financial crisis. Even out of China, we see the majority of growth coming from Asia while North America has curtailed significant production putting the rest of the world on track for 1.5% supply growth in 2016.
+
+So the net impact is a global deficit of aluminum of approximately 1.1 million metric tons, with the rest of the world in deficit by nearly 2 million metric tons and China in surplus. Global inventories on a days of consumption basis have fallen both year-over-year and versus last quarter, and we expect them to continue to fall due to the global deficit this year. Premiums seem to have stabilized with all three of the major global premiums currently above their low points from the fourth quarter.
+
+If we move to the Alumina market, the 2016 Alumina market is also in deficit of approximately 1.4 million metric tons. However, this is a large revision from our prior estimate of 2.2 metric tons. The lower deficit is predominately the result of lower demand due to smelting as I alluded to on the smelting side and Chinese refinery restarts.
+
+Similar to aluminum, Alumina demand growth is projected to outpace supply growth globally in 2016 moving the market from the 2015 surplus to a projected deficit. The prices responded to the improving fundamentals, recovering almost $50 per ton since the lows we experienced at the beginning of the year.
+
+Now let me turn it back over to Klaus.
+
+Klaus Kleinfeld
+
+Well, thank you very much, Bill. So, why don't we start with a look into the end markets that are most relevant for Arconic and also for a new future Alcoa. I'll start with aerospace.
+
+Aerospace, we project 6% to 8% growth this year. This is a little lower than our 8% to 9% that we saw for this year earlier in the year. We see that the market is going through a transition given an unprecedented level of new model introductions. And we are seeing lower orders due to that for legacy models and a careful ramp up of the new models.
+
+Large commercial aircraft deliveries stand at 9%, plus 9%. The jet order book is bigger than nine years of production, and we actually see solid airline fundamentals from passenger miles demand to the cargo demand. Airline profitability is expected to hit a record this year. The global trend is also fully intact with the middle class as well as urbanization and the cancellations are below the five-year average and below 2% of the gross order book.
+
+Let's go to automotive and let's start with North America. We believe a 1% to 5% growth. This confirms our earlier view. Production is up 7.4%; strong sales 3.1%; sustained demand, also, we see the average age of the vehicles of 12 years and older is increasing. So, kind of pent-up demand showing in there. Stable inventories were 65 days. The average transaction price is up 2%. So all of that are pretty good news in that market in North America.
+
+In EU, automotive in EU rising production of 1.9%, in the west, 4.3%, offset by minus 14% in Eastern Europe. Strong registrations, over 10% and exports expected to increase by 6.9%. China production is recovering, plus 3.9%. We expect for the full year 2% to 5% and then sales plus 4.1% year-to-date and minus 1.3% year-over-year.
+
+So, let's go to the next segment, the heavy-duty trucks and trailer. North America, we already had a pretty bleak outlook for this year. And originally said minus 19% to minus 23%, it looks even worse than what we saw before. Granted it comes off now a high base of last year. So, we minus 23% to minus 27%. Production is down 19%. Weak freight growth demand. Weak order is down 42%. Inventory is climbing, 15.6%, it now stands at 66,800. The 10-year average is 47,400, so, gives you a feel for it. The order book is falling. It stands currently at 131,000. This is still bigger than the historic average of 101,000, which is reflective of the strength that we've seen in the previous year there.
+
+So, Europe, we actually think that it's also a little slower, 1% to 5%. We originally thought it would be 3% to 7%. We see strength in Western Europe. Production is up 20%. Registrations are up almost 22%. At the same time, we see a decline in Eastern Europe down 8.6%, mainly driven by the two big markets, Russia and Turkey. And China, sales are up 26.8%. Production is turning, slowly turning. Remember, our effect at end of 2014 was a change in the emissions standards there.
+
+So, packaging, no news on all fronts. We believe North America, minus 1% to 0%. Europe, 1% to 2% growth; China, 5% to 8% growth.
+
+Then on building and construction, North America, 4% to 6% growth. We see the non-residential contracts awarded at just 4.7%. Architectural billing index relatively steady. Housing starts at 10.6% plus. Europe, we believe, is going to be between 0% and minus 2%, flat to slight decline obviously very substantial depending on what country in Europe you look at. China, plus 3% to 5% we see there.
+
+And last segment here, industrial gas turbines. We see a growth of 2% to 4%, actually stabilizing strongly driven by the new high efficient turbines with advanced technology. Heavy-duty gas turbine orders up 12% that's pretty nice. And the 60-hertz gas-fired generation market is up 18.5%, also strong demand for spares and component upgrades.
+
+So, that actually concludes the part of the end market. So let's now go over to look at the business side, and let's start with what we call, future Arconic or value-add businesses. So, let's talk about the first quarter performance and the outlook for the second quarter and then for the full year. This is a unique year because, early as you know, we don't give a full year guidance at this time of the year, but this is the final year of this time three-year target. So, we put this in here to give you an overview on that.
+
+So, on GRP to start with the first one, auto shipments up 38%; strong productivity. You can see the mix is changing in the portfolio. We also believe in the second quarter that the profitability is going to be up 5% to 7% year-over-year. And we are confirming our target, which is $6 billion to $6.2 billion of revenues and $344 per metric ton or above profitability, right.
+
+On TCS, we have seen a record first quarter with an EBITDA margin of 14.9% in spite of the headwinds obviously that our wheels business has been facing through the heavy-duty trucks and trailer business that I just mentioned, very, very good performance. Our outlook for the second quarter is pretty much because of that flat year-over-year, and we are confirming the target of $2 billion to $2.2 billion revenues and a 15% return on that.
+
+EPS, we've seen a record first quarter. We've seen an EBITDA margin of 21%. And we will see more about ATEP, our former RTI, that's ahead of what we planned. And Firth Rixson is progressing but behind, and I'll talk more about this in depth. We are, as the second quarter outlook saying, this is going to be up 5% to 10%.
+
+As you remember, our three-year target was at $7.2 billion revenues with a 23%. We are lowering this target and putting out a new goal, and I'll go in-depth into this to explain what the situation is there. And the new goal is $6 billion to $6.2 billion in revenues and a profitability between 21% to 22%.
+
+So, let's give you more details so that you can reconcile the old to the new target. And I would actually encourage everybody who has a chance to look at the slides, to look at the slides so that you can actually follow these buckets in the best possible way, right, because I think you want to understand what's really going on there.
+
+So let's start here on the revenue side. In the revenue side, I mean, we're coming down from $7.2 billion to $6 billion to $6.2 billion. We already said at Investor Day compared to when we put the target up, I mean, the exchange rate has changed. That alone has an impact on the revenue of roughly $200 million. Then comes the aero industry headwinds that we've seen here, and that is an impact of roughly $500 million.
+
+The non-aero headwinds, which is mainly the off-highway segment and the mining segment here as well as oil and gas, adds another $200 million revenue headwinds. Then the lower performance of Firth Rixson, another $300 million. And then there's a positive one of $200 million of share gains. So that pretty much explains why we have set this target and what has been happening in there.
+
+So let's now go to the right-hand side, and do exactly the same things on the profitability side, right? So, on the EBITDA side, so, you've seen what we're doing. And on the right-hand side, I mean, what this shows here is, what are we planning to do to get to the new target which is $1.260 billion to $1.360 billion, which is basically a margin between 21% and 22%. So, we're focusing on those things that we can control very strongly. So, productivity, we expect to have at $400 million then we have a counter-position to that which is cost increases of $280 million.
+
+But if you look at the character of those cost increases, this is not all bad because the majority of that really is costs that are either ramp up costs for organic growth like our aluminum lithium facility in Lafayette or the move to low cost countries where we basically invest in bringing this over there and will substantially reduce our cost going forward here.
+
+Then competitive pricing, that also shouldn't be a surprise. You know how the customers are beating down on everybody in the aerospace industry here. At the same time, you've seen that we have been able to win 10 billion of new contracts. So, we had to give about $100 million of pricing. At the same time beneath that, you actually see that there's also already in this year a positive part with the share gains that we're getting there, roughly $60 million. And then obviously a big positive. I mean, and obviously more important to be on the platform than not to be on the platform. And then, at the last point is, we see a full year of RTI in here, which we call ATEP now. We're substantially ahead of plan and that add to another $110 million.
+
+So, let's go to the next slide and let me address Firth Rixson because that's where a lot of questions obviously are coming from you all. This is clearly behind our original expectation. And this has been impacted by market headwinds, the press outage and the isothermal ramp-up. And I referred to those things already in previous conversations, but let me put some numbers around it.
+
+But before I do that, let me update you where these things stand. I mean, the press is back online and in isothermal, we are also seeing additional demand. We're pursuing this. The qualification of existing contract continues. We believe that the production shipments will start in 2017.
+
+All included that said, our 2016 revenue guidance comes down from our plan from $1.6 billion to $1.1 billion to $1 billion (sic) [$1 billion to $1.1 billion] (28:53), with a margin of 14% to 16% and an absolute EBITDA of $150 million to $170 million.
+
+So, if you now go to the yellow box here in the upper-left corner, you actually see that and that's a bit of a good news that we are making progress here. Because if you compare the first quarter 2015 with the first quarter now, you're actually seeing profitability is up from 11.6% to 14.3%.
+
+So, let's also spend a minute on how do we get to this performance, and so that we better understand, I mean, what goes into achieving this new 2016 goal. And again, the focus is on those actions that we have full control over ourselves. So, it's no surprise, I guess, for you that you see a big chunk of that being productivity and another chunk of this being actions by management like exiting unprofitable product, entering new engine platforms, optimizing available capacity, right? At the same time, there are some headwinds and these headwinds will remain and we talked about that.
+
+So, we have improved the performance as you've seen, but we are clearly behind. And if I were to quantify that, I'd probably say, probably by about two years behind here. So, keep in mind at the same time, the Firth Rixson acquisition is not about a quarter or a year. The Firth Rixson acquisition you have to see in light of what it is doing for Arconic. It is an important cornerstone for our aerospace present. It is allowing us already today to have a full product suite for the jet engines. This has positioned us on a very different level via our jet engine as well as our industrial gas turbine customers.
+
+So, let's also now go and talk about another substantial acquisition that we did last year, which is RTI or as we call it today, ATEP. So, the integration is going very well. The performance is up, and it's ahead of plan. If you look here on this slide on the left-hand side, this shows the pre-acquisition EBITDA and EBITDA margin. And the margin has been around 14%. If you now look to the right-hand side and look at the first quarter performance of former RTI now ATEP, the profitability has been increased to 18.7%.
+
+What have we done? We've been able to accelerate our synergies. We are probably a year ahead, and we've been able to gain share. All of this together has allowed us to overcome the market headwinds that we've also seen here. So, therefore, we feel comfortable with our target for this year that you see on the right-hand side here. So, basically, be able to get 17% to 19% margin and generate $135 million to $160 million of EBITDA in 2016. And just to make this complete, our search but much smaller acquisitions from TITAL is fully on track.
+
+You have seen in this quarter the excellent performance of GRP. We have consistently and continued to shift to higher margin, higher value product in GRP. One of the questions that I've been receiving from some of you is, why don't we see more of this and faster. And I want to provide some color so that you see what is really going on in this.
+
+So, therefore, here on the left-hand side, you see the measure for profitability in this business, is basically the conversion margin, EBITDA per metric ton, right? And we've broken out here GRP into really two segments, packaging and the aero, transportation and industrial which is basically the rest. So, you see what's been happening. A massive decline in profitability in packaging, minus 55% in the timeframe that we've chosen here, right.
+
+At the same time, as we are doing portfolio actions and selling and closing rolling mills as well as auto ramps up, we've been able to increase the aero, transportation and industrial segment, the profitability by 62%. And the good news is and that's what you see on the right-hand side, auto will continue to grow in the coming years.
+
+So, we very much push for constant productivity. And that is what we can control and as you know that's much needed in light of the headwinds. So, the good news is, if you look at the left-hand side here, at Arconic, we currently have 11,644 actions underway for this year, right? And the actions so far have generated $179 million of productivity by the end of the first quarter. The target is to get up to $650 million of productivity by 2016, and I think we're well on track to do that.
+
+The same good news is true for the future new Alcoa. Future new Alcoa has achieved $175 million of productivity, target is $550 million and there are 5,518 actions underway to get to that target. So also well deployed as we would call it. So, let's also look at new Alcoa, our upstream business.
+
+We're driving down the cost curve and we're meeting the three-year targets. Alumina curtailed Point Comfort, will be curtailed Comfort this quarter. Saudi Arabia 80% at nameplate capacity, Suralco curtailed. Good productivity. Outlook up $15 million with constant pricing and currency for the second quarter, and we are confirming the target to come down to the 21st percentile by the end of the year on the cost curve.
+
+Aluminum, Warrick smelter closed. Wenatchee curtailed. Record low cost per ton in Saudi Arabia. Good productivity. In the second quarter, we believe profits will be up by $10 million, again, assuming pricing and currency constant. And we are confirming our cost curve target to come down to the 38th percentile by the end of the year.
+
+So lastly, let me update you on the separation. We are on course for the second half of 2016. There's a lot of detailed work going into separating a 120-year-old firm. Very exciting, but I would say, the most interesting thing for you out there has probably been the launch of our new value-add name and the refresh of our core brand, which we should see on page 14. There it is, for those that haven't seen that yet.
+
+So let me summarize this, we're putting all upstream levers. Arconic is geared for profitable growth, substantially in aero and auto we see traction there. Robust business improvement programs underway. And we are on track for the separation in the second half.
+
+So, with this, I turn it over to the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Evan Kurtz from Morgan Stanley. Your line is open. Please go ahead.
+
+Evan Kurtz
+
+Hi. Thanks, everyone. Thanks for taking my questions. Just a quick one on the aerospace. It seems like the market might be weakening a little bit. I was wondering how you protect yourself from that. Do you have any sort of minimum requirements contracts where you get some sort of take-or-pay penalties, if they dip below a certain amount in a given year?
+
+Klaus Kleinfeld
+
+The contracts vary substantially, but typically, I mean, the way this works is, you get certain components on a jet engine or on a plane platform and then it all depends on how much this sells. And typically, I mean, if it doesn't sell, you don't get it. If it sells more, you get more. That's really how this works.
+
+Evan Kurtz
+
+Okay. So, if they were to cut production schedules more that would be kind of a one-for-one relative to kind of your revenue in aerospace? Is that how to think about it?
+
+Klaus Kleinfeld
+
+That's exactly how you have to think about it, but what you are seeing here is, is a little bit of a different phenomenon. I mean, they are very carefully ramping up the new platforms. And that's, I think, a very responsible behavior on their side because there's a lot of new technology in the jet engines as well as in the structures. So, they are carefully ramping it up so that they are not spreading the goods all over the planet and then if there are maintenance issues, they have an issue. So, I see it rather than a stretching out because the demand, as you can see by what I just talked about on the end market, demand continues to be strong, right, and you have a nine-year auto book and there's almost no cancellations and the fundamentals are strong, right? So that's what's happening in the market.
+
+Evan Kurtz
+
+Great. Thanks for that. And then my follow-up is just on the bauxite opportunity. Nice to see the $300 million third-party sale. I was hoping you can seize the opportunity there. How much spare bauxite capacity do you have? I assume with some of the refineries down that you can go above and beyond that, but any sort of quantifying, that would be helpful.
+
+William Oplinger
+
+Yeah. We have curtailed Point Comfort. We've curtailed Suriname. And so, any additional bauxite that we're getting out of the system, we're selling into the third-party market. And so, the size of that deal that we just recently announced is $350 million over a couple of years. And we're looking to grow our third-party bauxite business.
+
+Klaus Kleinfeld
+
+Well, the nice thing is with the mining, it's much easier to increase your capacity as well as to slow down your capacity. This is not like, I mean, in a refinery or in a smelter where you have, I mean, certain increments. I mean, in a smelter, you basically can typically only do half a line and in a refinery, it's one, it's a digester that's a unit that you can bring up or down. In a bauxite mine, it's much, much easier. And you can ramp it up and ramp it down much faster. You leave it in the ground, we're still on aerospace. You leave it in the ground if there's no demand and you bring it out. And frankly, I think we did not limit it by our own capabilities. We have one of the largest bauxite reserves.
+
+William Oplinger
+
+We have one of the largest bauxite reserves, and we're the largest bauxite miner. So, we mine around 45 million metric tons a year and looking to get bigger in the third-party market.
+
+Klaus Kleinfeld
+
+Yeah, exactly.
+
+Evan Kurtz
+
+Great. Thanks, everyone.
+
+Klaus Kleinfeld
+
+Well, thank you, Evan.
+
+Operator
+
+Your next question comes from the line of Curt Woodworth from Credit Suisse. Your line is open. Please go ahead.
+
+Curt Woodworth
+
+Hey. Good afternoon, guys.
+
+Klaus Kleinfeld
+
+Hello, Curt.
+
+Curt Woodworth
+
+My first question is just on the guidance at Firth Rixson. When you look at it relative to your initial guidance say 18 months ago, you're off almost $190 million of EBITDA. And you commented that you think that you're two years behind your initial plan. So, I guess, the question is, how much of the miss is on the isothermal piece? And then, when you say you're two years out, does that mean you still think you can hit that initial target you outlined for the $1.6 billion of revenue and the $350 million of EBITDA?
+
+Klaus Kleinfeld
+
+Well, the good news on the isothermal, I mean, we have structured the contract in such a way that we have a performance clause in there. This is not directly for the isothermal alone, it's for Savannah, and that was more for practical purposes how to calculate that. And that's $130 million if I recall that correctly. So that's a performance part in the purchasing agreement with the seller, right? So, in case that doesn't happen, I mean, we would not have to pay that.
+
+William Oplinger
+
+Yeah. It's $150 million earn out that we...
+
+Klaus Kleinfeld
+
+Exactly, exactly. So that's the good news there. The other thing is on isothermal, as I mentioned before, it is coming up. The qualification is underway. And we have had additional requests from customers, which we're currently working on securing, right, which obviously allow us to improve the utilization of the isothermal press. But we knew from the start on that isothermal it's a very, very complicated technology and that's why we did the earn out because we knew that there was a risk in it from the start on. But again, to be clear the earn out is on Savannah in total not just on isothermal.
+
+And then the question you mentioned here, the second part of your question, will we get it in two years? Frankly, I mean, after our recent experiences I would re-leave it as I described it. I mean, we're two years behind and I would say we'll work on it. And the other plan which is something that I shared with some of you already but let me share it here, we are planning the moment we are separating the two companies, we will be coming out with new three-year or multiyear, let me put it this way, multiyear target.
+
+So, by that time, so in the second half of the year, you will also get much more clarity on the longer term for both companies, and we will also come out with the measurements that are more in tune with the two types of businesses that you will be seeing, a commodity business as well as the high-performance technology business. We've been talking to quite a number of investors, and we're currently in the process of getting kind of the investor matrix lined up.
+
+Curt Woodworth
+
+Okay. And then as a follow up, just on the packaging business you said that profitability is down about 55%. It's not clear what the timetable is on that chart, but it looks like [indiscernible].
+
+Klaus Kleinfeld
+
+Timetable is very simple. It starts basically with the year...
+
+William Oplinger
+
+2011.
+
+Klaus Kleinfeld
+
+2011. We put the 2011 at 100% and then you see how it is going from there, right?
+
+Curt Woodworth
+
+So, following 55% roughly in, say, two years, do you think that's a structural change and how much of that – and, A, do you see a bottoming? And is it a combination of, say, scrap spreads narrowing and pricing pressure or mix and do you think you can turn that around at all since [indiscernible]?
+
+Klaus Kleinfeld
+
+Yeah, it looks on the chart as those two years, but in reality it's four because we only showed 2011 through basically early 2016.
+
+Curt Woodworth
+
+That's been pretty flat the first year.
+
+Klaus Kleinfeld
+
+Yeah. Well, yeah, on the first two years, but the answer is very simple, yes, there is a structural change in the business. And that's also why we have been doing things like, for instance, changing Tennessee that used to be a packaging mill only into an automotive and packaging mill, right? And that's why we have been restructuring some other parts, closing some down. Our Australian mills for instance, the two Australian mills, we sold the three mills in Europe, I mean, two in Spain, one in France. This all goes into it. We clearly believe that there is a structural change in the market and we're very happy that we have been building up to the higher value businesses in there and that's really what you can see here also. But the unfortunate thing is the market, the packaging market has really substantially deteriorated, right.
+
+William Oplinger
+
+And I would also point out, Curt, that you look at the strength of the productivity that GRP has done year-over-year and that's really an attempt to offset some of these declines in the market in packaging.
+
+Curt Woodworth
+
+Okay. Got it. Thank you.
+
+Klaus Kleinfeld
+
+Thank you, Curt.
+
+Operator
+
+Your next question comes from the line of David Gagliano with BMO Capital Markets. At this time, I would also remind our participants to please remember to ask one question at a time and hold their other questions. Thank you very much. Your line is open.
+
+Klaus Kleinfeld
+
+Hey, Dave.
+
+Operator
+
+Please go ahead.
+
+David Gagliano
+
+Hi. Great. Thank you for taking my questions. And also, thank you for the increased visibility on the targets on the downstream. Actually I have a question though that's related to the other two segments. I don't know if I'm reading this correctly, but it looks to me like you say that GRP and the TCS segments are on track to meet the three-year targets for 2016, and you gave revenue numbers for each of those segments in the press release. But if I look back at the November 2015 Investor Day, the revenue numbers in the press release for those two segments are about $1 billion below what they were as of November 2015. So, I'm wondering if you can give us a similar bridge that you gave for the EPS segment to explain the difference?
+
+Klaus Kleinfeld
+
+To be honest, I'm looking at it right now, and I'm happy to put this out in the deck. I'm not sure whether we probably have to run this through our legal process here, but I tell you it's very simple and it ties back to what I just explained. Remember how much we have divested and closed also in the GRP side. So, what we've basically done, if you take the original target was nominal $7.1 billion, right, and we've divested and closed about $1.1 billion. So the target for 2013 where we put this out, was roughly – the starting point was roughly $6 billion. And then if you look at what we have been able to add through all the other things here, so automotive and stuff, and look at the LME and the FX, it brings the basic down to $6.1 billion line.
+
+William Oplinger
+
+And on the TCS side, Dave, there's around a $200 million negative impact from currency also. So, the numbers that you see on page six from – it's probably not page six on your deck, but from Klaus' presentation, have been adjusted for forex impacts.
+
+David Gagliano
+
+Okay. And so just, but just to clarify on the GRP business, the $7 billion number that was provided in November 2015 was...
+
+William Oplinger
+
+$7.1 billion.
+
+David Gagliano
+
+$7.1 billion was pre any divestitures, right?
+
+William Oplinger
+
+Right.
+
+Klaus Kleinfeld
+
+Yes, it was pre any divestitures and closures. And they have eliminated on that chart the LME and FX, I mean, you also have to see the LME pass-through part here, right, in GRP.
+
+David Gagliano
+
+Okay. Great. Thanks very much.
+
+Klaus Kleinfeld
+
+Yeah, good.
+
+Operator
+
+Your next question comes from the line of Justin Bergner from Gabelli & Company. Your line is open. Please go ahead.
+
+Justin Bergner
+
+Good afternoon, Klaus. Good afternoon, Bill.
+
+Klaus Kleinfeld
+
+Hey, Justin.
+
+William Oplinger
+
+Hey, Justin.
+
+Justin Bergner
+
+Question on the separation. Is there any update you can give us on when we can expect the first Form 10 filing or any update you can give us on sort of how matters are progressing vis-à-vis pension and the PBGC?
+
+Klaus Kleinfeld
+
+Yeah. Two things, really. On the Form 10, and we've always said first half of 2016 is when we will put out the Form 10. So, right, and we will...
+
+William Oplinger
+
+And regarding the PBGC, we've had initial conversations, initial discussions with the PBGC. It's gone well and we'll update you as we can. But the initial discussions have gone well.
+
+Klaus Kleinfeld
+
+Yeah, good conversations.
+
+Justin Bergner
+
+Great. That's good to hear. As you divest some of these non-core assets, is it possible to provide us the net proceeds number relative to that $750 million? And should we expect, sort of, Alcoa to continue to work through divesting non-core assets opportunistically in the quarters ahead?
+
+Klaus Kleinfeld
+
+Well, we are always looking at opportunities how to monetize and generate value, right? So, I think, this has always been, then the case if you look also in the previous years, right? And on the...
+
+William Oplinger
+
+On the net proceeds side, you almost have to go one-by-one, but on the pipeline, you realize that we will have a tax impact and also it's an AWAC asset. So, we get our 60% share there. On Remmele, there will be a small tax impact. And then on the corporate owned life insurance, that will largely show up as cash this year, and we're likely to consume a tax attribute in future years. So, largely that one will be without tax impact this year in 2016, so the total proceeds slightly less than the $750 million we have before the gross.
+
+Justin Bergner
+
+Great. Thanks for taking my questions.
+
+William Oplinger
+
+Sure.
+
+Klaus Kleinfeld
+
+Justin.
+
+Operator
+
+Your next question comes from the line of Tony Rizzuto from Cowen & Co. Your line is open. Please go ahead.
+
+Anthony Rizzuto
+
+Thank you very much. Hi, Klaus and Bill.
+
+Klaus Kleinfeld
+
+Hey, Tony.
+
+William Oplinger
+
+Hi, Tony.
+
+Anthony Rizzuto
+
+Thanks for taking my questions. My first question is, what percentage of your aero business is spares or aftermarket versus OEM business?
+
+Klaus Kleinfeld
+
+That's a good one. You know it offhand?
+
+William Oplinger
+
+I don't know it offhand, Klaus, and I hate to put a number out there without the actual numbers.
+
+Klaus Kleinfeld
+
+Yeah. Neither would I.
+
+Anthony Rizzuto
+
+So, I'll follow up with you guys in offline.
+
+Klaus Kleinfeld
+
+Yeah. Exactly, Tony.
+
+Anthony Rizzuto
+
+Okay. And then the second question if I may and maybe if I could possibly ask a third question too. That's all right.
+
+Klaus Kleinfeld
+
+Let's start with second before the third [indiscernible].
+
+Anthony Rizzuto
+
+All right. With regard to GRP, it sounded like you guys are seeing increased pressures on margins in the packaging market. Is that fair? Is that a fair statement?
+
+Klaus Kleinfeld
+
+Well, I mean, just look at the slide that we just discussed here. I mean, there's no way to deny that. At the same time, I would say, we have seen the level to come down to this level as we have it. So, I think you're talking about GRP right on packaging?
+
+Anthony Rizzuto
+
+Yes. And I'm talking about the level of acceleration in those pressures because I'm hearing...
+
+Klaus Kleinfeld
+
+Yeah, I would say, at this point in time we're not seeing that increasing but we're also seeing a trend upward.
+
+William Oplinger
+
+And I would reference you back, Tony, at least to our short-term guidance. Right? And so, we're trying to be very clear in all of our short-term guidance that all of our segments are trending upward with the exception of TCS. And so, on the GRP side, we said, I think, 5% to 7% year-over-year. So, even if we see additional pricing pressures, we're able to mitigate it through good cost control.
+
+Klaus Kleinfeld
+
+So, and in regards to the spares, I mean, our good team is just providing it. And I don't want to go into each one of the segments, but I would say it varies. But I would say, it varies substantially depending on which one of the aerospace segments you're looking at. And I think it also varies if you look at by year, and I only have here in front of me one year. So, it varies if you look at – this is 2015. If you look at 2015, it varies from 50% in that year some businesses to 2016. Actually 10%, 10% in some other businesses, right? But I would be very careful with this number, right, because the segment that has the 50%, I think that's a very unique situation that we had in 2015.
+
+Anthony Rizzuto
+
+Okay. That's helpful. May I ask a quick third question if I may?
+
+Klaus Kleinfeld
+
+Sure. Go ahead, Tony.
+
+Anthony Rizzuto
+
+Of the Upstream adjusted EBITDA that you guys reported, $185 million in Q1, approximately what percentage would be from power sales?
+
+William Oplinger
+
+Let us come back to you on that one, Tony. I don't have the numbers in front of me. But I think that just to give you some color, power sales have been down on a sequential quarter basis and on a year-over-year basis as we've seen the Brazilian power prices come off fairly substantially. So, I can get you that number in a minute.
+
+Anthony Rizzuto
+
+All right. Got it. Thank you so much, gentlemen.
+
+William Oplinger
+
+Okay.
+
+Operator
+
+Your next question comes from the line of Josh Sullivan with Sterne Capital. Your line is open. Please go ahead.
+
+Josh Sullivan
+
+Hey. Good afternoon.
+
+Klaus Kleinfeld
+
+Hey, Josh.
+
+Josh Sullivan
+
+Just regarding the revised EPS guidance, you talked about pricing pressure from the OEMs. Do you think we've seen the bottom of that pressure, or just how do you see that playing out over the next 24 months? And if you could dissect that between maybe the legacy aircraft and next-generation aircraft.
+
+Klaus Kleinfeld
+
+Look, I think that there's enormous pressure from the OEMs. They are under pressure through their customers. This pressure will continue. We are assuming this pressure will continue, and we will have to continue to build productivity in and we will also have to continue to win through innovation. And basically we put out new cars, come up with new ideas. So that it's not just giving a certain reduction on price but coming up with a technical solution that's superior so that we can jointly win. And that, I think, where our technical skills come in and we're pretty good at that. I mean, but the pricing pressure will continue. That's what we are assuming.
+
+And we are in the business also to help our customers to win, right? So that will be going on. And you also see – I mean, we're pretty proud of having won the Airbus contract for 3D metals printing. And in this case, it's titanium. I don't know whether you guys noticed that. And as you may be aware of, also we brought our new powder metals plan online beginning of the year. And that allows us to do powder very, very high quality metals powder for three different types of metal alloys. And in the main titanium, nickel alloy as well as aluminum alloy so this is a big, big enabler for the future growth.
+
+Josh Sullivan
+
+Okay. Thank you.
+
+Klaus Kleinfeld
+
+Thank you, Josh.
+
+Operator
+
+Your next question comes from the line of Charles Bradford from Bradford Research. Your line is open. Please go ahead.
+
+Chuck Bradford
+
+Hi. Good afternoon.
+
+Klaus Kleinfeld
+
+Hey, Chuck.
+
+Chuck Bradford
+
+Hi. Just a simple question on the insurance sales. Was there a profit? And do you expect to book a profit in the second quarter when you finish up those sales? It may have been in your deck. I might have missed it.
+
+William Oplinger
+
+There was no accounting gain on those sales, Chuck. There is a lower tax basis. So, we'll have some tax expense associated with it, but no book gain.
+
+Chuck Bradford
+
+Well, thank you.
+
+William Oplinger
+
+Okay. And to answer to Tony Rizzuto, I was able to grab the numbers fairly quickly. Around 25% of that $185 million of Upstream EBITDA is associated with energy sales. Now that's our energy business unit. So that would be inclusive of energy that we're selling externally and internally. So, it'd be inclusive of energy we sell at the Warrick facility up in Canada and our ownership there and then also in Brazil.
+
+Klaus Kleinfeld
+
+Okay. Next question, please. [Operator Instructions]
+
+Operator
+
+Your next question comes from the line of Justine Fisher from Goldman Sachs. Your line is open. Please go ahead.
+
+Justine Fisher
+
+Good evening. How are you doing?
+
+Klaus Kleinfeld
+
+Hi, Justine.
+
+Justine Fisher
+
+The first question I have is related to the pension liabilities. You guys had mentioned earlier in the presentation that there are liabilities associated with operating businesses and then anything that's curtailed can be left at the corporate level, I guess, as opposed to the segment level. Does that mean that those liabilities would potentially be offloaded to the PBGC? So, if we're looking at potential standalone for the Upstream business, we can exclude – well, I won't quantify, but exclude some of the legacy liabilities that are on current Alcoa's balance sheet?
+
+William Oplinger
+
+No, we would not be looking at offloading any of the legacy liabilities to the PBGC. The legacy liabilities will be split between the two companies. That's part of the activity that we're going through now. And clearly when we sit down with PBGC, they have an interest in how those gets split and the credit worthiness of the two companies. So that's part of the exercise, but none get offloaded per se.
+
+Justine Fisher
+
+Okay. Could you reduce or reschedule any of the cash payments related to those liabilities that might sell to Upstream Company?
+
+William Oplinger
+
+We are making the minimum ERISA payments today on those liabilities. And so, we're currently, on a GAAP basis, around 74% funded. On an ERISA basis, I believe it's in the lower 90%s. But there would not be any further reduction of payments that we could make that we're making – less than we're making currently.
+
+Justine Fisher
+
+Okay. And then just one last question, in this timetable on steps to completion in the presentation, it mentions complete financing in the second half of 2016. What financing is that? I mean, if the deck can move downstream and you guys haven't announced anything, but if hypothetically it did, it seems to me that there wouldn't necessarily need to be any new financing. So can you talk about what that refers to?
+
+William Oplinger
+
+Sure. We would be looking that the debt ultimately will be attributed to the upstream and the downstream. In order to do that, we will go out, and without getting into too much detail around the orientation of the separation, we will go out into the market, raise debt on one of the two entities and then pay off debt at the other entity. And so that's what the financing would be.
+
+Justine Fisher
+
+Okay. Thanks very much.
+
+William Oplinger
+
+Okay.
+
+Klaus Kleinfeld
+
+Thank you, Justine. Okay. More questions?
+
+Operator
+
+At this time, it's all the time we have, and I'd like to turn the call back to Mr. Klaus Kleinfeld.
+
+Klaus Kleinfeld
+
+Very good. So, you've seen this quarter our profits were up in every Arconic segment, Alumina, aluminum segment, both profitable in a very low pricing environment. We are laser-beam focused on the things we can control: productivity, high productivity, showed you the winning major contracts, monetizing non-essential assets, you should expect our focus continue there.
+
+Looking ahead, I mean, we are on track to meet our three-year targets in all businesses except EPS. And I hope I gave you also the clear adjusted expectations to better reflect what is going on in aerospace, as well as the lower Firth Rixson performance and the better RTI performance that shows you our new expectations for EPS. And the other thing here is the separation is on track. So, stay tuned. We will obviously have many more opportunities coming up here to talk.
+
+Thank you very much for joining us for this call. Thank you.
+
+Operator
+
+This concludes today's conference call. You may now disconnect.

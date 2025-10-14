@@ -1,0 +1,259 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q2 2023 Earnings Conference Call August 24, 2023 3:50 AM ET
+
+Company Participants
+
+Joyce Kwock - Head IR
+Jack Duan - Chief Operating Officer
+Kelvin Pan - EVP & CIO
+Dan Guo - CFO
+
+Conference Call Participants
+
+Hu Peng - CICC
+Tao Xu - CITIC
+Alex Lin - BOCI
+Wilson Zou - First Shanghai
+
+Joyce Kwock
+
+[Call Starts Abruptly] the name before asking questions. And we also provide a simultaneous interpreting and you can click on the interpreting button.
+
+Next, let's take a look at the results in the first half of this year. In the first half of the year, the Group's revenue was RMB9.22 billion, down 2% year-on-year. Against the backdrop of uncertainties in the global macroeconomy, the Group made a steady progress, continuously improved operational efficiency and the cash flow and its business diversification strategy achieved initial results. The GP margin was 14.1%, down 4.8 percentage points year-on-year, due to the weak demand in the global smartphone market in the first quarter, but the Q-on-Q GP margin improved significantly in the second quarter. The net profit was RMB150 million a year-on-year decrease of 57.1%. And in the first half, the Group's operating cash flow was RMB2.05 billion, year-on-year increase of 43.1%. The book cash was RMB7.13 billion, which was the same as that of last year. And the net gearing ratio was 4.9%, which was 1.3 percentage points lower than 2022.
+
+The CapEx was RMB616 million, which was 42% lower than 2022. And inventory days decreased to 90 days compared with 109 days at the end of 2022. The company will continue to allocate CapEx and control expenses based on the long-term growth targets to ensure there is sufficient cash to support the long-term development of the Group's business.
+
+Next, I'd like to share with you the performance of different business segments. Acoustics, in the first half, the revenue of the acoustics business was RMB3.32 billion, year-on-year decrease of the 19.9%, mainly due to the global smartphone market demand recovered less than expected in the first half, resulting in year-on-year decline in shipment volume. The GP margin was 25.5%, down 1.7 percentage points year-on-year, mainly due to the decline in shipment volume of caused by weak demand in the Android market in first quarter and increase in unit cost caused by the drop in the shipments.
+
+In the first half of the year, the demand recovery of the Android market still faced some pressure, which had a certain negative impact on the Group's Android related business. But however, thanks to years of close cooperation with overseas customers, the Group has maintained relatively stable market share and continue to support customers' expansion in the technological innovation.
+
+And in the first half of the year, acoustics solution, integrating a full set of audio system design services was launched to create an immersive sound experience for users. In the first half, the Group's optics business achieved revenue of RMB1.77 billion, year-on-year decrease of 4.4%, mainly due to weak market demand and the pressure on unit prices in the first quarter. Revenue on the GP margin improved significantly in the second quarter, mainly due to the increase in market demand shipments and the slowdown in unit price competition. We will continue to implement high end strategy to optimize products structure and gain market share through technology upgrading. And the plastic lens, the proportion of the 6P products shipments has increased to more than 10% of the total plastic lens, improving the ASP. And we also have the OIS module, WLG hybrid lens is progressing smoothly and the related array lenses, cylindricals and prisms make their debut at the 2023 Shanghai Mobile World Congress.
+
+In terms of VR, the Group's 3P Pancake optomechanical module successfully achieved mass production during the period. The Group has also achieved deployed industrial lenses and achieved sales breakthroughs from zero to one in industrial inspection.
+
+Now we will pay attention to the emerging division of electromagnetic drive, EMD, and the precision mechanics segments. In the first half, the revenue was RMB3.62 billion, up 23.4% year-on-year. And the EMD business increased steadily. The metal casing business increased significantly, and the market share of the laptops business increased. The GP margin of the combined segment was 19.3%, down by 1.2 percentage points. In the first half of the 2023 Group's market share among overseas market remained stable and the market share further increased. The shipment volume of entry motor products increased by 63.2% year-on-year with higher performance in start-stop speed and the Group's motor products also continue to extend to the non-mobile phone builds.
+
+In the first half, the Group's metal casing business continued to expand and maintain a leading market share and Toyo Precision still achieved good performance on the laptop side and the Yangzhou Phase II factory started smoothly and will further enhance the contribution of laptop revenue.
+
+Finally, let's pay attention to the sensor and the semiconductor business together. And the revenue of sensor and the semiconductor business was RMB494 million, up 3.2% year-on-year, mainly due to the increase in shipments. The GP margin was 11.3%, down 2.4 percentage points year-on-year mainly due to the decline of ASP brought about by intensified competition. In the first half, the production capacity of the Malaysian factory gradually ramped up. And in terms of the automotive builds, the Group has successfully developed a complete set of new auto MEMS, microphone modules.
+
+After sharing the financial performance of each business segment, let's take a look at the strategic development of the Group. The Group continues to lift the smartphone market experience upgrades. Its products include the high performance x-axis haptics linear motor which has been used by Samsung Galaxy A/S23, OPPO Reno 10, Vivo X90, and SLS, super linear speaker has been used by Xiaomi 13 Ultra and other model. OnePlus 11 adapted to dual speaker box with the proprietary NLC low-frequency algorithm. Xiaomi Civi and Mi and the Mix Fold 3 are equipped with 1G6P outer transparent WLG lenses.
+
+And also the flag -- in some -- the flagship and high-end models of some major customers, the business of the metal casing market share is increasing. And the Group will adhere to the high-end metal casing and the Group also made customized hinge, in real life that’s extremely thin, sturdy and a reliable folding experience. Group also provides customers with ultra-thin and the super large average temperature plates and participated in the research and development of annular cold-pumping heat dissipation technologies, which greatly improves the heat efficient capacity of smartphones.
+
+In terms of automotive acoustic, and the President [indiscernible] will make the introduction.
+
+Unidentified Company Representative
+
+And I thank you, Joyce. And I'd like to talk about the automotive acoustics. Our target of the automotive customers is to provide the haptic experience to our end users and the customers. So based on this concept, AAC pay attention to the amplifier and algorithm, as well as the systematic development. So we continuous accumulate the experience and make innovation of technology progress.
+
+So -- and this background -- and we think AAC has achieved the leading position in the integrated solution of the automotive acoustics. So apart from Hanon, only few companies have been equipped with such probability, and we also propose the acquisition of PSS. So I would like to introduce PSS. So PSS has done over 50 years of sound solution technology leadership, and here's its history's a quick look from these headquarters in Belgium. And there are over 300 engineers globally. Their focus is on the automotive acoustics, and there are four highlights. First of all, the leadership in the technology, in the automotive acoustic systems and mark that they are market leader in EV and the PHEV, as well as the traditional vehicles, and also provided the advanced products in the market. In addition, apart from the traditional vehicles on auto companies, the OEMs, as well as the new NEVs and the new EVs, and they are also their customers. Certainly we think it's also very important, because they serve the automotive companies globally and they have a very good layout and distribution in the world. Last but not least, its financial performance, and the PSS revenue is about €450 million. And we think the revenue will grow in the future.
+
+In terms of the revenue, the orders will continue by three to five years. So in the next three to five years, the growing momentum will be maintained and it will also be triggered by these new automakers. In addition, they have great momentum in the innovation with their proprietary technologies and those technologies and innovation will boost the profits. So we think PSS has a great potential in the future growth.
+
+In the strategic rationale for the application of PSS, PSS is a sizeable and leading white label automotive speaker manufacturer. And this will make a supplement to AAC. They supply directly to global OEMs, and it is also leading supplier to global audio brands. And secondly, they have a strategic diversification. By acquiring a business with existing skill and operation, AAC achieves meaningful strategic diversification through one transaction, certainly vertical integration. With cooperation with PSS, and we can make a breakthrough in the speakers and amplifiers as well as some products in optics to grab additional value share.
+
+Fourthly is the synergistic opportunities. Moreover the transaction enables AAC to leverage its operational expertise in supply chain and the China market to tap the growth of the global automotive acoustics and EV markets. The reasonable transaction structure, the proposed deal structure enables AAC to retain and effectively motivate the existing key management team, a small part retained in the part of the management. And this will become the incentives for the management and to lead the graph of AAC. And last but not least, the risk mitigation, the retention of existing management mitigates significant due diligence risk and boosts confidence in the execution future business plans.
+
+So the six highlights, the six rationales the main considerations for us to acquire PSS.
+
+PSS product portfolio. The main product is speaker, and then it meets full range, mid-range speakers and woofers, et cetera, and tweeters et cetera. And they will also provide the speakers to the consuming customers. They also have other three segments. The first one is related acoustic system. The first one is about the speaker systems and above, the subwoofer and also the door boxes and headrest solutions, 3D solutions. And they can put this speaker in differed sizes. And so it's more compatible in the automotive. And certainly it's about the safety speakers and the systems. So with the EV's growth, it's very important for the AVAS, the Acoustic Vehicle Alerting System. So this is the requirement for installation in the EVs. And after the acquisition, and we can also -- innovation products.
+
+And fourthly is the transducer based haptic systems. Many people are talking about the 3D, and 4D and also, for example, more on haptics experience to our customers. And the PSS has achieved a mass production on those regards on the entertainment and infotainment. So this is a perfect combination of acoustics and optics. So those are the four core business parts or segments of PSS.
+
+And the PSS global operational footprint. As I mentioned before, its headquarter is in Belgium. It was founded in Belgium, and those are the main factories. And Mexico factory is mainly serving the U.S. market. And they also have factories in Germany and Hungary. And those are serving the European automotive market, and in Dongguan and Penang in Malaysia for the Chinese markets and the Asian and the global customers. The R&D center is in Belgium and Shenzhen. So those are the R&D centers. You can see from this map, PSS has complete global operational footprint, and they have already established industrial supply chain to serve all the automotives worldwide.
+
+So to close this brief introduction of PSS, and we can come to Q&A session. And thank you.
+
+Unidentified Company Representative
+
+Thank you on this close introduction.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question is from CICC.
+
+Hu Peng
+
+I have two questions. And the first question is related to the mobile phone. So you can see the pressure or the price pressure of the mobile phone in the first half of the year. So I'm curious about the long-term strategy of the -- or your view on the long-term demand of the mobile phone. And we also see the recovery or the coming back of Shenzhen customer. So whether this will boost any demand? And also what's the price strategy?
+
+My second question is about the optimistic -- is about the optics and inventory. What's your outlook on the inventory on optics business? So I have these two questions.
+
+Unidentified Company Representative
+
+Okay. Regarding the mobile phone market, yes. In the first half of the year, the shipments of volumes, there’s decline compared with the first half of last year. The whole year, we think the 1.2 billion shipment volumes of last year will decrease to 1.1 billion shipment volume this year.
+
+In terms of the supply chain, based on our understanding of our customers for having raised levels are low as far as we know. So the forecast for the second half of the year will be accurate -- will be more accurate, and the volatilities will not be as big as that of the last year. So this is about the shipments volume for this year. And most customers are targeting on high value products. The models below 1000 or 2000 decreased and many users focused on the models above 2000 or even higher. And we also see the new launch of the mobile phone models and the new models will trigger the upgrade of their system and their models. So in the first quarter and the second quarter, our shipments will be at the low level. But in the second half of the year, the shipments volume will be ramped up compared with the first half. And this market will be more stable and they are value oriented.
+
+Acoustics. The ASP will be lower in the first half. But the second half, the ASP will increase from 4.5 to above 5. It's related to the new models and new components upgrades. And from the perspective of shipments volume, the first half is about 40% to 45% of the total year's shipments volume. So the second half, the volume will be about 50% to 55%, 10% to 15% increase compared with the first half. This profitability in the second half will be increased, especially for the Android system.
+
+And also the production capacity and utilization is increasing, as well as the precision mechanics. And metal casing, of course, this kind of growth was triggered by the Shenzhen customer. And we are developing the collaboration with this customer. We also have the promotion on the high end models. For the precision mechanics, we have very positive feedback compared with the first half of the year. We believe the top-line and the revenue will be increased by 10% to 15% in the second half. The production capacity and utilization as well as their capacity will be increased.
+
+So overall, the mobile smartphone market will develop according to this value base. And we'll be benefiting from this development.
+
+In terms of OpEx and Jack will answer your question.
+
+Jack Duan
+
+So your question is in two parts, the first one is about the average rate. So as of the -- as of to-date, our inventory level is about three months and delivery on operational parts are split up. It's about two weeks to three weeks. And for our very cool inventory, we are destocking. Therefore, the inventory level will be maintained at a very front level compared with last year. The completed products inventory is up by 15% and [MPF] is also market height.
+
+Your second question is about the future outlook. In the second half, our company is more focused on the high end lens. In the first half, for example, the 6P shipments volume accounted for 15% of our total shipments volume. And in the second half, this number will increase. It is in line with our high end products strategy. As mentioned by Kelvin, our customers are returned to the high end and to better experience our products. Our GP margin is increasing. The ASP has declined and this kind of decline will be paused, will be stopped. And this is also beneficial to our second half.
+
+And in terms of the inventory, we don't have any inventory in modules and the modules production is based on the orders, and we adjusted the inventory and the production according to the production. We will increase the turnover days, and we will also achieve the cash and inflow positive. And this will help us to maintain a strong cash position.
+
+In a nutshell, we will destock our inventory based on the market demand and to achieve a sound financial position and cash inflow.
+
+Operator
+
+The next question is from CITIC.
+
+Tao Xu
+
+In the first half, the optics was better than acoustics. What's the difference? What's the reason? It is the year-on-year growth is different. So this is the first question.
+
+And the second question is about the folded smartphone. And we also see a lot of mass production. So what's our value chain on this folded smartphone? And apart from the Beijing customers, do you have any potential expansion market?
+
+Kelvin Pan
+
+From this acoustics perspective, you can see there's large decline in the inventory. So in the first half, the shipments of the acoustics and the ASP and this unit price, the unit price declined by 10% to 15%. And we think in the second half as a unit price will recover to that last year or above that. So that's why we can see this pressure of the acoustics in the first half and so production utilization is not to reach 100%. So we have reduced it to 390 million products, and our target is 800 million, and the unit price will be increased by 20%. So you can see in the second half of the year, this will be boosted and according to the shipments of these two months. And we think these shipments in the second half of the year can reach 450,000 and ASP can reach 5. So this will help us return acoustics to a sound development. That's also the reason why you see the optics performance is better than acoustics in the first half.
+
+And second question is the folded smartphone. Indeed, we have reached with some mass production and the delivery on the -- on our products from Huawei. I think the potential is great and high end smartphone's price is about 10,000 and the smaller phone -- smartphone is about 7,000. And for these high-end products -- and product -- for this turning axis, the price is about 500. We think this year we can produce 300,000 to 500,000. So it's also based on the customers' demand and we think this kind of development is promising, and we are developing the market with more customers. When we have further information, we'll disclose those to all the investors. And we can also see there's a greater potential in this turning axis products. And we see these attitudes -- these very good attitudes toward those high-end.
+
+Tao Xu
+
+Thank you. Thank you, Kevin. Thank you, management.
+
+Operator
+
+And next question is about -- Alex from BOCI.
+
+Alex Lin
+
+Thank you, management. I have two questions. The first question is about the next three to five year strategy on mobile phone and non-mobile phone. And second question is the automotive acoustics. You are planning to acquire PSS. I want to know the timeline -- specific timeline? In the future, do you have any guidelines for the revenue of acquired PSS and what kind of potential it'll bring about to AAC in the automotive market?
+
+Certainly PSS has collaboration with the biggest clients, T clients. But after the acquisition, in terms of an optics motor investor company, have more a potential in their global customer base. So my question is about the overall company's strategy.
+
+Kelvin Pan
+
+I think in terms of the size of the mobile phone -- and this will be slowed down, but the value, for example, the high value products, high-end products with rich functions and experience will be further developed. And therefore ACC, we need to catch this opportunity to cover all of our business, including these models in optics and acoustics, and then we can provide the higher end products to our customers and proceed this upgrading opportunity to increase our revenue and the profits. So this is about the smartphone area.
+
+In terms of the automotive, many people curious about the development of acoustics in AAC. On the PSS, the revenue in 2022 is about €450 million to €500 million. And this will be in our consolidated balance sheet. So in the automotive, the revenue is of equivalent scale of our electronic acoustics. So apart from the acoustics, we can also develop our other business, for example, the non-optics as well as MEMS microphone and automotive motor. And we can make breakthroughs on this regard.
+
+On the -- on this acoustics, automotive acoustic size, we want to reach the target of the same scale in the consumer electronics. PSS has a lot of customers in the U.S. Apart from the U.S., the traditional automakers, as well as the big clients, T clients, they are long-term customers. And this good relation, customer relation are very helpful to AAC, amplifier and the speakers and the other components. And AAC can leverage the PSS and to expand the market. So those are the strategic value of the PSS.
+
+Operator
+
+Thank you, Alex, for question. Next question is from Wil Zou from First Shanghai.
+
+Wilson Zou
+
+Thank you. My first question is about the ASP of the optic lens in the Q2. So, what's the structural optimization? In the future, the GP margin of optics will become positive. When does it happen?
+
+Unidentified Company Representative
+
+And the lens restructuring started last year, and this was triggered by the customers' demand in the 5P and 6P and there's kind of verification need in the time. So after verification, high-end product started a mass production and ramped up its production. And this volume has increased by over 10%. In the second half of the year, we will continue to optimize this structure and more 6P products will enter the market. Sorry, I forgot your second question.
+
+Wilson Zou
+
+My second question is about the processing lens, net processing, and also the margin profit, and it's about 15% to 16%, the processing ratio is 15% to 16%.
+
+Unidentified Company Representative
+
+And the GP margin includes two parts, and the first is about lens, and the margin of lens is negative 10%. We think this growth will turn positive in the second half. And with our deployment on the high-end product, as well as the smart introduction of actions within the company and the technology upgrades, we then estimate in Q4 the optical lens business will gain positive profits.
+
+In terms of the module, this is the second part, the second half, the competition in the second half will become mild. So we think the module GP margin will also turn positive in the second half.
+
+Wilson Zou
+
+My second part, and it's about the Toyo Precision and what's the production capacity?
+
+Unidentified Company Representative
+
+And after the acquisition of Toyo, the Yangzhou factory, and this year starts its mass production, and the first product will be delivered in Q3 and Q4 and the total production capacity of the factory is estimated of 100,000 to 150,000 pieces. And in Q3, this capacity can reach 15% because we have one project running on it, and there will be more projects onwards. And in the second half, the Yangzhou factory will make some contributions. But it depends on the market demand because the laptop demand is declining this year. So we have to make adjustments on the production according to the customer demand. And the first product has already reached mass production and deliveries. And after the acquisition of Toyo, this benefited to the Group. And after the first product -- in the future, after the first product, the future projects will be ramped up.
+
+Wilson Zou
+
+And for a single slice what unit price?
+
+Unidentified Company Representative
+
+The single slice for total is 100 to 120. And the Yangzhou factory is about 300 because, it's the precision -- precise process and not a stamping product.
+
+Operator
+
+And the next question is from [indiscernible].
+
+Unidentified Analyst
+
+The question is about the market share of PSS and the book cash, and the revenue of PSS as well and then the market share of PSS?
+
+Unidentified Company Representative
+
+It's about 15% to 25%. In the high-end speakers, this market share will become larger, higher. So, in the total, speakers, its market share is about 15% to 20%.
+
+In terms of financial, I invite Ms. Dan Guo to answer.
+
+Dan Guo
+
+Okay. I'll answer all the questions on the chat box. The top line is about 450 million to 500 million annually, and it will grow annually. The growth is about -- growth is stable and the GP margin is 20%, and profit margin is 5% to 8%. In the future as we mentioned before and the synergies will come from the cross-selling of the products into the whole supply chain, including the overall production line and operational efficiency. So we think there are still potentials in the future growth. And in terms of the book cash, the net cash is about €10 million to €15 million. And debt, the operating debt is shorter, it's about €50 million to €60 million.
+
+Operator
+
+Next question is from [indiscernible]. Please go ahead.
+
+Unidentified Analyst
+
+I have two questions. The first two questions is about our big customers in Shenzhen and in Q3 they will launch new models. So I'd like to know more about the preparation on the ASP and the market share. And the second question is about the U.S. big client. Do you have any upgrade on this?
+
+Unidentified Company Representative
+
+In terms of the big client in Shenzhen, they cast their products focused on the high-end, and we have close collaboration with them and we will elaborate their market development. So the ASP is -- the metal casing as well as the acoustics and the motors, they have higher margins. Their requirements on the ASP, as well as the requirements are higher because their requirement is higher. So the ASP is a 20% to 30% higher than the market price, because it's more customized. And apart from this year's demand, the customers -- future demand is also huge. Therefore, we will forge our collaboration with customer to help them to upgrade the immersive experience. The specific figures depend on the market situation.
+
+In terms of the U.S. customer, in the first half, there are some voices in the market that the company will cancel the motor function. But we think there are still opportunities, but this will be delayed. And the function will be promoted in the future and then maybe post this year or delayed this year, but it will be promoted in the future. And we are paying a close attention to their investment and we can continue to support its R&D and the development on this function.
+
+Operator
+
+The next question is from [indiscernible].
+
+Unidentified Analyst
+
+The question is about CapEx and the guidance in the second half of this year and the next year. CapEx of this year is in line with CapEx disclosed before. Before is about 1.85 billion, and the CapEx will reduce by 15%. So CapEx this year is about 1.5 billion. Of course, it depends on our overseas markets plan, other strategies. Or add some information here?
+
+Unidentified Company Representative
+
+And for our traditional and owned products, the cost is more optimized. So there will not to be any capacity expansion on the traditional products. For our investment, for example, there small functions upgrade via smartphones, for example, the hinge, the new x-axis haptics motor and upgrade. The high value-added components will be the investing areas. But for the owned and traditional mass producing parts, the investment will not be increased.
+
+In addition, we also see the separation or the fragmented supply chain of our customers. And we can support these customers and from our overseas factories, and it'll help our customers to mitigate the tax or risks. And thirdly, the CapEx will be on the strategic development, for example, the acquisition of PSS. And in the automotives we will continue our investments. For example, the innovative and automotive speakers or/and the amplifiers and microphones, as well as the automotive optic lens.
+
+So apart from PSS acquisition, AAC will make continuous CapEx in the own automotives business. So the CapEx target this year has already covered all this development. And in the future, we will continue to optimize our cash flow in the mobile phone production line and to achieve a stable business development. And we will efficiently control on our CapEx, but we maintain our investments in innovation.
+
+Operator
+
+Our time is constrained. And this will be the last question. And the last question is from [indiscernible].
+
+Unidentified Analyst
+
+Thank you management for this opportunity. I have two questions. The first question is about the precision mechanics. We see 40% increase in the laptops and et cetera. And with the return of the Shenzhen customer, the precision mechanics will become better. On acoustics and the motor and other business segments, do you have any revenue targets? My second question is, how do you see the recovery of the Android market and any upgrade potential in the second half of the year?
+
+Unidentified Company Representative
+
+And the precision mechanics is very good. And this is related to the Shenzhen customer's cooperation. And what we also see is on high-end model's development. And even these middle end products, we will introduce metal casing and this will become the industrial trend and the overall industry are developing into the mid and high end performance and products. And also the holding and haptics experience is very important. And therefore I think the metal casing will be promoted.
+
+And for the first half of the year, the production capacity, for example, has reached it full capacity. We even need find the third-party partner to expand our capacity. This is good news. And next year in this kind of momentum will be maintained, I believe. The metal casing next year has another increasing point, which is hinge. In Q2 and Q3, we will have our first mass production. And in the second half and the next year, there will be more products. And Android market will use the hinge products as the edge for the -- starting point for the new market. So with the launch of the new hinge smartphones -- and you can see this shipment volumes has created lot, for example, the Shenzhen big clients and the other clients.
+
+So hinge, as its market and its high price -- high unit price, it's a very pivotal structural support. And this will increase the performance of the smartphones and also reduce its weight. And certainly it's about the projects in Yangzhou after the M&A of Toyo and the metal casing for laptops are the focus of Yangzhou factory. Then we think next year and the year after next year, there will be more projects into the mass production in precision mechanics. Profitability and revenue will increase significantly very clear in the precision mechanics segment. So what's your second part of your question?
+
+Unidentified Analyst
+
+My second question is about the revenue guidance or any upgrade potential in Android market?
+
+Unidentified Company Representative
+
+Acoustics, motor and the precision mechanics will keep the high-end momentum and their products will be optimized in accordance with this high-end momentum. So we think motor can maintain 20% to 30% unit growth. The mobile phone has steady demand and haptic demand has haptics requirement. And this -- our new motors showed the better performance. And this is also price -- high price to performance ratio, a choice to our customer. And the customer will have a very immediate experience upgrade, for example, SLS and these big acoustics volume products will help meet in high-end customers to upgrade. And we'll increase the quality of sounds as well as the volume.
+
+In the metal casing, as I mentioned before, this middle end mobile phone will use more metal casing as well as the folded mobile phone. And they will help us to increase our top line and the bottom line with the stable production utilization and stable market and all the production line will return to sound level.
+
+Unidentified Company Representative
+
+Due to the constrained time, this is the end of the 2023 interim results. And our materials has already been uploaded to the official website. If you have further questions, please feel free to contact IR team. Thank you.

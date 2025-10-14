@@ -1,0 +1,329 @@
+ATA Inc. (ATAI) F1Q09 (Qtr End 06/30/08) Earnings Call Transcript August 28, 2008 9:00 AM ET
+
+Executives
+
+
+Ed Job – IR, CCG Elite Investor Relations
+Kevin Ma – CEO
+Walter Wang – President
+Carl Yeung – CFO
+
+Analysts
+
+Mark Marostica – Piper Jaffray
+Kim Howe [ph] – Poly Capital [ph]
+Scott Schneeberger – Oppenheimer
+Mark Chang [ph] – Merrill Lynch
+
+
+Operator
+
+Good day, ladies and gentlemen and welcome to the ATA First Quarter Fiscal Year 2009 Earnings Conference Call. My name is Shaquana and I will be your coordinator for today. At this time, all participants are in a listen-only mode. We will facilitate a question-and-answer session towards end of this conference. (Operator instructions) I would now like to hand the presentation over to your host for today's call, Mr. Ed Job. Please proceed, sir.
+
+Ed Job
+
+Thank you operator. Good morning and good evening and welcome to ATA's first quarter fiscal year 2009 earnings conference call. With us today are ATA's CEO, Mr. Kevin Ma; President, Mr. Walter Wang, and Chief Financial Officer, Mr. Carl Yeung.
+
+Before I turn the call over to Mr. Ma, may I remind our listeners' that in this call, management's prepared remarks contains forward-looking statements, which is risks and uncertainties. And management may make additional forward-looking statements in response to your questions. Therefore, the Company claims the protection of the Safe Harbor for forward-looking statements that is contained in the Private Securities Litigation Reform Act of 1995. Actual results may differ from those discussed today, and therefore we refer you to a more detailed discussion of the risks and uncertainties in the Company's filing with the Securities and Exchange Commission. In addition, any projections as to the Company's future performance represent management's estimates as of today August 28th, 2009 [ph]. ATA assumes no obligation to update these projections in the future as market conditions may change. To supplement its financial results presented in presented in accordance with U.S. GAAP, management will make reference to certain non-GAAP fiscal measures which the Company believes provides meaningful additional information to understand ATA's operating performance. A table reconciling non-GAAP measures to the nearest GAAP equivalent can be found on the earnings press release issued earlier today.
+
+For those of you unable to listen to the entire call, a recording will be available via webcast for 90 days at the Investor Relations section of ATA's Web site at https://www.ata.net.cn. And it's now my pleasure to turn the call over to ATA's CEO, Mr. Kevin Ma.
+
+Kevin Ma
+
+Thank you, Ed. Welcome, everyone and thank you for joining us today. We are very pleased to report a very good start to our fiscal year 2009. During this quarter, we made a solid progress across a number of important areas of our business and it continued to lay a solid foundation for the profitable growth of our business in the quarters and years ahead. In addition to the delivering 1.5 million tests during the quarter, we also launched a new test title for the securities industry and it leverages their Counter Officer Qualification Exam to China Life Insurance to 50 cities over 31 provinces positioning us in the very promising market for leveraging computer based testing to assess and develop internal human resources capabilities.
+
+Our financial data also reflects the story of the execution of our strategy and are a testament that ATA has a proven and a solid platform to take full advantage of China's fast growing test and test-related sectors. The highlight for the first quarter of fiscal year 2009 include one, net revenue was up approximately 158.2% to RMB68.3 million. Two, gross profit was up approximately 184.8% to RMB39.2 million. Three, net income was approximately RMB12.4 million compared to a loss of RMB 0.8 million in the previous year.
+
+As we move into the second quarter, we see significant opportunities to continue expanding our business by adding new titles and attracting new industries and developing test preparation solutions to compliment our computer-based testing service. We believe we are at the very early stage of our success and we look forward to continue to deliver positive results to our shareholders' and to report on progress during our quarterly conference calls. With that I will now turn the call over to Walter who will provide you with business update and Carl who will discuss our financial data’s for the quarter.
+
+Walter Wang
+
+Thank you, Kevin and welcome to everyone join us on the call today. We are very pleased with the strong start to our 2009 fiscal year. In the quarter, we delivered strong year-over-year top and bottom line growth, and benefitted from the economics of skill and improved mix to expand our margins. We also, as Mr. Ma mentioned reached important milestones in the execution of our business plans.
+
+Our computer-based testing segment had robust year-over-year growth, delivering 1.5 million tests this quarter, a 215.5% increase over the same period last year. During the quarter, we successfully completed the first half China Banking Association qualification exam. We used 3268 test rooms in 406 test centers across more than 20 provinces in China to service 470,000 test papers. The number of simultaneous test papers, test centers and test rooms all reached the highest level in our history, demonstrating a solid foundation and scalability of our unique technology platform. In addition, we launched a landmark test title, sales professionals of (inaudible) for the Securities Association of China. All professional in China involve in the sales (inaudible) are required to obtain a licenser by taking this test or a combination of other tests, test panels offered by ATA.
+
+In the quarter, we continued to make progress developing a very promising HR assessment market, successfully delivering Counter Officer Qualification Exam to 32,582 China Life Insurance employees, which was held simultaneously in 50 cities across 31 provinces. This is the first time ATA and China Life Insurance cooperate on a nationwide computer-based test to evaluate internal staff qualifications and skills, and we look forward to a successful partnership in the future. Our test-based education service delivered modest year-over-year growth driven by licensing revenue from our test-based education solutions. We believe there is a limited market potential for our current contents in test-based education program offering, and thus have reduced our sales and marketing efforts. Therefore we do not expect this area to grow significantly unless we can establish relationships with new contents providers. One discussion in progress is with Chung Hua University and as a successful corporation we will pay attention to top line growth fiscal year 2010 and beyond as we look forward to up with you if and when an agreement is reached.
+
+Finally, our test preparation and training solutions targeted at professional licenser and certification test experienced negative year-over-year growth. Test status typically consume test preparations and training solutions close to test and certification requirements deadlines, which are typically during the quarter ending December 31st. Therefore, we experienced lower sales of such preparation and training solutions in the quarter and expect it to pick up in the back half of the year. In addition, some of our preparation solutions including NTET preparations software depends on timing of government budgets and therefore sales may not be from quarter to quarter.
+
+Overall, we saw solid NTET product exclusive continuous training platform for the Securities Association of China and more inbound inquiries from enterprises for our test preparation solutions. We expect this area to experience strong year-on-year growth in the quarter ahead. On the personnel side, we are happy to announce Mr. Jeffery Gao has joined ATA as Finance Director. Mr. Gao brings 11 years of audit and advisory experience from the before [ph] and he will help ATA deliver on our commitments to operate a well-governed Company.
+
+With that, I'll now turn the call over to our CFO, Carl Yeung who go over our financial result in more detail.
+
+Carl Yeung
+
+Thank you, Walter. We are very pleased with our first quarter results which came in near the top end of our guidance.
+
+Total net revenue grew approximately 158.2% year over year to RMB68.3 million or $10.0 million. Net revenues from testing services increased by approximately 566.2% to RMB53.9 million or $7.9 million for the quarter. The number of tests delivered was up by 215.5% year on year to approximately 1.5 million tests, compared to 465,000 tests in the same period last year. The average price per test delivered was approximately 38 – RMB36, up 107% from RMB17.4 in the comparable period last year. This increase in average revenue per test was due to a significant increase in higher price test delivered on behalf of the China Banking Association.
+
+In the quarter, we also achieved a record 470,000 test takers for the China Banking Association compared to zero in the first half of 2007. In addition to the China Banking Association, the number of test takers for the Securities Association of China and Ministry of Labor increased to 436,000 and 289,000 with year-on-year growth rates of 261.2% and 56.4% respectively. We expect our finance vertical to continue to outpace growth in revenue from other verticals in the quarters ahead, which we expect would positively affect our average revenue per test as well as our margin structure.
+
+Net revenues from test preparation and training solutions declined by 91% in the period to RMB0.5 million or $74,000 from RMB5.7 million in the same period last year. This is because we did not make any sales of NTET software in the quarter. As Walter mentioned, sales of NTET software depends on the timing of government budget and may shift quarter to quarter. Net revenue from test-based education services increased by approximately 3.1% to RMB11 million or $1.6 million in the first quarter, representing 15.1% of total net revenues.
+
+Gross profit increased by approximately 184.8% year over year to RMB39.2 million or $5.7 million. Gross margin also increased to 57.3% from 52% in the comparable period in 2007. Gross margin expansion was driven by an improved revenue mix from our testing services which we have lower direct costs. The operating expenses in total increased by approximately 42.9% year over year to RMB21.5 million or $3.1 million, primarily driven by general and administrative expenses.
+
+G&A expenses increased by an estimated 86.8% year to year to RMB12.2 million or $1.8 million. This increase was primarily attributed to accrued bonuses, share-based compensation, and incremental expenses being a public Company.
+
+Sales and marketing expenses was flat at RMB6 million or $0.9 million. Research and development expenses increased by an estimated 28.9% year over year to RMB3.3 million or $0.5 million. This is primarily due to an increase in head count from 51 to 78 in R&D year on year.
+
+Income from operations was approximately RMB17.7 million or $2.6 million compared to a loss of RMB1.3 million in the same period last year. Our operating margin in the quarter was 25.9% compared to negative 4.8% in the same period of last year.
+
+Income tax was approximately RMB6.1 million or US $0.9 million. We have an effective tax rate of 32.1%. Now due to the procedures to claim favorable tax achievement was only recently announced in China. Our domestic wholly owned foreign enterprise ATA Testing Authority (Beijing) has been paying taxes at the highest 25% EIT rate. If we can successfully receive high-tech (inaudible) for ATA Testing Authority (Beijing), then ATA Testing Authority (Beijing's) tax rate will be reduced to 15%, and any excess taxes paid over 15% in calendar 2008 should be refunded. Our effective tax rate was above 25% because of non-tax deductible expenses at our offshore holding companies. We've had growing revenue at our operating entities level, our non-tax deductible expenses will become less in taxables to our effective tax rates going forward.
+
+Net income for the quarter was approximately RMB12.4 million or $1.8 million compared to a loss of RMB0.8 million in the comparable period last year. Basic and diluted earnings per ADS were RMB0.56 or $0.08 and RMB0.54 $0.08 respectively.
+
+Net income excluding share-based compensation expense and foreign currency exchange gains and losses, which is a non-GAAP figure was an estimated RMB13.7 million or $2 million for the first quarter 2009, compared to a loss of RMB0.1million in the same period last year.
+
+Basic and diluted loss – earnings per ADS excluding share-based compensation expense and foreign currency exchange gain or losses, which is a non-GAAP number were RMB0.6 or $0.09 and RMB0.58 which is $0.08 respectively. As of June 30th, 2009, ATA had cash of RMB333.1 million or $48.6 million, working capital of RMB353.7 million and no debt.
+
+Shareholders' equity at the balance sheet date was RMB377.2 million or $55.0 million, up from RMB363.1 million at the end of fiscal first quarter 2008. CapEx for the first quarter of fiscal year 2009 was RMB1.4 million or US $200,000, mainly for the addition of computers and servers and upgrade and improvement of certain software for internal use.
+
+Now, turning over to our outlook, for the fiscal second quarter 2009, we expect net revenues will be in the range of RMB50 million to RMB53 million, representing year-over-year growth in the range of 0% to 6%. ATA expects net revenues for the fiscal year ended March 31st, 2009 to be in the range of RMB340 million to RMB350 million, which is expected to represent a 98% to 103% growth year over year over fiscal year 2008. This is ATA's current and preliminary view, which is subject to change. Our results of operation for the fiscal first quarter 2009 are not necessarily indicative of our operating results for any future periods.
+
+Now, I'll turn the call back to Walter for some closing remarks.
+
+Walter Wang
+
+Thank you, Carl. In summary, we are pleased with our result this quarter, as well as with opportunities ahead to continue to penetrate the Chinese market for computer-based testing services. Looking at the near-term opportunities, we are delighted to report many favorable developments, one, Ministry of Culture has cleared all government approvals necessary to launch nationwide prep and testing for Internet cafe in China. We are currently in the final phase of launch planning and expect to formally launch prep and testing for Internet cafes' at the end of September. Following the successful launch of the sales professional (inaudible) exam for the Securities Association of China. In this quarter, this key climb is expected to launch another new tidal in the coming months to qualify securities brokers in China. This is a very large addressable market where testing and qualification was previously not done. We believe the number of brokers practicing in China is approximately 5 to 10 times the number of currently working licensed securities professionals. Three, China Banking Association is undertaking studies to launch more titles as part of their efforts to certify the existing banking skill set. If its' possible, the CBA may launch an additional 3 test titles on top of the existing titles by first half of calendar 2009.
+
+Four, Ministry of Labor, a longstanding client of ATA is also expected to launch several new test titles before end of this year further solidifying this longstanding relationship.
+
+Five, the (inaudible) government sponsored test market, we have made significant progress after successful cooperation with China Life Insurance in the enterprise internal assessment market. We have further signed up in the insurance sector Titan [ph] Life Insurance Company and the bank sector Safex Bank [ph], (inaudible) Savings Bank, Qatsha Bank [ph], Shanghai Pudong Development Bank, Shanghai Rural Commercial Bank, Jo Geon Commercial Bank [ph] and HSBC China to provide internal assessment services. This represents a solid progress on the execution of our strategy to penetrate the private sector assessment market.
+
+Sixth, finally, Chung Hua University represents a unique brand and content enhancement opportunity to our current test-based education progress. We expect to finalize a favorable cooperation plan before December. In the long term, the trend to computerized test taking and to outsource test testing services is irreversible. We look forward to executing a highly defaceable strategy to capture revenue opportunities in the complete testing valued trend as we capture more test titles and clients. We are very excited about these opportunities ahead to create lasting value to our shareholders'.
+
+With that, we would now like to open the call for to your questions.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator instructions) Your first question comes from the line of Mark Marostica with Piper Jaffray. Please proceed.
+
+Ed Job
+
+Hi, Mark. Please proceed.
+
+Mark Marostica – Piper Jaffray
+
+Yes. Thanks. A nice job. I wanted to first ask about the revenue per student line which again you've shown considerable improvement upward. And understanding of course that's driven by the higher priced tests as Carl mentioned, when do you actually anniversary the – let's say higher point of that particular metric. With the coming quarter, will you hit a tough comp and if so when will that be?
+
+Carl Yeung
+
+Yes. This revenue per test taker will fluctuate quarter to quarter depending on if that quarter had a large number of finance related test or other higher revenue per test titles being offered. But to answer your question directly is that we didn't expect a very strong year-on-year increase in revenue per test taker.
+
+Mark Marostica – Piper Jaffray
+
+Is that comment Carl for the second quarter and what about the balance of the year?
+
+Carl Yeung
+
+Yes, the second quarter, it may be a little bit lower, but for the balance of the year it will be a lot higher going into December.
+
+Mark Marostica – Piper Jaffray
+
+Again because of the uneven compares of the banking association I would imagine?
+
+Carl Yeung
+
+Yes, because the banking test is not offered in the second quarter.
+
+Mark Marostica – Piper Jaffray
+
+Right. Fair enough. And then a second and related question regarding the guidance for the full year, obviously pertains a very healthy back half of the fiscal year. I'm curious if you could just talk to some of the drivers of revenue growth in the back half of the fiscal year specifically that get you to that guidance level?
+
+Carl Yeung
+
+Sure. I think Walter gave a lot of color in terms of the very near-term opportunities, very solid opportunities. Again we have been waiting for the Ministry of Culture for quite a few quarters, and this quarter we have been – they have cleared all government approval. We are looking to launch in September and this is a very large addressable market and we are currently finalizing the launch plans. We'll update the (inaudible) as this is finalized and it looks like it will be a very strong contributor of our full year revenues, and that will start hitting a little bit in September but more importantly into December and also the quarter following that. On top on that, the Securities Association of China has indicated they will release a new test title. It's a broker qualification exam for people who may not understand the China securities market as well as the people on the ground here. The number of brokers working in China is huge. It's roughly 5 to 10 times the number of people who are licensed and working right now. And they are all not licensed to date. And with this requirement, we are going to see a huge pop there, also contributing to a very strong full year to finish up. On top of that Ministry of Labor as also discussed by Walter is going to be adding a few new test titles. We have definitely further strengthened our relationship with the pending/closing of this JDX company to fully utilize both exam delivery as well as system software solutions throughout the entire ministry from the top level to the provincial level across different test titles. So, we are going to see very healthy growth from the client that has been with us for 9 years, probably one of the biggest growth this year. And on top of that we have made really good progress away from the government sponsored test title market namely the private sector HR market. We started stepping into this market just at the beginning of this year; first client was China Life Insurance and I don't want to repeat the list that was repeated but we basically acquired pretty much all the banks and another very important life insurance company to add to the arsenal of clients that we have. We started with testing there and then we are going to be starting to offer test paper [ph]. Again, these are already solid contracts that will contribute towards our fiscal year guidance.
+
+Mark Marostica – Piper Jaffray
+
+Okay, very good
+
+Carl Yeung
+
+I think we have – we are very comfortable – we'll probably be getting 340 to 350.
+
+Mark Marostica – Piper Jaffray
+
+Great. And then on the quarter, I wanted to highlight one item where you achieved quite a bit of leverage and that's the selling and marketing line. I think you mentioned it was flat in the quarter. I am curious what drove that leverage, if the digitals tend to come there and maybe you could just talk about, if you continue to see significant leverage coming from that line item and then what happened this quarter?
+
+Carl Yeung
+
+Yes, we agree. We actually, as Walter mentioned, we have slowed down quite a lot of seldom marketing effort in our test-based education sector because we believe the current content has a limited market scope as well as that market being extremely competitive. As you can understand, ATA being a testing service provider, we actually don't have to spend a lot of sales and marketing resources. We need to negotiate with Ministry; we don't need to send a team of hundred people to cover that. Most of our sales and marketing effort up to today has been related to the test-based education program, and as we reduce our efforts there, that will continue to add to our leverage going forward. So, that's a key driver.
+
+Mark Marostica – Piper Jaffray
+
+One last question and I will turn it over. You mentioned that this past quarter you reached record levels in terms of number of simultaneous tests delivered across a vast network and it makes the question done [ph] on me as to whether or not you are due for a major upgrade in technology infrastructure or whether you feel your current level of technology and capacity utilization is such that it will last for several years? Thanks.
+
+Carl Yeung
+
+Yes. We have absolutely very scalable model that as you can tell from the China banking test, we delivered test 470,000 test takers utilizing just around 400 test centers. We have a total capacity network of 1,800 test centers that we can use. So, even at any given maximum peak daily volume, we are utilizing a fraction of this test center facility. In terms of technology, we are definitely the world leader in this technology. From an R&D perspective, this increased a little bit this quarter and we will expect that to increase going down this fiscal year too. The reason is we are readying some very interesting products to address the HR market as well as some potential test prep entertaining market, online solutions for example. We will release our game plan as we ready these products and it should be positive results from that.
+
+Mark Marostica – Piper Jaffray
+
+Thank you. Nice job again.
+
+Ed Job
+
+Thank you, Mark.
+
+Operator
+
+Your next question comes from the line of Kim Howe [ph] with Poly Capital [ph]. Please proceed.
+
+Kim Howe – Poly Capital
+
+Good evening. I have question regarding the Internet café test. I know you are going to start it in September, so how many – what's the number of tests that you expect to deliver? And for each test, what do you expect ASP is supposed to be?
+
+Carl Yeung
+
+Ken, it's good to hear from you.
+
+Kim Howe – Poly Capital
+
+Thank you.
+
+Carl Yeung
+
+We are right now finalizing a launch plan for the Ministry of Culture because just one or two weeks ago we received the final approvals within the government. So, right now it is a little bit too early to say but to answer your question very quickly, there will not be very significant contribution in the September quarter, to be very honest. But, this is a very large revenue opportunity. We will give further guidance in terms of how much we expect to earn from Internet cafe from preparation in terms of revenue perspective and for a test perspective. Basically, right now, the indicated range is going to help our average test – revenue per test to go up significantly, if that goes through.
+
+Kim Howe – Poly Capital
+
+Okay. That's great. And then there is another big picture question. As I know in terms of the revenue each quarter, we do have a seasonality, however, as the Company's strategy, you do want to increase your other non-test services such as tax preparation or education services to give enough cushion for those fluctuation over the year. So how do we do in that front?
+
+Carl Yeung
+
+Absolutely. We do see the seasonality. Few of the things that we are trying to do we are going to develop the HR internal testing market in a very, very big way and Walter has already mentioned some of the key breakthroughs we had with new clients this year. On top of that, test preparation is always in the heart of this management. The revenue opportunity is almost 10 to 1, basically every dollar spent in testing, we would ten times in test prep, and we have significant advantages in securing test prep sectors that we are already provide testing in. Some of the successful cases in the past are for example, the NTET Software, the continuous training platform for the Securities Association of China. We will continue to develop these products in test preparation service across a wider industry vertical to lower the seasonality and more importantly deliver bigger growth going forward.
+
+Kim Howe – Poly Capital
+
+That's very helpful. Thank you.
+
+Operator
+
+Your next question comes from the line of Scott Schneeberger with Oppenheimer. Please proceed.
+
+Scott Schneeberger – Oppenheimer
+
+Thanks very much. I guess, just a question on Internet cafe. You mentioned that September will start – I assume there is very little in the guidance there and that it's back halfway to what you are expecting. Just digging here to see if there are any risks if there is a delay on that for the quarter itself?
+
+Carl Yeung
+
+There should a fairly little contribution from Internet cafe from a conservative perspective. So, you are right – you are absolutely right, but we don't expect any further delays. If you get delayed in the past, we were all basically sitting with government approvals. Now that's all cleared. We are ready to launch the rocket [ph].
+
+Scott Schneeberger – Oppenheimer
+
+Thanks, Carl. Also Securities Association in China, it sounds with the brokers, it sounds like an immense opportunity, just if we could go down that road a little bit more with regard to potential timing, also Ministry of Labor, I think Walter mentioned end of this year. Is that calendar year or fiscal year? Just a general timing question on some of the big things in your pipeline, thanks.
+
+Carl Yeung
+
+Sure. I will answer the Ministry of Labor question and I will let Walter answer when we expect to launch the broker exam. The Ministry of Labor is always contributing nice growth to us. The new titles we will probably add at the end of the calendar year.
+
+Walter Wang
+
+After discussion with the Securities Association of China, we probably will launch the broker exam at the end of November or at the beginning of December.
+
+Scott Schneeberger – Oppenheimer
+
+Great, thanks. Switching over to the cost line, we talked a little bit earlier about sales and marketing, about R&D and what your plans are there. G&A, should we expect any change to how you are leveraging there, any increases or decreases that you foresee Carl?
+
+Carl Yeung
+
+Yes. It will be pretty much around this number for the rest of the year except for the December quarter where we finish our bonus cycle. So, there should be – let me just give you a rough idea, expect maybe about 40% increase over this number for the December quarter. But this is well-planned in our guidance.
+
+Scott Schneeberger – Oppenheimer
+
+Okay, good. Thanks and a final one more housekeeping. Tax rate guidance, basically you mentioned that you may get a credit back for calendar year '08 if you get the approval for being a tech Company, which I assume would come in calendar '09. Can you just give us a little bit of help with your modeling with regard to tax rate and are you confident in fact that you think you will get that approval and that rebate for what you pay in '08? Thanks.
+
+Carl Yeung
+
+Yes, the official procedure to how to claim the high tax only came in the end of June if not early July, if I remember correctly. So, we only had a month to digest it. So, even if I send in the application now, the local tax authorities don't know how to deal with it. So, frankly, it may be a little bit too early to say. I would advise people who want to model the Company to stay on the slightly conservative side and then look for surprises at the end of the year.
+
+Scott Schneeberger – Oppenheimer
+
+Okay. Thanks very much. Good job.
+
+Operator
+
+(Operator instructions) Your next question comes from the line of Mark Chang [ph] with Merrill Lynch. Please proceed.
+
+Mark Chang – Merrill Lynch
+
+Hello.
+
+Carl Yeung
+
+Hello, good to hear you.
+
+Mark Chang – Merrill Lynch
+
+Hi, I have a few questions. First of all, can you give us a more detail (inaudible) regarding the development of the Chinghua program in terms of how this will work out and when do you expect we will have a better picture? And second question is just related to the continuing education. Remember, you come across – we've come across talking about the opportunity with the Security Association and banking association, and can I have some color about what's the update there? And probably the third one, relating to your guidance for the next quarter, you are talking about revenue growth of 0% to 6% and – but I was just wondering that if we distribute out the revenue from banking association tests in last year, what type of growth you are looking at now?
+
+Carl Yeung
+
+Okay, sure. I'll answer the Chinghua program update first; I'll let Walter discuss the continuing education portion for the online biz. After that, and I'll answer the percentage again. If we strip out the banking association, now for our Chinghua program, we actually have signed a cooperation in October last year. We just haven't really find the right path to execute on both sides. Right now, they are very busy readying for the launch of the school year because September is coming up. So, the discussion has been quite down a bit. We hope to finalize something like I said, like Walter mentioned in the earnings call earlier before end of December. But it is probably going to be a little bit earlier. We'll probably give an update by October in terms of what we are trying to do and revenue guidance for that program enhancement for fiscal '10 by October if not November.
+
+Mark Chang – Merrill Lynch
+
+Okay, thanks.
+
+Walter Wang
+
+Could you repeat the question on the online part?
+
+Mark Chang – Merrill Lynch
+
+On the continuing education, I remember you guys talk about that opportunity with the banking association or the security association and I just would like to have some update, what's the progress there and what type of revenue we are expecting from these two associations?
+
+Walter Wang
+
+Okay. For the Security Association in China, we already launched the continual education for them exclusively and the program is going very well. And also, after we launched the new titles for the sales of that and also the broker examination, those people also need to be – go through the continual education. So, we are expecting more people to use our online training contents for the continual education.
+
+Carl Yeung
+
+Okay. Mark, to answer your question in terms of stripping out growth for banking last year, the pro forma growth that we have put our guidance on is approximately 43% to 52% year on year for the next quarter.
+
+Mark Chang – Merrill Lynch
+
+Okay, thank you.
+
+Operator
+
+Your next question comes the – is a follow-up question from the line of Kim Howe with Poly Capital. Please proceed.
+
+Kim Howe – Poly Capital
+
+I just have one follow-up question, regarding the internal business like what Walt mentioned, HSBC, Pudong Bank, what exactly are you going to do for them?
+
+Walter Wang
+
+To deliver the internal assessment for those banks and insurance companies. And also, following that, we will deliver the test prep for them.
+
+Kim Howe – Poly Capital
+
+Okay, got it. Thank you.
+
+Walter Wang
+
+Okay.
+
+Operator
+
+At this time, there are no further questions. I would now like to turn the call over to Mr. Ma for closing remarks.
+
+Kevin Ma
+
+On behalf of the entire ATA management team, we want to thank you for your interest and participation in this call. If you have any interest to invest in ATA, please let us know. Again, thank you for joining us on this call. Thank you.
+
+Walter Wang
+
+Thank you everybody.
+
+Carl Yeung
+
+Thank you.
+
+Operator
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect and have a good day.

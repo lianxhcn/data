@@ -1,0 +1,442 @@
+Aareal Bank AG (AAALF) Q3 2021 Earnings Conference Call November 11, 2021 4:30 AM ET
+
+Company Participants
+
+Jürgen Junginger - MD, IR
+Jochen Klosges - CEO
+Marc Hess - CFO
+Christof Winkelmann - Chief Market Officer
+Manfred Alflen - CEO, Aareon Group
+
+Conference Call Participants
+
+Nicholas Herman - Citigroup
+Johannes Thormann - HSBC
+Sun Mengxian - Deutsche Bank
+Tobias Lukesch - Kepler Cheuvreux
+
+Disclaimer*: This transcript is designed to be used alongside the freely available audio recording on this page. Timestamps within the transcript are designed to help you navigate the audio should the corresponding text be unclear. The machine-assisted output provided is partly edited and is designed as a guide.
+
+Operator
+
+00:02 Ladies and gentlemen, thank you for standing by. Welcome, and thank you for joining the Aareal Bank AG Conference Call. Throughout today’s recorded presentation, all participants will be in listen-only mode. The presentation will be followed by a Q&A session. [Operator Instructions]
+
+00:26 I would now like to turn the conference over to Jurgen Junginger, Managing Director and Head of IR. Please go ahead, sir.
+
+Jürgen Junginger
+
+00:35 Good morning, everybody. I'd like to thank you for joining our Q3 conference call. And even in the light of the news and the rumors, let's focus here in this call on our Q3 performance. As we are already used to, our CFO, Marc Hess; and our CMO, Christof Winkelmann will present you our figures. And we have our new CEO, Jochen Klosges here with us. After the presentation, we would be happy to answer your questions, where Manfred Alflen, CEO of Aareon is also available for deeper insights into our IT subsidiary.
+
+01:06 But now, I want just to hand over to Jochen, please.
+
+Jochen Klosges
+
+01:11 Thank you very much, Jürgen. Good morning, ladies and gentlemen. I've been now on Board since fifteenth of September, and after almost two months, I'm delighted to be speaking to you today for the first time, even if it's just by phone, but I hope to meet you in person very soon.
+
+01:31 My first few weeks at Aareal Bank Group have been anything, but business as usual. You know why? We confirmed on seventh of October that the Management Board had entered into open-ended talks regarding the potential acquisition of a majority interest by a group of financial investors, Advent and Centerbridge.
+
+01:52 As already emphasized at the beginning of October, we did not initiate these talks, instead, the investors approached us with their request. In such a case, we are obliged to examine the strategic options that could arise from a possible new scenario. This is exactly what we are doing currently with great seriousness and diligence, always keeping in mind the interests of the company and its stakeholders.
+
+02:19 I clearly understand that you want to hear more from us about how things stand at the moment. However, I must ask you to please understand that I cannot really comment on this. The only thing I can say today is that talks are ongoing. When we have something to report, we will of course inform the market and the general public immediately. But life will not stand still until we have something to report of course.
+
+02:45 A few days ago, we invited for an Extraordinary General Meeting to vote on the second dividend tranche for the financial year twenty twenty. But by their very nature, the ongoing talks with the financial investors could have an impact on this. In the event of an offer and depending on the content of the offer, the dividend proposal for the Extraordinary General Meeting could be put to the test, however, right now this is pure speculation.
+
+03:13 As you have seen yesterday, we have once again received a request for extension of the agenda of this General Meeting in December by one of our shareholders. The Supervisory Board has commented on this in its statement in detail and we published a press release in this context to yesterday. We have nothing to add in this regard.
+
+03:37 What is important to me is that we must not neglect our ongoing business of implementation of our successful strategy because of the ongoing talks with the potential investors. And regardless of the outcome of these talks, Aareal Bank continues to be an attractive company with a sustainable business model. This is exactly what I perceived during the first-two months here in Wiesbaden.
+
+04:05 I have been very impressed by the high levels of competence and commitment that employees and my colleagues from the Management Board show when it comes to evolving the company. This shows me that it was the right decision to join Aareal Bank Group.
+
+04:19 What excited me about Aareal Bank was the fact that it's not just a bank active on four continents, we are also a prominent player in the housing industry and with Aareon under the same roof. We have a software subsidiary that is set to achieve strong growth in what is a very attractive market for the future.
+
+04:37 It goes without saying together with my colleagues from the Management Board, I will also set new focus points in order to make Aareal Bank Group even stronger in the future. This applies regardless of whether a deal is concluded with the financial investors or not. In the short time that I've been here, I've had many intensive and interesting discussions on this matter.
+
+05:01 In the future, our main focus has to be on exploring further growth opportunities for Aareal Bank Group and of course, increasing the efficiency of our operations. The foundation for this is Aareal Next Level of our strategy. The potential to achieve these goals is clearly visible in all three segments.
+
+05:24 Ladies and gentlemen, our third quarter figures which we presented to you today are clear evidence that Aareal Bank Group is on the right track. And this despite the continued high level of uncertainty caused by the ongoing Coronavirus pandemic, which has unfortunately intensified again in recent weeks and days here in Germany.
+
+05:48 Our performance over the year-to-date and especially for the third quarter is encouraging. The income driven increase in results continues. Net interest income is particularly impressive, rising to its highest quarterly level in four years. This is also attributable to the controlled risk aware and strategic growth path we took during challenging times.
+
+06:12 Additional levers from our Next Level strategy are also contributing to this positive development. And we are fully committed to seizing the opportunities that present themselves to a specialist such as Aareal Bank Group even in the current situation. Our new business is developing successfully and offers an attractive risk return profile.
+
+06:39 As expected, loss allowance is still above the normalized average on the -- of the past years. This is clearly due to the ongoing uncertainties caused by the pandemic. Our net commission income continues to rise and the volume of deposits, which is particularly important for our refinancing remains at a high level.
+
+07:02 Last, but not least, Aareon continues to make good progress with its growth program. All of this shows that our strategy is clearly bearing fruit. We can see today that the path we have embarked upon with Aareal Next Level is the right one. We will continue to further implement our strategy. However, the big unknown, especially in view of the current situation is how the pandemic will evolve in the future. We therefore remain cautious regarding our loss allowance. And this is the line we are taking in our business in general, opportunity-driven, but at the same risk aware and always in accordance with our strategy.
+
+07:42 In terms of outlook, this means that we will leave our current forecast unchanged and see what the fourth quarter will bring. My colleagues, Marc and Christof will now present a detailed report on the results and developments for the third quarter. I will then conclude with the outlook. And after that, we will be available to answer your questions.
+
+08:06 Marc, over to you.
+
+Marc Hess
+
+08:06 Yes. Thank you, Jochen, and good morning to everybody from my side too. I'm happy to present the details of our P&L now. You can find them on page five. I think the figures reflect what Jochen just said, the performance within the first-nine months has been very promising, especially the momentum we created in our net interest income, both from the asset and from the funding side shows that we are well advancing in executing on our adjusted strategy, Aareal Next Level.
+
+08:43 With the operating profit of fifty million EUR in the third quarter and one hundred twenty three million EUR in the first-nine months, we are absolutely in line with our guidance and managed the turnaround as promised after a difficult corona impacted year twenty twenty.
+
+09:04 Looking at the net interest income on the next slide, I think it becomes obvious that we are using the opportunities in the current environment. I would say more actively than others, of course, strictly respecting on our risk standards, and that is paying off, as you can see here, the portfolio is already ahead of our twenty nine billion EUR target for the end of the year. And as Christof will explain to you later on, we are probably already reaching the target that we had set for next year in this year.
+
+09:42 The NII, as I just said, increased significantly more than twenty percent quarter-over-quarter, that is twenty seven million EUR. And in this twenty seven million EUR most of that is really organic. There's only a three million EUR support from the TLTRO in the quarter-by-quarter comparison. On the nine months basis, we are up sixty two million EUR, which is sixteen percent.
+
+10:11 On the fee income, the fee income is still affected by the pandemic, especially the professional service consulting business of Aareon, longer than we had originally expected to be frank here too. On top, we had a shift between Q2 and Q3 in Aareon from earlier recognition of fees generated by BauSecura that was around three million EUR distorting the quarterly comparison of Q2 and Q3 this year. On a nine month basis, the NCI was up by four percent to one hundred seventy four million EUR.
+
+10:56 On the cost side, we are also absolutely in line with our guidance, you can see that quarter-by-quarter, the bank is up five million EUR. This is easy explained three million EUR from the COVID-related underspent last year that is basically the phantom shares. We had -- share price going down last year up this year. So that makes a difference of three million EUR and another million EUR for Aareal Next Level as we have communicated.
+
+11:24 On Aareon costs were up six million EUR, four million EUR are M&A related and two million EUR are the investments in our VCP program. So, as you know here, again, we are investing this year to generate future growth in the years ahead.
+
+11:45 Risk provisions are well below previous year, with ninety five million EUR including fair value P&L after one hundred eighty five million EUR in first nine months of twenty twenty. So we are fifty percent down, but still and Jochen just mentioned that slightly above the pre-crisis levels as expected, I have to say. With regards to the winter quarter, fourth quarter we remain cautious. This is why we are keeping our outlook unchanged within the communicated range.
+
+12:22 In the NPL volume, you can see the reduction already indicated in August due to the successful completion of our de-risking in Italy. This is why we are now significantly below the peak of mid this year and we consider that being the peak at an NPL ratio of just below five percent.
+
+12:42 That said, I hand over to Christof for more details on the real estate market and on our portfolio.
+
+Christof Winkelmann
+
+12:52 Yes. Good morning from my side as well. Thank you, Mike. On slide number ten, as expected, vaccination rates have further increased and many countries have the rates between seventy percent and ninety percent. So in total, the economic recovery is way across the globe. However, even because, we have different degrees in infection rates and the fact that delivery chains have been largely impacted as a result of COVID, there is still uncertainty in the development.
+
+13:23 In line with our expectations, transactions volumes have further increased significantly bringing liquidity and deal flow to our markets. After the global reopening, our portfolio of course, has benefited from people wanting to meet in-person again to socialize, conduct business, to travel, to go shopping and to attend more time in the office again to summarize pressure on our CREF portfolio declining with KPIs picking up again.
+
+13:55 On slide number eleven, as just said, we do see promising performance increases and booking trends for our finance hotels are trending up, especially also when it comes to conferencing, which does have a cash up to do and is looking very promising for the next two years to come. Also, just as a matter of fact, this Monday on eight of November, the U.S. has finally opened up their borders again to lead international travelers for business and pleasure into their country, and I can tell you that the planes go into the U.S. on the first day were all fully overbooked.
+
+14:33 Contrary to some beliefs, by the way, people are still surprisingly buying product offline and that as a result indicates that stationary retail sales are picking up across the globe, although some countries like UK are still lagging behind. Logistic favorite asset class apparently still is completely under supplied and is very highly competitive market, especially for us on the financing side as well, but with the support of our USPs of structuring large well diversified cross border, multi-asset deals. We have once again shown that we can be good and increase our market share.
+
+15:14 Despite the increasing factor rate base, as I said, there's a trend to come back to the office and it's accelerating. And just the side comment because nobody apparently thinks that offices will be needed again in the future, I want to decide Brookfield that has just made an offer to take over Alstria, a pure German office REIT at an all-time highs in terms of share price. So maybe they see something -- that some people don't see more that we at least tend to be with a large part.
+
+15:48 When it comes to the new business. While not stopping to support our clients, as I've mentioned many times on the last calls, in the new acquisitions and refinancing throughout the cycle, we're able to continue to originate good risk return business. Our clients want us to accompany them through the cycle, not just when things are good, but as opportunities arise for them.
+
+16:14 At the same time, this enabled us to build a solid deal pipeline going forward. So we're not just looking the rearview mirror but looking at attractive opportunities already going forward, and that pipeline is filled with equally good risk return parameters in line with our credit risk guidelines. The pre-FX margins for Q3 were above thirty basis points leading to an average two hundred and twenty five basis points year-to-date at an LTV of fifty seven percent, which I believe is a very good level and in line with planning.
+
+16:48 We further increased our green loan volume and we do continue to see more opportunities with our clients. New business overall, I can tell you that much will be expected at the upper end of our communicated range of seven billion million EUR to eight billion EUR.
+
+17:05 On page thirteen for green loans, we do not only look at the quality of the building and certificates there too, but we are agreeing on rigid requirements and undertaking that need to be fulfilled throughout the tenure of the loan. If I can briefly explain, there are conditions in loan agreement to up keep the standards to make sure it is operated in the right way, should the client fail to do that, there is a default covenant, which would basically make the loans due. So it is a very strict guideline.
+
+17:39 We have identified sixty five percent of our portfolio is having certificates and twenty percent of our portfolio do fulfill our rigid requirements that we have developed together with facilities I had alluded to in the last call already. These certificates and they are the very basis of upon which we can eventually provide our clients with green loans. Today, we have stood at seventy five million EUR of green loans and there are further to come by the end of the year and starting next year.
+
+18:15 On page fourteen, as mentioned before, the continuous dialogue with our clients enable us to use the market opportunities with excellent risk return profiles. Thereby, we were able to increase the portfolio target for the year end to up to thirty billion EUR, achieving the original target as Marc alluded of twenty two one year in advance. As available, we are sticking to our diversification both in terms of geographical location and asset types, while -- and as I said that already beforehand, our logistics portfolio is slowly growing in share as a part of our portfolio. We are always keeping risk return aspects in the back of our mines when underwriting loan, and we do believe that there's further room for growth in our company going forward.
+
+19:16 On slide number fifteen, as you can see, our somewhat bell shaped LTV care has further shifted to the left, yielding and average LTVs just slightly below fifty nine percent on average. And as I had envisaged in the Q2 communication already values, overall have stabilized and are continuing to improve month of on average. Another indicator that has continued the same trend is our overall yield on debt for the portfolio, while Q2 have shown first signs of turnaround Q3 as reinforce this trend, it increased by sixty basis points to seven percent from six point four in prior quarter, which I think is showing very good tendencies in one quarter only.
+
+20:04 One effect of the improving performances is also the continuously decreasing liquidity support needed and/or as per our clients as you can see on the graph on the bottom right side. And as always backed by favorite demand, we have again broken up the hotel and retail segment to show you the timeline over the past quarters and as to how LTV and yield on debt develops in these asset classes that are always discussed and a point of focus. And the same trend also here, as I described before, it's clearly visible when it comes there. The YoD (ph) hotels managed to increase fifty percent to four point one percent in one quarter. I think showing and continue the trend that we have seen from the lowest point in Q1 twenty one. While average LTV has also improved to sixty one percent getting closer to its pre-COVID levels. Given that for the retail, has also improved to a very acceptable nine point one percent on average with LTV stable and slightly better at sixty percent.
+
+21:17 I think to sum it up, we are expecting this trend to continue with all the uncertainties that we cannot predict ourselves and unfortunately nobody can, but we're looking to increase our undertaking path and with this, I would hand back over to Marc.
+
+Marc Hess
+
+21:34 Yeah. Thank you, Christof. Let's follow-up with BDS. Here you can see that it also performed well in line with its targets, the fee income increased by ten percent to twenty million EUR on a nine month basis despite of the burdens from the ruling of the German High Court that cost us one million EUR, so really well in line with the mid-term targets, even more important as we are growing the portfolio, the growth of our deposits here, we are now at twelve billion EUR. The original target was eleven billion EUR and we are happy to increase the target now to twelve billion EUR by year end.
+
+22:20 Let's come to Aareon. As you have seen in our various deal announcements in the course of the year, Aareon has successfully expanded its portfolio by M&A activity. And let me remind you on top of that, we still have a full pipeline. The company has also benefited here clearly from the M&A network and the expertise of Advent and we at Aareal as you also now have provided a hunting line loan of two hundred and fifty million EUR to finance that in organic growth.
+
+23:02 As you can see here on the slide, we have already successfully completed those six acquisitions. And most reason one was made in October. Here Aareon took over GAP group provider of ERP software for the German Housing industry. This gives us significant cross-selling potential as GAP Group has five hundred and fifty customers, who operate one point five million units in Germany. So we will also be able to benefit here from cross-selling potential, especially with regards to our digital solutions.
+
+23:41 In August, Aareon took over the Wohnungshelden company that offers software solutions for the housing companies to fully digitize their entire letting process. So together with Aareon, these solutions can be further developed and marketed even better. Customers of the two companies will benefit from the expanded product range. Aareon also has access to non-Aareon customers through Wohnungshelden and this gives us additional cross-selling potential we have Manfred Alflen here the CEO of Aareon. So in case you have more detailed questions on Aareon or these specific M&A deals, he is also happy to join in to answer your question in the Q&A session.
+
+24:33 With regards to the operational business, both the further expansion of the product range and the implementation of the value creation plans are well underway as part of our ERP twenty twenty five product strategy, Aareon has achieved a milestone with the new Wodis Yuneo product generation marketing continues, particularly with a view to using Wodis Yuneo as a SaaS solution that's another significant step by the way in Aareon’s transformation into a SaaS company.
+
+25:09 Having look on revenues and EBITDA on page nineteen. You all can see that the revenue increase continues despite of the consulting fees still being impacted by Corona and the fact that due to the successful subscription to our Wodis Yuneo product many customers are hesitant in investing in their old systems and this is why we are expecting consulting to pick up significantly along the implementation of Wodis Yuneo starting next year.
+
+25:45 However, due to the muted professional services season in twenty twenty one, we have lower expectations slightly, but nevertheless, we have kept Aareon’s adjusted EBITDA guidance unchanged as we have already implemented some counter measures, especially on in the cost side.
+
+26:05 Let's look at capital, page twenty one. Here you can see that despite of the growth in the loan book, we were able to increase the Basel III as well as the Basel IV phase-in ratio to twenty one point five and seventeen point eight respectively, so quite a strong increase. The reason is that we have compensated that loan book growth by positive effects from the retroactive collateral recognition. Here we ran a campaign and from the NPL reduction in the third quarter as we have just shown, so very positive effects on that side.
+
+26:50 Looking ahead, as you know, the commission proposal for the implementation of Basel 3 has been published recently. Therefore, it becomes a fact that Basel 3 will need to be replaced in the foreseeable future. This is why we are currently discussing internally to adjust our internal steering too and we may adjust Basel 3 ratio calculations, for example, by applying an input floor going forward. So to align it more with the new Basel 4 phase-in standards that means that Basel 3 would convert to Basel 4 phase-in levels. As you have seen that with other competitors already, I think it really makes sense when we are providing loan today for five years that we basically focus on the new standard and not on the current one that will be replaced.
+
+27:50 With regards to funding and liquidity, here, if you're looking at this chart, you can see that in parallel of the portfolio growth, our funding chart is also taking upwards obviously. Here as I just mentioned a very welcome support is the increasing deposits from our housing industry. So here, we are one billion EUR in the course of the year. On top, we were a successful issuer of three point five billion EUR at the Capital Markets, two point three billion EUR covered, including sterling and U.S. dollar fund brief and one point two billion EUR in senior unsecured, so, well under way. The liquidity ratios are as you know over fulfilled both in the NSFR and LCR world.
+
+28:41 So that also -- already brings me to the outlook on page twenty four. As year-end moves closer, we have adjusted some of the lines as already explained in detail you can see it here the summary, our main target is the operating profit of one hundred seventy five million EUR however, is kept on changed that under underpins from our point of view that we are delivering the promised turnaround after the challenging corona year twenty twenty.
+
+29:15 Where we will end up exactly by the end of the year within that range, we will mainly depend on the loan loss provisions as Jochen already said, we want to remain cautious here, and we are keeping that range unchanged due to the recent pickup of new corona incidents in the running winter quarter.
+
+29:38 So that said, Jochen back to you.
+
+Jochen Klosges
+
+29:42 Thank you, Marc. Thank you, Christof. Yes, ladies and gentlemen, I will briefly summarize the main points. Aareon Bank Group continues it's positive development with a good third quarter. That's the main message of course our third quarter consolidated operating profit rose to fifty million EUR, mainly driven by a very pleasing increase in net interest income. This reflects the successful implementation of our Aareal Next Level strategy, which is clearly focused on controlled risk of our growth and the risk is the key word here, our loss allowance is significantly below the previous year's level but still above the normalized level in the context of COVID-19.
+
+30:28 Our growth initiatives have an impact and that's important in structured property finance segment, we have already exceeded our previous annual target for portfolio volume up just nine months and we will continue to increase it through to the end of the year. And as you know, our focus lies on a healthy risk return profile that means attractive margins good LTVs and of course, stable cash flows. In the banking and digital solutions segment, we have further increased net commission income and the volume of deposits has continued to grow at a high level.
+
+31:06 Aareon, Aareon has consistently implemented its M&A activities and its also on track in other important areas, including the transformation from licenses to fee to SaaS and increasing the digital solutions business. Our Swoosh-scenario of our gradual strengthening in economic recovery remains fundamentally intact. However, uncertainty regarding the future development of the pandemic has recently increased again, especially during the last days. In light of this, we are sticking to our forecast for twenty twenty one as a whole, both in terms of loss allowance and consolidated operating profit. Looking beyond the current year, we can confirm that our strategies bearing fruit. We are on the right track for the future and we see many opportunities to grow further.
+
+32:04 Thank you very much for your attention. My colleagues and I will be happy to answer your questions now.
+
+Question-and-Answer Session
+
+Operator
+
+32:35 Ladies and gentlemen, at this time, we will begin the question-and-answer session. [Operator Instructions] The first question comes from Nicholas Herman from Citigroup. Please go ahead.
+
+Nicholas Herman
+
+32:40 Yes. Thank you for the presentation and taking my questions. Hopefully, you can hear, okay?
+
+Jochen Klosges
+
+32:47 Yes.
+
+Nicholas Herman
+
+32:48 Great. Three for me, please. So firstly, on the bid you said that you're evaluating the bid seriously a lot considering from the perspective of all stakeholders, excuse me, from the some spectrum of all stakeholders. I realize that you are limited in terms of going into your thoughts right now, but it would be helpful can we go into the factors, please that the board and the management are considering in respect to the bid?
+
+33:17 And then secondly, I need a little bit extra more numbers questions, certainly on real estate portfolio, you have budgeted expected to achieve thirty billion EUR portfolio by year end, even though the new business target is unchanged. So as part of that, I mean, I would actually imply a significantly new business in Q4 versus Q3 which is not typical seasonality. It also implies quite limited redemptions in Q4. So if you could just detailed the moving parts there, that would be helpful?
+
+33:51 And then the last one is on the SPS net interest income. Clearly, it was an impressive pickup in a net interest income and in margin. So if you could just help us by breaking up the moving parts in the thirteen million EUR NII uptick between Q2 and Q3? That be very helpful. Thank you very much.
+
+Operator
+
+34:22 Ladies gentlemen, please hold the line. We lost connection with speakers.
+
+Jochen Klosges
+
+34:55 Okay. I try again so three questions, I would like to take the first one. If I understood correctly, you're referring to the ongoing talks with the potential investors and about the twenty nine EUR. So of course, this is finally something which has to be decided by the shareholders in the future, if there might be a binding offer of that group of investors. Currently, we are still in open ended talks. So, I guess, it's way too early to speculate about that. But again, our view is finally that this is of course, decision which has to be taken then by the shareholders of Aareal Bank.
+
+35:37 So, second was relating to real estate the thirty billion EUR development, Christof would you like to take this?
+
+Christof Winkelmann
+
+35:43 Sure. Absolutely. Thanks. So you asked how we will get to the thirty billion EUR by year end considering where we currently are. And the fourth quarter, as I understood you was the question is using that one of the strongest quarters. It depends very much on which jurisdiction you do business and the fourth quarter could be strong in some jurisdictions than others, however, we do business as we always do quite granular. So the case this year is, as I've mentioned beforehand, we did not stop to acquire new business to chat with our clients to be close to them and look at new projects in parallel to the crisis. And these are the benefits that are arising at this point in time, as I mentioned we have a well filled pipeline going forward, not only looking into rearview mirror, but also looking at the actual month and that is lasting into the next year. So the pipeline that we shows that we have a very good likelihood of achieving the set numbers of thirty and or around thirty billion EUR by year end, we are confidence of maybe because we did not stop contrary to some of our competitors but continued. I think this is the case and achievable.
+
+Jochen Klosges
+
+36:57 Okay. And if I understood your last question correctly, it was regarding the pickup of the net interest income Q2 versus Q3. So how these thirteen million EUR split up? Is that correct?
+
+Nicholas Herman
+
+37:12 Yes, that's correct.
+
+Jochen Klosges
+
+37:13 Okay. Good. So this thirteen million EUR can be broken down into five million EUR increase from the portfolio growth that is one point two billion EUR on an average. The result in five million EUR than better margins and better refinancing costs that is net margin, so to say another six million EUR and then we have around one million EUR from the fact that the third quarter has one interest day more than the second quarter.
+
+Nicholas Herman
+
+37:48 Great. Thank you very much.
+
+Jochen Klosges
+
+37:51 Thank you.
+
+Operator
+
+37:53 The next question comes from Johannes Thormann from HSBC. Please go ahead.
+
+Johannes Thormann
+
+37:59 Good morning, everybody. Johannes Thormann, three questions please. First of all on your net interest income outlook. I wonder with the portfolio growth and the current margin trends that is should be stable or up, but if I look at nine months level, the increased guidance, it is a best stable. Why are you so cautious on this and probably can you also elaborate a bit on the outlook for the de recognition result in Q4? What is currently seen -- already have seen repayments and so on?
+
+38:34 Next thing is looking at the performance of Aareon. Can you honestly really talk about the progress, if revenues in those revenue lines of Aareon declined quarter-on-quarter and the overall sales declines as well year-on-year despite M&A, which probably like for like would have made it even worse performance, even don't show the quarterly trends in your presentation on page nineteen. You promised double-digit positive growth not negative growth. When do we finally see a turnaround like the tech business is really accelerating [Technical Difficulty]?
+
+39:17 And last but not least, you showed very strong capital ratios, but still you put the dividend special risk according to your statements today. Can you at least elaborate a bit about the dividend policy for twenty twenty one? Thank you.
+
+Jochen Klosges
+
+39:36 Yeah. Hi, Johannes. I take your questions. And I think I will also have Manfred Alflen, CEO of Aareon joining on the second one. So with regards to the NII fourth quarter, you're are saying that we are at least -- at most, I think you said at most equal to the third quarter. I think we have really seen a good increase as I just explained from the second to the third quarter, which we don't think will be repeated. However, I wouldn't guide net interest income down towards the third quarter. So, we will rather be probably at the upper end of our guidance. I'm quite optimistic that still with portfolio improvement and portfolio growth, we will even see a slight increase in net interest income for Q4. The recognition income as you know is always very difficult to estimate. I think we are back on a normalized on a healthy level. But please as we have always done, it's difficult to forecast really individual quarters therefore I would reframe from that.
+
+40:55 With regards to Aareon, you said we would not give you more details. I will try to give view those. And then I think Manfred will join in and explaining the development if you're going to page six. For example on a nine months comparison, we've breakdown down the fee income, first of all in the group. You can see up six million EUR, so two million EUR.
+
+Johannes Thormann
+
+41:24 Sorry. We need -- it's about Q3, the dropping not about the performance of the nine months?
+
+Jochen Klosges
+
+41:30 I can break up the Q3 as well. So that's not a problem. So if we are looking at Aareon in Q3, we are down three million EUR. Out of that minus three million EUR come from the professional service fees. As said, there are some issues here that we have to consider. One is still a dilution of the demand of our customers due to COVID-19.
+
+41:57 Second, as I also mentioned is the successful pre sales of Wodis Yuneo. I think here it's understandable that customers don't currently invest in their old systems and rather wait until they implement the new one, which of course, also goes along with consulting demand and therefore, we are optimistic for the next year. Another two million EUR is attributable to license to SaaS shift. So minus two, of course, this is deliberate because this brings us future stable earnings supply and also slightly higher margins on that side. And another three million EUR is what I mentioned before is the BauSecura, which was a little bit less than three million EUR recognized in the second quarter, last year it was in the third quarter, so it's a little bit shift between those quarters maybe if Manfred you can add on that?
+
+Manfred Alflen
+
+42:58 Yes. And that's -- I'm just commenting the quarter-to-quarter on BauSecura. This is a business which typically recognizes most of the revenues in summertime, and sometimes it falls into the segment and sometimes in the third quarter, so that's something which so current comparison quarter-to-quarter and last year, it came a little later and this year came a bit earlier. But I think it's very important point is it the long term perspective. So there's a full year expectation and also the mid-term expectations. And just adding to what Marc Hess just telling, we are in the process of reshaping the business to be fully focused on SaaS. This does have an impact on of short-term besides all the -- already discussed professional services intake. That have a short term impact on licenses, which is typically recognize immediately where that our long term fees, and that's exactly what we've seen in the numbers. So although, we do have our reduction in the professional services, Q2 is growing our crisis and the new product implementation, which by the way is successful, so first customers are already live.
+
+44:15We see this shift in SaaS and we see a significant increase in these SaaS figures, which is -- for this year still counter balance by the impact of professional services, but the roles we see is completely coming from the SaaS. And that's exactly what makes us also feel comfortable going forward because other than consulting this is a long term secure business and will help us doing making the midterm targets.
+
+Jochen Klosges
+
+44:48 Yeah. With regards to your question on capital and the dividend, first of all, what I wanted to bring across I think looking at the Basel three ratios, I'm not saying they are overstated they of course, calculate correctly, but I think their importance will fade. This is what I mentioned before that we are currently thinking about, let's say, converting them on about four phase-in level, which just from a steering point of view providing long term loans, I think makes sense as these loans will definitely go into the new regime. So from that point of view, I think Basel 3 may not be the midterm reference anymore. With regards to the dividend policy here, we have always talked about dividends, dividend expectations only in our full year press conference, and we wouldn't change this. Now you can see that our dividend policy is still part of the appendix, and therefore is unchanged. We have the fifty plus a supplement, of course, the supplement only paid under certain conditions. As you can see, we are aiming a little bit more towards the growth angle. But as said, this is something that we should discuss next year. If there is no offer, of course, if there would be an offer and this is in often gate, could be a game changer.
+
+Operator
+
+46:28 The next [indiscernible] comes from Sun Mengxian from Deutsche Bank. Please go ahead.
+
+Sun Mengxian
+
+46:29 Hi. Good morning. Thank you very much for taking my questions. Also two questions from my side. The first one is on your new business margin. And if we look at the breakdown of the new business by properties that we see that there is some deviation from your last quarter and your back-book that offers and logistics are taking the major part of the new business. And these are the properties where we actually see high competition currently, and it's difficult for me to understand where the good margin is coming from, can you explain what the major contributor for the good margin level for this quarter?
+
+47:08 And the second question is on the cost inflation. So we see a jump in the cost inflation in the banking segment around about five million EUR increase against Q3 last year and nine million EUR against last quarter, what was the main driver for that? Thank you very much.
+
+Jochen Klosges
+
+47:29 Yes. Thank you. If I may take the first question as towards the new business margins. Yes, absolutely, as I said, we are shifting on trying to shift a bit more into the logistics segment, trying to grow that share in our portfolio. And as I've said, it's a highly competitive market. However, as I alluded to, what we are focusing on is no single asset transactions that are highly bid after with probably twenty banks and for finance providers lining up, in Germany, by the way, these would be the double-digit basis points for regular logistic, and you can by now buy logistic assets, if you buy a single asset between Germany and Amsterdam, yields are going as low as two point six percent. I don't think that, that is the market that we are in, we are in a market of financing larger, complex multi jurisdiction cross-border portfolios at low leverage points and then syndicating portions thereafter, whereby we do get very acceptable risk limits and by providing services to our syndication partners also do earn one other basis point more at the end of the day, always transparently disclosed to our syndication partners, which definitely benefit of our expertise in underwriting capacity.
+
+48:41 When it comes to offices, assume a trend is absolutely, as you said, offices usually tend to yield a lower spread. And as I've said beforehand, the fact that we did not stop acquisitions throughout the cycles as many others did that are now trying to ramp up new business by the end of the year, trying to be highly competitive in order to increase their book volumes to where they need to be, we have built up our pipeline over the past month in parallel to dealing with the crisis. And these deals, as I had also alluded to in one of the prior calls, do take between six to twelve months depending on size, the simple transactions might take three months, the larger cross-border portfolios take twelve to eighteen months until they're finally signed. So what we are signing today is not deals that are coming to market today, where other banks are scrambling to quickly get a deal done till the end of December, but our really long-term developed pipelines, and as I've said, the same is true for our pipeline looking forward, and that extends beyond thirty first of December, very confident to reach our targets and around the thirty billion EUR mark. And as I've said, there might be options to grow that further as we go along.
+
+Marc Hess
+
+49:52 Yes. And on the questions on the cost development, first of all, let me say that we are absolutely in line with what we communicated at the beginning of the year as a guidance. So this is not a surprise, but I'm happy to give you the details. First of all, you asked for a quarter-to-quarter comparison, which is comparatively easy. On the Bank, we have five million EUR costs more, three million EUR from the phantom shares, given the increase of the share price in the third quarter and the valuation of the outstanding phantom shares that we have to adjust accordingly. So that's three million EUR out of the five million EUR and another one million EUR is from the transformation costs that we have also communicated for this year here.
+
+50:45 For total year, we are expecting around five million EUR, and therefore, they are up one million EUR. In the third quarter, that was the Bank on Aareon, we are up six million EUR, four million EUR here from the M&A activity and two million EUR from the VCP. On a nine-month basis, there is one more element, which especially drove the Bank costs up, that is the higher costs for the banking levy and for the banking protection scheme or deposit protection scheme that we typically book in the first quarter. So this didn't show up in the Q3 comparison. So that is for the nine months, six million EUR, then out of the five million EUR for the full-year, we have already recognized three million EUR transformation costs, and then we have thirteen million EUR from the phantom shares.
+
+51:44 As the share price, and we communicated that transparency at the end of last year was down significantly, the phantom shares value decreased, therefore, we had a relief in the P&L of ten million EUR last year in the first nine months versus three million EUR increase now. So in the comparison that is thirteen million EUR, and I think this explains most of the twenty three million EUR increase that we have seen in the Bank. In Aareon, we have eighteen million EUR, out of that elven million EUR from M&A and five million EUR from the VCP.
+
+Sun Mengxian
+
+52:23 Thank you very much.
+
+Operator
+
+52:26 The next question comes from Tobias Lukesch from Kepler Cheuvreux. Please go ahead.
+
+Tobias Lukesch
+
+52:31 Hi. Good morning. Three questions from my side as well, please. I would go one by one, if I may. So firstly, on the real estate portfolio and the potential growth, you mentioned the further growth aspects basically for the Bank, and you now expect the thirty billion EUR REF portfolio basically to be achieved in twenty one, so a year earlier, with regards to the portfolio growth in the coming years, what do you see for twenty twenty two, twenty twenty three? And also under the aspect, which you just mentioned that there is no excess capital basically left as of today under the stricter Basel 4 rules, which have been fully loaded?
+
+Marc Hess
+
+53:11 Yes, Tobias, I'm taking your question. Thank you very much. First of all, we are, of course, currently in our planning session. So this is exactly what we are looking at and where we, yes, assess where we have potentials going forward. Therefore, please allow me to say it's a little bit too early to talk about that today. We would, as always, present new plans to you in February. However, what I can say is, we're, of course, confirming our mid-term targets that we presented to you in February last year. If you are saying there is no excess capital with a look on Basel 4 ratios, well, we will see the phase-in, yes, as you know. So we are planning, of course, along these ratios. I wouldn't see today that if we had, let's say, a step by step growth, yes, that we would not be sufficiently financed. This is not what I can see at this point of view. If we would really talk about a massive acceleration could be different, yes, but step by step should be feasible.
+
+Tobias Lukesch
+
+54:29 All right. So I interpret that kind of step by step as kind of flattish then for next year. On the second question, on the NPL shift, so the actual amount of one billion EUR – one point four four billion EUR was basically unchanged since the mid-August. Retail a bit up, hotels down, also U.S. down three percent, Spain up four percent, could you maybe give a bit more color on what happened in Q3 and what you currently expect basically for Q4 and also for next year, also may there be any further NPL sales? Thank you.
+
+Marc Hess
+
+55:05 Yes. The derisking itself, which was focused on Italy has been completed. So we currently have no program to further reduce non-performing loans by sales. That doesn't mean that we are working, let's say, on each and every NPL loan, and if there is an opportunity, of course, the sale would also be considered. With regards to the gross development, I think net, you have seen already said, it's flat, but also I think on the gross side, you're right. We had a reduction in hotels around one hundred million EUR. In the U.S., two deals, we had a slight increase in an office building in Italy, but a very minimum -- minimal or small loan and we had a shopping center in Southern Europe that also became NPL in Q3. But on a net basis, since August, basically unchanged. What is the outlook for the future for the fourth quarter, from today's point of view, and you know the fourth quarter is always longer than the typical quarter, so it's more difficult to predict until February. We would guide, let's say, for a stable development here. So being at an NPL ratio of slightly below five percent most likely, currently, we see -- don't see any major changes.
+
+Tobias Lukesch
+
+56:39 Okay. Thank you. The last question, I would also split into three shorter ones, if I may. On the potential takeover again, I'm not looking for details, but could you just maybe outline the framework under which you currently operate? You opened the books for potential buyers. So what are exactly, especially the next steps until the EGM on the nine of December? That's the first one.
+
+Jochen Klosges
+
+57:08 Yes, please, I would like to take that question. So finally, it's important to mention that before we entered into talks with these potential investors and gave them insight into our data, we agreed upon a certain framework and to grant access to data, I can say the hurdles for such approach are quite high. So we clearly got a common understanding about a future strategy that was already discussed, and secondly, about potential governance structures and, of course, valuation. And at the end of the day, you come up to a point where you being on the Board -- on the Board have to decide whether the whole package gives a certain amount of deal certainty. And if this is the case, after diligence check of all these matters, then you step into the next phase in which are we currently. And, of course, being in these talks and discussions, it's very important to put quality and diligence over speed, that's my view finally. And therefore, we're still in conversations with Advent and Centerbridge. And as of today, I can't tell you when these talks will be finished. And this could lead to two possible outcomes, one is end of the talks, second is they are going out with an offer. But again, it's way too early to give you more information about that. Today, talks are constructive, of course, but I can't give you any more flavor today, sorry.
+
+Tobias Lukesch
+
+59:04 Yes. No, that's absolutely good. Thank you. And the second one would be you as the Managing Board basically, would you give a recommendation on the potential takeover bid if there was one?
+
+Jochen Klosges
+
+59:18 This is also something which is of course part of the current talks. And again, sorry, I'm currently not really able to comment on that.
+
+Tobias Lukesch
+
+59:32 So you would not say if you have an opinion -- an public opinion basically, because before you mentioned that it's the shareholders' decision basically right up on an offer. I was just wondering if there is the kind of need to really give a management recommendation, such a thing?
+
+Jochen Klosges
+
+59:51 Yes. So to give you some insight into possible next steps, if the investors come up with an offer that will be announced, then they have to hand over their documents to the BaFin, the BaFin will then check these documents, and after clearance of these documents by the BaFin, they will then say that the acceptance period will start. And from that point in time, the Board has the duty to give a written statement within two weeks' time, and so this is basically the normal flow of things in these things. And therefore, it's way too early today to give you further comments on that.
+
+Tobias Lukesch
+
+60:42 Well understood. Thank you very much. Last one, on the dividend that you mentioned or the impact on the dividend, I mean, we are talking here about a kind of catch-up dividend, and one could say that the current shareholders basically deserve that kind of payout. So I was just wondering, so what is the concrete reason really to stop that or to put it into question at first place? Thank you.
+
+Jochen Klosges
+
+61:07 Yes. So as I mentioned before, the talks with the potential investors are ongoing, and finally, there are basically two options. They could put an offer in place if they want to, which includes a dividend or which excludes a dividend, both things, both ways are in general possible. These -- the best possible way has to be debated. And again, we just want to flag today that this is a possibility which could arise, even though we have no concrete hints currently in which way this will lead in case there will be an offer, again, these are open-ended talks.
+
+Tobias Lukesch
+
+61:52 Okay. It's not one hundred percent clear to me why this kind of requires you to already put that kind of covenant on the dividend.
+
+Jochen Klosges
+
+62:00 Yes. So...
+
+Tobias Lukesch
+
+62:02 I mean, if there was an offer -- okay, there is an offer you can decide on, but I mean, the EGM proposal, I mean, could stay as long as -- I mean, you could pay out a dividend being there an offer or not at the end of the day, you as a management, I guess?
+
+Jochen Klosges
+
+62:15 So, of course, you're right, there's no requirement today to say anything about that, but we wanted to flag this and provide some transparency if -- about somewhat and ifs, that's basically anything I could mention regarding your question. Is it okay?
+
+Tobias Lukesch
+
+62:31 Yes. Thank you very much.
+
+Jochen Klosges
+
+62:33 Thank you.
+
+Operator
+
+62:35 The next question comes from [indiscernible] from Petrus Advisers. Please go ahead.
+
+Unidentified Analyst
+
+62:39 Good morning. Two questions, please. First one on LLP. So we saw a higher loss allowance, especially compared to what we have seen from other banks and also a sequential uptick on a quarterly basis. Just wondering if you could give us some color on LLP and possibly also the split between Stage 1, 2 and 3? And the second question, could you please detail what was the total consulting spend for both the quarter, Q3 and also year-to-date across the business?
+
+Marc Hess
+
+63:14 Yes, hi, Nicola, you were a little bit difficult to hear, but I think you were asking about the loan loss provision development and the split in the stages, in Q3, we had a release in Stage 1 of one million EUR and a release in Stage 1 of -- in Stage 2 of one million EUR and in Stage 3 thirty four million EUR and then some other effects as well. So this is on the loan book. With regards -- what was the second question?
+
+Unidentified Analyst
+
+63:52 Consulting?
+
+Marc Hess
+
+63:52 Yes, consulting -- sorry, I don't have the split here and we typically don't provide any further drill-downs here on the cost side. I think we have just answered several elements, and you have seen that most of the cost increases, as said, which was planned and therefore, in line with our guidance, are attributable to extraordinary effects, which also shows you that despite of the growth, we are mainly flat in the underlying cost trend. Coming out with a cost income ratio of forty three percent in the third quarter in RSF, as you know, this is mainly reflecting all of our banking business. And as said, I think this is well in line with the benchmark, if not ahead.
+
+Unidentified Analyst
+
+64:44 Thank you.
+
+Operator
+
+64:47 The last question for today's call is a follow-up from Mr. Nicholas Herman from Citigroup. Please go ahead.
+
+Nicholas Herman
+
+64:54 Yes. Thank you. I just have a sort of couple of follow-ups on that too. Just firstly, did I hear you correctly that you said that you could even see a slight increase in NII for Q4? That was number one. Number two, on Aareon, looks like, I think you point that underlying trends are encouraging, surely to the degree that you are slightly behind on plan. But I guess, DSM getting back on plan for next year, obviously longer than that, given there's positive underlying trends? And then finally, excuse me, you're currently generating a run rate NII in Banking & Digital Solutions about forty four million EUR, I guess, based on the current forward curve, I mean, how much incremental NII do you think you could generate, please? Thank you.
+
+Marc Hess
+
+65:47 Sorry, you were quite difficult to understand. So what was your first question on net interest income and the outlook I just gave on Q4, that we still expect a slight increase towards Q3.
+
+Nicholas Herman
+
+66:00 Yes. I just wanted to clarify whether I heard that correctly?
+
+Marc Hess
+
+66:04 Yes, that is correct. Yes.
+
+Nicholas Herman
+
+66:05 Okay.
+
+Marc Hess
+
+66:08 And I think Jochen will take your second question. Could you remind me of your third question again, because it was not -- it wasn't audible?
+
+Nicholas Herman
+
+66:14 Sure. I said you're currently generating forty four million EUR run rate NII in Banking & Digital Solutions, based on the current forward curve, how much incremental NII, I guess ex volume growth, do you see us could you generate over the next few years, please?
+
+Jochen Klosges
+
+66:38 Okay. Let me start with the Aareon question and then Marc will answer the other questions. So Aareon, I guess, has already been discussed today, and I would like to add something to Manfred Alflen's comments a couple of minutes ago. So from my point of view and my perspective, Aareon is currently clearly from a strategic point of view an investment case for the Bank and, of course, for Advent as well. Roughly a year ago, when Advent took over a thirty percent stake in Aareon, a strategy was developed with a term of roughly five years until the end of twenty five with a clear goal to develop Aareon to a so-called Rule of forty company. However, this requires significant investments. And the year twenty one was from my point of view the first year of starting exactly with these investments. So when I take a look at the success of Aareon this year, I'm always trying to answer the following for me most important questions.
+
+68:02 Question one is, are we successful in implementing the M&A deals, which are vital part of the strategy, and having seen six deals already this year, I would say, this is on the right track. And that leads me automatically to the second question. This is the question, are we are in a position to increase the number of recurring revenues, especially the shift from license fees to software-as-a-service. And in this regard, I could tick the boxes in two ways. First is the organic business, where we saw a shift from license to SaaS, and secondly, I guess, Manfred, roughly eighty percent, ninety percent of the new acquisition M&A this year are also paying exactly into that pocket, and that's very important for me when I try to evaluate these deals. And then again, third point is, of course, the increase in the digital business, which is a vital part of the future growth program is also important, and there I see also growth and we are on track. However, you're right, the next year will be very, very important to then see a clear growth in revenues and EBITDA, but again, the adjusted EBITDA is still on a planned level and keep that on a certain level is also important when we are executing the strategy. So this is clearly an investment case and we are fully aligned with Advent, and Advent, I can say is also very happy with the development during the course of this year. Marc?
+
+Marc Hess
+
+69:51 Yes. On your last question regarding BDS, if we're looking currently and this is certainly based on last year's plan into the development of the net interest income of the -- of this segment going forward, it would be rather flattish. As said, we are currently in the planning session, and I think there are two influencing factors. One is the level, as we can see a level will be higher of deposits, which is good because it finances our growth in the book. And second, and I think this is where you pointed at, we probably see a more flattish curve. However, given the long-term duration of the replication that we model, I don't expect greater impact from that side. If the longer end comes down a little bit, I'm not quite sure about the assumptions we have taken in last year's planning with regards to a ten year or five year curve, which are more important for us on that side, may even be that they are above, yes, what we assumed last year still despite of the flattening. But if you're asking me today, I wouldn't expect a greater impact on the NII in that segment.
+
+Nicholas Herman
+
+71:20 That's helpful. Thank you. So -- and just a follow-up on the Aareon point. So your point -- yes, indeed, the point being that twenty twenty one was a year of investment, but that was clear. And so -- I guess I'll take on your comment that next year is very important to see growth as we therefore -- we should therefore see a reversion towards plan. Thank you.
+
+Marc Hess
+
+71:51 Okay. Thank you very much.
+
+Operator
+
+72:00 Ladies and gentlemen, this was the last question. I give over the call to Marc Hess for any closing comments.
+
+Marc Hess
+
+72:07 Yes. Thank you very much. I thought you would hand over to Jurgen, but I'm happy to do that as well. Thanks for joining in this morning. And, of course, we and especially our IR team is happy to take follow-up calls if you have further questions. Have a good day. Thanks for listening. Bye-bye.
+
+Jürgen Junginger
+
+72:27 Bye-bye. Thanks.

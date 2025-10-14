@@ -1,0 +1,456 @@
+Alcoa Corporation (NYSE:AA) Q3 2019 Earnings Conference Call October 16, 2019 5:00 PM ET
+
+Company Participants
+
+James Dwyer - Vice President of Investor Relations
+Roy Harvey - President and Chief Executive Officer
+William Oplinger - Executive Vice President and Chief Financial Officer
+
+Conference Call Participants
+
+David Gagliano - BMO Capital
+Paretosh Misra - Berenberg
+Curt Woodworth - Credit Suisse
+Alex Hacking - Citi
+Matthew Korn - Goldman Sachs
+Timna Tanners - Bank of America
+Lucas Pipes - B. Riley FBR
+Chris Terry - Deutsche Bank
+John Tumazos - John Tumazos Very Independent Research
+Justin Bergner - G. Research
+
+Operator
+
+Good afternoon. And welcome to the Alcoa Corporation Third Quarter 2019 Earnings Presentation and Conference Call. All participants will be in listen-only mode. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, Allison, and good day everyone. I'm joined today by Roy Harvey, Alcoa Corporation's President and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. We will take your questions after comments by Roy and Bill.
+
+As a reminder, today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the Company's actual results to differ materially from these statements are included in today's presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today's presentation. Any reference in our discussion today to EBITDA means adjusted EBITDA. Also a note on our financial statements, effective January 1, 2019, the Company changed its accounting method for valuing certain inventories from LIFO to average cost. The effects of the change in accounting principle have been retrospectively applied to all prior periods presented. Finally, as previously announced, the earnings release and slide presentation are available on our website.
+
+With that, here's Roy.
+
+Roy Harvey
+
+Thank you, Jim, and thank you to everyone for joining today's call. In the third quarter, we continued to demonstrate strong operational performance and stability across our aluminum value chain. We achieved new production records in bauxite and alumina and our aluminum segment remained profitable, helped in part by lower aluminum prices.
+
+Production costs fell across the portfolio, and we continued to drive the benefit of lower raw material costs to our bottom line. This past quarter, we also continued to strengthen our company. We finalized the divestiture of two aluminum plants in Spain, announced a new operating model, and reached new labor contracts.
+
+Looking back, since separation, we have relentlessly improved our portfolio and our balance sheet. We've returned stability to our plants as evidenced by our production records, and we continue to revitalize safety. It is because of that work that we've been able to weather these markets. Today, we're building upon that progress. We're announcing a multiyear review of alumina and aluminum capacity and non-core asset sales to drive costs lower and to enable sustainable profitability. We have a lot of ground to cover. So, let's get started with an overview of the third quarter results.
+
+We reported a net loss of $221 million or $1.19 per share. Those results include restructuring charges to divest two aluminum assets in Spain and to implement our new operating model. Excluding special items, we reported an adjusted net loss of $82 million or $0.44 per share. On an adjusted EBITDA basis, excluding special items, we generated $388 million. Lastly, we closed the quarter with $841 million of cash, that's slightly higher than the previous period and given persistently weak markets, a notable achievement.
+
+Turning to safety, we’re disappointed that we experienced one serious injury in the third quarter at one of our refineries. The employee is now resting and recovering. As always, we continue to prioritize safety every day, and we're making progress on improving our safety programs for the benefit of everyone who enters our locations.
+
+Our focus on operational excellence enabled our current bauxite and alumina operating portfolio to achieve the highest quarterly production since our launch as a separate company in 2016. In our aluminum segment, we successfully divested the Aviles and La Coruna facilities in Spain, removing historically uncompetitive capacity from our portfolio. In Quebec, the restart of our Bécancour facility is underway and on schedule to be completed in the second quarter of 2020. And in the United States, the United Steelworkers ratified a new four-year labor contract that positions our company and our employees for future success.
+
+In our markets, we continue to project a global aluminum deficit for the year, but we're reducing our global aluminum demand estimate due to macroeconomic headwinds and trade tensions. Today's current market environment aside as sustainability becomes a growing force, aluminum has a long, bright future, and we'll review some of those trends. Lastly, we have continuously demonstrated our commitment to create a stronger Alcoa. Just last month, we announced the new operating model that will bring our management even closer to our plants, creating a leaner company and saving costs. And as I mentioned earlier, today, we're announcing a multiyear capacity review and potential asset sales.
+
+This kind of announcement is never easy, because it will eventually affect some of our employees. But we must continue to act to combat the current market environment and strengthen Alcoa for the long term. We'll undertake a portfolio review and asset sales in line with our values and communicate outcomes as decisions are made.
+
+With that, I'll turn it over to Bill for a detailed review of our third quarter results.
+
+William Oplinger
+
+Thanks, Roy. Let's start with the income statement. Revenues were down 5% sequentially as higher bauxite and alumina shipments were more than offset by lower realized prices for alumina and aluminum. Revenues declined $823 million year-on-year, again on lower alumina and aluminum prices.
+
+In the quarter, restructuring charges drove the net loss attributable to Alcoa Corporation of $221 million or $1.19 per share on 185.6 million shares outstanding. Special items in the third quarter totaled $139 million after tax and non-controlling interest. The key components this quarter were the $134 million charge related to the disposition of our Aviles and La Coruna smelters, $37 million related to charges to implement the new operating model, and Bécancour lockout and restart costs totaling $14 million, partially offset by favorable tax items related to timing differences.
+
+Now, let's look at the income statement excluding special items. Our third quarter adjusted net loss excluding special items was $82 million or $0.44 per share. Adjusted EBITDA excluding special items was $388 million. Our second quarter EBITDA margin was 15.1%. Through the third quarter, the estimated full year operational tax rate rose to 62.9% on lower profits, particularly in Australia and Brazil. The higher annual rate required true up of prior periods in the third quarter adding $51 million to the expense or $0.28 per share and brought the operational rate for the quarter from 62.9% to 99.5%.
+
+Let's look closer at factors driving adjusted EBITDA. This quarter improved the operations and lower costs partially offset the impact of lower alumina prices. Lower market prices primarily for alumina drove adjusted EBITDA down $100 million sequentially. Taking together all other impacts, improved $33 million sequentially, partially offsetting the price impact.
+
+A few key points, higher sales volumes in alumina and bauxite, lower production costs across the portfolio and improved raw material costs, primarily petroleum coke and caustic, were the main operational positives. Lower Brazilian hydropower prices and lower value-added premiums, partially offset some of those operational gains.
+
+Now, let's move to the segments. In the segments, bauxite adjusted EBITDA improved $22 million, primarily on lower production costs and higher volumes, with the combined record production volume from our owned mines. Alumina adjusted EBITDA declined $146 million on lower sales prices, partially offset by improvement in virtually every area, most notably in higher sales volume and lower production costs. We saw record third quarter production volumes at Alumar and Pinjarra and in the segment as a whole. The aluminum segment adjusted EBITDA improved $40 million sequentially on lower alumina costs.
+
+Non-segment impacts netted to negative $12 million, improving $17 million sequentially. Inter-segment eliminations were favorable $25 million and adjust the inter-company margin remaining in inventory. Alumina prices dropped in the quarter releasing profit held in inventory but were partially offset by lower costs and higher inventory, increasing the profit held in inventory.
+
+Turning to the balance sheet. We ended the third quarter with cash of $841 million, up $7 million sequentially. In the quarter, we made $37 million in payments related to the Spanish smelter divestitures and $12 million on the ABI restart. Days working capital improved one day to 30 days as receivables declined on lower prices. Our proportional adjusted net debt remained at $3.4 billion and includes our net pension and OPEB liability of $2.3 billion.
+
+Every year-end, we re-measure our net pension and OPEB liability, taking into account full year 2019 asset returns and the year end discount rates. As of September 30, 2019, interest rates have declined substantially since our 2018 year-end re-measurement. However, asset returns year-to-date have been approximately 14% and if re-measurement had occurred at quarter end greater than expected assets returns with partially offset lower discount rates. Of course, our actual results will depend on asset returns for the full year discount rates effective at year-end and other factors.
+
+Turning to our full year outlook. Our full year outlook remains mostly unchanged from last quarter's outlook with the following adjustments; we expect transformation EBITDA to be approximately negative $5 million; we expect other corporate to be $5 million better, a $115 million instead of $120 million; our full-year operational tax rate is expected to be up slightly to approximately 65%; and to catch up the year-to-date tax rate, we expect approximately $15 million tax expense in addition to the amount calculated using the full year rate.
+
+Our cash related items given current marketing conditions, capital expenditures are expected to be $10 million lower with return seeking capital at $110 million and sustaining capital remaining at $290 million. We expect Environmental and ARO payments to be approximately $110 million.
+
+In the appendix, as we have done the last few quarters, we also list additional considerations for the following quarter, in this case the fourth quarter, which provides sequential EBITDA benefits totaling approximately $60 million to $65 million. They include bauxite adjusted EBITDA to be in line with the third quarter records EBITDA, $15 million to $20 million sequential benefit due to higher volumes and lower sequential maintenance and lower costs in the alumina segment.
+
+In the aluminum segment, we expect approximately $45 million benefit from lower alumina costs compared to the third quarter. Other than alumina costs, we expect lower raw material costs to be completely offset by higher seasonal energy costs and lower European product premiums.
+
+Let me turn it back to Roy.
+
+Roy Harvey
+
+Thanks Bill. As is our practice, we'll now turn to a discussion regarding our markets. In bauxite, we expect the market to remain in surplus for the remainder of the year. China's inland refineries continue to show interest in using imported seaborne bauxite. The country's key inland provinces have increased their consumption of these imports approximately fourfold since 2018.
+
+Imports from Guinea and Australia represented dominant and reliable sources of imported bauxites into China, where the material is stockpiled to mitigate the risk from an increasingly complex supply chain. In alumina, we now expect a larger global surplus for 2019. In China, smelter disruptions significantly reduce alumina demand. Refinery curtailments due to economic factors only partially offset the resulting higher alumina surplus. In the world, ex-China, refinery curtailments in the Caribbean were more than offset by tons that entered the market from expansions and restarts in the Middle-East and South America.
+
+Finally, in the aluminum market, we continue to project a full year deficit, albeit smaller than our prior projection to the weaker global demand. While the series of smelter disruptions in China helped to swing back country's balance with deficit, it was not enough to offset lower demand growth in the rest of the world. This year's trade tensions, low trade volumes and the declining growth and manufacturing activity have lowered our expectations for this year's global aluminum demand.
+
+As such, we estimate that global primary aluminum consumption maybe flat and possibly contract year-over-year in 2019. This is mostly driven by weaker primary aluminum demand in the world, ex-China, where scrap used and Chinese imports have been rising, while reduced manufacturing activity has started to translate into lower product order volumes. We're also revising down our 2019 outlook for global aluminum production. This is mainly due to a series of Chinese curtailments due to disruptive events and economic factors in that country, which has taken off approximately 600,000 metric tons of production from prior full-year estimates.
+
+In summary, current economic conditions continue to pose real challenges. Still, before I discuss a longer-term and brighter outlook for aluminum demand growth, I'd like to review how we're positioning our company to manage through this downturn so we're even better prepared for future. One of the hallmarks of our company is our focus on relentless continuous improvement.
+
+We've listed on the left side of this slide just the selection of recent accomplishments, and I believe each of these have contributed to a stronger, more competitive Alcoa. I'm particularly proud to see the improvement in safety and stability of our operations, as well as a step changed improvement in our balance sheet. But that is not an ending point, rather, we have continued to move forward.
+
+Just last month, we announced a new operating model. In addition to creating a more operator-centric organization, it's also expected to result in annual savings of $60 million in operating costs, beginning in the second quarter of 2020. The model, which goes into effect on November 1st, will create a leaner organization by eliminating the Company's business unit structure, consolidating sales, procurement and other commercial capabilities at an enterprise level and streamlining Alcoa's executive team.
+
+Rather than consolidated business units, our team will be focusing on each of our operating locations, sharpening each plant's focus on production and improved competitiveness, while also creating space to innovate and improve. And by consolidating our commercial functions, we expect to drive improvements across our products and supply chain.
+
+To ensure that our operational chain of command can efficiently connect with each of our global operations, our Chief Operating Officer will be relocating to our existing office in the Netherlands, in a time zone that will permit more frequent communications and a central hub to rapidly share best practices. This will enable our global locations to be better connected via our COO. At this time, no other members of our executive team plan to relocate.
+
+Looking ahead over the next 12 to 18 months, we will review non-core asset sales, which we can estimate produce between $500 million to $1 billion in net proceeds, far outweighing a corresponding reduction in adjusted EBITDA estimated at approximately $50 million to $100 million.
+
+Now, I'd like to take a longer-term view of the global aluminum industry. One thing is clear, despite current market dynamics in a world where sustainability and responsibility to responsibly source materials are growing force, Alcoa is position to succeed. Let's begin with the fundamentals. Demand for aluminum products has doubled since 2000, and is expected to continue to grow at an approximately 3% rate annually over the next 10 years.
+
+Aluminum has well documented beneficial properties, such as recyclability, low density, strength, formability and durability due to its being anticorrosive. Those properties have made aluminum ideal in automotive applications for vehicles that are lighter, more fuel-efficient and more environmentally friendly due to reduced greenhouse gas emissions through the complete lifecycle.
+
+Importantly, aluminum's infinite recyclability reduces energy and resource consumption. It also enables safer and more energy-efficient buildings, airplanes and sustainable food and beverage packaging. And as consumers become more environmentally conscious, they're demanding sustainable product solutions. And as an industry, we're well positioned to capitalize on the secular trends.
+
+Looking at Alcoa now. We're already a recognized leader in sustainability. This year, assets across our bauxite, alumina and aluminum portfolio were certified by the Aluminum Stewardship Initiative. We've also been listed on the Dow Jones Sustainability Indices since our inception. And last month, we were named the aluminum industry leader on this index.
+
+In bauxite, our world-class mine rehabilitation and best-in-class methods of mining in areas of high biodiversity have earned us the credibility and trust to mine bauxite in two of the most protected areas in the planet, the Brazilian Amazon rainforest and the Jarrah forest in Western Australia. Our approach keeps us in withstanding with governments and communities to ensure access to bauxite reserves and enhance our long-term license to operate.
+
+In alumina, our portfolio is already the lowest per ton emitter of carbon dioxide. Among global alumina producers, our alumina refineries lead in energy efficiency. And we continue developing better storage practices for bauxite residue, while also pursuing alternative uses for the materials.
+
+In aluminum, we're also one of the lowest per ton emitters of carbon dioxide among global producers. And currently, approximately 70% of our metal is produced with renewable energy. And our products help our customers to meet their sustainability targets, such as through our [sustainer] line of products made with either low carbon emissions or from recycled aluminum.
+
+And our certifications from the Aluminum Stewardship Initiative provide important differentiation in the marketplace. Over the years, we have built a solid reputation for sustainability. We believe that this reputation as a sustainable responsible producer of bauxite, alumina and aluminum, can meaningfully differentiate us from our global players and enable us to succeed in an evolving world that is becoming even more focused on sustainability.
+
+But first, we must take actions to strengthen our company further given the current market conditions. To become a profitable and more competitive company, today, we're announcing a multiyear review of our asset portfolio. The review will consider opportunities for significant improvement, potential curtailments, closures or divestitures. As you can see from this slide, we anticipate making the most meaningful changes in our alumina and aluminum portfolios.
+
+In alumina, we're placing approximately 4 million metric tons of capacity under review and in aluminum, about 1.5 million metric tons of capacity under review. By undertaking this review, we would look to achieve advantages across each segment. In bauxite our goal is to maintain our first quartile cost position. We're the world's second largest bauxite miner with access to bauxite deposits with mining rights that extend in most cases more than 20 years. I'm proud of our mining practices and our approach to engagement with local communities and careful protection of the environment.
+
+We also have a strong first quartile cost position in alumina. We're the biggest alumina refiner with the largest long position outside of China. And we look to maintain our position as the lowest per ton emitter of carbon dioxide among alumina producers. In aluminum, our goal is to become the lowest per ton emitter of carbon dioxide among all global aluminum producers with up to 85% of our smelting portfolio powered by renewable energy.
+
+We currently hold a second quartile position on the cost curve, and we will drive to be a first quartile producer, once actions resulting from the capacity review are complete. As you can see, at the end of the portfolio transformation, not only will Alcoa have maintained or improved its competitiveness in each segment but we also expect to be the lowest per ton emitter of carbon dioxide among all global aluminum companies in both smelting and refining.
+
+Since we launched as a company in 2016, we have used our strategic priorities as our guide in making decisions to strengthen our company. At this time and in light of the steps that we've announced today to continue that journey, it's appropriate to refresh our strategic priorities to better define our destination.
+
+First, as we reduce complexity, we'll reiterate our focus on being low cost to compete in the global cyclical commodity industry. Second, as we drive returns, we'll remain margin focused. We intend to improve our commercial capabilities, invest in targeted growth opportunities, and focus on increasing margins across the value chain.
+
+And lastly, to reflect Alcoa's increasing focus on becoming a stronger more sustainable company, we've updated strengthened the balance sheet to advance sustainably. This priority captures both financial and sustainability improvements. We plan continued work to strengthen the balance sheet, transform the portfolio and leverage our industry leading environmental and social standards to deliver value for our Alcoa’s stockholders.
+
+As we look to the future, we believe the long-term outlook for aluminum demand remains strong. A range of products will require more aluminum, but with an increased focus on materials that are sustainably and responsibly produced. Alcoa has always been a sustainability leader in producing lightweight infinitely recyclable aluminum. With our portfolio shift over the next few years, we'll expand our sustainability advantage and further position ourselves to capture changing views in the marketplace to win in the global aluminum market.
+
+With that, Bill and I would be happy to take your questions. Allison, could you please remind us of the instructions and we'll get started?
+
+Question-and-Answer Session
+
+Operator
+
+Certainly and thank you. We will now begin the question-and-answer session. [Operator Instructions] And our first question will come from David Gagliano of BMO Capital. Please go ahead.
+
+David Gagliano
+
+First, I was wondering if you could just provide a little more detail on which are the 1.5 million tons in smelting and 4 million tons of refining capacity is under review and what asset?
+
+Roy Harvey
+
+Sure, Dave, and I'll hit that one first. The fact is that we're being a bit careful about revealing exactly what plant that targets. And part of that is to give us optionality and flexibility as we work through our portfolio and part of it is simply because we need to be working with these with our plants as they continue to operate. So, I think as you look at the cost curve, you can make some conclusions, but the fact is our work lies ahead of us and we're not announcing the specific plants.
+
+David Gagliano
+
+And then just my follow-up, I guess, it has to be a two-part followup here. In terms of -- from a timing perspective, it's a five-year review, and I'll let somebody else ask about which non-core assets you're under consideration, but of the smelting the refining capacity under review, five year process. First part of the question is, can you give us a sense if it is frontend loaded, backend loaded? Five year is a long time, number one. And number two or part B or whatever, how do you respond to, I think what some may say is this is a company that -- I mean, this is almost 50% of your smelting capacity and not a lot of people are projecting that kind of degradation in global aluminium demand. So, obviously the implication is that it’s a market share loss from a global perspective. How do you respond to that that type of comment?
+
+Roy Harvey
+
+Yes. So, let me try and hit those first and then Bill can chime in. So, from a timing perspective, we need to look at this as a holistic program. The fact is it will be dependent upon how the market and the type of cash flows that we're seeing based upon that market, those market conditions. I would also argue that some of those changes, remember part of this is to try and make a step change in some of our cost structures at existing plants. Some of those take some time in order to renegotiate or to fundamentally change how we're approaching the smelting or refining in that in that case.
+
+So, the reason we put it into a five year timeline is quite simply because we will be adapting both the cash flows coming in and to how we can afford to make those changes; and most importantly, about how that market cycle changes and perhaps permits us to do divestitures rather than closures or curtailments. So, a lot of different decision parameters that need to be taken into consideration.
+
+On your comment about 50% of smelting capacity in market share, I think when we look at our company and we think about our viability as we go forward and our ability to move through the market cycles, both at the top and at the bottom, the fact is that it is rather than looking at market share, we need to be focused on having one or the most competitive set of aluminum smelters that we possibly can. So, once we become more competitive, once we have a more consistent return at all parts of the cycle, that then gives us a better stream -- springboard from which to grow.
+
+So, I understand your point. However, and as I tried to make clear in my presentation, we are very enthusiastic about the future of that market, but we are also very determined to make sure that we approach that market in a very competitive low-cost position.
+
+William Oplinger
+
+The only thing I would add as far as market share, we're really looking at it from driving value for shareholders, driving value for our owners. So, we don't necessarily look at it as a market share position, we're looking at it as value maximization for owners.
+
+Operator
+
+Our next question will come from Paretosh Misra of Berenberg. Please go ahead.
+
+Paretosh Misra
+
+Maybe I'll ask the other one. On your non-core asset sale, could your energy assets and some of the downstream assets that you have, could those be a potential asset for sale?
+
+William Oplinger
+
+Yes, very similar to Roy's answer around which assets that we're looking at in the portfolio review. We're not being specific about the noncore asset sale. But you know in the past, we've talked about a number of assets that could be considered in that, and they'll be looked at. So, not getting specific about which assets are for sale at this point. We will let you know as we progress.
+
+Paretosh Misra
+
+And my follow-up, the new regulations for marine fuel, the IMO 2020 are set to be active pretty soon. Do you see that making any difference in your business either in terms of cost or maybe any availability of any of the raw materials that you consume?
+
+William Oplinger
+
+Yes. So, we are a big shipper as you can imagine because we have global operations. We spend around $400 million annually on shipping costs, and we would envision that IMO 2020 could add up to 10% on our shipping costs. So, that would be due to the fact that fuel prices would be going up. So, we're looking at maybe a 10% increase year-over-year due to IMO 2020.
+
+Roy Harvey
+
+If I can just add quickly to that too Paretosh ,as you think about that. I think it's also important to remember that that will also be occurring to our competitors. And so when you think about the movement of materials across the ocean and you think about how that cost curve looks in China versus rest of the world simply because they consume so much bauxite that's been shipped overseas, that IMO is going to have a different impact on each of those companies. So yes, it's a cost increase but also think through the relative cost increase on some of our competitors as well.
+
+Operator
+
+And our next question will come from Curt Woodworth of Credit Suisse. Please go ahead.
+
+Curt Woodworth
+
+First question is just on cost down on raw materials, Bill. I think it was year and half or two years ago when you have the massive rally in caustic and some other commodities. I think you guided to a number of like $500 million of raw material inflation. And we have seen obviously a pretty massive reversal in most all of these raw materials. So I was wondering if you could give some general guidance on kind of where raw materials look for you today, spot heading into next year versus where you are this year.
+
+William Oplinger
+
+Yes. So let me put it a little bit in the perspective. We had gone into 2018 seeing a big increase in raw materials, and we were projecting approximately a $400 million increase in raw materials for 2018. During the course of 2018, we probably saw $350 million of raw material increase, '18 over '17. '19 over '18, we're seeing a decline in raw material prices and that's translating into about a third of that cost improving. So roughly a $130 million year-over-year of improved raw material costs between '19 and '18.
+
+It's coming in a couple areas. First of all, caustic prices are down fairly sharply. Coke prices are also down. And so going into 2020, we should continue to see the flow-through benefit of those raw material costs, because as you know, caustic takes us anywhere between six to nine months to flow through our income statement, so we should see continued benefit. The one that's been a little bit stubbornly high is coal tar pitch there our smelting business, but that also has come down also. So we're starting to see the improvement '19 versus '18, and should see more of that in '20.
+
+Curt Woodworth
+
+And then, in terms of restructuring, you quantified the $60 million and congrats on -- that that's obviously a tough decision. But when you look I guess at an asset level for Bécancour and Spain, the shutdown there and then restarting Bécancour. Can you give us a sense for I guess the EBITDA drag of those assets this year relative to when Bécancour's normal production, kind of what that delta could look like '20 versus'19?
+
+William Oplinger
+
+Yes, we haven't provided Bécancour, just because of the sensitivity around some of the numbers. What we have said is that Becancour should be breakeven in the second quarter from an EBITDA perspective. So that is a significant benefit over where we were in '18. My recollection around Spain is that Spain was losing approximately $70 million to $80 million, both on a pre-tax and a post-tax basis, because the earnings there, the tax there fully reserved. So it's a pre-tax and a post-tax base of $70million, $80 million that we would have been able to eliminate by selling those two facilities.
+
+Operator
+
+And our next question will come from Alex Hacking of Citi. Please go ahead.
+
+Alex Hacking
+
+I just wanted to follow up on the portfolio review, and I'm not trying to ask Dave's question a different way. But when you talk about, say the alumina portfolio, you have 15 million tons of capacity. You said 4 million will come under review. You currently -- of that 15 million, you currently have 2.5 million that's curtailed. So would I be correct in assuming that that 2.5 million will come under review plus an additional 1.5 million to get to the 4 million? Am I thinking about that, right?
+
+William Oplinger
+
+Yes, Alex, that's exactly the math we should be doing.
+
+Roy Harvey
+
+And that goes that goes for both refining and smelting. So the review numbers that we've provided are for both operating capacity and currently curtailed capacity, so all of that capacity would be under review.
+
+Alex Hacking
+
+And then I guess following up a bit on the non-core asset sales. I guess why now the global economy is quite weak? It doesn't seem like the best time to necessarily be selling assets. And why do you believe that you can get 10 times EBITDA on these assets? Thanks.
+
+William Oplinger
+
+I think we haven't said which assets are for sale yet. I think once the clarity comes around the assets that will be for sale, you'll see that it's probably not a bad time to sell some of the assets that we're selling. So we'll give you more clarity once we've made the announcement on what will be sold. There are other assets in the portfolio that don't generate a lot of EBITDA that could potentially be sold that contributes to that $500 million to $1 billion in proceeds.
+
+Operator
+
+Our next question will come from Matthew Korn of Goldman Sachs. Please go ahead.
+
+Matthew Korn
+
+First from me, could you give a little bit more detail on the $60 million reduction in OpEx and how this really comes from -- it looked to be a consolidation in the management hierarchy? And then how conservative do you consider that target to be?
+
+Roy Harvey
+
+Let me hit the first one and then maybe Bill can take the conservatism. So essentially what we're doing is collapsing out the business unit structure. And so when you think about where those reductions will take place, and I think this was part of the announcement that my executive team is now smaller, it's moved to seven members. But in addition, essentially you are grouping together operations, grouping together commercial, having that centrally managed to a certain extent, but also permitting more freedom for the plant to actually chart their own courses. So it very much happens at that middle layer of management. And in the end, of course it will depend as we redeploy talent into different parts of the organization.
+
+William Oplinger
+
+And let me address the numbers. The number you asked is a conservative -- it's a realistic number. It's a number that we have line of sight to achieve. I want to put it in perspective. You know we spend approximately $75 million a quarter on SG&A. And I would tell you that on an annual basis that's about $300 million of SG&A.
+
+This $60 million isn't all going to come out of SG&A, but the preponderance of it will come out of SG&A. To put it in perspective, we spend roughly 3% of revenue on SG&A. And if you were to look at our major competitors, that's a pretty competitive number already. So for us to take out an additional $60 million is an aggressive number, but we have line of sight to be able to get there.
+
+Roy Harvey
+
+And let me just make one more point just to add on to Bill's comment. The changes that we're making in operating model, of course, it is very welcome to have actual savings and to see that improvement year-over-year, it makes us more competitive. But even more importantly, I think it will give us a better connection to our markets, and a better connection to our plant. To us as the executive team and the managers of this corporation, it helps us to be closer to better understand what's happening and the trends in our market. And I truly believe not only will it be more efficient but it will be a better form of operating.
+
+Matthew Korn
+
+So this is not just something subtractive but you see it as additive to the ops as well…
+
+Roy Harvey
+
+Absolutely.
+
+Matthew Korn
+
+The second, I was interested -- I want to know a little bit more. What does this new advanced sustainably priority means in practice? Is it more emphasis of the position that you lay out here at the bottom of Slide 17 and talking about how your practices currently are very sustainable or very friendly environmentally, or is it changing these practices? Is it actively investing in new things, new measures, you're going to set goals on carbon per ton. Really what does this change for AA relative to how you're operating today?
+
+Roy Harvey
+
+So let me put that in two directions. First and foremost, I think you're hitting it right. The fact is that I believe we are fundamentally ahead of most of our country in many of these areas, you think about the connection that we have with our communities and where we choose to operate and our mining practices and reclamation and rehabilitation activities, just as an example, I think we're ahead. And so it is of course up to us to maintain that ability to be ahead. But it doesn't necessarily mean we have to change our practices, it means we have to analyze, adapt and see what will be coming next.
+
+However, in some other areas and I would highlight the change that we're projecting inside of our aluminum portfolio. In some other areas, there will be change that's necessary in order to capture that first spot when we compare ourselves to our aluminum competitors. And so that to us it makes financial sense because it makes us more competitive, it also makes financial sense because we believe the market will be moving to a place where there is more value placed in those products that are lowest in carbon and that are responsibly sourced, all the way from bauxite to alumina and then into aluminum. So there're some actions that need to be taken there.
+
+So when you look at our strategic priorities, the way I would look at it that is that those are the guardrails that we use in order to make decisions. So when we look at the management changes; as an example, the new operating model, we look at that and said does it make us simpler, does it reduce complexity, does it give us the ability to invest more, can we invest those dollars, is there a way for us to deploy those.
+
+And then now, not only will we be thinking about balance sheet, which for us is incredibly important, that's what makes me so happy to have seen the improvement, but also we'll think about how that then impacts our sustainability footprint; what are the -- if we choose to invest in a plant, what is the energy source, how do we then make sure that when we invest in Greenfield mine or in a Brownfield expansion of one of our mine, how do we make sure that the practices that will be following will help to support that existing potential that we have in sustainability already.
+
+Operator
+
+Our next question will come from Timna Tanners of Bank of America. Please go ahead.
+
+Timna Tanners
+
+So regarding the portfolio review, I have a couple part questions. Hopefully, short answers. I don't want to go on and on. But in the past we've talked over the years about Alcoa kind of continuously reviewing all its assets in a pursuit to being the lower cost producer. So how is this initiative different from what you've already been doing, first of all? Second, in some cases I know that you've just re-up some power agreements, and I think Massena and Wenatchee and a few others. So can you break those, or is that why you have a five year review? And then the third question is just along those same lines. How do we think about exit costs, or permanent closure costs when you do this review?
+
+Roy Harvey
+
+So let me get started on that and then Bill can jump in to help support. So first of all, I think it's right to look at this as a continuation of the real progress that we've been making year-after-year. I mean you look at the changes that we've made, the Spanish Soderberg are a great example of place that it would have fallen inside the same type of asset review.
+
+I think the fundamental difference is that, while we are giving ourselves five years and again that will be market dependent and how we choose to deploy that. What we're trying to help you understand, Timna, is the destination. It is the target of where we choose to go and why we think that will make us successful in our industry. So I think that's the fundamental difference.
+
+On the power agreement and I'll start this one. The fact is depending on the facility that's in question we structure those power agreements to ensure to give us the flexibility to react to the market. So for facilities that are very low in the cost curve, we would take more risks on long-term duration and on ability to exit those power contracts then we would at facility that is higher on the cost curve, to be very frank.
+
+William Oplinger
+
+And let me just jump in. I wanted to -- we should make it clear that this asset review is really a three pronged review. It's an improved close or self review. So there are three options for these facilities. And if we can figure out how to significantly improve them we will, but we will also look at closure and potential sale options. So you listed a couple of facilities, Massena and Wenatchee. Massena does have a longer-term power agreement, that was signed a couple of years back. Wenatchee is currently curtailed, and Wenatchee is in a curtail state at this point.
+
+As far as exit cost go, we've not been clear about exit cost because it's a five-year program and the focus is on those three things: improve, close, or sell. So we don't have precise exit costs at this point, because we're going to do it a way that tries to maximize value for the owners between those three options for each of the facilities.
+
+Timna Tanners
+
+And I was wondering if you could indulge me in a high level question is, I know you give us helpful thoughts on the outlook for the aluminum market and I know you said there is a scenario where things are flat to down into 2020. But I was just wondering if you could give us a little bit sensitivity as you see at broad breaststrokes, if we do get trade agreement late or if we get a more comprehensive trade agreement. How do you think that could affect aluminum demand and the balances going forward?
+
+Roy Harvey
+
+I think, Timna, how I would answer that is to look at the development of our markets over the course of this year and also look at it last year. I guess the way that I look at it is that, yes, there is a reduction and you can see this in automotive and what's happening in both the U.S. and Europe, particularly if you also see similar types of downturns or weaknesses that's happening in China. But these things when you look at earlier in the year or versus last year, there is no fundamental consumer difference that's driving those reduced numbers.
+
+It's really about the uncertainty right now sitting in the economy and whether that's trade war focused or macro economy is beyond my ability to explain clearly. So when we think about how that market will recover, to be quite honest, to me, I don't see any reason why it wouldn't recover to a point where we were earlier this year or last year, because the underlying characteristics of aluminum demand help to drive that change.
+
+And I would add-on to that. And that I also believe that aluminum, when you look at the lifecycle, the lifecycle content of carbon as one specific component of sustainability and the infinite recyclability, I think you'll continue to see that there will be substitution of materials and new ways to use aluminum for consumers that are becoming more and more green conscious.
+
+Operator
+
+Our next question will come from Lucas Pipes of B. Riley FBR. Please go ahead.
+
+Lucas Pipes
+
+My first question is on the $60 million of corporate savings and $37 million in restructuring cost. How should those be allocated across the segments?
+
+William Oplinger
+
+We haven't broken it down by segments. You referred to it as corporate, it's not corporate. It is actually in the segments. There is a piece of it that will affect each one of three former business units. There are three segments and a piece of it that will impact the corporate.
+
+Lucas Pipes
+
+And then back to the point of review, and sorry to harp on this. Just I was looking for a better understanding of what broad basis review about at this point in time. Is it reaction to the market conditions? Is it more brought upon by your evolving position on the global cost curve? What caused this? Thank you.
+
+Roy Harvey
+
+Yes, Lucas. And I think the answer is going to be all of the above. The fact is that since launch, we have spent a lot of time thinking about our markets and thinking about our portfolio. So it's been -- and I think this gets back to Timna's question. It's been a bit of a continuous review. Why we make this particular announcement right now is because we've just finished up an in-depth study and involved board of directors that have taken a look at the long-term comportment of our markets, and how we position ourselves today and going forward. And thus have spent real time thinking about how we succeed in win in today's and tomorrow's environment.
+
+And so of course, there is a bias to think about what we see in the market today. But more importantly, we also wanted to think about what are the keys to success for the long-term, and those get back to our strategic priorities. It's about having a simple eye essentially being as little complexity as possible and therefore being low cost.
+
+It's about ensuring that we're investing in those facilities that we can drive returns. And again, you need to look at that and say, hey, how am I using my operational and capital dollars? And then finally, how do we make sure you have the balance sheet we need to succeed. And at the same time, also take into consideration the changes in those markets in the fact that aluminum will be more and more tied back to how that aluminum was actually produced from a sustainability standpoint.
+
+So for us, it's just the right time to just start to give our investors, start to give our analysts, a better forward looking view about what we will look like in five years.
+
+Lucas Pipes
+
+And then just to follow up on the sustainability point and driving value, which I assume it's kind of higher willingness to pay on your customers' side for sustainably sourced aluminum. What sort of things are we -- or initiatives are we seeing on the ground today that shows that there is this willingness in fact? Are you having undertaking strategic initiatives to drive that value capture? What's happening on the ground that you can point to value capture on the sustainability front? Thank you.
+
+Roy Harvey
+
+Yes. So Lucas, I think, I won't spend a lot of time on this. But I think when you look across how companies are approaching sustainability, how consumers are approaching sustainability, I think you see that there is a shift in how people think about that. Now, that shift in general in nature and doesn't necessarily drive financials of the other end. So let's talk about financials.
+
+We have a series of aluminum products right now as a very particular example, that are either focused on being low carbon or being made from a certain amount of recyclable material. Those are products that have been able to command a premium in the marketplace. But this is just a nascent market. It's going to take time for that to develop. I also think that you're seeing more and more customers that are interested in responsibility of how your bauxite was mined, how your aluminum was refined, and how your aluminum was produced.
+
+And so the fact is we're seeing more and more of a move for customers to ask those questions. And from our standpoint, whether it is a discount for producers that have higher carbon content or a premium for producers that can deliver the lowest carbon aluminum on the planet, both is how we choose to win. I would also argue that when you look at our Elysis technology.
+
+And again, this is the research and development program that we're working on in conjunction with Rio Tinto, here in Pittsburgh and up in Canada. The fact is that, that works because at some point, the fact that it is the only process that can generate oxygen rather than carbon dioxide in the smelting process is fundamentally different. And so that is -- again, that's going to take time to prove it out. But it is another step to be able to capture what would be a niche, a niche market today, but perhaps a much more global market tomorrow.
+
+Operator
+
+Our next question will come from Chris Terry of Deutsche Bank. Please go ahead.
+
+Chris Terry
+
+Couple of questions from me. First one just on the cash flow during the quarter. Can you just talk through what was included in 3Q related to the Spanish smelters? And you talked about the [150] to come. I just wondered, what was actually included in 3Q on the cash side? Thanks.
+
+William Oplinger
+
+I think on the cash side, it was approximately $37 million associated with Spain and then there was an additional $12 million associated with the ABI restart. So when I look at the cash balance in the third quarter, I was pleased that given the tough market environment that we're in that we were able to maintain the cash balance at $841 million, while we were able to make those payments associated with Spain and ABI in the quarter. So it was a good performance from cash perspective in my view.
+
+Chris Terry
+
+And then just opportunities, going forward, on the cash from a working capital point of view?
+
+William Oplinger
+
+Working capital fell about a day in the quarter and we typically see working capital decrease in the fourth quarter. So there's still probably some opportunities for working capital declines in the fourth quarter. I guess, get back to again the fact that we were able to generate cash from ops, positive free cash flow, keep our cash balance at the level and actually grow it ever so slightly in these tough market environments, is a really good result for us. So pretty pleased with the outcome.
+
+Roy Harvey
+
+Chris, let me add one qualitative comment on Bill's as well from working capital standpoint. As part of the new operating model, bringing commercial together and then having commercial and operations join essentially through a detailed focus on supply chain optimization, I think will help us to be smarter in the way that we manage inflowing and outflowing inventories and ensure that across our three products, rather than looking at them as individual businesses that we look at it as a combined and very competitive Alcoa.
+
+So I won't give you a target right now. But I think the fact is we expect to be able to collect real opportunities in working capital as well, and probably looking more for 2020 rather than immediately in 2019.
+
+Operator
+
+And our next question today will come from John Tumazos of John Tumazos Very Independent Research. Please go ahead.
+
+John Tumazos
+
+If someone who maybe is not thinking green just looks at what you're doing and says, gee, it's quarter as a refining and almost half of the smelting. Alcoa must think that carbon taxes and other costs of doing business will rise more than metal prices, or one way or another we've had 10 years of economic growth. We're due for a recession. We have a trade war. Somehow you're bearish about things. How should we explain that, or react to it? Or react to an investor who shrugs his shoulders and says, you're re-evaluating over a quarter of the business?
+
+Roy Harvey
+
+John, let me answer that one. And you know our industry very, very well, you've been with us for a long time. The fact is, is when we look at the cost structure of each of our plants in that alumina and aluminum portfolio, I think you don't need to believe in green to recognize the fact that there needs to be action in order to ensure that we are in that first quartile of the cost curve. And depending on how that market swings and this gets back to Bill's comments about how we choose to improve our operations or curtail, or divest. Depending on how that market swings, it gives us more opportunities to divest rather than to have to close or more opportunities to improve, or to fix these operations.
+
+So I think I don't think you need to believe in green to recognize the fact that these portfolio changes makes Alcoa stronger. I think the green, the change in green and sustainability message, is something that is a natural addition and is in fact the way that Alcoa succeeds into the future, because we do the right thing and because at some point the market will recognize that there is value in that responsibility.
+
+William Oplinger
+
+I would also add, John, we've done a lot of studying over the last six months of our markets. And I would suggest to you that green, a greener world, a sustainable world and higher metal prices, are not necessarily mutually exclusive. In fact, a greener world may lead to better metal pricing just because of these natural eco friendliness of aluminum and the sustainability of aluminum. So as we look forward, a greener world is probably a better world for aluminum producers.
+
+Operator
+
+And our last question today will come from Justin Bergner of G. Research. Please go ahead.
+
+Justin Bergner
+
+First question on the noncore assets sales. Can I infer that there's nothing material planned within your bauxite mining alumina refining or aluminum smelting operations in that 500 million to 1 billion?
+
+Roy Harvey
+
+Again, Justin, we're not going to go into the details of specific assets and we will make it clear once we have line of sight to specific asset sales.
+
+Justin Bergner
+
+And you still own most of those 30,000 acres by Rockdale, right?
+
+Roy Harvey
+
+We do. Its 31,000 acres and it is for sale. It's been for sale now for a few years. And so if you want a good ranch in Texas, give me a call, Justin.
+
+Justin Bergner
+
+Lastly, on the flat-rolled operations, I know you had higher expectations for the profitability than you sort of exhibited year-to-date. Could you maybe just give us a sense as to what's constrained profitability and what are realistic targets going forward?
+
+Roy Harvey
+
+Yes, let me hit the first part, and Bill could talk about targets. The fact is it simply hasn't operated as efficiently as we wanted it to. And I won't belabor the points about what needs to be done in order to change it. But we put together a team and made some very specific changes that I believe will drive that plant to better profitability.
+
+I'd also point you to the fact that it now has the smelter embedded in it. So there is a piece of those changes that happens because of metal prices and how that embedded margin might be.
+
+William Oplinger
+
+And so I think the current view of that group of that is more like $55 million to $65 million of EBITDA in 2019. And as Roy said, that in part has been negatively impacted by the fact that the smelter is included in that, and with lower metal prices has hurt the profitability of that group of assets.
+
+Operator
+
+And this will conclude our question-and-answer session. At this time, I would like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy Harvey
+
+Thank you, Allison. And thanks again to everyone for your time today. We have acted continuously to make Alcoa a stronger and more profitable company. The announcements we have made today achieve two things; they position us for sustainable profitability and they grow our existing sustainability advantage.
+
+There is a widening gap between companies with strong sustainability commitments and those without, and our actions provide a path towards meaningful differentiation that is, both profitable and responsible. We believe that aluminum will continue to be the material choice for consumers, positioning the most responsible aluminum companies for a long and bright future.
+
+Thank you for your time. And we look forward to sharing our fourth quarter results in January. Back to you Allison, and thanks.
+
+Operator
+
+Thank you. The conference has now concluded. We thank you for attending today's presentation and you may now disconnect your lines.

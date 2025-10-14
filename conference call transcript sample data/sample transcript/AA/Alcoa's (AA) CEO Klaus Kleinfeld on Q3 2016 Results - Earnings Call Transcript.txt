@@ -1,0 +1,436 @@
+Alcoa, Inc. (NYSE:AA) Q3 2016 Earnings Conference Call October 11, 2016 11:30 AM ET
+
+Executives
+
+Matthew Garth - VP, Financial Planning & Analysis and IR
+Klaus Kleinfeld - Chairman and Chief Executive Officer
+William Oplinger - EVP and CFO
+
+Analysts
+
+David Gagliano - BMO Capital Market
+Timna Tanners - Bank of America
+Evan Kurtz - Morgan Stanley
+Jorge Beristain - Deutsche Bank
+Justin Bergner - Gabelli & Company
+Tony Rizzuto - Cowen and Company
+
+Operator
+
+Good day, ladies and gentlemen and welcome to the Third Quarter 2016 Alcoa Earnings Conference Call. My name is Shannon and I will be your operator for today. As a reminder, today’s conference is being recorded for replay purposes.
+
+I would now like to turn the conference over to your host for today, Matthew Garth, Vice President of Financial Planning & Analysis and Investor Relations. Please proceed.
+
+Matthew Garth
+
+Thank you, Shannon. I’m joined today by Klaus Kleinfeld, Chairman and Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Klaus and Bill, we will take your questions.
+
+Before we begin, I’d like to remind you that today’s discussion will contain forward-looking statements relating to future events and expectations. You can find factors that may cause the company’s actual results to differ materially from these projections listed in today’s press release and presentation and in our most recent SEC filings.
+
+In addition, we have included some non-GAAP financial measures in our discussion. Reconciliations to the most directly comparable GAAP financial measures can be found in today’s press release and in the appendix to today’s presentation. Any reference in our discussion today to historical EBITDA means adjusted EBITDA, for which we have provided reconciliations and calculations in the appendix.
+
+Lastly, the completed a one-for-three reverse stock split on October 5. The per share amounts in our discussion today reflect the reverse split. Now I’d like to turn it over to Klaus.
+
+Klaus Kleinfeld
+
+Thank you, Matt. So, let’s me characterize the quarter and let’s start with the Arconic segments. Revenues of 3.4 billion, that’s down 1% year-over-year and this basically reflects the customer adjustments of the delivery schedules in the aerospace industry, softness in the North American commercial transportation market, pricing pressures partially offset by the North American automotive volume.
+
+The after tax operating income at 267 million, up 4%, and if you go down to the segments of Arconic and Global Rolled Products, 58 million of after tax operating income, up 23% year-over-year. This is without the impact of Warrick, changing Warrick over in to what we call a cold metal plant. Remember we have closed the Warrick smelter before, and you all see in global rolled products, a big driver of profitability and is the automotive sheet shipments’ up 495.
+
+In the Engineering Products and Solutions segment, record third quarter profit of 162 million, up 7%, the Transportation and Construction Solutions business, 47 million of profit, up 7%. Overall, also strong productivity, 187 million this quarter, and if you look at the year-to-date number, it stands at 547 million. So that’s really good and on track to deliver the 650 million target for 2016.
+
+We also adjusted the targets for 2016 to reflect the near-term industry challenges, and I will talk about this in depth when we come to the presentation at a later point in time. So then let’s also talk about our future Alcoa Corporation. Total revenues of 2.3 billion, flat sequentially, continued low alumina prices as well as the impact of curtailed and closed operations.
+
+After tax operating income of 128 million, down 15% sequentially, improved metal prices offset by low alumina prices and unfavorable currency impacts. New third party bauxite contracts in this quarter alone, 53 million, and at the same time if you look at year-to-date, 468 million of new third party bauxite contracts, very, very good value driver here.
+
+And also very important to note, the Alcoa Corporation has met or exceeded their three-year cost curve target for Alumina, as the Alumina segment is now on the 17th percentile of the cost curve. This is a 13 point improvement compared to 2010. This gives you an idea of the competitiveness of this. It basically means 83% of all industry players under water before these businesses will be.
+
+Alumina, it’s now in the 38th percentile, this is an improvement of 13 points compared to 2010. Great job, a very difficult job, and also lot of curtailment changes of the original footprint here.
+
+And also in Alcoa Corporation you see a strong productivity, 190 million productivity savings in the quarter, and overall the year-to-date number sits at 569 million, and that is surpassing the 550 million target for 2016, but obviously this does not mean that the productivity push is not going to continue.
+
+So, last but not least, but very important, the separation of schedule for November 1; we got a lot of things out of the way, PBGC approval, we have that in hand. The IRS price letter ruling, we have in hand. The Alcoa Corp. team has successfully raised 1.25 billion of debt, and we have announced both Boards, so we are set and ready to go to separate on November 1.
+
+Okay, with this, I hand over, Bill to you.
+
+William Oplinger
+
+Thanks Klaus. As you’ve all seen by now, adjusted earnings for the third quarter are $0.32 per share, up 48% from a year ago on strong productivity across all segments and higher volumes, driven by the RTI acquisition. These gains are partially offset by unfavorable pricing mix primarily in our downstream businesses and by some higher costs.
+
+Third quarter revenue totaled 5.2 billion, down 6% year-over-year. This is driven largely by lower alumina prices and curtailments and closures in the upstream businesses. Cost of goods sold as a percentage of sales increased by 130 basis points sequentially, largely due to the impact of lower alumina prices on revenue. Overhead spending increased year-over-year primarily as a result of costs related to the planned separation of the company.
+
+Other income of $117 million relates to the gain on the sale of the Wharf at our Intalco smelter location. The third quarter effective tax rate of 44% was driven by non-deductible separation costs and discrete tax items in the quarter. Excluding these impacts, our operational rate was 30%. Overall, net income for the quarter was 166 million or $0.33 per share, preferred dividends were $18 million in the quarter. Excluding special items, net income was $161 million or $0.32 a share.
+
+Note that our earnings per share reflects as Matt commented, the reduced number of shares following the one-for-three reverse stock split approved by our shareholders on October 5. Let’s take a closer look at the special items.
+
+In the quarter, we recorded after-tax income related to special items of $5 million or $0.01 per share primarily related to the gain on sale of the Intalco Wharf, and the settlement received on a prior acquisition. These gains were mostly offset by separation costs in the aforementioned tax items. Restructuring included charges related to the previously announced closures and curtailments, the majority of which are in our upstream business.
+
+Now let’s look at our performance versus a year ago. Third quarter adjusted earnings of 161 million were up $52 million from the prior year quarter, driven by strong productivity across all segments. Lower alumina prices and a stronger Australian dollar presented headwinds from a market standpoint, while metal prices were more or less stable versus this time a year ago.
+
+Volume growth was driven by the RTI acquisition, now known as ATEP, while price combined with price headwinds and packaging prices related to the contract renewals and supply chain destocking in the aerospace market were combined with the packaging headwinds.
+
+Strong productivity gains in all segments contributed $246 million in savings, which more than offset $77 million in cost increases. Largest drivers of these cost increases included maintenance, labor and benefits, as well as cost to secure metal as a result of Wharf smelter curtailment.
+
+Now let’s go to GRP. GRP turned in another strong quarter as solid productivity gains and growth in automotive sheet shipments were partially offset by cost increases and the use of cold metal at work as Klaus mentioned. EBITDA per ton was $295 per metric ton or $354 per metric ton, excluding the Warrick cold metal impact. This is above our 2016 target of $344 a metric ton.
+
+As we look to the fourth quarter of 2016, we expect GRP performance to reflect the following factors, strong automotive sheet shipments up 45% to 50% from a year ago, lower demand in air frames, lower North American commercial transportation build rates. Overall, ATOI for the segment is expected to be flat year-over-year at $49 million.
+
+Please note that in the fourth quarter of last year, we reported ATOI of $52 million normalizing for the transfer of Warrick in the Saudi Arabian rolling mills which will be going to the Alcoa Corp., fourth quarter ATOI would be $49 million.
+
+Let’s move to the EPS segment, ATOI was 162 million for the quarter, up 7% versus the prior year. The benefit of ATEP and productivity gains in the segment more than offset cost increases and growth project spend like the La Porte expansion and the relocation of production to low cost locations.
+
+Unfavorable pricing mix year-over-year is largely related to new contract renewals in 2016 and higher use of standard products by our customers. As we look to the fourth quarter, we believe production of aero engines will increase. We also expect continued price pressure and air frame supply chain destocking for legacy model components.
+
+In addition, we expect strong North America IGT growth, while oil and glass, European IGT and North American commercial transportation markets will continue to be soft. Overall for the fourth quarter, we anticipate ATOI to be up 6% to 14% year-over-year to 130 million to a 140 million.
+
+Now let’s go to TCS; the TCS third quarter revenue declined 5% year-over-year, driven weakness in the North American heavy duty truck in Brazilian markets, partially offset by strong performance in our building and construction business. ATOI for the third quarter was $47 million, up 7% versus the prior year quarter as the productivity gains more than offset market headwinds and cost increases, TCS achieved record margin levels of 16.9% this quarter.
+
+As we look to the fourth quarter, we expect continued weakness in the North American heavy duty truck market to be offset by growth in our building and construction business, and productivity gains. Overall, fourth quarter ATOI is expected to be up 8% to 10% year-over-year to $43 million to $44 million.
+
+Let’s move to Alumina; alumina third quarter ATOI was $72 million, a decrease of $37 million sequentially. API pricing declined 6% from last year and unfavorable currency impacts due to the rising Aussie and Brazilian rial drove their decline. However higher shipments, favorable price mix and productivity more than offset seasonal raw material price increase and maintenance timing.
+
+In the fourth quarter, we expect production to be up 30,000 metric tons sequentially. API pricing will continue to fall a 30 lag and LME pricing to fall a 60 day lag. 85% of third quarter shipments will be API or spot pricing for the full year of 2016, and we expect continued productivity actions will offset higher energy and other cost increases.
+
+We turn to primary metals; primary metals third quarter ATOI of $56 million was up $15 million sequentially due to improved productivity and cost control, market factors of LME, API and FX largely offset each other, while lower volume was due to production stability issues in our Iceland and Intalco smelters.
+
+Favorable energy sales in Brazil and the US offset the unfavorable power prices in Spain and Intalco.
+
+Looking forward to the fourth quarter, we expect production to be up 10,000 metric tons as we regain stability in Iceland and this volume offsets downward pressure in product premiums that we’re seeing. Pricing will follow a 15 day lag to the LME, lower alumina cost of $15 to $20 per ton of aluminum as cost in the segment follow a 90 day lag on API pricing.
+
+Structural changes; we also expect structural changes in the Portland, Australia Energy contract and seasonal energy prices in Spain. These factors will drive energy prices up $15 million after tax, and continued productivity to offset all of these cost headwinds other than the energy headwinds that are listed there.
+
+So if we turn to the next slide, with our pending separation in to Arconic and Alcoa Corp., I wanted to provide you with a view of what we could expect in each companies fourth quarter earnings. Arconic’s fourth quarter report will include one month of GPP, where the upstream business and the discontinued operations line. There will also be charges related to the separation including two items highlighted on the slide, first valuation allowances for certain deferred tax assets but as a result of the separation will not be realizable, will run through corporate and be treated as special items.
+
+Secondly, Arconic will evaluate if there’s any impairment losses associated with the separation of Alcoa Corp. If there’s an impairment loss, we estimate the range to be $300 million to$700 million. Any identified loss would go through discontinued operations also. Arconic segment reporting for EPS and TCS will be unchanged; GRP will be adjusted to reflect the separation of the Warrick and Saudi Arabian rolling mill.
+
+For Alcoa Corp., the fourth quarter will consist of one month of carve out financials and two months of Alcoa Corp. results. The company will report on all six segments. Let’s provide a guidance on rolled product on this slide also to support you understanding of the transfer from Arconic.
+
+Before moving to the cash flow statement, let me summarize the fourth quarter guidance. TRP, HOI is expected to be flat. EPS HOI up 6% to 14%, TCS HOI up 8% to 10%, and Alumina and primary metal segment combined performance flat excluding the energy pricing impacts and in the case of Alcoa Corp., rolled products we expect that declined $1 million to $2 million sequentially.
+
+Let’s go to the cash flow statement; for the third quarter cash from operations was $306 million contributing to free cash flow for the quarter of $31 million. Pension expense in the quarter of $78 million was slightly lower than cash contributions of $80 million. Contributions year-to-date of $227 million reflects 76% of our anticipated full year total of $300 million.
+
+We are also announcing today that we’ve reached an agreement with the PBGC related to our separation. As part of the agreement, Arconic will make contribution of three payments of $50 million each during a 30 month period following the separation.
+
+Lastly, capital expenditures of 275 million for the quarter included $99 million for return seeking projects and $176 million from maintenance, separation and other standing projects. 58% of the capital expenditures were in support of the Arconic businesses.
+
+Let’s now take a look at actions we have taken to strengthen the balance sheet. Our program to offset the weakness in the commodity markets and volatility in the debt markets exhibited earlier in the year has been successful, generating nearly $1.2 billion. This quarter we sold Intalco smelter Wharf and other excess earnings proceed of a $120 million.
+
+The Intalco property sale will not affect our ability to use the Wharf around the smelter. We are working to complete additional asset sales in the fourth quarter, which may raise an approximately $250 million in cash. In total we are expecting proceeds of nearly 1.2 billion from these actions.
+
+Now just take a look at the balance sheet. We have very strong liquidity and ended the quarter with $1.9 billion of cash on hand. Net debt is in line with where we started the year. We have an additional $1.25 billion in gross debt due to the Alcoa Corp. issuance, but that money is held in escrow until separation and therefore not included in our cash balances.
+
+Now I’ll move to review the aluminum market fundamentals. Global demand remains robust at 5%, while supply has increased slightly from last quarter, keeping the overall market balance of our 2016 aluminum balance in depths at range of 615,000 metric tons. Global consumption is projected to reach 59.7 million metric tons.
+
+Since the second quarter, the day that continues to support our estimates for demand growth in China and has suggested a slight rebalancing between North America and Europe. Aluminum supply is projected to grow by 3% year-over-year to reach 59.1 million metric tons of production.
+
+As I noted, the 2016 aluminum depths had bounced slightly from last quarter to 615,000 metric tons. In China the average SHFE price this quarter has increased RMB316, which has motivated slightly faster restarts and expansions than we had forecast. The average LME price on a cash price in Q3 was $1620 per metric ton, $48 higher than the Q2 average of 1572. When you go to the right side of the chart, global inventories have fallen and we expect them to continue to fall due to the global deficit this year, and aluminum prices have recovered substantially since earlier in the year.
+
+We then turn to alumina; the alumina market is in deficit of approximately 1.6 million metric tons, representing a larger market deficit than what we had reported in the second quarter. The deficit increased due to the combined impact of three main factors; higher alumina demand in both China and the rest of the world from increased smelter production, lower rest of the world supply, as (inaudible) curtailment and slowed expansion in India combined to lower the overall rest of the world supply.
+
+And in China a few faster restart in additional expansion have increased 2016 Chinese alumina supply. We transition to the right hand side of the chart; alumina demand growth is projected to outpace supply growth. Demand growing at 5%, supply growing at 1% and prices have maintained recovery due to improving fundamentals recovering $31 per tons since the lows we experienced at the beginning of the year and the coming of higher prices we saw in the second quarter. Just in the last week, however we’ve seen stronger Australia prices recovering to over $250 per ton.
+
+Let me turn it back over to Klaus.
+
+Klaus Kleinfeld
+
+Thank you very much Bill. So let me customarily start with a view on the end market and start with aerospace deliveries. We said in the second quarter that we see flat to plus 3% for this year. The airline fundamentals are solid, and profitability of the airlines is at an all-time high, travel demand is up. The robust commercial jet orders, the order book is still over nine years. There’s very low level of cancellation, 1.9% of the order book well below the historic numbers. But at the same time, we do see 2016 as a transition year.
+
+In the third quarter, we’ve seen large commercial aircraft deliveries up 3%. The growth year-to-date is kind of flat and so we believe that the year 2016 is more likely to come out at the low end of the range and the range being 0 to plus 3%. We also see solid growth of narrow and softening demand for wide body segment.
+
+And as I already explained last time around, it is really important to understand what’s going on there also inside of our business to distinguish between the airframe components and the aero engine components. So let me repeat that because the picture continues as I described it already in this end of the second quarter.
+
+Airframe, this is for us the spectrum of fast enough excursion, forging, casting, sheet and plate and what we see there is a reflection a build rate reduction that has been announced by the OEMs for A380, the B777 and the C Series and the part standardization of supply chain optimization, all of this and the kind of the overbuy that we saw and expectation of the ramp up of the new platforms has led to an oversupply and currently on the airframe component side we are going through a phase of de-stocking that absorbs the demand and we actually do believe from what we have line of sight that this goes to all of 2016 and continues in to 2017.
+
+On the aero engine side, which for us is also a large spectrum, it means fan and turbine blades rings this shaft, structural castings. So a lot of new engine launches with multiple new technologies, product introductions that are generating basically an industry ramp up, massive industry ramp up challenges. There’s a strong engine ramp up.
+
+In the second half we’ve seen that this really does not slow down, but with the engine, the new engines ramping up and the high level of technical sophistication, there’s a lot of increased product introduction cost for qualification of the component.
+
+And at the same time the legacy engines spares and replacements remain strong. So here we have different situation. We have very, very strong demand at the same time the ramp up is accelerating and we’re going through the near term [teasing] issues of the aero engine industry.
+
+So let’s move on to automotive and let’s go to North America. We believe it’s going to grow 1% to 2%. In the second quarter we had a range still between 1 to 4, but we are now seeing there’s rather a narrow range than the one that we had planned. What we do see is product is up 2.4%, but it’s really a tale of two cities.
+
+For trucks the demand is up by 7.3% and for cars its down by 4.6%. And what we’re currently seeing is the OEMs are lining their output according to the demand. The sales are up by 0.4%, we see a growing US inventory it now stands at 65 days, which is still in line with the industry target between 60 to 65 days, but it’s up three days month-on-month and six days year-on-year.
+
+Incentives are rising, they’ve increased by more than 17% year-over-year, also different picture as you would expect between the cars and trucks. On the car side, it now makes 14% of the average trading price and on the truck side 9.3% of the average rating price. In general, the industry believes that everything below 10 is kind of a considered a healthy margin, a healthy incentive.
+
+The demand we believe for longer term, we do see a sustained demand picture in the US. If you just look at the vehicles that are 12 years and older the number is more than 100 million out of 258 million that are in operation. So it’s a big chunk that potentially is kind of sitting there as future demand.
+
+In Europe, automotive, we continue to believe it’s going to up 2% to 4%. We see the production rising by 3.7; this is different between the west and east. West up by 5.2 compensated by the east, strong registrations also and also good exports there.
+
+On China, we actually believe that it’s going to be better than what we saw in the last quarter, 6% to 8% we see here up from the 3% to 5% that we saw before. Production is up almost 11%, sales up 11%, and some of the legislation is helping us to get boosted. So that’s the picture on automotive.
+
+Let’s move to the heavy duty truck and trailer market, and let’s start with North America, unfortunately not a good picture. We actually have seen it continue to get worse in the end of the second quarter where we said it’s going to go down and we saw for the year minus 26 to minus 28. We actually see now it’s more in the minus 28 to minus 30 range.
+
+We’ve seen the product coming down by 27% year-to-date, freight growth is still there, but its smaller than what was forecasted and obviously the psychological effect kicks in then in terms of investments for the trucking firms. Weak orders down 28%, higher inventories, now its higher than the 10 year historical with almost 58,000 trucks and the average is at 47,000, and the auto book is falling down year-over-year by 39%. So not a pretty picture on that end.
+
+In Europe, we continue to see it slowly coming up, 3% to 5% is the growth that we’re seeing. Production is up by 8.3%, also registrations in the west is up by 16% almost, east is dropping by 5%. So in China we also see that the similar programs are taking hold. We actually saw its going to grow 2% to 4% after the second quarter. We now see it rather be in the 13% to 15% range. Strong sales up 44% production is even up on a 56% level.
+
+Packaging, actually we do see global growth rather a little bit higher than what we saw before. Before we said one to three, and we said 2 to 3 very strongly driven by the US where we saw minus 1 to 0 as a picture before and we think now it’s a little bit 0 to 1. And the drivers are the same, I mean commodity (inaudible) is down, US segment up and I think it’s too early to tell whether this is a full trend or whether there is some weather related impacts here. We’d see what’s going to happen going forward until the colder season in the Northern Hemisphere. Europe 1% to 2% up and China 5% to 8%, no change on that.
+
+Building and construction, North America, we believe 4% to 5% non-residential contracts versus however down minus 1.8. Architecture billing index is positive for 2016, but in August the number turned to 49.7. This is the second time it’s below the critical mark of 50. So we have to watch it.
+
+Housing starts are up, though at 10.6%. And if you look at the annualized starts they stand at 1.2 million and this is below the long run average of 1.3 million. So it has to be watched, but we believe for this year we still see a good picture there. Europe is 0 to plus 1 and China 3% to 5% growth. And on the natural gas turbines, we actually do see a 2% to 4% increase. The market move higher value add products, higher efficient turbines with advanced technology, the gas turbine capacity order is up 0.7% strongly driven by the 60 hertz market up 7.7% and the demand for spares and upgrade is also good.
+
+So electricity demand is down year-on-year at 0.6%. So that hasn’t really changed there much yet. So let’s not talk about the businesses, and given that November 1 is almost around the corner, I decided to split it in to a short part on Arconic which for those that haven’t followed us or have followed is the old value add businesses so to say and then the future Alcoa Corporation which is the upstream business.
+
+So let’s go to Arconic; so I just described to you what we see in the end markets, and I’m happy to address this also more in depth in Q&A if there’s an interest. But given this, as you know, our mantra is we focus on those things that we can influence and do the best out of it. So given this we’re adjusting the revenue targets for 2016, but we are holding the margin goals.
+
+So let’s go through this; GRP, what have seen in the third quarter? We have seen the profits up 23%, EBITDA per metric ton up 7%. These are numbers excluding the cold metal plant to aspects from Warrick. What are we doing? I mean we are changing the goals from what used to be 5 to 5.2, the revenues from 4.8 to 5 and we are keeping the profitability target at the $344 plus per metric ton.
+
+So for the fourth quarter, as Bill has said, we are expecting the profitability to be flat at 49 million. So what are the drivers for this goal change for 2016? There are a couple of those. One is that we actually did expect the auto build rate to grow further, but what I just described to you is what we’re seeing now it is plateauing granted on a high level and the auto aluminizaiton continues to be strong. So we will benefit massively from the auto aluminization, I think Bill has shown in his slide that we are expecting also.
+
+For this quarter, we had 49% entries in auto shipments and we are expecting a range between 45 to 50 also in the fourth quarter. But at the same time now our expectation for build rates was that it would continue to go up and compensate some of the other negative effects, a big negative effect obviously here the heavy duty truck market decline and then on the air frame side the de-stocking of the motor transition continues on longer than we had expected and the lower build rate that have been announced also in this quarter.
+
+So that’s the situation on GRP; on TCS, we’ve seen in the third quarter profits have been up by 7% and the EBITDA has been a record EBITDA margin. What we see going forward in the fourth quarter, we actually see that we’ll continue to go up by 8% to 10% and that means year-over-year to 43 million to 44 million.
+
+So at the same time, we can’t ignore this includes obviously very strong wheels business and that’s heavily impacted by what’s going on in North American heavy truck markets and you saw the massive decline that we’re seeing there. We obviously have taken a lot of counter actions and you see that reflected in the profitability target continuing to be at 15%, while the revenue targets we are taking it down from what used to be 2.1 to 1.7 to 1.8.
+
+The other thing is also a self-inflicted one on purpose. We are restructuring our Latin American extrusion business and therefore we are purposefully losing some or taking out some revenues that we don’t think we want to continue to have going forward.
+
+So EPS; EPS business had record third quarter profit, up 7% year-over-year and the fourth quarter we expect it to be up 6% to 14% to 130 to 140. At the same time, we also have to see what is driving the full year revenues and as I mentioned already we have on the air frame side, we have the destocking of the model transition, we have lower build rate.
+
+At the same time on the positive, we have very strong aero engine demand; however the industry is going through the ramp up challenges on the aero engine side. Let me also mention first, Rixson acquisition there, we have been targeting the revenues of 1 billion to 1.1 billion for this year. Of course Rixson is very strongly oriented towards the aero engine side, so we see that more realistic ranges, more between 900 million to 950 million revenues. At the same time, the margin level we had originally said is going to be between 14 to 16 and we see it no more between 14 to 15.
+
+And also our other acquisition RTI doing very, very well. We had targeted 755 million to 775 million of revenues for 2016 and we continue to hold that range. At the same time, the EBITDA margin, we originally said we’d want to come in between 17 to 19. We believe that we are now more on the upper range rather on the 19%.
+
+So does that mean for EPS in total, we’re bringing the revenue down from 5.9 to 6.1 to 5.6 to 5.8? That range while we are holding the profitability at the 21 level.
+
+So let’s now also talk about Alcoa Corporation. We are really progressing in all of the business segments, and just to touch upon a few highlights here, on the bauxite business (inaudible) production record. I mentioned already 53 million of contract for third party bauxite in this quarter, almost 500 million of third party bauxite sales over the course of the year, and that’s a business that we will continue to build out at Alcoa Corporation.
+
+Aluminum refinery achieves 90% of the name plate capacity, good productivity there. On the energy side, Brazil third party revenue is up 26%, very, very good progress on that and helped by the pricing situation there. So Alumina cost down by $349 per metric ton on the cast product side. EBITDA per metric ton 40% higher than in the prior year, and on the rolled product side the conversion to the cold metal plant is on track and we see more recovery year-to-date.
+
+I think the most important message here on Alcoa Corporation is the enormous success coming down on the cost curve. Keep in mind this is a commodity business and this is all about where you are on the cost curve. So that’s what we’ve always said that you can sustain and be profitable in whatever environment you have.
+
+So on the alumina side we’ve come down from the 30th percentile to the 17th percentile and on the aluminum side from the 51st percentile to the 38th percentile. This is fantastic and that’s which we had set as targets.
+
+Let’s also talk about productivity, as you know, major part of our DNA and a major part of the profit drivers also good news on that and we see that for future Arconic it stands at this point in time at 547 million of productivity for the year and future Alcoa Corporation stands at 569 million. This is already the annual target, so very, very good job that the team is committed to continue moving forward and keeping the pace at the rate ideally that they have been running along this year. And you also see this is backed by more than 20,000 action sheets in the different categories from productivity, growth as well as asset management.
+
+So I thought I end it, given again that the November 1 is so close and from then on we’ll be looking at two companies here and have the opportunity to hold two stocks.
+
+I thought I’ll end with giving you an idea of what we are saying to the investors. Why should you own Arconic and why should you won Alcoa Corporation. So let me start with Arconic. Arconic is very strongly positioned and attractive market. And I would say they fall in to two categories. One is kind of secular growth with compelling margins like aerospace and automotive. This makes up about 50% of the revenues. And then the other big chunk, solid growth attractive margin, and this is true for transportation, specialty, industrial and building and construction again makes 50% also of the revenue.
+
+We are clear market leader in major markets, and if you want an indication for that and look at the revenues and the business is a number one or number two position, aerospace 85% of the business of the revenues are in number one or number two and North American Auto 96, commercial transportation 93.
+
+We are a major supplier to industry in all of the sectors that Arconic is in. Arconic is a differentiated driver via innovation and advanced technology solutions has unparalleled capabilities and multi-material manufacturing processes as well as application engineering has a track record of breakthrough advances.
+
+I’m not going to mention all of this. I mean also on the recent ones, (inaudible), metal powder, lighting fast fasteners, micro mill, bonding, the list is long and it has a very strong culture of innovation driven engineering and a very good research and development base. Excellent people and in the end it’s all about people.
+
+The margin profit is compelling and also driven by relentless pursuit of cost reductions and consistently delivering productivity as I just read on the last slide and a disciplined capita allocation.
+
+Last but not least, the people is everything, the management team as well as the culture that existed. Arconic is focused on performance and its focused on creating value.
+
+So Alcoa Corp., what you see at Alcoa Corp., is really a reshaped aluminum and you saw it very, very strongly position on the cost of it. It’s what I would say a compelling industry player, world class low cost assets, global partnership to being in high growth markets, opportunities like in bauxite to continue to grow substantially.
+
+Exciting industry outlooks, Bill just went through this. I mean very often we don’t remember that there are not that many markets that have a demand growth of 5%. We have said demand is going to double in these 10 years and we’re seeing that demand is doubling in this 10 years and every one of us sees it in their own environment.
+
+I think the reshaped Alcoa Corp., is well positioned also in whatever the future will bring here. The management team is very experienced, has been behind the drive truly shaping the firm. The culture in the company is extremely operator centered, so running the assets well that’s what you got to discipline there, and also a disciplined approach to capital allocation. So focus on making high returns for shareholders. So I hope that this captures your intention and I very much hope that you will continue to follow, and invest in Alcoa Corporation as well as in Arconic going forward.
+
+So with this let me conclude the presentation and lets go to the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of David Gagliano from BMO Capital Markets. Your line is open. Please go ahead.
+
+David Gagliano
+
+I wanted to focus in on the Arconic businesses specifically for 2017. I noticed in the slide deck, the expectations were for more than 10% growth in 2017. I noticed that’s not in the slide deck this quarter. Wondering given the change that we’ve seen in aerospace, what do you expect for 2017 growth in Aerospace?
+
+Klaus Kleinfeld
+
+Dave you are very attentive. So you notice that and there’s obviously a reason why we didn’t put it in there. The range that - I mean you’ve seen there’s a lot going on the aero structural side as well as on the aero engine side, right. And the environment has been more dynamic than what we had expected even in the first quarter, second quarter, and third quarter, and you’ve seen what we are projecting for the rest of the year.
+
+So if you look at - if you talk to the experts and look at 2017, the range that people put out there is huge, absolutely huge. And I would say it’s basically using a stick hunting gorillas in the fog. So I don’t know whether this picture works well, but it’s very hard to predict.
+
+What we are planning to do is, once 2017 hits and actually once we go on to the road show, which will be coming up soon, we will provide for both companies for Arconic as well Alcoa Corporation. We will go more in depth into the 2017 view and give you also some numbers on what we see there. So that’s our goal here. The same thing is going to hold true for Alcoa Corporation.
+
+William Oplinger
+
+We’ll give better view on supply and demand for ’17 as we go in to the webcast towards the separation.
+
+David Gagliano
+
+Just as a follow-up, just as you build out these expectations obviously and the downstream businesses, your order books are -- I’m assuming the visibility is very high there at least for 2017 and we’ve seen these challenges in aerospace. I’m just wondering just directionally given those challenges, you still delivered solid growth year-over-year in the EPS business. What do you think in terms of directionally growth potential in the EPS business for 2017? Do you still foresee for example, an up 0% to 5% sort of year in the EPS business in terms of revenues?
+
+Klaus Kleinfeld
+
+The good news is the order book is full and the other real good news is the demand for aero engines is gigantic. So the new engines which are technically highly advanced, you can expect that they caused some teething problem in a relatively complex supply chain situation, right. So that’s what we are going through. But the desire to ramp up fast is enormously high.
+
+So this all depends on how quickly can we get through this. And we are doing all that we can with every one of our customers as well as a part of the supply chain to get through this relatively quickly. But frankly Dave, we will give you a 2017 outlook when we go on to the road and then provide, which is two weeks from now. So you will get it very, very soon.
+
+Operator
+
+Your next question comes from the line of Timna Tanners from Bank of America. Your line is open. Please go ahead.
+
+Timna Tanners
+
+I just thought you may answer my question similar as to the last one, but I’m going to go ahead and ask them anyway. So I know that a lot has changed over the last year, year and a half. But I was just looking at the Firth Rixson forecast from 2014, and just wondering how do we think about the EBITDA guidance of 350 that was initially for 2016. Is that still a good long term number for what Firth Rixson is capable of aside from some of the near term headwind that you’ve described in its own operational challenges, or can you give us any color on how you’re thinking about Firth Rixson’s past and its going forward prospects?
+
+Klaus Kleinfeld
+
+Firth Rixson, as I’ve already said earlier, the major reason why we acquired Firth Rixson is because they are a very important part of our aero engine components portfolio, right. So the aero engine heating problems affects them squarely. At the same time, we have really made very good progress on driving the synergies out. We are basically ahead of where we originally thought we would come out and also in getting the operational productivity.
+
+And we are trying to take advantage of the aero engine ramp ups. At the same time these heating problems do affect them. So I think in the long run, we’ll get there, but you saw that we are taking revenue targets down for the year as well as adjusting the profitability to the lower end, so obviously we are not where we wished we had been. A good part of it is just the situation that we face in the market. I mean in terms of our old control, I’m actually pretty happy with the progress that we’re making. But its work, and let’s not forget everybody Timna focuses on Firth Rixson.
+
+I also talked a little bit about IGI, and on IGI we are ahead of our plan. We have confirmed that the revenues are coming in the range that we always thought, but we are going to be at the upper range of the margin at 90% much, much earlier than we thought, and frankly also IGI is in the main aerospace. But what you see there, the team has not so much focused on the aero engine side, more focused on the frame side with titanium, and the team has been very, very good in overcoming the headwinds, and we are ahead there with the synergies and also we’ve been able to get a lot of productivity there too. So that’s very good.
+
+And on TITAL, the number on TITAL are even more stunning. Now granted its smaller, but we’ve had over 100% growth of revenues compared to last year and similarly a strong profit increase, so we’re happy with where that is going on the nets and titanium investment task basically for your [office].
+
+Timna Tanners
+
+Got that. Wanted to ask about Alcoa on the aluminum side, I feel like we had a flurry of announcements a couple of quarters ago about curtailing capacity of high cost US operations, and I just wondered if there’s any progress on looking at some of the other operations at may be higher cost on any programs or plans that you can detail for us.
+
+Klaus Kleinfeld
+
+Yes, that’s a good point Timna and we have good part of that, because we announced a couple of closures as you know in the US. We originally have plans to close Massena and we also have plan to close Intalco. We did close Wenatchee, right. Then on --.
+
+William Oplinger
+
+We curtailed Wenatchee not closed.
+
+Klaus Kleinfeld
+
+And in the discussions here in the north country in New York, we were able to achieve a power contract that got us in to a profitable situation. So we didn’t have to close it, and actually to our surprise happened on the Intalco side, and that’s why we also kept Intalco running and profitably running. So that’s what has been going on there.
+
+Operator
+
+Your next question comes from the line of Evan Kurtz from Morgan Stanley. Your line is open. Please go ahead.
+
+Evan Kurtz
+
+Just a quick one on the new segments as we start to think about how to model these things going forward, when should we expect more updates as far as your revised content or securing some of the blanks that we got in that Form 10 as far as segment ATOI’s for the new groupings.
+
+William Oplinger
+
+So we’ve had four versions of the Form 10 at this point. If you recall, we were able to give you the first quarter and then the first half. We will have more information available to you in the early part of November. So right after the close of the separation, you’ll get more information on the segments then.
+
+Evan Kurtz
+
+And then just a question on how you price third party bauxite sales? We can for the first time look at what the revs are in that business and get a sense of what revenue per ton. What’s included in that revenue is there other freight costs like when you sell bauxite what’s the delivery point. Is it the mine, is it the port, is it delivered in China?
+
+William Oplinger
+
+Just to be clear, all our revenues in bauxite you’ve got a combination of internal and external and so the internal revenues are internal transfer pricing where we try to approximate market as best as we can. It’s very difficult to approximate a market where the mine is sitting right next to the refinery, but we’re making a best attempt to have a market in arm’s length pricing there. For the external revenues they are largely including shipping cost over to China. So they are delivered in to China basis.
+
+Evan Kurtz
+
+And then just one last question on working capital; it’s been a big use of cash this year, and actually compared to the first nine months of last year. Is there a seasonal pattern here, should we expect some sort of release as we get in to the year-end.
+
+William Oplinger
+
+Absolutely, and you’ve seen it year in and year out. We’ve tried to do a better job of smoothing out over time, but we typically burn working capital, it’s a consumption of cash through the first nine months and then we deliver cash back in the fourth quarter and that’s been consistent and historically you see it in both businesses, probably a little bit more on the Arconic side, but both businesses will typically generate cash in the fourth quarter.
+
+Operator
+
+Your next question comes from the line of Jorge Beristain from Deutsche Bank. Your line is open. Please go ahead.
+
+Jorge Beristain
+
+Just trying fall off a bit on the downstream businesses. I’m just going to recap, over the last three years roughly since 2014, you’ve added over 1.5 billion of revenue particularly in the EPS business, but we’ve yet to see any real incremental pick up in EBITDA. So I’m trying to understand what is it that fixes this business going forward. What is going to be turnaround inflexion, is it going to be revenue starting to flow through in 2017, are there inter cost cuts that you can keep doing because it just seems that those assets have just not been performing, just not been - or the stuff that was in downstream is just performing a lot weaker than it was also previously expected. So I’m just trying to understand what is the inflexion point and what should we be looking for this business to start to perform as to what the guidance was when you initially acquired them?
+
+Klaus Kleinfeld
+
+When you talk about downstream, I assume you’re talking about all of the Arconic businesses?
+
+Jorge Beristain
+
+I was sorry more focused just on engineered products and solutions.
+
+Klaus Kleinfeld
+
+On engineered products and solutions, let me recap what is hitting here and why the revenue is trending below our expectations. The airframe structures we see strong demand for narrow bodies but softer demand for wide bodies. That’s public knowledge, we can’t make the market, we would love to have it in a different way, but you look at the A380 announcement, the 777, the C- Series, plus the Boeing third quarter deliveries a 5% lower than third quarter last year. At the same time, we additional pleasures from the destocking and the supply chain, so that’s one factor.
+
+The second factor is the aero engine launches, and that’s a major driver of our revenues here in EPS. So we do see that there is a lot of demand there, but it’s a multi-step supply chain and we currently do see some supply chain challenges here on the aero engine side and the supply chain is long, it goes from the material to the metal forming to machining to final assembly. And when you go through this, you actually have to invest in the qualification and that’s the phase that’s currently going on.
+
+But the interesting thing on both sides, I mean the fundamentals of the businesses are very strong. At the aerospace market, the number that I find most convincing as always to look at, because it’s all driven by the macro growth of middle class and urbanization. The number that I find most interesting is every year the aerospace industry adds about a 100 million more passengers from Asia alone. So that gives you an idea of a strong market that’s out there.
+
+At the same time, when you look at the margin level here, we are performing at a margin level of about 21%. When you look at Jorge and you have been one who has been following us for a long time, so when you look at where we were in 2008 with all of these businesses and with the organic businesses as well as what we’ve added organically and inorganically, this was an 8% business and we’ve brought it to this level.
+
+We will continue to work on that and continue to improve and continue to grow. A right way of focusing on those things that we can influence and there are certain things that we can’t influence. But as I said, the fundamentals are very strong, we have to get through these launch issues that exists. \
+
+Jorge Beristain
+
+But just to recap in on the launch issues, is it that there is the qualification kind of growing pains that are happening right now with the new engine launches and you would expect margin to improve say in ’17 once you are kind of flowing the product better? I’m just trying to understand what the driver could be next year?
+
+Klaus Kleinfeld
+
+Yes, you’re absolutely right, because what is happening in the qualification period, you have a low or first class yield, you have additional qualification cost, you have a lower utilization of your equipment. This is changing dramatically once you are going in to steady state and dramatically once you go in to steady stage, because the other thing keep in mind, this is the crazy thing here, demand is massive and everybody is working tirelessly on getting this done.
+
+Operator
+
+Your next question comes from the line of Justin Bergner from Gabelli & Company. Your line is open. Please go ahead.
+
+Justin Bergner
+
+Couple of quick questions, in regards to the EPS segment, could you help us understand the breakout between engines and air frame and if air frame is what’s driving the weakness, how is it that RTI’s guidance on the sales basis is unchanged within this segment?
+
+Klaus Kleinfeld
+
+Let me start with the last one, the RTI is really a big complement to what the RTI folks have been achieving there. This is spectacular that they have been able to get to this level, and largely its two factors or three factors I would say. One is the synergies that we had planned for all the time. We get them implemented very fast, secondly its productivity that we have been getting out partially also by doing some things there, taking best practices that we are moving over from other businesses over to RTI. And thirdly through a very, very good positioning in the market, and a huge proximity to the customers, a great job by the team.
+
+So on to your second point is, when you look at EPS, I mean out of EPS about 76% of the EPS revenues are in - and this 2015 number in approximation. So 76% is the aero market and then if you break that out in to engine and structure, I would say its roughly 50-50 between engine and structure.
+
+Justin Bergner
+
+One other question if I may, have you clarified what the costs are to undergo the separation in total and what the extra cost will be to have two standalone businesses versus one? And if not, when do you expect to provide those numbers?
+
+William Oplinger
+
+I’ll answer the second one first, on a dis-synergies basis we have identified fairly small levels of dis-synergies that we think we can largely overcome with efficiencies. So the dis-synergies that we’d be looking at of course you’ve got two CFOs for example, but we are looking at ways that we can - but not a great example. But it is dis-synergy right. So you’ve got two different companies and we’re looking for ways to stream one.
+
+Klaus Kleinfeld
+
+I would not recommend a company without a CFO.
+
+William Oplinger
+
+You get the point. But as far as the overall separation cost, at this point we haven’t given much in the way of guidance, but I can tell you we have spent around $200 million in cash year-to-date on separation. But we still have some spend left to do in this last month.
+
+Klaus Kleinfeld
+
+And also just as a little fun fact on the side, we have been very substantially benchmarking as we always do how the cost of separation typically are for others and we are very proud of how efficient we have been in this separation and how low our separation cost has been relatively to what we’ve seen at other places.
+
+Justin Bergner
+
+Great. No, it does seem like the cost have come in lower but we’ll await final detail.
+
+Klaus Kleinfeld
+
+And you will really get this when both teams go on to the road shows. And as I said, both are planning to start this in two weeks from now. So you also get a glimpse on to 2017. Okay, I guess we probably have time for one more question. So one is that possible? Operator.
+
+Operator
+
+Your final question comes from the line of Tony Rizzuto from Cowen and Company. Your line is open. Please go ahead.
+
+Tony Rizzuto
+
+My question is on the jet engine side and Klaus you mentioned some of the supply chain challenges. And I was wondering how were those jet engine deliveries facing in the fourth quarter? Earlier you were expecting a fairly good ramp in 4-Q and then also possibly associated with that, when you talk about teasing pains I notice that one of the Japanese airline ANA has been talking about issues revolving around the turbine blade material at least on the Rolls Royce engine for the 787. I don’t know if GE is experiencing similar issues.
+
+But I guess about the engine deliveries that you are seeing in 4-Q is [Arcana] currently sourcing any of the materials that go in go that blade material? And whatever you could tell us on that would be great.
+
+Klaus Kleinfeld
+
+I cannot speak for our customers, but one thing I can tell you, we are supplying and you know this, we’ve gotten the charts up there where you see we are literally supplying every commercial jet engine that exists on this planet and have on many of those we have lot of material on there. So we are basically supporting all of them to manage this what I would call an unprecedented ramp up with really multiple, very challenging new technologies.
+
+And what we typically have is, because in this phase the supply chain as I described is relatively long. So we are supplying aluminum lithium for instance for fan blades and then it goes to a machine shop and then it goes to some coating and then it goes to somebody who basically puts all these pieces together. So the chain is long and then its tested, final tested and build in.
+
+So the only way how you can get hold of these issues is to get your arms around the whole supply chain under the guidance of the OEM, and that’s how this industry is working this out. So with pretty much everybody we have jointly committed action plans and we are fulfilling those.
+
+Tony Rizzuto
+
+That’s very helpful and I appreciate that. I was going to ask another, but I’ll get that offline. Thank you
+
+Klaus Kleinfeld
+
+Okay, so we got to move on. So let me conclude. I think you saw that with all that’s going on we steered steady through this quarter, deliver our profits growth at Arconic and Alcoa Corporation performed well in a low pricing environment. Productivity was exceptional.
+
+Alcoa Corporation has delivered on its 26 cost curve goals that we over achieved them. The three year target adjustment at Arconic reflect basically the near term industry realities. The fundamentals let’s not forget that, and the questions. Thank you very much for the questions. \
+
+The fundamental in the key markets remain solid, separation is on track, and we are looking forward very much to launching two new companies on November 1. So this will be the last time we will get together on this constellation after 128 years and not with everybody in the room.
+
+So thank you very much for listening to us and paying attention. I’m very much looking forward to also see you as investors and its interested parties going forward for Alcoa Corporation as well Arconic. Thank you very much.
+
+Operator
+
+This concludes today’s conference call. You may now disconnect.

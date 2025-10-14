@@ -1,0 +1,718 @@
+Agilent Technologies, Inc (NYSE:A)
+F4Q07 Earnings Call
+November 15, 2007 4:30 pm ET
+
+
+Executives
+
+Rodney Gonsalves - Director of Investor Relations
+Bill Sullivan - President and Chief Executive Officer
+Adrian Dillon - Chief Financial Officer
+
+
+Analysts
+
+John Harmon - Needham & Company
+John Wood - Banc of America
+Terrance Whalen - Citi Investments Research
+Mark Moskowitz - JPMorgan
+Rob Mason - R.W. Baird
+Deane Dray - Goldman Sachs
+Ajit Pai - Thomas Weisel
+Will Stein - Credit Suisse
+David Chung - Lehman Brothers
+
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Fourth Quarter 2007 Agilent Incorporated Conference Call. My name is Akiya (ph) and I'll be your operator for today. At this time, all participants are in a listen-only mode.
+
+We will be conducting a question-and-answer session towards the end of this conference (Operator Instructions). As a reminder this call is being recorded.
+
+I would now like to turn the presentation over to your host for today's call, Mr. Rodney Gonsalves. Please proceed.
+
+Rodney Gonsalves
+
+Thank you and welcome to Agilent's fourth quarter conference call for FY2007. With me are Agilent's President and CEO, Bill Sullivan and Executive Vice President of Finance Administration and CFO, Adrian Dillon.
+
+After my introductory comment, Bill will give his perspective on the quarter and the business environment. Adrian will follow with his review of the financials and the performance of each of the businesses.
+
+After Adrian's comments, we will open the lines and take your questions. In case you haven't had a chance to review our press release you can find it on our website at www.investor.agilent.com. We are also providing further information to supplement today's discussion.
+
+After you log into our webcast module from our website you can click on the link for supplemental information. You will find additional information such as our end market revenue breakouts and historical financial information for Agilent's continuing operations.
+
+In accordance with SEC Regulation G if during this conference call we use any non-GAAP financial measure, you will find on our website the required reconciliation to the most directly comparable GAAP financial measures.
+
+In addition, I'd like to remind you that we will make forward-looking statements about our future financial performance of the company that involves risks and uncertainties. These risks and uncertainties could cause Agilent's results to differ materially from management's current expectations.
+
+We encourage you to look at Agilent's most recent filings with the SEC to get a more complete picture of all the factors at work. The forward-looking statements including guidance provided during today's call are only valid as of this date and the company assumes no obligation to update such statements as we move through the current quarter.
+
+Before I turn the call over to Bill, I'd like to remind you that we will host our Analysts Day on Tuesday, December 11th, here in Santa Clara, California. The meeting will focus on our forward view of Agilent overall. In addition we will provide a deeper dive into our electronic measurement businesses and our major growth initiatives. Most of our executive management team will be available as well as our leaders from each of our electronic measurement businesses.
+
+Lastly I'd like to note that Adrian will be presenting at our upcoming Credit Suisse technology conference on November 28th.
+
+Now I'll turn the call over to Bill for his comments.
+
+Bill Sullivan
+
+Thanks Rodney, and hello, everyone. Our fourth quarter results repeated many of the trends and strengths that we have seen in recent quarters as we continue to leverage the strength of our operating model through higher sustainable profitable growth.
+
+Q4 orders were up 6% over last year, while revenue increased by 9%. Operating margins reached 18% and ROIC was 30%. We generated $398 million in cash flow from operations for the quarter and had adjusted earnings per share of $0.53.
+
+Bio-analytical markets were strong across the board and across all geographies. Electronic measurement markets were essentially flat with growth largely in areas we're investing with specific growth initiatives.
+
+Let me now turn to Q4 and provide some detail by business. Our Bio-analytical Measurement business delivered excellent quarterly results with strength in both chemical analysis and life science. Revenue growth was 24% year-over-year including acquisitions.
+
+This topped all major competitors and represents a new high for Agilent. We also had solid performance across all geographies, particularly China, India and Europe. Life science revenues were up 30% including acquisitions.
+
+Pharmaceutical, academics and government markets all showed strong demand this quarter. We're seeing sustained momentum in our LC and LCMS systems, columns, microarrays and related services.
+
+Chemical analysis also had a strong quarter. Revenues were up 20% over last year as we saw sustained strength in the petrochemical, environmental and food safety markets. Results were driven by strong market acceptance of our new GC and GCMS products.
+
+Strong demands in petro and chemical segments are driving plant expansion in Asia and replacement business in the U.S. and Europe. The environmental segment is strong around the world and Agilent is well positioned to capture both new and replacement business with our new GC, MS and LCMS technologies. Going forward our strategic intent remains the same, to leverage current technologies in existing platforms, to create customer oriented workflow solutions.
+
+We will continue to focus our R&D, customer collaboration and M&A efforts in refreshing and expanding our portfolio, addressing customer work flow requirements and providing full application solutions to our customer needs.
+
+Turning to the other side of the house, our electronic measurement business was essentially flat with 1% revenue growth over last year. Solid growth in the aerospace and defense and wireless R&D segments was offset by declines in computer and semiconductor.
+
+Geographically Americas and Europes grew respectively. Asia and Japan declined year-over-year although less than in previous quarters. General-purpose test revenue is flat year-over-year.
+
+Demand from computers and semiconductors were weak, but end marks appear to be bottoming out in position for recovery. Electronic manufacturing customers continue to focus in reducing their overall costs of tests, which puts downward pressure on spending.
+
+On the positive side, aerospace and defense saw double-digit growth in all regions with the exception of China where investment remains constrained. Going forward we continue to remain cautious in the aerospace and defense market outlook in line with the cautious outlook for the U.S. Government and primes capital spending.
+
+The communications test business was up 1% from a year ago. Although handset manufacturing was down slightly year-over-year, it seems that we are making our way through the trough.
+
+This quarter's modest year over year decline marks an improvement of over 7% year-over-year decline we noted last quarter and a significant improvement over Q2 where we were down 25% from the previous year.
+
+Wireless monitoring continues to experience capital and operating investment pressure. Wireless R&D market, demand remains steady for base station and non-cellular market segments.
+
+We are seeing continued strong acceptance of our WiMAX solution. In addition we continue to announce strategic partnerships that enhance our solutions in next generation mobile communications.
+
+Overall electronic measurement growth came largely in area where's we have invested in specific growth initiative such as aerospace and defense and wireless R&D. Our strategy going forward will continue to focus on offering complete test application solutions for rapidly growing segments, close customer collaboration and technical innovation.
+
+Overall our 2007 fiscal year achieved several milestones for Agilent. We completed a $2 billion stock repurchase and we are authorizing a second $2 billion buyback as we enter into fiscal year '08.
+
+We made a number of key acquisitions including Stratagene, Acqiris and NetworkFab and we also recently announced our acquisition of velocity 11. These acquisitions complement our portfolios and strengthen our position in key growth markets including life science and aerospace and defense.
+
+We have just introduced the new LCMS platform that demonstrates the synergies of our measurement leadership. This new product incorporates our high performance analog digital converters originally developed for electronic measurement and now used in life science.
+
+The new platform has been very positively received by our customers and will drive continued revenue growth in our Bio-analytical Measurement market. With the full year FY '07 orders were $5.4 billion, up 7% from the previous year.
+
+Revenue was also $5.4 billion, up 9% over the previous year. Adjusted income from continuing operations was $738 million, an increase of 13% over the previous year. We generated $969 million in cash flow from operations for the year and adjusted earnings per share of $1.82.
+
+As we enter fiscal 2008, we remain cautious about the overall economic conditions, particularly in electronic measurement markets. Regardless we are well positioned to take advantage of continued demand in high growth areas including wireless R&D, aerospace and defense, petrochemical, food, environmental and life science.
+
+We continue to shift resources to the best opportunities and continue to make targeted acquisitions while maintaining our operating model. In addition, during the 1st quarter of FY '08, we will complete a restructuring program that will provide ongoing savings of $30 million in expenses per year. Going forward, we should not see any further pro forma restructuring charges. We have also substantially reduced our non-cash share based compensation for FY '08.
+
+Adrian will provide more details during his portion of the call. For the 1st quarter of FY '08 we expect to see continued ongoing trends and strengths. Revenues are expected to be in the range of $1.35 to $1.4 billion, a 5% to 9% from last year. We anticipate adjusted net income to be in the range of $0.38 to $0.43 cents per share, 15% to 30% above last year's comparable earnings.
+
+Thanks for being on call. Now I will turn it over to Adrian.
+
+Adrian Dillon
+
+Thank you, Bill. Good afternoon, everyone. As usual I'm going to offer a few overall perspectives on the quarter for Agilent, review the performance of our two business segments and conclude with some thoughts about first quarter and full year 2008 guidance.
+
+Starting at the Agilent enterprise level, overall we believe Agilent had a good fourth quarter performance especially considering the continued divergent trends in our markets. Bio analytical markets continued to show solid momentum across the Board and we took good advantage of it with orders up 16% and revenues up 24% from last year.
+
+Stratagene was responsible for about five points of that orders and revenue growth and Stratagene integration activities are also going well. In addition, we just announced the acquisition of velocity 11 adding lab automation to our expanding workflow solutions. Electronic measurements on the other hand were virtually flat overall.
+
+The good news is that the growth we did was see was concentrated in those areas where we have invested in specific growth initiatives like aerospace defense and wireless R&D. Our overall performance in electronic measurement while solid suffered from the acquisitions and head count that we added earlier in the year and by currency movements that hit operating margins by about $12 million in the quarter compared to last year.
+
+Overall fourth quarter revenues of $1.45 billion were up 9% from one year ago, were up about 7% in local currency terms. Operating earnings of $0.53 cents per share were near the top of our $0.50 to $0.54 cent guidance range. Cash generation was once again a highlight for the quarter.
+
+Both receivables and inventory set historic new lows and return on invested capital hit a new high of 30%. Cash generated from operating activities during the quarter was $398 million. During the period we repurchased $631 million of stock completing our prior $2 billion program and as Bill mentioned today our board authorized a new $2 billion program.
+
+In short despite of mixed quarter from a market perspective, we met our performance commitments and demonstrated again the excellent cash generating capabilities of this company. That performance is also reflected in our full year results. Full year fiscal 2007 revenues grew 9% to $5.4 billion, adjusted net income rose 22% to $1.82 per share and ROIC reached a new high of 27%.
+
+Cash generated from operations during the year reached $969 million and free cash flow after subtracting capital spending of $154 million reached $815 million. Okay. Turning to the overall numbers, orders of $1.48 billion, up 6% or 4% excluding Stratagene. Geographically the Americas were up about 7%, Europe was up 13% and Asia was up 1%.
+
+Fourth quarter revenues of $1.45 billion were 9% of above last year or up 7% excluding Stratagene. Geographically, the Americas were up 9%, Europe was up 18% and Asia-Pacific was up 3%. As I mentioned, the weakening dollar boosted revenue growth by about two points. As occurred in the third quarter, however, currency also hurt our operating profits by the equivalent of about $0.02 per share.
+
+This is caused by a mismatch of yen and dollar denominated revenues versus Euro and Malaysian based costs that are only partially offset by hedging gains. Gross margins at 56.1% were about at last year's levels with little change in either electronic measurement or bio analytical.
+
+Operating expenses during the quarter were up about 8% as reported with currency responsible for about three points of that growth and the addition of Stratagene worth another two points of that growth.
+
+Actual discretionary operating expenses were very tightly controlled up only $12 million from last year or 2%. As reported, R&D spending was $168 million in the quarter or 11.6% of revenues up 3/10s of a point from last year. SG&A at $389 million was 26.9% of revenues, down .6/10s from last year. The company's operating margin at 17.5% was up 1/10th of a point from last year and the best in the company's history.
+
+Other expense in the quarter was soft at $11 million down from $20 million last year. That was due to both lower interest income and a balance sheet hedging loss that lowered our net income. Pre-tax income was $264 million. We had a 22% tax rate during the quarter. Coming up to next income of $206 million or $0.53 per share at 17% above last year's $0.45 per share on the same basis.
+
+Okay. Going from operating earnings to cash, table five of our press release financial tables provides a detailed reconciliation from non-GAAP to GAAP income, which summarizing we had pro forma net income of $206 million, we had restructuring of about $12 million, share-based compensation of $36 million, non-cash amortization of intangibles of $15 million and a tax benefit of $37 million adding up to GAAP income of $180 million in the quarter or $0.46 per share. That's 48% above last year's $0.31 per share.
+
+A few comments on GAAP-related issues. First share-based compensation at $36 million was higher than expected and resulted from a year-end true up of our 2005 to 2007 long-term performance plan. For the last time we had to do a true up to mark this plan to market. We achieved a 200% payout rather than the 100% we had been accruing resulting in a $15 million true up this quarter.
+
+In future this won't happen again because we changed the plan so that our payout depend exclusively on the relative performance of Agilent stock, and so it will be treated and valued like the rest of stock-based compensation. That is, establishing a valuation at the time of award and then amortizing it over the plan life. For fiscal 2008, we expect total share-based compensation to be about $85 million compared to 2007's $139 million.
+
+Second, by year-end, we have successfully utilized all of our U.S. federal deferred tax assets that we were forced to write off in 2003. As such our 2008 GAAP tax rate should be very close to our pro forma rate, which we expect to be about 22%.
+
+Third, as Bill mentioned, Agilent has about completed its multiyear restructuring activities. There will be about $20 million of recognized expense in 2008 based on actions taken in 2007, but other than that the only difference between GAAP and pro forma going forward will be share-based compensation expense and intangibles amortization.
+
+In other words, non-cash charges, we think this is a big deal for Agilent, another sign of the seasoning and the strength of this operating company.
+
+Turning to cash, I've already mentioned the good working capital performance with inventory days on hand at 92, six days better than last year, and receivables day sales outstanding at 46, one day better than last year. So total cash from operations $398 million in the quarter. CapEx was $39 million giving you free cash flow of $359 million in the quarter.
+
+Depreciation and amortization was about $48 million and during the quarter we made about $33 million of acquisitions. We also repurchased $631 million of stock during the quarter and had $31 million of proceeds from share issuances. Most of you’ve certainly known we also issued a 10-year note during the quarter realizing proceeds of $598 million. So, we closed the quarter and the year with $1.826 billion in cash and short-term investments.
+
+Finally as far as the new $2 billion repurchase program, you should assume for modeling purposes that we will buyback the shares ratably over the next eight quarters.
+
+Turning now to segment information, Bio-analytical measurement had another great performance with fourth quarter orders up 16% from one year ago and up 11% excluding the impact of the acquisition of Stratagene.
+
+This marks the sixth consecutive quarter of double-digit orders growth for Bio-analytical. Revenues of $558 million were up 24% from last year and up 19% excluding Stratagene. Growth was robust across both life sciences and chemical analysis and in all geographies with Americas up 23%, Europe also up 23% and Asia up 27% from last year.
+
+Life sciences revenues of $236 million were up 30% from last year and 17% higher excluding Stratagene. We saw sustained momentum in our LC and LCMS product platforms and in our Microarray applications.
+
+Revenue in the pharma and biotech market was up 16% year over year with sustained strength in our 1200 series LCs and LCMS. Mass spec demand including the triple quad and QTOF is particularly strong in pharma R&D.
+
+Fourth quarter introduction of our new 6220 TOF and 6520 Q-TOF brings industry leading mass accuracy and dynamic range to our mass spec platform and sales have ramped very well, since these products remember introduced at ASMS.
+
+Despite markets that are growing more modestly, our revenues from the academic and government market grew by 25% organically and more than doubled including the impact of the Stratagene acquisition.
+
+In the U.S., NIH grants remain flat while CytoGenix the market is strong. Europe is focusing on enabling new technologies, for example, high end mass spec and with the renewed interest in genetic sequencing.
+
+In Asia, we see Japan investing in genomics, China in drug and food testing and India in generic drug and biopharma research. In Microarrays, we're seeing strong demand for array based comparative genomic hybridization, array-CGH, high-density arrays, multi format arrays and for miRNA.
+
+As in Q3 chemical analysis is even stronger than life sciences. Fourth quarter revenues of $322 million were up 20% organically from last year driven by continued strength in the petro chemical, food safety, environmental and markets.
+
+Strong market acceptance of our new 7890 gas chromatograph and continued strength in our LCMS portfolio helped drive growth in the chemical analysis markets. Revenue in petrochemical, for example, was up over 25% driven by continued plant expansion in China, India and the Middle East.
+
+Sales of our new GC and GCMS products again helped drive growth in this market. Revenue into the environmental end market was up more than 30% from last year. Strength here is driven by lab expansion in Asia, where stricter regulations are fueling growth in drinking water and solid waste testing as well as air monitoring.
+
+In food safety, which grew 18%, we saw governments in China, Malaysia and India continue to invest in testing capacity for pesticides, veterinary drugs, product adulteration, as well as microtoxin testing.
+
+Segment operating profit of $120 million in the quarter was $29 million above last year on a $108 million increase in revenues. Excluding Stratagene, we dropped $0.34 of every incremental revenue dollar to the bottom line.
+
+The overall operating margin improved 1.0 to 21%, a record high, while segment return on invested capital fell 3.0 to 33% because of the addition of Stratagene's $1.25 billion of invested capital.
+
+Okay. Turning now to electronic measurement, we continue to deal here with very mixed markets, during the 4th quarter. Strength in aerospace defense and wireless R&D, a decline in computers and semiconductor and a bottoming in both the electronics and handset manufacturing end markets.
+
+The net result was a very flat profile with orders and revenues both up 1% from last year. Geographically, the Americas were up 2%, Europe was up 12%, while Asia was down about 4% from last year.
+
+General purpose revenue was essentially flat year-over-year at $518 million. Fourth quarter aerospace defense revenue was up 15% year-over-year and what is typically our strongest quarter for this business.
+
+Homeland Security continues to invest in signal analysis equipment with wider spectrums and faster sweeping. ISR or intelligence, surveillance, and reconnaissance also continues to grow reflecting an ongoing investments in military satellites and aircraft.
+
+Demand in the computing and semiconductor segment has been weak, although there is some evidence the end markets may be bottoming. For Agilent the year-to-year compares are distorted by the very strong demand one year ago that resulted from our fourth quarter '06 release of the refreshed to fill the scope line. From the regional perspective we did see strength in Europe especially for high-end scopes.
+
+However, we also saw slowing demand in the Americas and Asia-Pacific. Communications test was also essentially flat in the fourth quarter at $370 million. In wireless handset manufacturing we're seeing increased signs of stability. As Bill mentioned in the fourth quarter, we had revenues down 2% year-over-year compared to declines of 26% in the first half and a 7% year-to-year drop in Q3.
+
+And while conventional business remains tough we are also seeing a shift in sales of solutions to the manufacturing sector. Demand is up for our WiMAX test application on MXA for manufacturing and we recently introduced the N8300A Wireless Networking Test Set. Wireless R&D was up 7% year-over-year. Demand for HSDPA, Wide band-CDMA and UMTS applications led all other technologies while YMX R&D test demand remains strong especially in Asia.
+
+Wire line was also up 7% year to year and continues to be driven by the convergence of all IP based networks for voice, video, data and mobile services. Photonic Test and Measurement was also strong across the board. Fourth quarter operating profits in electronic measurement of a $133 million were down $4 million from last year on a $10 million increase in revenues.
+
+Gross margins were flat and operating margins fell by less than a point. Margins were hurt by a $12 million increase in currency related costs as well as by acquisition related spending. However, aggressive asset management enabled segment ROIC to remain stable at 27% despite lower segment income.
+
+Finally discussing fiscal year '08 guidance, as Bill mentioned earlier we are comfortable with the current range of analyst estimates for fiscal year 2008 revenues and adjusted net income per share. We'll provide more color on 2008 prospects at our analysts meeting on December 11th.
+
+For the first quarter we're also comfortable with analyst estimates with one important nuance. As many of you know, Agilent has been moving compensation towards a greater focus on variable compensation tied to performance. This year we are moving the annual compensation award cycle to the first quarter from the second quarter last year in order to more quickly reward performance in 2007.
+
+We are also shifting pay from fixed merit increases to individual performance bonuses paid annually in the first quarter. The net result is that compared to our normal seasonality we will shift about $32 million of compensation expense into the first quarter and out of the rest of the year. For modeling purposes you should assume about $0.06 of additional costs recognized in Q1 offset by $0.04 reduction in Q2 expense and by $0.01 cent reductions in both the third and the fourth and.
+
+Reflecting this changed pattern of compensation expense we expect first quarter adjusted net income in the range of $0.38 to $0.43 cents per share, 15% to 30% above last year's comparable earnings. This quarter revenues are expected to be in the range of $1.35 to $1.4 billion, up 5 to 9% from last year. With that let me turn it back to Rodney.
+
+Rodney Gonsalves
+
+Thanks, Adrian. The key I'd like you to go ahead and give instruction for the Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) Your first question comes from the line of John Harmon of Needham & Company. Please proceed.
+
+John Harmon - Needham & Company
+
+Hi. Good afternoon. I was wondering if you had talked about in electronic measurement how fast you think your markets grew in your fiscal year, the flip side of that would be whether you had gained the two points of share you had targeted.
+
+Bill Sullivan
+
+The overall market we believe grew in the 5% to 6% and we did not outpace the market due to our huge footprint in manufacturing, which has clearly slowed down in Asia.
+
+John Harmon - Needham & Company
+
+Great. Thank you and just a second question, you talked about the slowness in Asia, is that still primarily deriving from Japan or was there additional slowness in other countries?
+
+Bill Sullivan
+
+Very similar to last year and again, the decrease at least is moderating, but with the merging together of contract manufacturing, the overall slowness that we had mentioned in Japan and Asia, the manufacturing sector is clearly flat and again because we have such a huge footprint in electronic manufacturing, it impacts us disproportionately than many of our competitors.
+
+John Harmon - Needham & Company
+
+Thank you.
+
+Adrian Dillon
+
+And just to be clear on Japan, it was down 4% year to year, but obviously was up substantially from Q3 to Q4, so but when in Q3 it dropped to 25%, so clearly we are seeing a return to more normal conditions.
+
+John Harmon - Needham & Company
+
+Great. Thank you.
+
+Operator
+
+Your next question comes from the line of John Wood of Banc of America. Please proceed.
+
+John Wood - Banc of America
+
+Okay. Thanks a lot. Any view on pharma and biotech budgets for calendar 2008 yet? If so, what extent, if any, or recent restructuring announcements in that market having on the discovery QA/QC budgets?
+
+Bill Sullivan
+
+I'm not sure that we have a particularly definitive view on what the overall outlook is specifically particularly to U.S. pharma. It is our expectation, though, that the investment around the world in pharma, biologics will continue and as we noted in the last session, we had in our bio-analytical group, the investment and academy and the universities around the world is huge and we believe the investment from a capital standpoint of instrumentation, tools in universities and central research facilities is equal to the pharmaceutical biotech market
+
+John Wood - Banc of America
+
+Okay. Great. And then, to what extent would you view the bio-analytical growth as indicative of market share gains versus just strength in the end markets? I mean do you have a view on what the bio-analytical side grew in your fiscal '07 from a market perspective? Bill Sullivan
+
+Well, I will have Adrian give you the exact details, but I will give you probably what's a very highly biased viewpoint that I think the data is very clear that the introduction of our mass spec, our introduction of our new LCs, our new GCs has been very favorably received by our customers in the marketplace.
+
+Adrian Dillon
+
+We believe that the overall markets on both sides is up about 10% and we believe that we gained very substantial share over the course of the year because of the acceptance and success of our new LC, our new LCMS and now GC platforms as well. We gained share across the Board.
+
+John Wood - Banc of America
+
+Okay. Great. One more, if I could. The working capital improvements have been staggering this year. Adrian, can we expect the free cash flow to continue to remain at a premium to net income in fiscal '08?
+
+Adrian Dillon
+
+I think a modest premium, yes.
+
+John Wood - Banc of America
+
+Thank you.
+
+Operator
+
+And your next question comes from the line of Terrance Whalen of Citi investments research. Please proceed.
+
+Terrance Whalen - Citi Investments Research
+
+Hi, guys, thanks and nice job in a tough environment.
+
+Bill Sullivan
+
+Thank you.
+
+Terrance Whalen - Citi Investments Research
+
+My first question's related to follow up on working capital. It looks like actually in the retirement liability line there is a decline there. Really quick one, wanted to know what that was?
+
+Adrian Dillon
+
+I'm sorry, in what line?
+
+Terrance Whalen - Citi Investments Research
+
+Retirement and post retirement benefits I think declined by about $50 million.
+
+Adrian Dillon
+
+That was an adjustment. We're not going to get into pension accounting, but I would tell you that there was an adjustment in our other comprehensive income related to a flop from being slightly under-funded where we had to write off a bunch of this to now being more than fully funded because of the great asset returns we actually achieved and so it came back on the balance sheet and was reflected as a reduction in liability that you mentioned
+
+Terrance Whalen - Citi Investments Research
+
+Okay, great and then I think more broadly speaking on the top line on the revenue line for the businesses, looking forward to the 1st quarter, what regions could you expect to see improvement? Could we expect to see Japan grow year-on-year there and alternatively, Europe and U.S. have been running very strong, yet October PMI for those countries decelerated pretty meaningfully, wanted to get your perspective on business levels both in Europe, Americas and also Japan.
+
+Bill Sullivan
+
+On the analytical side, we believe that you're going to continue to see continued market growth and above the historical cyclical average being driven by the demands of Petro chemical, food, environment as well as the huge investment that we had mentioned in the pharmaceutical and life science area.
+
+In terms of electronic measurement, I believe until something changes, that the basic investment in manufacturing will continue to be relatively flat and that is why we are shifting our resources into the wireless R&D, aerospace and defense. We have a whole new team focusing on electronic surveillance and we're quite happy in a flat quarter that we actually are starting to see some traction in the space.
+
+So the story is we're going to hold our then to manufacturing and wait for the return in business driven by the overall global economy and continue to make investments in the research, development and aerospace defense industry.
+
+Terrance Whalen - Citi Investments Research
+
+Okay. Then, one last one, if I could. On the cash of about $1.8 billion after the debt rate, what amount of that cash is actually patriarated in the U.S. and what are your thoughts on how to use cash outside of U.S., whether to take a tax hit and reiterate that to use another financing vehicle or to look offshore for acquisition I guess alternatively that does it for me thanks.
+
+Adrian Dillon
+
+Okay. Well obviously, we have $600 million onshore and we have incredibly more than that as well, although to the spirit of your question, we’d like several other hi-tech companies, have a continuing challenge that we produce the majority of our profits offshore and so funding repurchase programs or other activities that are U.S. based tends to be a challenge. We've been able to beat that challenge and we expect to continue to be able to do that.
+
+Terrance Whalen - Citi Investments Research
+
+Great. Thank you very much.
+
+Operator
+
+And your next question comes from the line of Mark Moskowitz of JPMorgan. Please proceed.
+
+Mark Moskowitz - JPMorgan
+
+Yes. Thank you. Good afternoon. A few questions, if I could. Could we get back to the chemical analysis in life sciences as far as the outlook in terms of how much of your optimism is based on just continued strength in the markets versus more Agilent specific share opportunities and then also should we anticipate any seasonality in the most immediate quarter?
+
+Bill Sullivan
+
+Well, I think clearly see some seasonality as we move into Q1, particularly inside of Q2, but overall what's driving our business has been in the market, not only in the U.S. and Europe but emerging countries such as China and India.
+
+Coupled with that is our belief that lot of offerings that we have, the leverage that we're going to get with the strategy and acquisition, the velocity 11 acquisition that we believe we are going to be able to provide very competitive work flow solutions to our customer that will allow us to continue to gain market share.
+
+Mark Moskowitz - JPMorgan
+
+And then, as far as electronic tests, obviously it's a mixed environment out there. I want to get a sense on terms of some of the growth opportunities. You mentioned wireless R&D; the WiMAX area is clearly helping you out.
+
+But can you talk about the low end in terms of the $1,000 handheld testing solutions, how your momentum is there versus some of the peers?
+
+Bill Sullivan
+
+Well, we have now signed up almost 100 electronic distributors around the world and we completed stocking that environment.
+
+We're in the process of launching another round of products into this channel and so we can continue to be very optimistic that we can become a significant player in what we call the basic instrument for much broader academic manufacturing handheld market. We're very pleased with the progress that we have made to date.
+
+Mark Moskowitz - JPMorgan
+
+And then, as far as the outlook for the next 12 months, could that be a faster growing part of the business, A, and B. How, Adrian, should we anticipate the margin impact from that growing part of the segment?
+
+Adrian Dillon
+
+I think, from a mixed perspective you just have to be a little bit careful that the low cost instruments tend to have a bit lower gross margin, but associated lower SG&A and R&D expense and so from an operating margin perspective there's really no difference from the blend of our electronic measurement instruments.
+
+Mark Moskowitz - JPMorgan
+
+Okay. Appreciate that. And then, Adrian, can you talk more about the currency impact in terms of the bottom line. How should we think about that doctoring going forward? Is it going to be mitigated somewhat through hedging?
+
+Adrian Dillon
+
+We have a hedging policy, which basically says we fully hedge the next quarter, but then we step it down by 25% per quarter. So looking ahead a year, we're only 25% hedged and beyond that we're naked on the theory that over time we need to adjust either our sourcing or our prices if there are large permanent changes.
+
+What's happened in the 4th quarter, as happened in the 3rd, is that we got whacked by, you know, profound changes in the value of the dollar that are very difficult to offset in a short period of time. Over time, if the dollar stabilizes from here, then a year from now we won't be talking about this and it will be ratably less impactful as the year goes on and along with that over time we will have to adjust our pricing and our sourcing to also mitigate those pressures.
+
+So yeah, you should expect order magnitude that continued pressure if the dollar falls. If it stablizes or reverses, that will begin to reverse as well.
+
+Mark Moskowitz - JPMorgan
+
+Okay. Just lastly, echoing the comments from my counterparts earlier regarding working capital and just the strength in the balance sheet and the overall financial position, as you look out to 2008 and beyond, clearly folks are appreciative of the additional share buyback, but you also even affirm your model more so with a dividend potentially?
+
+Adrian Dillon
+
+That is up to our board and we are in regular conversations with them about how we get excess cash back to the owners.
+
+Mark Moskowitz - JPMorgan
+
+Okay. Thank you.
+
+Bill Sullivan
+
+Clearly given where our valuations today, we believe it's in the best interest of the shareholders to continue to repurchase stock.
+
+Mark Moskowitz - JPMorgan
+
+Thank you.
+
+Operator
+
+And your next question comes from the line of Rob Mason of R.W. Baird. Please proceed.
+
+Rob Mason - R.W. Baird
+
+Yes. Wanted to know, if we could step back on the EM business. If you could break that business down between products that go into R&D applications and products that go into a manufacturing environment, just kind of walk through how those applications, separate applications, trended through the quarter, which is on those two respective end markets applications.
+
+Bill Sullivan
+
+If you look at it, the 50,000-foot level and you look at the $18 billion electronic measurement exclusive of installation and maintenance of which we have a small participation, the market is roughly split 50% manufacturing, 50% in research and development.
+
+If you look at our overall market share, our market share on the manufacturing side is substantially higher than it is on the R&D side. So that is the crux of the problem that Agilent has faced now for quite a few years.
+
+Again, the reason we have such a large market share in the manufacturing which obviously is dominated by cell phone manufacturing, computers and the associated, there is still a lot of semiconductor components that go into that end manufacturing is because of the breadth of our product line, our worldwide reach to be able to do business in 110 countries, we have historically had more exposure to that side of the market. So that's where we are.
+
+We clearly have a large market share in the wireless R&D, but it is substantially less than the manufacturing footprint around the world and so if you look at it from an overall industry, the wireless environment is still one of the largest segments followed by the semiconductor computer industry and our job is to realign our resources, our solutions into the R&D while maintaining our position in the manufacturing sector, but I believe the manufacturing sector recovery will be driven by global economic consumer-based driven activity. I think we've done a good job maintaining our margin in a tough environment.
+
+We will continue to have solutions for our customers in this phase as they evolve into both low end cell phones and high end cell phones as they continue to try to get capital costs out of computer and consumer products, but the big growth opportunity, which we are getting traction is providing integrated solutions from the core design, conformance test, radio test and then, of course, ultimately support manufacturing as these new products go into production, but the big emphasis is in this R&D and conformance testing.
+
+Conversely, aerospace and defense will where we do over $600 million a year, there's just a continued opportunity in these surveillance, support of electronic warfare and we have refocused and specialized our teams to be able to capture more of that market.
+
+Rob Mason - R.W. Baird
+
+Bill, would you say that as you went through the quarter that you sense really no change in demand from the R&D markets from a market standpoint, share gains excluded?
+
+Adrian Dillon
+
+Yeah. This is Adrian and we, you know, generally speaking the R&D market had steady 7% year to year growth throughout the quarter, no gain or loss of momentum. Manufacturing market that Bill was talking about was on average down about 2% and as we described, it's been coming up from or maybe as methodically bottoming is perhaps the best way to put it after the rapid declines in the first half, and the 7% decline in the third quarter it was down just 2% in the fourth quarter.
+
+So, clearly seeing the bottoming there. Aerospace defense, which Bill also talked about, it was up 15% and that's the type of business that doesn't flop around a lot. It's a long cycle business, so we feel very strongly about that one and other general purposes up about 3% year-to-year.
+
+Rob Mason - R.W. Baird
+
+Okay. That's helpful and Adrian, just real quickly, did you give a number excluding the new debt that you just issued did you give a number on the amount of cash that's held domestically?
+
+Adrian Dillon
+
+We had 1.8 and we had debt of 600. So, the net cash is 1.2.
+
+Rob Mason - R.W. Baird
+
+Okay. Thank you.
+
+Operator
+
+And your next question comes from the line of Deane Dray of Goldman Sachs. Please proceed.
+
+Deane Dray - Goldman Sachs
+
+Thank you. Good afternoon.
+
+Bill Sullivan
+
+Hi.
+
+Deane Dray - Goldman Sachs
+
+Hey, would like to hear some more color around the weakness you saw in the semiconductor in the computer side of the business. What are you hearing from your customers? Is this a CapEx issue or do you think you may have lost some share in any of these markets?
+
+Bill Sullivan
+
+I think that overall in terms of losing share we continue to hold our own moving forward. There clearly has been some of our competitors are launching a new product line moving forward that always puts short term competitive pressure on even though our revenues were flat in our parametric tests, where we have a very large market share of the outlook is clearly slowing into Q1.
+
+So overall, we believe in a very strong competitive situation, but that segment overall from a spending standpoint was clearly down for us in the quarter.
+
+Deane Dray - Goldman Sachs
+
+How about and you mentioned parametric. What about logic analyzers and scopes, the high-end scopes?
+
+Bill Sullivan
+
+Our logic analyzers and the high-end scopes, in fact, as Adrian mentioned to a tough compare we're down slightly year-over-year.
+
+Deane Dray - Goldman Sachs
+
+And you just think that's overall market as opposed to share or is this some of the instances where your competitors have come out with new products?
+
+Bill Sullivan
+
+I believe that part of its market. Part of it is that our competitors over that period of time have launched a new product line.
+
+Adrian Dillon
+
+Okay. What this market is like is that a year ago we came out with a whole new-refreshed product line and we had a huge surge in volume and good competitors eventually are going to react and upgrade their product lines. They just did that and so, there's a little bit of competitive response and this has been a very healthy industry where we have sort of gone back and forth competing on technology and that's going to continue?
+
+Deane Dray - Goldman Sachs
+
+Sure. We've seen that leapfrogging pattern for a long time now, but that also brings me to the next question. I'd love to hear, Bill, and then Adrian, both your comments on the acquisition or pending acquisition by Danaher of Tectronics, and how might this change as you was thinking about consolidation and test major end market going forward.
+
+Bill Sullivan
+
+We don't make specific comments about acquisitions inside of our industry and particularly ones that haven't completed yet, but needless to say having two good solid competitors joining forces is something that we need to be prepared for, but our fundamental strategy to compete, our investment strategy to be the differentier in technology and customer satisfaction continues and we will continue to make those investments and compete on innovation and customer support.
+
+Deane Dray - Goldman Sachs
+
+Are you seeing any new competitors in potential M&A that you've looked at? And the reason I ask is I went to an analysts meeting this week with honey well and they could not have been louder and clearer about their intention to build out their test measurement platform further.
+
+So, do you have Danaher moving in and I would think a business as usual look at consolidation may not be the right strategy for Agilent here?
+
+Bill Sullivan
+
+We've made 15 acquisitions over the last two years. We will continue to look at the marketplace and react appropriately and as soon as we make a decision that is approved, we will make that announcement.
+
+Deane Dray - Goldman Sachs
+
+Okay. And then, Adrian, just in terms of the news that you all will not be excluding restructuring charges, which is terrific from a quality of earnings standpoint, but then is there $20 million that is going to be done in 2008, is that going to be included or excluded?
+
+Adrian Dillon
+
+No. That will still be pro forma out. The point we were trying to make is that when we do as Bill mentioned do restructuring, you can't do snap your fingers and have this all done instantaneously, particularly with respect to people, severance costs. You have to time that to the actual exit of the people, which has to be feathered particularly outside of the U.S.
+
+So the point was we are done with the actions that we have taken programmatically what anybody would call extraordinary and so some of that was recognition of costable lag into 2008. That's the $20 million I referred to, but from a program perspective we're done.
+
+The multiyear restructuring, extraordinary rear structuring of this company, has been completed.
+
+Deane Dray - Goldman Sachs
+
+Got it.
+
+Adrian Dillon
+
+You get $30 million of expense savings that you'll see moving forward are very specific on our monitoring business that you know that we have struggled in. We have size reorganization. While the revenue is down, it is back to profitability.
+
+We have consolidated our manufacturing system business where there was more consolidation, which is really everything that supports contract manufacturing, optimal inspection, x-ray inspection and circuit tests. We moved a lot of that support into Asia where most of the business is and kept the key core people.
+
+In the higher cost countries but really wanted to streamline that operation and we also made some adjustments to our global infrastructure, our corporate functions to make sure that we're well positioned moving into FY '08.
+
+Deane Dray - Goldman Sachs
+
+And last for the cash position, Adrian, just because this is a hyper sensitive topic right now, the investments you have for that cash, any of that include asset back commercial paper, anything that would be at risk at this stage?
+
+Adrian Dillon
+
+Zero.
+
+Deane Dray - Goldman Sachs
+
+Want to say that one again.
+
+Adrian Dillon
+
+Zero.
+
+Deane Dray - Goldman Sachs
+
+Okay, good. That's terrific to here and then this is the last one. Did I hear correctly talk about a blast from the past, did you comment on the condition on photonic testing?
+
+Adrian Dillon
+
+You did.
+
+Deane Dray - Goldman Sachs
+
+Okay. I have to ask what are you saying.
+
+Adrian Dillon
+
+That's a very small business these days but, in fact, the wire line business has been picking up and there are requirements to add capacity for the broadband especially for the video and so our photonic test business has been picking up.
+
+Deane Dray - Goldman Sachs
+
+Great. When you say a small scale, approximately where does that fit today?
+
+Adrian Dillon
+
+It's the smallest of the businesses that we pay attention to.
+
+Deane Dray - Goldman Sachs
+
+Okay. All right. Appreciate it. Thank you.
+
+Operator
+
+And your next question comes from the line of Ajit Pai of Thomas Weisel. Please proceed.
+
+Ajit Pai - Thomas Weisel
+
+Yeah. Good afternoon.
+
+Bill Sullivan
+
+Hey, Ajit.
+
+Ajit Pai - Thomas Weisel
+
+A few quick questions that I think you partially addressed both of them. I would love to get some more color there. The first one is just talking about inflationary pressures, outside of currency. I think addressed the currency side but are watching wage increase as even in local currency and also in the prices of the materials, that you've been purchasing rise recently?
+
+And then, on the same note I think you did mention that given the set of new initiatives in electronic measurement while they might not some of them particularly the low cost might not be much higher on the gross margin side and the handheld instrumentation and the operating side they do help.
+
+So why could you walk us through why sequentially in year-over-year the operating margins in electronic measurement actually went down, you know, despite higher revenues in the October quarter?
+
+Bill Sullivan
+
+Well, first of all, in term of inflationary pressures service in Asia and China and India are clearly increasing quite rapidly and that parts part of the business that we need to focus on. The second thing, that has changed is the cost of logistics has moved given the price of oil. I mean, that number has moved as we move instruments around the world and again, they're relatively heavy.
+
+On the flip side of that, though, we have always had a very rigorous program in our manufacturing organization to continue to offset cost, improve productivity, improve the overall efficiency and so actually if you look at the overall, our gross margin structure from a company, we continue to do quite well given the pressures and some of the issues that Adrian has outlined particularly in some of these currency issues moving forward.
+
+The manufacturing footprint on the electronic measurement is clearly competitive and I actually thought the team on flat revenues did one heck of a job holding their gross margins.
+
+Ajit Pai - Thomas Weisel
+
+And, on the operating margin side?
+
+Adrian Dillon
+
+Ajit, let me try that. Again, what we have is a discontinuity or if you will a mismatch in some cases between the currency of the revenue and the currency of the production. Historically and during times when you have more normal gradual movements in the dollar, that's not much of an issue and I think there's only been two times in the last six years we really talked about currency.
+
+When you have such huge dislocations as we've had in the last two quarters, some of these things do become slightly disconnected. An example I'd give you is Malaysia, has been tied to the dollar for a long, long time but has recently become disconnected from the dollar and is tracking more closely to the China yaun. And so we have very significant production that takes place in Malaysia.
+
+Most of those products are invoiced in dollars and so we're going to get a margin squeeze in the short term as local currencies are converted back into dollars. It's not a long-term thing. We will make those adjustments, but that's the nature of what we're struggling with along with as Bill said some real cost increases related to trade and logistics.
+
+Ajit Pai - Thomas Weisel
+
+Right. And the cost increases that you're seeing right now, particularly the wages going up in some of the emerging markets, are you able to pass on some of those or all of those to your customers or you're still not being able to do that because of the competitive environment?
+
+Adrian Dillon
+
+The competitive environment really hasn't changed, but we as Bill said, we really have a very rigorous program of productivity improvements and we have not been particularly feeling significant wage pressure.
+
+In fact, our wage increases on average are no higher for '08 than they were in '07. What is happening is that we through our variable pay programs are rewarding our employees when we achieve superior performance. They're getting a piece of that pie through our variable pay program.
+
+Bill Sullivan
+
+Historically, coming from our roots in HP, we've had a very high fixed salary and as Adrian talked about, we have systematically over the last three or four years moved to a more variable component that obviously is tied directly to performance of the company and not tied to inflationary salaries.
+
+We are absolutely committed to be competitive in the test and measurement market and versus the big top technology companies in the world. We have, almost a 90% acceptance rate to join the company. So we're competitive, but we have clearly moved a lot of our compensation into a variable cost structure tied to performance, not tied just to the fixed salary that we have historically done.
+
+Ajit Pai - Thomas Weisel
+
+Got it. Thank you so much.
+
+Operator
+
+And your next question comes from the line of Will Stein of Credit Suisse. Please proceed.
+
+Will Stein - Credit Suisse
+
+Thank you. Bill, I'm wondering, if we can take a step back and look at the broader economy. There's so much commentary out there today about potential slowing and yet you're endorsing the street view for next year and, you know, I think the guidance is pretty much in line with the consensus for the coming quarter. Any comments in terms of what you're hearing from customers and your CEO counterparts out there?
+
+Bill Sullivan
+
+Obviously, it's a topic and again I'm biased by Silicon Valley. I think and again not to speak for the CEOs in the valley but in general the signal of noise ratio at issues of liquidity, housing, gas pricing is high, but the underlying demand for business and outlook continues to be okay and, we're all nervous about this. You have an election year.
+
+Historically, recessions don't start before the election. So, you know, we're all very, very cautious moving forward, but the underlying demand for high quality solutions continues. There's a huge investment going into the next generation of wireless and IPTV, biologics, the university structure and again I noted before if you look at the billions of dollars that are being granted to universities in the United States, universities in China, India and Europe to be able to build facilities for the next generation the Nano technology looking at semiconductors, material science, life science it, is staggering the amount of money that is going into the whole research area around the world.
+
+And typically when there's nervousness on the consumer side you tend to see more investment in infrastructure particularly driven by government and we're clearly seeing that and you're seeing it being in California the amount of money that is being invested by the university of California alone in terms of Nano technology, stem cell research is just enormous opportunities for a measurement company such as ourselves.
+
+Will Stein - Credit Suisse
+
+Okay. And then just one point of clarification and a quick follow-up as well, I think we heard you say today that you guys have more exposure in the electronics measurement business to manufacturing and less to R&D and I thought that we had been kind of conditioned to think the other way on that, that you guys were really more exposed to R&D trends than manufacturing and then I have a quick follow-up on the buyback.
+
+Bill Sullivan
+
+Well, I'm sorry, my misunderstanding, we've been very clear for many years, because of our size and breadth of product line, our exposure has always been in manufacturing, give an example, we can set up a cell phone test line anywhere in the world in four to six weeks and that's the capability that not all of our competitors have.
+
+We can do the total solution, so we have always had more exposure on the manufacturing side. Clearly before the restructuring, where 40% of the company was semiconductor related, that was by far more volatile than manufacturing segment and we of course divested that.
+
+But we still have a large manufacturing footprint in relationship to our competitors.
+
+Will Stein - Credit Suisse
+
+Okay. That's great and then, Adrian, perhaps a quick one for you. The buyback sounds similar to last time, $2 billion over two years. That was, of course, accelerated and if we look at the cash generating ability that you guys seem to continue to be able to do very well and it makes me think that $2 billion over two years gets us to the same total leverage position that you're at today which is, you know, still a net cash position, doesn't move the needle.
+
+You're planning essentially to buyback about in line with your cash generating ability. Do I have that right? Is there a sense that maybe this could be accelerated at some point?
+
+Adrian Dillon
+
+I'm not going to speculate on whether it would be accelerated. I think, the spirit of your arithmetic is right. We're not creating quite $1 billion per year yet, getting close but not quite $1 billion per year in free cash flow, but we don't make much of a dent and we have said in the medium-term, we want to get to zero net cash position.
+
+So, we'll continue to keep our flexibility, but I think the spirit of your question and arithmetic is right.
+
+Bill Sullivan
+
+Given this environment, the issue is liquidity, the economy, having a prudent position with the board-moving forward I think is the correct one. We need to continue to look at strategic investment. That's the No. 1 priority that we have talked about and I think we have a very strong track record of being shareholder friendly when it comes to making the right decisions that we moved forward.
+
+Will Stein - Credit Suisse
+
+Very good, thanks very much, guys.
+
+Operator
+
+And our last question comes from the line of David Chung of Lehman Brothers. Please proceed.
+
+David Chung - Lehman Brothers
+
+Thanks very much. I thought we might have a few questions regarding food testing. Obviously with the market growing about 9% and you're growing at 18% and you grew 20% last quarter. Just wondering, if you thought that moving into next year into '08 you think that you'll be able to maintain these twice the market growth?
+
+That's first. The second is, if you could just provide us a little bit of color around China and whether you're seeing accelerating growth there and which products you think are generating that and then overall which competitors do you think you're taking share from? Thanks very much.
+
+Bill Sullivan
+
+In terms of the overall food testing industry, I wouldn't suggest that our growth momentum can stay at that level moving forward and again, that is not in the guidance or expectations moving forward. However, there is a lot of opportunity in the food industry given the issues we have.
+
+The United States only tests 1% of the food coming into country and so I think, we are well positioned in this area, but and again, hope we can continue that growth momentum, but again just the mathematics are against you.
+
+In terms of China, the opportunity in the food and petrochemical in China continues to grow rapidly. Actually, what has changed recently is the increased investment of pharmaceutical. As you know, they had real problems with their equivalent of the FDA.
+
+They have brought in a new senior leader to run that and so the big change that we're seeing in China is the sort of the reacceleration of investment in the pharmaceutical and biotech that given some of the issues that they had slowed down dramatically.
+
+In terms of making comments of who are we taking market share, we never make comments of that. Our competitors say that they're not losing market share, so we are very pleased that we continue to expand the overall market.
+
+David Chung - Lehman Brothers
+
+Thank you.
+
+Operator
+
+I would now like to turn the call back over to Mr. Rodney Gonsalves for closing remarks. Please proceed, sir.
+
+Rodney Gonsalves
+
+Thank you, Akiya. Well there everyone online I want to thank you on behalf of the management team for joining us today. We look forward to seeing everybody in Santa Clara on December 11th for our analyst day. Again, thank you very much.
+
+Operator
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect and have a great day.

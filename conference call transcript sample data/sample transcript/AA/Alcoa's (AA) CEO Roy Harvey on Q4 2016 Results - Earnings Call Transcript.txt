@@ -1,0 +1,453 @@
+Alcoa, Inc. (NYSE:AA) Q4 2016 Earnings Conference Call January 24, 2017 5:00 PM ET
+
+Executives
+
+James Dwyer - VP, IR
+Roy C. Harvey - CEO
+William Oplinger - EVP and CFO
+
+Analysts
+
+Evan Kurtz - Morgan Stanley
+Unidentified Analyst - Goldman Sachs
+Jorge Beristain - Deutsche Bank
+Justin Bergner - Gabelli & Company
+Timna Tanners - Bank of America Merrill Lynch
+Tony Rizzuto - Cowen and Company
+Unidentified Analyst -
+Unidentified Analyst - Bank of America Merrill Lynch
+John Tumazos - John Tumazos Very Independent Research
+
+Operator
+
+Good afternoon and welcome to the Alcoa Corporation Fourth Quarter 2016 Earnings Presentation and Conference Call. All participants will be in a listen-only mode. [Operator Instructions]. After today's presentation there will be an opportunity to ask questions. [Operator Instructions]. Please note this event is being recorded. I would now like to turn the conference over to James Dwyer, Vice President of Investor Relations. Please go ahead.
+
+James Dwyer
+
+Thank you, Amy. First I would like to apologize if you are having trouble logging on to the webcast. Please try again we are having significant interest in the webcast and so the access is a little bit slower than normal. But you can also try it using Google Chrome, that seems to be working little bit better. So, apologize if you had any difficulties getting in. I’m joined today by Roy Harvey, Alcoa Corporation Chief Executive Officer; and William Oplinger, Executive Vice President and Chief Financial Officer. After comments by Roy and Bill, we will take your questions.
+
+As a reminder today's discussion will contain forward-looking statements relating to future events and expectations that are subject to various assumptions and caveats. Factors that may cause the company's actual results to differ materially from these statements are included in today’s presentation and in our SEC filings.
+
+In addition, we have included some non-GAAP financial measures in this presentation. Reconciliations to the most directly comparable GAAP financial measures can be found in the appendix to today’s presentation. Any reference in our discussion today to historical EBITDA means adjusted EBITDA for which we have provided reconciliations and calculations in the appendix.
+
+Finally, a note on financial statements methodology, because Alcoa Corporation commenced operation as a standalone public company on November 1, 2016 the financial statements are a combination of financials carved out from Alcoa, Inc. prior to November 1st and actual results of Alcoa Corporation thereafter. Therefore the fourth quarter results include October on a carve out basis and November and December actual results. Similarly the full year 2016 results include January through October on a carve out basis. And November and December actual results. With that here's Roy.
+
+Roy C. Harvey
+
+Thank you, Jim. I'd like to welcome everybody to our call to review Alcoa's fourth quarter results. Our first reporting period as a new publicly traded company, and as our results show we're off to a good solid start.
+
+Let me get started with a quick overview of what we'd like to cover this afternoon. First, over the last month we've continued to aggressively streamline our portfolio. While these actions will strengthen our competitive position, the restructuring costs produced a net loss in the fourth quarter. Excluding those special items we generated net income of $26 million or $0.14 per share. Second, I'm also very pleased with the strength of our underlying adjusted EBITDA. Excluding special items this metric rose 18% sequentially reaching $335 million. Third, since launching as a standalone company, we've increased our cash and we've closed the quarter with a cash balance of $853 million.
+
+Fourth, looking at our markets we expect growing demand in bauxite which bodes well for our third party bauxite business and strong demand growth for alumina and aluminum particularly in China. The fundamental outlook is stable across all three markets in 2017. And finally, as we look beyond the quarter and focus on the future we will continue to manage Alcoa Corporation with an aim to reduce complexity, generate cash, and invest for strong returns. As you can see from these highlights, we've had a strong start BUT we still have much to do to secure a stronger and brighter future.
+
+With that I'd like to turn it over to Bill so we can have a closer look at fourth quarter financials.
+
+William Oplinger
+
+Thanks Roy. I'm happy to present the financials for Alcoa Corporation's first quarterly earnings. As Jim noted earlier the fourth quarter financials represent one month of carve outs and two months of actual Alcoa Corp results. Prior to November all financials are presented on a carve out basis. Let's look first at our GAAP quarterly income statement which includes all special items, revenue increased to $2.5 billion due to higher alumina and aluminum prices, and the impact of tolling metal for our rolling business.
+
+On a GAAP basis earnings were a loss $125 million or $0.68 per share with restructuring and other charges of $209 million pretax. Let's take a look at the restructuring charges. As you know earlier in the quarter we announced the permanent closure of Suralco and the impairment of AofA, the after tax amount of 4Q16 special items is 151 million of which the largest component is 123 million of restructuring related charges The Suralco closure of 90 million and the write down of our AofA natural gas investment in Western Australia accounted for $31 million.
+
+Other after tax special items include separation cost of $27 million which is SG&A and interest expense and energy contracts mark-to-market partially offset by a favorable discrete tax item. So last quarter we will be reporting separation related costs. On a pretax basis restructuring is $209 million of which 35% is noncash.
+
+Now let's look at adjusted EBITDA after special items. Adjusted EBITDA excluding special items was $335 million in the fourth quarter of 2016, up $51 million sequentially and $83 million year-on-year. Net income attributable to Alcoa excluding special items was $26 million or $0.14 per share. Some key points are that margins improved as cost of goods sold grew slower than revenues which were up both sequentially and year-on-year on higher alumina and aluminum prices. SG&A and R&D held steady sequentially at 3.2% of sales. Interest expense is down to $38 million and it also reflects $19 million of allocated interest in October due to carve out accounting. Clearly interest expense will be lower in 2017 when there is no impact of carve out interests. Our effective tax rate depends heavily on market prices and in which jurisdictions we have gains and losses with 4Q 2016 settled at 34%.
+
+Let's take a deeper look at the factors driving our earnings. Higher metal and aluminum prices drove bottom line improvement with some offsets from unfavorable costs and lower volumes. Volume in the quarter was lower largely in the alumina segment as weather delays pushed shipments out of 2016 and into 2017. Energy as we foreshadowed in the third quarter at $37 million was the largest negative impact due to the higher seasonal power prices at our Spanish smelters, our Portland smelters, recent power price increase, and to a lesser extent lower power sales and higher natural gas prices. Net productivity was $13 million lower in the fourth quarter than in the third quarter primarily due to timing of maintenance. As a point of reference net productivity versus the fourth quarter of last year was $92 million.
+
+Now let's take a look at the segments. On this page we've provided production shipment information for 4Q 2016 for the segments as well as revenues and ATOI for each segment. I do want to point out however that our segment profitability measure will be changing to EBITDA in 2017 so this will be the last quarter you see ATOI numbers.
+
+Let's take a closer look at adjusted EBITDA in the segments. Fourth quarter 2016 adjusted EBITDA in the segments totaled 406 million, up 56 million sequentially with strong results in the bauxite and alumina segments. Bauxite was up $5 million on better pricing and overall cost improvements moving up its adjusted EBITDA margin to 35%. Alumina was up $94 million on favorable API, currency, and LME and with a partial offset from volumes delayed in the 2017 and the mix of contracts shipped. Aluminum margins doubled to 17%.
+
+Our other segments posted lower sequential earnings, largest declines were in aluminum down 19 million where the aforementioned energy prices and higher maintenance spending overshadowed our metal prices. And rolled products down 15 million where we had a mill outage, seasonal product mix changes, and some tolling costs that depressed earnings. Energy's margin remains high at 34% but it's down 4% sequentially on lower volume and the action at Warrick, and Warrick maintenance outage. More details of segment bridges with all the key drivers are available in the appendix.
+
+Let's take a quick look at items outside of EBITDA, this representation of the earnings is one that many of you saw in our previous presentations, all non segment earnings were favorable sequentially except for LIFO and metal price lag. Transformation costs which are the cost of closed and curtailed locations in our long-term Rockville energy contract improved $4 million to $20 million. Corporate pension and OPEB costs also improved sequentially down 3 million to 5 million. Total pension and OPEB costs combining segments and corporate was $35 million. LIFO and metal price lag was unfavorable at $24 million due to higher sequential quarter alumina and aluminum prices. All other costs totaled 22 million improving $14 million sequentially.
+
+Finally let's close out our look at the quarter with a review of the balance sheet metrics. Cash has been a focal point of the quarter. Our cash balance upon separation was $654 million and two months later at the close of the fourth quarter 2016 our cash balance had risen to $853 million. Working capital management has been exceptional and in the quarter at 13 days. Typically our working capital is lowest in the fourth quarter and highest in the first quarter.
+
+The key lever to maintain assets and grow returns, 2016 capital spending came in almost exactly at our $400 million target or $404 million. As we've emphasized repeatedly we're very focused on return on capital. Our 2016 return on capital is 5.3%. You can find the calculation of this return metric in the appendix. Leverage remains low with net debt of 600 million and net debt to adjusted EBITDA of 0.6. Although the underfunded pension and OPEB liability grew to 3.1 billion as the pension assets had a negative return due to higher interest rates.
+
+Now let me give you a view on 2017. This page provides information on 2017 shipments by segment as well as detailing key financial estimates both income statement and cash. As we get better insight into certain costs for 2017 we have updated our outlook and have provided more information on items you've asked about. We now estimate pension and OPEB expense to be approximately $175 million for 2017 down from $200 million. And total cash contributions for pension and OPEB to be less than 250 million, note that these two numbers are not additive. Interest expense will reflect our low debt level at approximately 110 million roughly half the fiscal year 2016 amount due to carve out accounting. Transformation costs are estimated to be approximately $150 million plus an additional 150 million to 170 million cash from R&D expense remediation and ARO [ph] reserves.
+
+Warrick Smelter, Suriname Refinery, and Anglesea Power Station will now be included in the transformation reporting. All other corporate costs were estimated to be approximately $175 million favorable to the prior outlook of $200 million. Our effective tax rate and cash taxes will vary with profitability. Our taxable income and tax rates vary by region, and are heavily influenced by market prices. There are a few other cash items we continue to expect sustaining capital expenditures to be less than $300 million. However we should note that we've increased our return seeking capital expenditures to be approximately 150 million to execute on the growth projects that we have shown in many of our recent presentations. Recall that we have 18 projects that total $385 million in growth spend. In 2017 we will start 11 of those 18 projects.
+
+So with that I’ll turn it back over to you Roy.
+
+Roy C. Harvey
+
+Thank you Bill. I'd like to take a few minutes to review the progress we made in 2016 both enabling separation and positioning us well for 2017. Starting with productivity, during the critical period leading up to the separation which at this point feels long ago, we were faced with a significant downturn in alumina and aluminum pricing. Faced with these conditions Alcoa’s across the globe generated significant savings through productivity improvement, which we drove to the bottom line. In 2016 we delivered gross productivity savings of $760 million significantly beating our published goal and even more importantly we delivered $290 million in net performance improvement. We have locked in those savings and will build upon them in 2017.
+
+One important note on how we plan to report productivity and performance going forward. As we simplify our internal and external reporting we will focus on net performance figures. This metric reflects the net improvement of our business outside of our three main market factors, alumina and aluminum pricing and currency. We feel that this is the clearest and simplest indicator of the progress as a company.
+
+In bauxite we are among the world's largest bauxite miners and last year we increased our third party exports as we had planned. We shipped 6 million bone dry metric tons to third party customers in 2016. In the fourth quarter we secured our first major bauxite export contract out of Western Australia with a third party agreement to supply approximately 400,000 bone dry metric tons of bauxite from our Huntly mines to China.
+
+The Western Australian Government also granted approval for Alcoa to export up to 2.5 million metric tons per year of bauxite for five years to third party customers. We continue to see great opportunities in the merchant bauxite markets and with modest capital expenditures we can increase our third party sales volumes dramatically. During 2016 we started to build partnerships with key customers in China and elsewhere that can flourish and grow as we build out this highly profitable business.
+
+On production, we demonstrated strong productivity in our operations beating annual records at locations in our bauxite, alumina, and aluminum segments. In Bauxite the Juruti mines works to the bottlenecks process and sets an annual record for both production and shipments. In refining Pinjarra, Wagerup in Western Australia and São Luís in Brazil reached new production records. In aluminum we have production records from multi aluminum at four of our smelters Baie Comeau and Bécancour in Canada, San Ciprián in Spain, and Mosjøen in Norway.
+
+As it pertains to our portfolio, last year we continued to take actions to improve our collection of operating assets. We permanently closed the smelter at Warrick operations in Indiana and have also just announced the permanent closure of the Suralco Refinery and bauxite mines in Suriname which had been fully curtailed since November of 2015. We also idled the remaining alumina refining capacity in Point Comfort, Texas. These decisions are never easy but are necessary to strengthen the remaining portfolio. We continue to be focused on generating both earnings and cash through the active management of our portfolio of assets.
+
+In rolled products, last year the Warrick rolling mills successfully transitioned to a cold metal plant after the closure of our smelter. And we're now working on customer qualifications at the Ma'aden rolling company in Saudi Arabia. Together the two plants will supply our customers with flat rolled aluminum that is used primarily to produce food and beverage containers and lithographic printing plates. From the total business standpoint we plan to transition production volume to Warrick operations and Ma'aden eventually replacing the tolling agreement with [indiscernible] a Tennessee operations as they exit the Kanshi [ph] segment.
+
+Operating results for this quarter demonstrates the need for rapid action to drive profitability in this business. Our strategic levers are clear. Finish, start up and qualifications at our modern joint venture filled the mills and increased capacity. Improved margins in a challenging but improving supply demand environment and lower our operating and metal input costs across both plants. We have made progress this quarter and the work is continuing.
+
+Lastly, a note about our Portland joint venture where we were also able to resolve some important challenges. The Portland aluminum smelter in Victoria State in Eastern Australia which already faced the lapsing of a long-term contract in a difficult energy environment at the end of 2016, lost much of its operating capacities from the December power outage. Last week we announced four year agreements with State and Federal Australian governments and energy provider AGL that will help the facility to better manage market fluctuations as we seek a low cost, long term power solution. We have focused on making the best out of a difficult situation and we are pleased that we will be able to deliver a significantly improved financial outcome for our shareholders versus a curtailment while constructing a longer term energy solution for this modern and competitive plant.
+
+Next, I'd like to highlight how we are using our CAPEX budget for both return-seeking projects and those that help to sustain our business. These select projects are meant as examples of how we are using our capital dollars efficiently and with a focus on returns for our shareholders. Our leadership team has implemented a clear process to review and approve capital projects eliminating unnecessary complexities so we can quickly identify the right projects and drive returns to the bottom line. We are also focused on execution and delivering on projected returns as we build out and implement each of these projects. We see this as a clear lever for our future success.
+
+Starting with two return seeking projects, the first one is in our bauxite segment. With a capital investment of $13 million the team at the Juruti mine in Brazil increased production last year to 6 million tons per year, up 12% year-over-year to meet third party bauxite sales goals. Last year Juruti exported bauxite to China, Europe, and the Americas. In 2016 21% of production in Juruti was for exports up from 6% the previous year. The project is expected to have an estimated annual EBITDA impact of $5.2 million and is in the first phase in what could be additional expansion projects as we build strong customer partnerships for additional sales.
+
+The next project is in our alumina business and demonstrates how we use advanced process knowledge to continually improve operating efficiency. Our unrivaled technical experts at the center of excellence developed modeling techniques for Pinjarra in Western Australia, our lowest cost refinery. The model showed how we could boost daily production by reusing the filtrate created during calsiner which is the last stage of the refining process. Based on our models we installed new piping and related infrastructure so that the filtrate could be added back into the refining process improving the overall yield while maintaining our critical quality parameters. The project is estimated to produce an internal rate of return of more than 150% with annual EBITDA savings of $5 million.
+
+In sustaining capital I've selected this final project to demonstrate the ingenuity that is the hallmark of being an Alcoan. Always looking for methods to improve traditional processes in this case one of the most capital intensive parts of our refining portfolio we have applied pressure filtration technology to bauxite residue lowering operating costs while at the same time reducing water and land usage. Traditional methods require drying bauxite residue in large storage areas and then once dry applying water to prevent dusting. The new technology forces residue through large filters removing water and creating a high density cake which limits dust and makes for more efficient use of existing space.
+
+With the new system in place the refinery has the potential to extend the life of residue storage areas by 15 years. For this project completed last year, we spent a total of $115 million and will avoid spending almost twice that amount over 10 years as we manage bauxite residue. The technology is being evaluated for other locations and holds great promise to fundamentally shift the long term capital footprint of the alumina business.
+
+As you can see, we have many opportunities to deploy capital to drive returns both to grow our existing third party sales but also to sustainably lower our cost footprint. Let's now turn to a view of our major markets starting with an overview of China. In China both the alumina and aluminum fundamentals are being supported by a combination of factors. Increasing demand, limited supply available to respond to this demand and rising input costs. Both markets are enjoying strong demand growth in China with alumina and metal growing at a 7% compound annual growth rate since 2015.
+
+Additionally both markets have limited capacity still curtailed that can come online quickly to address increased demand. In alumina only about one million metric tons of the 14 million metric tons curtailed in the last cycle remains offline, in metal about two million metric tons of four million metric tons remains curtail. What is more Chinese producers of alumina and metal are facing significant cost pressures.
+
+In refining average cost have increased approximately $40 per ton since June. This is largely been driven by increasing caustic and coal prices. Caustic prices have been supported by the limited supply of its Coke products chlorine. And Chinese coal prices have been supported by government actions including restrictions on the number of day’s miners can operate.
+
+On the smelting side this same increase in the cost of coal is combining with increase in alumina prices to push costs up approximately $400 per ton since June. Alumina of course has its price supported by the same factors highlighted here, demand growth, limits on supply response within cost increases. As we enter a period of relative quiet demand for the Chinese New Year. These cost pressures have driven more than 38% of Chinese smelters to a position of negative cash generation. Furthermore if you consider market alumina prices for integrated operators 65% of Chinese smelters would be underwater.
+
+Now turning to our market projections, our fundamental outlook is stable for 2017 across the three markets for bauxite we expect the market to be in relative balance this year as the Chinese continue to stockpile the bauxite strategically, while seeking new sources of high quality consistently delivered material. Their desire to hold bauxite is driven by major sources of uncertainty in the markets, including potential changes to the Indonesian and Malaysian bauxite export policy. And the speed with which Chinese investment in Guinea can begin production. We continue to see this market as very constructive and ongoing discussions with current and potential customers give us confidence that we can continue to grow with high return business.
+
+For alumina we see the market in relative balance as well. In addition to the expectation of increasing Chinese imports, strong continued global demand and little competitive capacity available to restart, points to a market that continues to be strong. A supply deficit in 2016 has reduced inventories and we enter two 2017 with strong fundamentals. For metal we are forecasting a slight surplus in 2017 largely driven by increased Chinese production this 2016 concluded. Demand growth in this market remains strong with Chinese demand growth of 6% driven by end use market growth in the packaging, electrical, and transportation sectors. Ex-China growth of 2% is led by the North American market where we are forecasting a 3% demand growth this year. One important point to keep in mind, given the cost dynamics mentioned previously a stronger supply side response from China in the next couple of months could skew towards the tighter market for 2017.
+
+Alcoa Corporation stands ready to capitalize on improving markets but is also resolutely prepared should pricing swing downwards. We are focused on delivering strong results both in 2017 and beyond. Thus in closing I would like to reiterate what are our three key priorities. We will strengthen the balance sheet, we will reduce complexity, and we will drive returns.
+
+As it pertains to the balance sheet we will preserve cash optionality and whether we invest in small growth projects or use generated cash to deleverage we will be wise towards that cash. We also intend to actively manage our pension and OPEB obligations going forward. On reducing complexity we are examining and simplifying each of our processes. We're looking at everything from our capital project reviews to our financial systems to how we manage our people with a very, very simple goal to make Alcoa more nimble and to reduce our cost. To that end we are also setting a net performance goal of $50 million offsetting at least $125 million that we see in market cost pressures in 2017 in building on the significant gains that we saw in 2016.
+
+We remain committed to making sure that performance improvements hit our bottom line. And lastly we are focused on driving returns. Based on recent metal and alumina prices, we estimate 2017 adjusted EBITDA excluding special items to be between $2.1 billion and $2.3 billion. Two important notes about this estimate; first, we expect our productivity programs to show progressive improvements as the year advances. And second, please keep in mind that our first half will include the impact of our Portland smelter restart plus some seasonality driven by our decision to maximize energy earnings for the year by shifting some sales to the second half. And as we look towards the future we are also in the midst of planning three year targets for return on capital that we will introduce mid-year.
+
+To conclude we're pleased with what we've accomplished over the past year to achieve a healthy separation. We are excited about the value that we can add to our businesses and the opportunities in our markets and we are focused on driving results this year and beyond. With that we would love to turn it over to you to ask a few questions so that we can explore the results more fully.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]. The first question is from Evan Kurtz at Morgan Stanley.
+
+Evan Kurtz
+
+Yeah, good evening Roy and Bill.
+
+William Oplinger
+
+Hey Evan, how are you.
+
+Evan Kurtz
+
+Pretty good, thanks. One question, hard stuff, maybe I'll stick with a company specific one and I saw that you put out 150 million number for transformation and since I assume that you have pretty good visibility on the reclamation expenses that you are going to have to incur going forward I was hoping you could maybe talk us through what that might look out say over the three to five year period, do you expect that to gradually decline or is that going to stick with us for a little while?
+
+William Oplinger
+
+Over the next three years I think it will stick with us. Beyond that we would have to look to see what goes in the transformation but at this point the next three years I think that is reasonable estimate.
+
+Evan Kurtz
+
+Okay, great thanks. Just to ask, can I get one more in, is that okay.
+
+William Oplinger
+
+Sure, sure. If you ask a very final question I can give you...
+
+Evan Kurtz
+
+So maybe just one on the market, obviously there is some big news out last week on the WGL pursuing some subsidy remedies against China some subsidy remedy against China on the aluminum front, I'm just wondering you know what you thought about that? What sort of timing could we see about that? How do you see that playing out, are there any milestones out there we should be looking for?
+
+Roy C. Harvey
+
+Yes. Thank you, Evan. we're still waiting to see the details of the case to be quite honest. I think there's a lot of questions still out there exactly the approach that these discussions will take. And so as we've always been we're very supportive of a marketplace that is fair and where we can all compete together. So where we're following that very closely but to be quite honest were reserving ourselves so that we can actually evaluate the argument behind it and make sure that we can we can adapt.
+
+Operator
+
+The next question is from Andrew Clair [ph] with Goldman Sachs.
+
+Unidentified Analyst
+
+Hi, Roy and Bill, thanks very much for the update and taking my questions. First one's on bauxite pricing and margins. Obviously I think you said you it was -- 6 million tons last year out of the sort of the 40:80ish, can you give some color on the breakdown of margins of both into segment and third party given that the third parties will be going there with you over the next few years?
+
+Roy C. Harvey
+
+Let me start now and I'll let Bill give you a more technical answer. First and foremost when we look at the way that we price internally, we always take into account market pricing. We try to be very fair so that we don't advantage one business over the other and that we're very clear what is the opportunity cost if we were to choose to sell externally rather than internally. That said bauxite is a differentiated product. So each bauxite has its own characteristics of alumina content as well as impurities, etc. So the pricing mechanism is very dependent upon what you're selling and to whom? So as we develop the external marketplace it helps us to be much better at judging what our internal pricing should be. And as I mentioned in my comments we just have our first shipment of Western Australian bauxite going externally to China.
+
+William Oplinger
+
+And Andrew you know we don't really necessarily like to get into what margins are for external tons just because there's really not that many customers for the segment in total. Margins are at 35%. I think Roy alluded to the fact that we've got some tremendous growth opportunities in the business. We think that we can grow both routine and Western Australia significantly over the coming years. The ramp up that you see in return seeking capital that we previously were guiding to $100 million of return seeking capital we're now at 150 million, because we are investing in our bauxite business due to the margins and our view of the future in bauxite. So I think that's about the extent of what we can share with you.
+
+Unidentified Analyst
+
+Would you say look obviously with the WA stuff it's a little bit lower quality in some of the beginning stuff, would you say that margins even if you ramp up volumes, margins might come down slightly or is that not fair?
+
+William Oplinger
+
+I don't know if that’s fair. So I think we're very cognizant of maintaining margin levels in bauxite.
+
+Operator
+
+The next question is from Jorge Beristain - Deutsche Bank.
+
+Jorge Beristain
+
+Hey, good afternoon guys. Quickly just maybe one for Bill, can you comment on what your net debt position was two months ago or in the last quarter. I just don't have the quarter-on-quarter changes?
+
+William Oplinger
+
+Sure yes. No, I think the question I actually like and the reason why I like question is because we generated a lot of cash the last two months of the year. We started the company with right around $655 million of cash on hand we had right around $1.45 billion of debt that’s 1.25 billion of funded debt, $200 million of the NDS debt. We ended the quarter with the same level of debt and we had generated nearly $200 million of cash. So our net debt position came down to roughly $600 million in net debt. So a good strong cash generation as an independent company.
+
+Jorge Beristain
+
+Okay and then so I guess I was asking my second question was going to be for a cash flow statement but I guess you're kind of telling us that the change in cash generation you had was roughly your change in cash flow?
+
+William Oplinger
+
+Yes, because of the carve out financials and given that we had one month of Alcoa Inc. and two months about Alcoa Corp, a quarterly cash flow is really, really difficult to get much out of. I think the better indicator at least for me is that the last two months of the year we generated $200 million of cash and to be clear a free cash flow number would be larger than that because that's after we paid minority dividends to our partners. So good strong cash generation the last couple months of the year.
+
+Roy C. Harvey
+
+And Jorge if I can just jump in briefly as well and add on top of Bill's comments. We're trying to be very clear internally, the importance of cash to us and how much that strength in the balance sheet helps to protect us from downside but at the same time as Bill mentioned in his presentation it allows us the opportunity to grow. It allows us to get in there, lower our cost, and deploy $150 million of return-seeking capital already in 2017. So it is the life blood we typically say.
+
+William Oplinger
+
+And I will jump on one more one last comment and you may be wondering what cash priorities are, we will restate the cash priorities. Cash priorities after sustaining and paying towards the pension as we've laid out. It's a combination of delevering and investing in the business. So we increased return-seeking capital by $50 million. Excess cash flow we'd be looking at potential delevering at this point.
+
+Operator
+
+The next question is from Justin Bergner at Gabelli & Company.
+
+Justin Bergner
+
+Good afternoon Roy, good afternoon Bill.
+
+Roy C. Harvey
+
+Hi, good afternoon Justin.
+
+Justin Bergner
+
+I guess first just a clarifying question, on the net productivity if I was to sort of decompose the net productivity for the year just completed that 760, what were the different factors that brought the net down from 760 to 290 just to sort of compare it to the 2017 framework?
+
+Roy C. Harvey
+
+Yes, so let me -- again now let me hit the qualitative side and I'll let Bill hit some of the quantitative pieces. So we have run a pretty complex, pretty complex system of trying to divide between gross and net productivity before. And the fundamental idea was that we would essentially count all those good ideas towards growth and productivity and they would be destined for two things number one, to make the business better. And number two, to offset problems or headwinds or to unexpected circumstances. So it is -- we will continue to look internally at how do we make sure that we've got a robust set of initiatives and ideas and ways to drive forward our business that can do again both of those things offset headwinds and drive real gains on the ground.
+
+So you think about the difference between the delivered 750 and the 290 that hit the bottom line. Essentially the difference is in the cost headwinds and if things that went against us over the course of 2016 that either we expected or didn't expect. The reason we've gone to the idea behind either net productivity which is a little more narrowly defined or net performance, which is broader and they include things like bogging creek and pretty much everything outside of market factors is quite simply because it shows what we're delivering to the bottom line on a year-over-year basis. So it holds us accountable not just to delivering the prices that are prevailing in the market, but holds us accountable to delivering real value for our shareholders whether through return seeking projects or whether it's by driving down costs faster than our competitors or holding back raw material costs.
+
+Justin Bergner
+
+Great, thank you.
+
+William Oplinger
+
+And just to add on that a little bit, probably some of the biggest factors on a year-over-year were some of the headwinds that we saw around pricing mix especially in some of the value add business. We did see some higher energy costs over the course of that year and some higher raw material cost. So that was some of the things that took that down to the net number.
+
+Operator
+
+The next questions is from Timna Tanners with Bank of America Merrill Lynch.
+
+Timna Tanners
+
+Hey, good afternoon guys.
+
+Roy C. Harvey
+
+Hey Timna.
+
+Timna Tanners
+
+I know you were asked about WTL and it's tough to speculate but I guess I will just ask you to speculate on something because that seems to be part of my job lately. But in the Trump Administration there is a lot of talk about tax reform. Have you put any thought of how that would affect Alcoa in broad terms given that you are you a U.S. based company but with the bulk of your income coming from overseas and in light of that as well with some of the initiatives that he's talking about, can you talk to us a little bit about what it might take or if you're considering what it would take to restart any of your U.S. operations?
+
+William Oplinger
+
+Yes let me address I’ll take a crack at both of those quite honestly. First one, Timna again we think it's way too early to speculate what type of implications change tax policy would have on us. I think you hit on it very, very well. We've got earnings that are generated overseas. We've got losses largely in the U.S. due to some of the overhead costs and things like that which we don't get a tax advantage on, and you can see that sometimes in our ECR depending on how the profitability flows. So at this point I think it's too early for us to determine. Once we get an idea from the government of where they're going to land we'll have a better indication of how that will impact us.
+
+Secondly, as far as restarting facilities and Roy you can jump in but essentially we are constantly evaluating the marginal facilities to see if there's an opportunity for either restarting them, in the case of São Luís down in Brazil, Wenatchee so those are the opportunities we are looking at potentially. Doesn't make sense to restart them. I guess the other one is that typically we're in this position of talking about curtailments and we always evaluate whether it makes sense to continue to operate facilities too. So at this point no clear guidance on what we would restart.
+
+Roy C. Harvey
+
+And just to add on that I think Bill hit it pretty completely but you think about the range of factors that we have when we think about a curtailment. Curtailment or a restart whichever side of that bubble you happen to be on is really focused on how we drive additional value for our shareholders. We look at the cash impact; we look at the earnings impact. And then we also think about what the market means for us today. And what the market could mean for us down the road. As you probably wouldn't be surprised there often are very large numbers that have to do with power contracts. And with the cost of curtailments or the cost of restart and so we take a pretty detailed view to really be able to determine what's the right thing to do on a case by case basis. And like Bill said that can change pretty quickly, it can change quickly depending on what policies are implemented, whether it's in the United States or elsewhere. It can change if the market shift is fundamental. That's one of the fun parts of the business Timna.
+
+Timna Tanners
+
+Well with the volatility and the aluminum price its sure I totally understand that. The only thing I want to ask you was the point you made about how you're going to actively manage OPEB and undefined pension What do you mean by that type I am sorry if I have been dense but I am just curious?.
+
+Roy C. Harvey
+
+What we mean -- is that we've got around $3.1 billion OPEB and pension underfunded liability. There's two ways to really solve that. The first way is to try to actively manage liability. So we would be looking at are there ways to reduce the liability through actions and at this point we are evaluating whether you know whether we would take any action on that side. The other way is clearly generally higher interest rates will close that liability over time. So those are the two things that would impact it.
+
+Timna Tanners
+
+Okay. Thank you.
+
+Operator
+
+The next question is from Tony Rizzuto at Cowen & Company.
+
+Tony Rizzuto
+
+Thank you very much. Hi gentleman? I think my first question is on the impact of the Indonesian relaxation on bauxite exports. How do you see that playing out and then I've got another quick question if I may?
+
+Roy C. Harvey
+
+Sure Tony let me talk a little bit about Indonesia and then we can have your second question. And fortunately you'll be not too surprised when I say it really depends on the details that they lay out as exactly what kind of export they're going to permit. Up till this point we really haven't seen a policy statement about how they would implement that new announcement and we also don't see any understanding on the part of any of the players that happen to be on the customer side or on the supplier side.
+
+For right now I think both sides of the equation are waiting to see exactly how that policy plays out. If you think about what could happen the fact is Indonesia sits very close to China and they have been an important supplier in the past. We think that they will likely be part of the future supply equation going into China. But at the same time we also get back to the fact that that third party bauxite market which is primarily China is going to grow significantly on the order of 8% cumulative average growth rate over the decade starting in 2016.
+
+So they will have an important impact but I don't think it pushes us away from our evaluation of the market that there are real opportunities sitting in bauxite. In 2016 and 2017 Tony it has been about forging partnerships and looking for good customers that can value the bauxites and the consistent quality and the consistent delivery that we can provide. So, Tony your next question.
+
+Tony Rizzuto
+
+Alright, thanks Roy for that. We've seen the Midwest premium gaining a little bit of momentum of late and likely due to the metal shortage that's in the United States. So one is where do you see this moving and then secondly does this potentially work against the trade case against China from a standpoint of fabricators and just the tightness in metal that's taking shape?
+
+Roy C. Harvey
+
+I think it's an interesting situation that we have today and you think about the moves in Midwest premium and they seem to be pretty closely tied with what's happening on the typical side. And I think we've talked before about the fact that Midwest premiums and global premiums are much more closely related with the physical flows of metal. So we've seen that premiums start to come up a little bit, we as is it is always our policy we don't necessarily comment on where we think prices are going to go, whether it's on the aluminum or alumina side or on the premium side. However we continue to say that the smelting capacity that is operating in the U.S. has fallen pretty dramatically. We continue to have robust smelters both and strong demand. We continue to produce in Canada, we are [indiscernible] obviously produces in Canada as well. It connects back with some of the other questions we've had before about how that all connect to policy and what happens over these next few critical months. So we see a lot of strength in underlying fundamental demand of the products that we sell in that first value added basis. And we also see a lot of interest in growing that business.
+
+Tony Rizzuto
+
+And the other thing I'll point Roy is it is a lot about optionality, right. We don't know which way the government regulations will go or the view of which way the government go. We have the optionality in the U.S. We've got some facilities that could be restarted in the case of higher metal prices but clearly we've got to see what comes out.
+
+William Oplinger
+
+Yeah and I think -- just to add one more piece on one of my favorite topics too the Iceland Fjarðaál plant outage just back from my times way back when I got started with Alcoa. Part of the attractiveness of Fjarðaál was that you could sell to both North American and to the European markets. It gives us the flexibility as do other of our plant to sell into the market that's most attractive. Well we'll determine that as that becomes more clear going forward, Tony. Thank you.
+
+Tony Rizzuto
+
+That's very helpful guys, thank you very much.
+
+Operator
+
+The next question is from Jorge Beristain at Deutsche Bank.
+
+Jorge Beristain
+
+Sorry, I just wanted to circle back, your implied guidance for EBITDA for this year, could you tell us what aluminum price that's predicated on?
+
+William Oplinger
+
+Yes, so on the footnote 1795 on aluminum and 335 on alumina and you're probably your next question will be currencies. Currencies haven't changed that much over the last few days so roughly at about the rates that we're at today Jorge. And the spot premiums to or just I don't think they've moved a lot since we put the presentation together.
+
+Jorge Beristain
+
+And that's in the footnotes of your Power Point presentation or your press release?
+
+William Oplinger
+
+Yes, it is. It is footnote to you I'm sorry of our Power Point presentation Jorge, so you can see based on 1795 LME, 335 API and spot regional premiums and foreign currency.
+
+Jorge Beristain
+
+Thank you.
+
+Operator
+
+The next question is from Justin Bergner at Gabelli & Company.
+
+Justin Bergner
+
+Thank you for taking a quick follow up. I want to ask you, I mean some of us have the view that Alcoa is trading at a moderate to meaningful discount to the value of the various businesses you have, are you planning in the better environment that you're seeing to consider any actions that might narrow that discount by use of your cash or otherwise?
+
+William Oplinger
+
+I wouldn’t say anything's off the table Justin but we do have a revolving credit facility that is somewhat restrictive. We're currently at a double B minus credit rating. Clearly I think if we're generating 2:1 to 2:3 EBITDA there's no way we should be a double B minus credit but that's for a different discussion. The priority for cash that I said before the priority for cash is grow the business, with these high return projects and to delever at this point and then beyond that we would determine what to do.
+
+Roy C. Harvey
+
+Justin, if I can just add on top of that as well. One, we're trying to do two things when it comes to reporting. Number one we're trying to reduce complexity. It saves us work, it helps us reduce our cost, and at the end of the day makes our lives easier. But number two, we're also trying to be very clear and help our analysts and our shareholders really understand the nuts and bolts of what's going on inside the company. And we think outside of corporate actions that Bill talked about, the more we can talk about how our business works and prove to our shareholders what we're doing to make the business better, I think that helps to get the story out there and helps to show what we can leverage on top of what is just the metal cycle. So we will be working on that.
+
+Justin Bergner
+
+Thank you.
+
+Operator
+
+The next question is from [Indiscernible].
+
+Unidentified Analyst
+
+Oh, good evening gentleman. This is [Indiscernible] in London. Congratulations some good set of results. It's a bit of a theoretical questions but giving your very impressive cash generation in the long term. Let's say in the next twelve to twenty four months. What will be given the priority would you be looking into reducing your debt well not more of a pension liability or returning cash to shareholders and want to follow up. I haven't seen anything on your dividend policy is that something that I missed or something you are yet to convey to the market? Thank you.
+
+William Oplinger
+
+Yes Yuri, thanks for the question. The dividend policy is that we have no dividend currently and so that's where we stand beyond further delevering we would be considering in an excess cash flow situation how to return cash to shareholders. And so when we get to that point it will be a discussion around specifically how we return cash to shareholders, whether that they are special dividend or a share buyback program.
+
+Unidentified Analyst
+
+At least -- and these are problems to handle. Yeah, thank you.
+
+Roy C. Harvey
+
+I think it would be a great problem, thank you.
+
+Operator
+
+The next question is from Matthew Siff [ph], Banc of America Merrill Lynch.
+
+Unidentified Analyst
+
+Hey guys, just wondering if you could talk about the trends you saw on the role of product side in the quarter and I'm a little bit confused about how -- it looks like shipments more than doubled in the quarter but EBITDA swung negative, just wondering if you could talk a little bit about that?
+
+William Oplinger
+
+Sure. Products, the reason why shipments have increased so much is because those sales that were coming out of Tennessee to body stock customers are now coming through Alcoa Corporations. So we're tolling metal through Tennessee and supplying our customers on the body stock side. So that's why you see that volumes are up in the quarter on the rolled products business we had a number of things going on. We did have a mill outage that affected us towards the end of the quarter we actually had a breakdown of a reversing mill so that was a negative impact. We typically see seasonal declines in the fourth quarter and we saw some small amount of cost increases in the quarter also.
+
+As we move forward to the first quarter we will start to see some better seasonality. I think we've been very clear, the strategy for Warrick is to increase the volume coming out of Warrick and we're focused on doing that. So we're optimistic that the first quarter will be better than the fourth.
+
+Roy C. Harvey
+
+Let me just talk briefly about the future of our rolling business too. And it comes down to some pretty simple phrases; number one, fill the mill and drive capacity. About getting that mill filled as Bill commented and making sure that once it is filled we're constantly increasing capacities so we can continue to fill it. Number two, to drive margins look at who we're selling to. The products that we're selling look to find opportunities in the market that can help us to better partner with our customers and drive an improved margin environment. And then number three, in thinking about how we then drive this business is to reduce our cost. Not just the benefits of volume but to really find ways to run that business smarter and better and more efficiently. And those are the three tenets that we've been talking over again and again with our rolling division and really across the entire portfolio.
+
+Unidentified Analyst
+
+Okay, thanks. So, just to be clear about the arrangements in Tennessee, you guys are taking -- Warrick is taking tonnage that was previously going to the Tennessee mills and it's body stock and you're tolling it for your can't cheat [ph] customers?
+
+Roy C. Harvey
+
+Exactly, we're running metal through Tennessee. We're tolling it with Arconic and shipping it to our customers.
+
+Unidentified Analyst
+
+Okay, alright, thanks very much.
+
+Roy C. Harvey
+
+Thank you
+
+Operator
+
+The next question is from John Tumazos, Tumazos Very Independent Research.
+
+William Oplinger
+
+Hi, John.
+
+John Tumazos
+
+Hi, congratulations on really getting going. Could you explain the power generation, its proportion of either aluminum metal production or capacity self-sufficiency which presumably it is in the aluminum metals segment and roughly what the profit contribution is from your electricity generation, you made reference that there would be more in the second half of the year. Can you explain that to some of us who don't routinely study power plants, you produced the same number of megawatts every day or do you think it is fair to vary in metal production to sell more power?
+
+William Oplinger
+
+Yes, so let me just explain the reporting and then I think Roy can jump in and explain what he meant by the second half comment. You know John now we've broken out the segment so that we've got the electra, the power segment separate. So in that power segment we've got the Warrick generator and the Brazil hydros are the preponderance of the assets in that segment. We've seen significant fluctuation over the years, over the last couple of years on the Brazil hydros both in price and to a lesser extent volumes but we essentially anything that we do as far as Warrick transferring into the rolling mill is transferred at a market rate. So there's not a lot of impact on the Warrick side. Roy, do you want to comment on the second half question.
+
+Roy C. Harvey
+
+Yeah and I think it is critical to understand that we are very careful not to subsidize one business at the expense of another. So we separate out the benefits of generating power and electricity into the energy, the energy portfolio, or the energy segment. My comment specifically about seasonality is based mostly on what happens down in Brazil. And we took a look to see when we could sell different volumes of that hydro capacity and our expectations and our ability to look forward on pricing and we found that we could maximize and optimize our total profit in Brazilian energy generation by skewing it essentially ending up selling additional volume in the second half than in the first half. So it's just a matter of being smart about where we operate, where we generate electricity and where we see opportunities in the market and those happen to be in the second half rather than the first. Thank you for the question John.
+
+John Tumazos
+
+Thank you.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Roy Harvey for any closing remarks.
+
+Roy C. Harvey
+
+Good and thank you. I appreciate everybody listening in. I appreciate the really good questions. In closing I just wanted to take a couple minutes just to go back over familiar territory and just start off by saying that we've had a good start and it's been a good two and a half months although it seems some days like it's been two weeks and some days it feels like it’s been two years. We’re enthusiastic about what we can accomplish and the additional value that we can bring to our businesses. And the opportunities that lie ahead. Whether in any of the businesses in which we operate or looking at the market in which we play. And as I said earlier we're focused. We're trying to be very clear internally and externally about what we're trying to accomplish, and its simple reducing complexity looking at every cost that we spent and finding ways to make it faster and easier and less costly. It's about generating cash, strengthening the balance sheet, ensuring that we are ready, if times turned down or that we're ready if times get better. And finally driving a real returns mentality in every project, in every one of our businesses, and so that when we talk to each of our shareholders we can talk about what we're doing to drive returns and to drive earnings and cash to the bottom line. So that's what we're doing.
+
+So thank you very much for your time today. We look forward to additional opportunities to share our progress in the future and I wish you all the best and have a great evening. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today’s presentation. You may now disconnect.

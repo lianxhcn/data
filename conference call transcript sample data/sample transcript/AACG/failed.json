@@ -1,0 +1,112 @@
+[
+    {
+        "title": "ATA Creativity Global 2025 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4810170-ata-creativity-global-2025-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2025 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4787576-ata-creativity-global-2025-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2024 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4770404-ata-creativity-global-2024-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2024 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4735099-ata-creativity-global-2024-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2024 Q2 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4713295-ata-creativity-global-2024-q2-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2024 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4693464-ata-creativity-global-2024-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global (AACG) Q4 2023 Earnings Call Transcript",
+        "link": "https://seekingalpha.com/article/4680648-ata-creativity-global-aacg-q4-2023-earnings-call-transcript",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "title": "ATA Creativity Global 2023 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4652376-ata-creativity-global-2023-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2022 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4591659-ata-creativity-global-2022-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2022 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4561580-ata-creativity-global-2022-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2020 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4416686-ata-creativity-global-2020-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2020 Q3 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4389763-ata-creativity-global-2020-q3-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2020 Q1 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4347989-ata-creativity-global-2020-q1-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Creativity Global 2019 Q4 - Results - Earnings Call Presentation",
+        "link": "https://seekingalpha.com/article/4335269-ata-creativity-global-2019-q4-results-earnings-call-presentation",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2019 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4286007-ata-inc-2019-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2019 Q1 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4263882-ata-inc-2019-q1-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2018 Q4 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4249124-ata-inc-2018-q4-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2018 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4220504-ata-inc-2018-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2018 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4199995-ata-inc-2018-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2018 Q1 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4173292-ata-inc-2018-q1-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2017 Q3 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4047753-ata-inc-2017-q3-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    },
+    {
+        "title": "ATA Inc. 2017 Q2 - Results - Earnings Call Slides",
+        "link": "https://seekingalpha.com/article/4022581-ata-inc-2017-q2-results-earnings-call-slides",
+        "error": "Locator.inner_text: Error: strict mode violation: locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\") resolved to 2 elements:\n    1) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").first\n    2) <div class=\"T2G6W\" data-test-id=\"content-container\">…</div> aka locator(\"[data-test-id=\\\"content-container\\\"]\").nth(1)\n\nCall log:\n  - waiting for locator(\"div.T2G6W[data-test-id=\\\"content-container\\\"]\")\n"
+    }
+]

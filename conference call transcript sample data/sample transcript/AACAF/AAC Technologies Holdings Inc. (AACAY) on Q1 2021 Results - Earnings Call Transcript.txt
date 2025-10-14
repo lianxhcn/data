@@ -1,0 +1,344 @@
+AAC Technologies Holdings Inc. (OTCPK:AACAY) Q1 2021 Earnings Conference Call May 13, 2021 3:50 AM ET
+
+Company Participants
+
+Dan Guo - CFO
+Kelvin Pan - EVP and CIO
+
+Conference Call Participants
+
+Tao Xu - Citic
+Frank He - HSBC
+Chi Tsai - Jeffries
+Kyna Wong - Credit Suisse
+Arthur Lai - Citi Research
+
+Operator
+
+Ladies and gentlemen, welcome to AAC Technology 2021 Q1 Results Investors Webcast and Conference Call. The presentation will be conducted in English and question-and-answer sessions will be in English and [indiscernible] in the live channel with English simultaneous interpretation in interpretation channel. At this time all participants are in a listen-only mode. [Operator Instructions]. I'll now hand over to your host today. Please go ahead.
+
+Unidentified Company Representative
+
+Good afternoon. Welcome to AAC Technologies Q1 2021 results conference call. I'm Maggie Huang, Investor Relations Director of AAC Technologies. I'm glad to have our CEO Mr. Benjamin Pan; Managing Director Mr. Richard Mok; EVP and CIO, Mr. Kelvin Pan; CFO, Ms. Dan Guo, and our Optics Business Group's Chairman, Mr. Jack Duan; and the CEO, Mr. Joe Kuen [ph] joining us today.
+
+Before we start, we would like to remind you that copies of our result announcements and the presentation are both available on our website. We would also like to draw your attention on the disclaimer on the last page of this presentation. Some information we discuss today may contain forward-looking statements. With that I'm going to present our results for the quarter.
+
+In the first quarter of 2021, the Group achieved revenue of RMB4.29 billion, representing a year-on-year increase of 20.6%. The demand of the global smartphone market is on a recovering trend. The major overseas customers' peak season had a delayed start in Q4 last year. Various business segments of the Group had further penetrated into domestic Android Market.
+
+All of the reasons above contributed to a significant year-on-year growth of the Group's total revenue. Benefiting from improved operating efficiency, effective cost control and continuous optimization of productive mix, the overall gross profit margin increased by 8 percentage points year-on-year to 31.2% and the net profit increased significantly year-on-year to RMB532 million.
+
+The revenue contributed by Optics business continued to increase in Q1 2021 which accounted for 15.7% of the total revenue, indicating our healthy growth trend of Optics business. For Optics business, the Group's market share continued to grow, while gross profit margin of plastic lenses reached 36.3%. For the 1g 5P hybrid lens product, mass production and shipment were completed in the first quarter of 2021.
+
+Differentiated user experience will accelerate the introduction of other high end hybrid lens projects. For the Camera Module business, shipments increased steadily. Gross profit margin started to turn positive in the first quarter, and high-end projects progressed smoothly. Acoustics segment enhanced the management efficiency, so the gross profit margin of Android acoustics products to improve. The standardized small cavity speaker module to be launched is expected to fit the market trend of stereo acoustics.
+
+By improving user experience, it will further strengthen the market competitiveness as well as profitability for the segment. For Electromagnetics Drives and the Precision Mechanics business, our haptic feedback solutions leverage on the high-performance x-axis haptic modules provides a high quality user experience for all application connections in the ecosystem.
+
+This helps to enhance customer's haptic perception in order to promote product upgrade, and integration of our customers. For the Precision Mechanics business, the Group expanded mostly in new businesses such as notebook and tablet. With respect to MEMS segment, our market share in a smartphone market further increased. Moving forward, the Group will accelerate the expansion in the IoT, smart home appliances, wearable devices and automotive markets.
+
+We believe our sound financial position is critical to the sustainability of the Group's development, which ensures the Group's ability to continue to innovate and develop in the future. As at 31 March, 2021 net operating cash inflow amounted to RMB872 million, with a CapEx of RMB1.1 billion. Out of the total CapEx, about 68% are for product lines and about 31% are for the construction.
+
+Net carrier ratio stood at a healthy level of 2.7% with a cash position of RMB6.71 billion as at 31 March. The Group remains prudence in financial management, and stringently manages capital expenditures and R&D expenses to conduct active liquidity management. In the first quarter of 2021, along with an increase in shipment of plastic lens and a steady growth of the camera module business revenue from the Optics segment increased by 175.7% year-on-year to RMB674 million.
+
+The production yield and the production efficiency of the Optics business have improved especially with overall gross profit margin increased by 18.1 percentage points year-on-year to 27.8%. The market share of the Group's plastic lens business further expanded with the steady improvement in the production yield and efficiency.
+
+So, gross profit margin of plastic lens products reached 36.3%, which indicated the Group's capabilities in terms of technology, operation, and production management had further improved. Their proportion of 6P and above high end plastic lenses has increased in Q1 2021 and is expected to increase continuously. Furthermore, we have successfully obtained the supplier certifications for certain Android flagship smartphones, and we'll steadily increase our market share among overseas Android customers.
+
+We will continue to optimize production costs and the product mix and expecting the gross profit margin continue to improve in 2021. The Group's unique WLG hybrid lens product will be mass produced and shipped as scheduled in the first quarter. So, customers' choice already released to the market. This is a milestone development for our Optics business. We received the positive feedback from our customers and we continue to work closely with customers on the application for this product in other mobile phone modules.
+
+Currently, we are having close dialogues with leading global OEMs with respect to the 1g 6P hybrid lens project. Project with two pieces of WLG flat lenses are steadily in progress. It is expected that samples will be sent to customers by the end of this year. In terms of production capacity extension, the Chongqing glass lens plant was completed at the end of last year and Czech molding tool plant is expected to be completed in the second quarter of this year.
+
+Our production capacity will be improved significantly, which will boost the customer's confidence to adopt hybrid lens instead of traditional plastic lens. The Camera Module business has shown a steady progress as planned. The Group's camera module R&D and manufacturing capabilities have been well recognized by customers. Its gross profit margin has turned positive in the first quarter of 2021. The high end 48 mega project is also on track.
+
+Going forward, the Group will continue to improve high end camera module manufacturing capabilities. Operation of the VCM production line has begun and certified shipments in small batches have been made to customers. In the first quarter of 2021, due to the major overseas customers peak season partially postponed, the revenue from the Acoustics segment increased by 47.5% year-on-year to RMB2.1 billion with the management of Acoustics product lines continue to be optimized under the cost reduction and efficiency enhancement efforts through project based closed loop management.
+
+So, gross profit margin rose by 11.4 percentage points year-on-year to 37.4%. With the stereo and multi-track solutions becoming standard features for flagship and foldable phones, and gradually penetrating into the low and mid-tier modules, we expected the multi size of the Acoustics industry to increase. With a smaller size and good sound quality, the Group standardized small cavity speaker module is seen to be perfectly fit to the stereo design and promote the popularity of stereo acoustics.
+
+The standardized small cavity speaker modules will be launched in Q2 2021. The standardized products will be able to fully leverage on the Group's advantages in automated production, thus effectively increasing the capacity utilization rate and improving the gross profit margin. In the first quarter of 2021, due to a decline in unit price for electromagnetic products from a major customer and the decrease in shipment volume of the metal casing business, revenue for the combined segment decreased by 27.3% year-on-year to RMB1.23 billion.
+
+Due to increased profit margin from the metal casing business, the combined gross profit margin for this business segment increased slightly by 1.9 percentage points from the same period last year to 25.5%. The total shipment volumes of x-axis haptic increased steadily year-on-year, mainly because we have successfully promoted the x-axis haptics to Android market.
+
+The Android haptics shipment increased by about 60% Q-on-Q. The haptics solution launched by the Group has a precise, exquisite and rich human computer interaction function, which provides the best user experience and enhances consumers' haptic perception. We have received positive feedbacks from the customers.
+
+The Group will continue to promote product upgrade and iteration for customers to improve end user experience. The fact of productive upgrade is expected to show more results in the fourth quarter of 2021, thus driving a potential multifold shipment volume growth in 2021. The Group's Precision Mechanics business was affected by customer shipment decline, and its revenue decreased notably compared to last year.
+
+However, benefiting from the flexible adjustment of production capacity and effective cost control measures, the gross profit margin remained relatively stable with a slight increase. Relying on the advanced precision manufacturing capabilities, the Group's metal casing business has gained leading market shares in the flagship modules and high-end smartphones among major customers. In response to an uncertain external environment, we are proactively expanding into different product markets.
+
+At the moment, we have successfully introduced multiple smartphone brands in metal casing business and entered notebook and tablet mechanics market. It is expected to result in higher production utilization and mitigate business risk. In the first quarter of 2021, given the increase in market share, revenue from the MEMS segment grew by 42.2% year-on-year to RMB283 million and gross profit margin remained stable from the same period last year to 16.7%.
+
+To meet the rising market demand, we have successfully expanded the production capacity of MEMS microphones this year to 120 million units per month. While maintaining our high market share in the smartphone market, the Group will continue to expand into IoT, smart home appliances, wearable devices and automotive markets.
+
+GWS earphones and notebook market have demand for product upgrades for microphones, with a higher signal to noise ratio, smaller size and a lower power consumption. For the market penetration in these markets we'll help to improve the proportion of high-end MEMS products. On sustainability front, we continue to strive for best practice for ESG in the industry. Our disclosure adheres to the top international standards, maintaining our high levels of transparency, and to be more efficient and the responsible ESG management.
+
+We've received several TST awards including HKICPA Best Corporate Governance Awards 2020, Grant Awards in Best Large Cap ESG Report, which fully demonstrates markets and industries recognition for our ESG performance and reporting. In addition, our ESG performance is well recognized internationally as well included in the FTSE Focus Index, and hence incorporate the sustainability index, and we received high ranking by MSCI.
+
+We hope to build a truly sustainable business, conscientious in the environmental, social and the governmental aspects with strong corporate governance and risk management structure to bring long term defensive investment of high growth potential to our shareholders. This concludes the overview of our Q1 financial results. There are more supplementary information in the Appendix section for your reference.
+
+Our management team are here to take your questions. You can ask questions in Chinese and English. We have simultaneous interpretation in other line from Chinese to English. Thanks.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. The first question is from Haitong [ph] Securities. Please raise your question.
+
+Unidentified Analyst
+
+I want to ask, the first question is about Acoustics. Because many people are concerned about Acoustics so, I want to ask the GP margin. There's a big increase to 30% and what's the reason behind and how sustainable it is? And before it was 40% so, whether it will return to 40%? So, how do you see the outlook of Acoustics?
+
+Dan Guo
+
+Okay, thank you for your question. I will answer the question first and then I will let other colleagues in the management to get the information. Generally speaking, last year we faced a severe situation and for the last year's Q1 the baseline was low, but for this year the Q1 is resuming and according to the IDC, the QE, the global shipment volume for cell phone is increasing and global is also in the high digit growth.
+
+Therefore, the overall shipment volume is very good. And in terms of the Acoustics and the gross margin has reached 37.4%. It has two reasons. The first is related to the overseas clients. And we have a very sound GP margin and we are also influenced by the external factors. And as some of the peak sales was postponed to this quarter and this boosted the sales of our Acoustics.
+
+And other than the external factors, we also shared about the information on our management improvements and we have a detailed management and those improvements and upgrading of the management also help the growth of our GP margin. So, for the Android and it increased 4 percentage points to 27%. For Q2, it is relatively low season in sales. And we are also influenced by the upstream receipts market.
+
+So, it depends on the specific situation of the market. But all-in-all, we still will see an experimental an increase in the smartphone market and the market is also focusing on the differentiation features of different smartphones. So, for this upward trend and also the increase of the smartphones, and those are the positive factors to us. So, combined both external and internal factors, we have the confidence for the GP margin and we still have a prudent attitude towards the GP margin.
+
+Unidentified Company Representative
+
+Okay, I will add a little. So, this is about the GP margin on Acoustics. I also want to mention that and we emphasize we are a technology oriented and technology platform is important for us. And we also see our structural reform in this GP margin. And Miss Guo mentioned the gross margin is less than 27% - is about 27% and in the future and this will become stronger.
+
+And this is due to this small cavity speaker modules and all the market promoting the stereo products. So, this is a very important product. And this causes a structural reform and change for us it's not related to the price and in the new platform the price is a little increased, but more importantly based on this small cavity speaker module, it caused a fundamental change to this Android system.
+
+And in the past, we had these 300 to 400 modules. But since last quarter and also for this quarter, the change will be very obvious. So, we will maintain the user experience while develop the small cavity speaker and this is very important for us. And we don't have certain model. We don't have certain modules. And the modules will reduce from 300 to 400 to 200. And in next year, it's about 100 and which significantly improved our production and also the efficiency of our productivity.
+
+So, in terms of the GP margin of Acoustics, we have already returned the profitability track and our GP margin track years ago.
+
+Unidentified Analyst
+
+My second question is Optics and this introduction is very detailed. You talked about the Czech plant and Chongqing plant, and the overall deployment is broad, and WLG is mass produced and is shipped. So, what's the strategy on this segment? Any change on strategy? With the Acoustics, it sounds the upgrading, and some clients were joined. So, we witnessed a lot of change in the Android market. So, with the change of the market how do we cope with those changes?
+
+Unidentified Company Representative
+
+For the Optics, especially on the export, we are still following our strategy. You will remember, in the past, many people think there was a big gap between the productivity margin and the GP margin. And actually, the plastic lens gross margin is about 36%. And in the second quarter, this trend, this momentum will be stronger. And for the fourth quarter and the third quarter, and our target and expectation of the gross margin is about 40%. And we have very prudent attitude towards the legacy of the plastic lens.
+
+And we will also have this strategy. And for the plastic lens, we emphasize the cost. The cost represents our technology, and the digitalization technology as well as management efficiency. And from the statistics of first quarter, it will continue to prove our strategy is correct. So, from the ASP and some companies in industry have the first mistake attitude toward the ASP but for us, we think ASP is continuing to decline because of the technology improvements.
+
+And for this plastic lens, we think that we're still in the growth because the industry is so welcoming. And second, we still think we prefer this type glass, the plastic, it will be a very good strength and the glass plastic this is the future trend. So, based on this structure, we think the future trends of the hybrid lens and glass plastic will become strong.
+
+And we also have the WLG technology, they can meet the need of the higher requirements of the smartphone and also the cameras demand and the GMOs mass production has a large gap between WLG and we have already proved that. Our main clients are the method. So, from the development of Optics, with the completion of our plants in Chongqing and Czech, we are just followed our plan and our WLG challenge but million production capacity and an extra step we will challenge a 10 million to 15 million production capacity.
+
+Maybe there's a little delay than our expectation but from this strategy as well as the value and statistics, we can confirm it future development.
+
+Operator
+
+Thank you for your question. Next question is from [indiscernible]
+
+Unidentified Analyst
+
+Good afternoon, I have several questions. First, I'd like to ask about the Optics, and you are talking about the continued growth of our Optics. And we don't have a very obvious growth in the first quarter, so this is my first question. And the Q1 and Q4, in terms of their gross margin, the growth is very obvious and prominent. Okay.
+
+And for our Optics, actually, the ISO is in a great growth, and they've improved significantly. It is due to our production yield?
+
+Unidentified Company Representative
+
+The gross margin reflected this cost control and the detailed management and those are our core competitiveness. So, from the first - the fourth quarter 28%. And we improved it to over 30%. Another thing I want to comment on the product mix, we shed our lights on the structural optimization of our plastic lens, and for this 6th year [ph] 4% it also improved. And for this ASP it also has a steady growth. So those are the important sectors. So, we are not only considering the segment volume, the cost control as well as ASP level are also important for us.
+
+Unidentified Analyst
+
+And for the Optics and for plastic lens, the revenue is about 100 million. So, can you give the interest give the breakdown other than this and the profitability of the optics? And also, this the loss of the optics was the information.
+
+Unidentified Company Representative
+
+Yes. And another road area is from the module. And they're filled with module is about 15% and it increased to 25%. And this growth is prominent. For the modules, we started to expand its production capacity, but the gross margin has already reached a high due to its high single digit growth. And this is a very prominent phenomenon in industry.
+
+Second, our plan, the production capacity is in line with the demand of our clients. I will make some supplements. For the Q1 our Optics is still profitable.
+
+Unidentified Analyst
+
+So, it's not reviewed in our reports?
+
+Unidentified Company Representative
+
+Actually, Optics contributed to our net profit. Yes, so this is a very good thing.
+
+Unidentified Analyst
+
+Yeah, so the net profit is positive and profitable in Q1 right?
+
+Unidentified Company Representative
+
+Yes. So, I just want to clarify that. For the second point, other than the plastic lens and the modules accounted largest percentage and other than G plus P and this is for the future momentum of the Optics.
+
+Unidentified Analyst
+
+And will we have to the 7P and 8P?
+
+Unidentified Company Representative
+
+Actually, the P doesn't mean profit, p means percent. It means 7% to 8% and those are in the discussion in our Android clients, so, that's also we have the confidence in the WLG. And we also see this GP margin growth and the growth is also related to the demands of our clients and our clients need to be the main supplier and for the modules we also have our major clients.
+
+And for the first quarter, we ourselves have embarked in Q2 and Q3 and even Q4 we will become the Android systems main supplier. But we still have follow our own plans to lay a very solid foundation for our development.
+
+Unidentified Analyst
+
+WLG, I have another question. You also talked about 1g 6P and this will be delivered in the end of this year right. So, any other key products or other main projects on WLG?
+
+Unidentified Company Representative
+
+We mentioned the product in the end of this year and this is very confirmed. And for those main Android clients, we have three to five projects in the program. But at present, we cannot confirm whether this will be completed in the end of this year or not. So, we wanted to show our clients to our plants in Chongqing and Czech. We want to show that we have this confirmed production capacity to our clients first.
+
+Operator
+
+Thank you for your question. Next question is from Citic.
+
+Tao Xu
+
+Good afternoon. We talked about Optics and Acoustics. But I want to know more information on the management reform and exchange. So, what's the reform? And what's the detailed things on the management?
+
+Dan Guo
+
+So compared with this strategy of three to four years, was the biggest change for the future development. Maybe we invite Kelvin to answer this question.
+
+Kelvin Pan
+
+For the management reform monitoring just not only referred to our management it's also covered on our business and structure. And multi-product structure needs more efficient management and a system. So based on this, we propose the reform on the management. And the results and our business, most things have already shown the efficiency of our reform in the management. And at the beginning of 2020, we did change our departments and we also set a clear target goal in each production line.
+
+Example, the new strategies on the report is results and the fruit of the reform of the management. So, we have actively planned for our production and business development in the future. So, it does not only include the traditional business, but also some new business segments like automobile and IoT et cetera.
+
+And for us the management reform or before reform under management, it includes several aspects. First, each production line and each departments are closed loop management and this will increase the efficiency of our department. And second, for the AAC Optics we have this incentive, equity incentive scheme and this we also extended to other departments. Third, already closed loop of management must be directly linked to the incentive scheme.
+
+So, other than the value proposals and the short and long term strategy and we think the efficiency will be largely improved based on this reform under management.
+
+Tao Xu
+
+Okay, thank you very much.
+
+Operator
+
+Thank you for your question. Next question is from HSBC.
+
+Frank He
+
+Good afternoon, I want to ask two questions. The first one is our electromagnetic drives and precision mechanics, and we saw the decline in the revenue and you also mentioned the price decline of the client. So, this is the general situation in Android system or in the industry can you elaborate on it? And in the second quarter, you talked about the laptop, notebook whether this will boost the revenue on this segment?
+
+Dan Guo
+
+Thank you, Frank for the questions and for our drives and precision mechanics, the decline of their sales is related to different departments and aspects and also the other price cost of our clients. They will influence the revenue and also the reduction of the segment value of Android products. And those are the reasons for the revenue reduction.
+
+And for us, we actively develop into the laptops and notebooks and they have already created revenue for us. And even we tap into the tablets. And we will increase our production efficiency and our gross margin. And it's not easy for us to comment on the Export clients because of the confidentiality. But I want to emphasize another driver is from the motor Android end.
+
+The shipment volume is seeing great growth in the last several quarters and the growth is about 60% to 70%. And the gross margin is sound and for example, our x-axis haptics motors. This will help to solve the problems and also increase the customer experience as well as gain the market share and based on those technology and we think this will help us to increase gross margin.
+
+Frank He
+
+My second question is Optics. And the gross margin is increasing on the lenses and for the ASP is also hiking. Therefore, I want to ask whether we still have the potential to increase our gross margin and for the Q2 many people estimated it will not be large shipment volume of the smartphone. So, any reasons you want to share?
+
+Dan Guo
+
+And from the perspective of plastic lens. Q2, we used the same production equipment, but the efficiency will be increased and this is due to the management and its technology and based on the statistics. The Q2 shipment will be bigger than the first quarter and this is due to our expansion of our business and work. So, those are the fundamentals for our growth.
+
+And in terms of the ASP, 60 the price will hike and we also had some adjustments on a traditional and old product, then this is in line with what you have heard in the market. So, the gross margin is there from technology and also the efficiency of the shipment volume.
+
+Frank He
+
+Okay, thank you.
+
+Operator
+
+Next question is from Jeffries, Chi Tsai.
+
+Chi Tsai
+
+First question I want to ask about modules and Miss Guo mentioned starting from this quarters our modules in in high efficiency. And for this module we just started last year, so why the growth rate is big? So, what's the outlook for the modules business?
+
+Dan Guo
+
+I can answer the question. For the module's development, it's based on several aspects. And we also change the management concept based on the traditional business, traditional Acoustics and Optics, we self-develop technology and also learn from the outside experts, but for modules and we can rely on the talents of the industry.
+
+So, modules become the first segment for us. And we accumulate and invite the talents of the industry to form a team for us. Therefore, the development of module is promising and the module development is stronger than the first quarter and the production capacity as well as customer demand matched and we have 45 million and also the 64 MP and even for some - as well other industries.
+
+We want to extend our business to those markets then those are based on the technology development and also invited working space. So, management and also the reform of our business department and compared with our competitors, we have our advantages as well as disadvantages. We have those incentive schemes and closed loop management.
+
+And for some assurance production line, we need to find the experts and the talent as soon as possible to speed up our development. So, this must be in line with the overall reform and efficiency improvement of management.
+
+Chi Tsai
+
+Okay, I - my second question, when we see the shipment volume of a smartphone for the second quarter is weakening. And the other sectors for example, the pandemic in India is an out of control whether those will influence our Q2?
+
+Dan Guo
+
+If there's some change on the external demands or exchange of the pandemic, this will cause impact on us and we are proactively discussing with our clients on the production plan. But last year, we also experienced the monetary market but even in such a severe situation we also faced, for example, the shortage of the chips but we still observe an [ph] outreach Q-on-Q increase.
+
+Facing up this CBO situation of last year, we constantly improved our detailed management and cost control and reform of our structure and the management and we achieved the results on the closed loop management. And this is also related to our results and performance. And with this linkage of the results and performance, and I think we will continue to improve our profitability.
+
+Chi Tsai
+
+Thank you very much. No further questions.
+
+Operator
+
+Thank you. Next question is from Credit Suisse, Kyna Wong.
+
+Kyna Wong
+
+Thank you, management. And my first question is on the Android haptics. You told that, this appears results in Q4 and this is a multiple shipments growth. So, this is on the retail projects or the large influx of customers? And my second question is Optics. Module will reach to scale effects. So, I want to ask, when you can disclose the shipment volume and the vertical integration. I want to know the deployments and the plans on ECM in your operation. So, what's the performance or any result on cost control or any influence on the gross margin of module?
+
+Dan Guo
+
+For the Android haptics module, I would like to invite Kelvin to answer.
+
+Kelvin Pan
+
+Okay, see related to the overall production lines and uncertainties for the Android haptics model, it is market driven and in different scenarios in social media, we can observe that the client shows high expectation on some gaming model and also those social media scenarios and this is the new demand. And from the market we also observed that many Android top clients were actively cooperate with us.
+
+And we have the high cost-effective solution and approved us on this model so it helped those young customers to experience the new model. So, this will create the macro trend which is based on the ecosystem and also the long-term Android deployment and Q1 is just a start. And we think we will continue to unseal growth. And based on our customers demand and also the market, we are still in the preliminary stage.
+
+For your second question modules, we also talked before that the modules production and the layout are in the steady expansion and currently, we have 15 production lines and every month it's about 7 million to 8 million per month for the production capacity. And based on the market demand, we will - we may expand the business production line to setting lines. Of course, we have heard the prudent attitude and module's gross margin for this quarter has very obviously increase and next quarter is negative and this quarter is positive. And with the scale effect, we are actively and have this confidence for its gross margin of the whole year.
+
+Kyna Wong
+
+I also want to ask about the Optics. The imagery of the Optics, in the past we have the improvement of the production output. So, whether this is in line with your previous plan and strategy and in Q2 and in Q3, and this imagery will reach a normalized level which is for Optics?
+
+Dan Guo
+
+In terms of imagery, the production capacity is growing. So, the production will be higher than the ISOs that our production is in line with the demand of our clients and based on our overall production, and it is similar to last year's level and we have the confidence in the future we will actively promote their sales and also this will match our production output.
+
+Operator
+
+Due to the time constraints, we will have the master question. The question is from Citi Research.
+
+Arthur Lai
+
+Thank you, Mr. Pan and Miss Guo. I have two questions. The first question you talked about the electronics. So, from next three to five years, what's the opportunity - What are the opportunities you can share to the long-term investors? And the second question is the high-end smartphones. You mentioned on those gain smartphones and then there's a big upgrade. And in the recent example, April and the May, I watched the sales situation of the smartphone in the market. And we also heard these weakening sales in the market in recent months. So, what's your opinion on this regard?
+
+Kelvin Pan
+
+As for your first question, for the new deployments and the plan on the new business segment, the automobile and electronics we see some obvious trends. The first is the movie and this will grow --bring big changes to the business. And the second is on the passenger cars. The passenger cars are in the operating and transitional period. So those are the driving forces for us.
+
+And we are actively to discuss with the automobile companies and also their clients, where we have detailed progress, I will disclose the information for you. As far as I know, our technologies from the macro technology and so, we have a lot of opportunities for us to breakthrough. And also, we can create a differentiation based on those endpoints.
+
+And it's easier for us to be created and for the gain smartphone for any new high-end smartphones, the positions has higher requirements for us and in order to support them, we will focus on the scenario application. So, we will focus on the scenario which support, the scenario supported not only limited on their smartphones, and did a trackpad on notebooks or the other gains of equipment. Those are the new business areas we can tap in.
+
+Would you please repeat the last part of your question?
+
+Arthur Lai
+
+Yes, sure.
+
+Kelvin Pan
+
+So, you're asking the sales volume from high-end smartphones.
+
+Arthur Lai
+
+So, whether you see any recognition and acceptance of those high-end smartphone. So, any figures on the terminal sales?
+
+Dan Guo
+
+And for our shipment volume is maintained at high growth. And Kelvin also mentioned our company is focusing on the clients demand and we offer our differentiated and a unique solution. And actually, we are emitting the transition of the whole industry not only in the Android haptic models. In different segments, we wanted to offer our customized and represented solutions. Therefore, to increase the value of the whole industry and based on this, we will need to gain more market share and also increase our profitability.
+
+Yes, this is also related to the market situation and it's not convenient for us to comment on others. And for the Chinese market, the need in high-end market, especially on the customer experience in Acoustic and Optics and haptic driven market. Generally speaking, I think it meets the expectation and in some public information, you can also see that the shortage of chips and the concern of the market cannot be overlap the concerns. So, this just kind of a reminder, and the statistics also support our opinion.
+
+If the functions cannot improve in customer experience, we can make some adjustments on their service. It's also very normal. I think the 5G smartphone is very active in the market. So, whether this will boost our sales, it's hard to say so, that's why we emphasize the experience and Acoustic drives and OS Optics drives and also other customer experience is similar in the Acoustics.
+
+In terms of the software and the hardware, we have reached the preliminary stage. The Android haptic model will have a great growth and we think and this will be a very helpful sector itself. And with the development of haptics, it will boost the sales and increase the customer experience and our efforts is very confirmed according to the results of our quarterly results.
+
+Operator
+
+Any supplements from management?
+
+Unidentified Company Representative
+
+No further comments. Operator you can conclude this session.

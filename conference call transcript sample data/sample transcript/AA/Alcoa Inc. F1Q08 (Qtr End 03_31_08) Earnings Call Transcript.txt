@@ -1,0 +1,246 @@
+Alcoa Inc. (NYSE:AA) Q1 2008 Earnings Call April 7, 2008 5:00 AM ET
+
+Executives
+
+
+Greg Aschman – Director, Investor Relations
+Alain Belda – Chairman & CEO
+Charles McLane – Executive VP & CFO
+Klaus Kleinfeld – President & COO
+
+Analysts
+
+
+John Hill – Citigroup
+Michael Gambardella – J.P. Morgan
+Lloyd O’Carroll – Davenport & Co. Of Virginia, Inc.
+Harry Mateer – Lehman Brothers
+Charles Bradford – Soleil – Bradford Research
+
+Operator
+
+Good day ladies and gentlemen and welcome to the first quarter 2008 Alcoa earnings conference call. (Operator Instructions) I would now like to turn the call over to Mr. Greg Aschman, Director of Investor Relations.
+
+Greg Aschman
+
+Good evening everyone and thank you for attending Alcoa’s first quarter 2008 analyst conference. At today’s conference Chuck McLane, Executive Vice President and Chief Financial Officer will review the first quarter financial results as well as current market conditions. Alain Belda, Chairman and CEO will make a few comments and introduce our final speaker, Klaus Kleinfeld, President and Chief Operating Officer who will provide a review of the industry and Alcoa’s strategic priorities.
+
+Before I turn it over to Chuck I would like to remind you that in discussing the company’s performance today, we have included some forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements relate to future events and expectations and involve known and unknown risks and uncertainties. Alcoa’s actual results or actions may differ materially from those projected in the forward-looking statements. For a summary of the specific risk factors that could cause results to differ materially from those expressed in the forward-looking statements, please refer to Alcoa’s Form 10-K for the year ended December 31, 2007 filed with the Securities and Exchange Commission. In our discussion today we have also included some non-GAAP financial measures. You can find our presentation of the most directly comparable GAAP financial measures calculated in accordance with generally accepted accounting principals and our related reconciliation on our website at www.alcoa.com under the Invest section.
+
+At this point, let me turn it over to Chuck.
+
+Charles McLane
+
+Thanks Greg. Before I dive into the quarterly results, a quick summary of the market conditions and other drivers of profitability are in order. First and most importantly the global aluminum market fundamentals continue to be strong and are supporting higher prices. Several North American and European end markets are weak or weakening and the deterioration of the US dollar and higher energy costs are a significant drag on margins.
+
+Our new Iceland smelter is nearing completion of its start-up and our Pinjarra refinery is running at target production rates. Russia is showing productivity improvements and our engineered products and solutions segment set revenue and profitability records in the quarter. With that as a backdrop, let’s review the financial results.
+
+Earnings for the quarter were $303 million or $0.37 per share, $361 million or $0.44 per share excluding the affect from the packaging and consumer sale. As expected once we completed the majority of the packaging divestiture an adjustment was made to firm up the financial impact of the transaction. We recorded a loss of $58 million or $0.07 per share most of which stems from an increase to the book value and additional tax adjustments.
+
+Also affecting the results is a $68 million or $0.08 per share negative sequential impact associated with the decline in the US dollar against our other major currencies, $48 million of this impact or $0.06 per share is related to currency translation which is non-cash in nature. While dollar weakness had a negative impact its important to note that a significant portion of our operations in the US putting us in a favorable position to most of our competition on that front. We continued to operate within our targeted debt-to-cap range at 31.5% and our return on capital remains at double-digits even with the growth capital included.
+
+So let’s take a look at the income statement. The completion of the packaging divestiture makes a comparison between the two periods difficult. So let me comment on the sequential impact excluding the packaging segment. Revenue increased $400 million or 6%. Cost of goods sold and SG&A as a percent of sales were down 400 and 60 basis points respectively. And segment ATOI increased 42% with engineered products and solutions having a record quarter.
+
+The financial adjustment for packaging can be found under both the restructuring and the effective tax rate lines. The operating effective tax rate for the quarter excluding the adjustment would stand at approximately 29%. Turning next to our sequential bridge, price mix, volume and productivity more than offset increases to cost and energy and also negated the unfavorable currency impacts. This was outstanding performance particularly considering the raw material and energy increases affecting the entire industry. Higher LME price improved results by $103 million and the loss of income for packaging reduced results by $45 million.
+
+Let me take a minute and elaborate on currency. We provide a currency impact to bridge profitability from one period to the next. As you are aware, the US dollar has continued to deteriorate against most of the major currencies in regions where we have operations. A portion of the currency is related to the actual economic impact. For example, costs are incurred in a local currency while revenue is US dollars. The other portion of the currency impact relates to currency translation which is the impact of translating balance sheet items back to the functional currency. These costs are non-cash in nature and fluctuate from period to period.
+
+Before I discuss the segment let me first explain the realignment that has occurred. Our portfolio has changed significantly with the recent divestitures of packaging and auto castings along with the JV for our soft alloy extrusions. Therefore we have altered the number of reporting segments. The major changes are the elimination of the extruded and end product segment and moving businesses into the appropriately managed segments. The major elements of this reclassification are the movement of the building and construction business to the engineered products and solutions segment and the movement of the hard alloy extrusion business to the flat-roll product segment.
+
+We have restated all prior periods to conform to this revised structure and we have provided a reconciliation in the appendix for your convenience.
+
+Now let’s move through the segment review starting with Alumina. ATOI and the Alumina segment decreased $36 million sequentially. Third party shipments were 2% lower while productions were up marginally from the fourth quarter. As we discussed previously, the best guide for pricing in this segment is LME pricing on a two month lag. Realized pricing was slightly lower matching this benchmark. The strengthening Australian dollar and the Brazilian Real reduced profitability by $14 million and higher energy costs of $12 million were evenly split between natural gas and fuel oil. As we move to the next quarter we anticipate a positive impact from higher pricing with continued cost pressures on currency risk.
+
+Moving to the primary segment, primary production increased 4% in the quarter driven essentially by the start-up of Iceland. By the end of the quarter Iceland was running at 90% of capacity and is expected to reach 100% during the second quarter. ATOI in this segment benefited from higher than anticipated realized pricing as we were able to price more product in a tighter window and not to span the 30-day lag. The higher prices were partially offset by the weaker US dollar and higher carbon prices. As we look ahead, March LME prices have provided a strong start to the second quarter. We anticipate continued pressure from energy and material costs and continuing improved production levels and efficiencies at Iceland.
+
+Moving to the flat-roll product segment, sequentially this segment showed marked improvement yet is down on a year-over-year basis. Weak market conditions within automotive, commercial transportation and distribution have persisted from the fourth quarter. In addition higher alloying material costs particularly magnesium and manganese have hurt results. Productivity improvement within Russia and Australia and improved pricing were the primary drivers for the sequential improvement. Looking ahead to the second quarter we would expect the North American automotive and general industrial markets to continue at their depressed levels with a seasonal increase in can sheet. We also expect improved results in Russia. Europe should see a seasonal improvement in the second quarter even though the building and construction markets are declining across much of the region.
+
+Now let’s move to the engineered products and solutions segment, EPS demonstrated outstanding results for the quarter. Record revenues, record margins, record earnings and record returns marked this quarter’s performance. This segment more than offset softness in the North American automotive and commercial transportation markets by strength in aerospace and industrial gas turbines and share gain across all markets, all of which led to a record revenue of $1.8 billion for the quarter. Additionally, productivity improvements in the aerospace and forgings business coupled with continued progress in the automotive turn around enabled the record ATOI performance at $138 million. Looking forward to the second quarter we anticipate continued strength in the aerospace and IGT markets as well as a seasonal increase in building and construction. This will be partially offset by the continued softness in the North American automotive and commercial transportation markets.
+
+Now that we’ve covered the segments, let’s move on to the cash flow statement. Cash from operations was reduced as cash was utilized to increase working capital. As prices increased working capital will increase proportionately. In addition days of working capital usually increase in the first quarter as inventories are built for the seasonally higher second quarter. Our day’s working capital was higher than the fourth quarter yet they were actually down almost five days versus the first quarter of 2007. We completed a major portion of the packaging divestiture at the end of February which generated proceeds of $2.5 billion with another $200 million expected in the second quarter.
+
+We repurchased 14 million shares in the first quarter at an average price of $30.79. That now brings our share repurchase program up to 9.2% against our Board authorized level of 25%. Gross capital represented 60% of the capital expenditures in the period and over 70% of the growth spend is captured in two projects; Sao Luis refinery expansion and Juruti bauxite mine. We acquired Republic and Van Petty, two fastener acquisitions which will provide profitable growth and immediate cash flows. And as you know, we also participated in a strategic investment with our Chinese partners, Chinalco.
+
+We continue to manage our capital structure in a manner to provide organic and inquisitive growth and to obviously enhance shareholder value in the process. I’d now like to review the current industry market conditions. We now anticipate global primary aluminum consumption to increase 8.5% or over 300 million metric tons in 2008. This is about 400,000 tons or 1% lower than our previous guidance. What is striking is how global fundaments remain strong despite the flat to lower consumption in most of the mature markets. In fact US aluminum shipments by distributors are down 6.7% through February and based on the outlook for the automotive, commercial transportation and the building and construction markets, we now envision a reduction in consumption of 5% for North America.
+
+The silver lining in that is that the distributor inventories are down 22% so as the manufacturing sector begins to improve there will be an immediate need to meet higher demand and restock the supply chains. On the growth side, China, India, Vietnam, Thailand and Russia remain strong and we believe will continue beyond 2008 given the ongoing industrialization and infrastructure projects occurring within these countries.
+
+Let’s look at the current inventory levels. While the absolute tonnage of worldwide aluminum inventory has increased recently, the global days of consumption in inventory remain low by historic standards. The slight increase from the end of the year still remains at levels two days under the same period last year.
+
+Turning now to our projections for supply and demand balance for the industry, while we’ve seen weakness on the consumption side we’ve also seen constraints on the supply side. We believe that the net effects of the well-publicized weather and power issues in places like China and South Africa will dampen global production by approximately 700,000 tons. That lowers our projected aluminum surplus to less than 100,000 tons or essentially in balance for the year.
+
+I’d now like to take a minute and comment on the end markets. We continue to project that all of our end markets will grow on a global basis in 2008, although there will be strong regional disparities. That growth comes in the face of a second straight year of decline in North America and modest growth in Europe. North America is heading for decline this year of 5%; remember that’s on top of almost 10% decline in 2007.
+
+So let’s take a quick review by market. The aerospace market remains strong with commercial delivery rates expected to be up 13% year-over-year. We expect this current up cycle to last at least through the next several years. While global automotive production in the quarter was up roughly 3% year-over-year North American production posted a 7% decline and the Detroit Three had an 18% decrease for the first quarter. Looking ahead we expect 2008 volume in North America to fall further than originally forecast to levels not seen in over a decade. However, we continue to take advantage of strengthening auto demand in Eastern Europe and Russia with our wheels and power train applications. We project European heavy truck demand to remain fairly robust for the year, up slightly versus 2007 driven by the Central and Eastern European economic expansion. North American heavy truck and trailer markets are down approximately 30% from the first quarter of ’07. Economic fundamentals do not suggest a strong demand recovery in North America until the end of this year. But we will mitigate a portion of the North American decline through the growing market penetration of aluminum truck wheels, and increased sales of higher value-added products such as Dura-Bright and new fastener products.
+
+Although the commercial building and construction market remains strong on a global basis, North America will feel the impact of tighter credit conditions on commercial buildings and it is expected to contract by 3% for the year. Finally industrial gas turbine demand continues to strengthen with an expected double-digit growth rate driven by Europe and the Middle East. In addition turbine utilization is up thereby increasing demand for spare parts. So stopping where I started, weak end markets in North America and Europe are not significantly affecting the overall strong aluminum fundamentals. That macro strength coupled with our growth projects coming to fruition, our ongoing productivity improvements and the host of innovative products we have before us, we are clearly optimistic about the future within Alcoa.
+
+I’d now like to turn it over to Alain who will introduce Klaus.
+
+Alain Belda
+
+Thanks Chuck. Klaus has been a member of our Board of Directors since 2003 when he was at the time President of Siemens’ North America. He is now our President and Chief Operating Officer since October. He is a seasoned leader who sets ambitious profitability and growth targets and who looks at competition and market based data to it. I have asked him to outline for you today what he has seen so far in his tenure as a full-time Alcoan and outline what he sees as our key strategic priorities moving forward. So with that, it’s a pleasure to introduce Klaus.
+
+Klaus Kleinfeld
+
+Thank you very much Alain. As Alain just described I’ve been on the Alcoa Board since 2003. In that year as well as in the last six months as being a Chief Operating Officer, I’ve met a lot of Alcoans. I’ve visited many locations covering basically all the major regions and all of our groups. I’ve spoken to many employees. I’ve connected with dozens of customers and I’ve seen a lot of best practices. I’ve listened to a lot of customer feedback and discussed in this regard a lot of the challenges as well as the opportunities of Alcoa.
+
+I must say what I’ve seen there is a company that is deeply rooted in values, that has an excellent talent base, great dreams, tremendous opportunities and I really say from the bottom of my heart I am excited to be a full-time Alcoan and to join the 97,000 Alcoans around here.
+
+Today as Alain just said I’d like to share my view on the industry as well as on the strategic priorities. Let’s start with where Chuck left it. Chuck has described several factors that are contributing to the current industry growth and the tightness of supply. I think one has to see that in the larger perspective as we all are in a world that is currently changing substantially and there’s probably very few industries like ours where you can see the impact of these trends in a more pronounced way.
+
+These changes that I described here on that chart are lasting and I would basically attribute them to three factors which I would call the mega trends. Number one, globalization, urbanization and changing demographics. These mega trends fuel massive change like the entries of the amount for natural resources and obviously driving up prices for those goods. They also create numerous opportunities for Alcoa as aluminum, as a metal, has wonderful characteristics; lightweight, recyclable, and conductivity and Alcoa has pretty good market leading capabilities. So let me give you two specific examples that show the consequences of the mega trends.
+
+Let’s start first with the globalization, globalization comes along with and requires an increased mobility and as one consequence that leads to a stronger aerospace demand. We are very well positioned in the aerospace market. We have a lot of things to offer here. We have a leading edge product portfolio with structural components, fasteners, engine components. We have extremely good customer relationships and we have a global supply base.
+
+The second example we are seeing urbanization, currently more and more people are living in cities. It was last year when for the first time on this planet, more people lived in cities than outside of cities. This comes along with a need for more physical infrastructure to shelter those people and to service them. It comes along with more demand for buildings and construction and mass transportation. And again the metal that is contributing here with the capabilities of being recyclable and lightweight aluminum critical for the growth of those markets. Given those trends we believe that the aluminum consumption is on a solid growth trajectory. We project that demand will grow at about 6% annual over the next decade. This would match the growth rate of the last ten years.
+
+Interestingly if you just look at the price increases in the last decade you actually have a higher rate; its 8% over those years and a compound annual growth rate which clearly reflects the tightness on the supply demand side. The growth as you can see on this chart is pretty strongly fueled by Asia and particularly China; we’re anticipating an annual growth rate of 9% in the next decade.
+
+And certainly I would not disagree if you were to say that’s probably a rather conservative estimate as it really reflects only half of the rate experienced in the last ten years. One thing is also for sure, serving this additional 30 million tons of aluminum demand will not be easy. It will be extremely important access to reliable power and quality bauxite, those will be the two most critical factors and as we’ve just seen with the recent events in South Africa and China these are really critical factors and they will probably become even more critical.
+
+The good news is Alcoa is a company that has growth and innovation in its DNA basically from the first days on the date of inception 120 years ago. Our company has invented this industry and has constantly reshaped itself and we will continue to use our creativity, our knowledge, our business sense to grow the aluminum industry and even be more successful as a player in it.
+
+We have really used the last few years to further strengthen our foundation by executing various growth projects, actively managing our portfolio as well as applying the disciplined capital management. Let’s look at our growth projects.
+
+We are investing to improve on our already best in class bauxite and refining methods. In Iceland we’ve completed our first greenfield smelter in over 20 years and we know have 90% of the pots in operation. We are investing in self-generation power facilities in North America and Brazil. We have successfully demonstrated our ability to renegotiate existing power contracts and I will give you a little bit of more color on this later. And we’ve expanded our global rolling reach and capacity particularly in arrow sheet and plate as well as we are expanding into Russia and China, markets that are significantly growing. And last but not least, we just acquired two fastening companies.
+
+As you can see we’ve done a lot. The good news is we have a full pipeline of opportunities for further profitable growth. Let me just show you our growth pipeline for the primary business. Each circle that you see here on this slide represents a specific project. Well as we all know, not each one of those projects will come to realization and one thing that I can absolutely assure you we will continue to exhibit a prudent capital allocation to ensure that there is a good risk return combination for our shareholders. The pipeline, and that’s the good news here, you can see it is nicely filled. It’s a wonderful position to start from. Often as you can see we are the partner of choice and mainly because of our sustainability achievements and our cutting edge R&D capabilities. This sets us apart from all of our competitors.
+
+But not only do we grow we are also constantly reshaping and upgrading our portfolio. For example, we have sold packaging and auto casting. We created a joint venture with [inaudible] for our soft alloy extrusion business. In light of this, let’s also talk about China. Our partnership with Chinalco was established in the year 2000 when we agreed to participate in the IPO of Chinalco. Our investment, we realized were very strong out of this for our shareholders and it helped to establish also a good position for Chinalco as a leading Chinese metals and mining company. Our joint investment now in RTZ is an important next step in our relationship. We acquired 12% of Rio Tinto’s UK shares which is 9% of the total worldwide shares. By the way, this has been the largest offshore investment in Chinese corporate history.
+
+It is providing tremendous opportunity to continue our corporation. This partnership gives both companies options to deliver value to their respective shareholders as the industry landscape continues to change. We have ongoing communication with Chairman Chow and his leadership team to discuss various options for the future. In fact two weeks ago I was in Beijing doing exactly that. I am confident that this investment will reap long-term value for our shareholders. While we invested in future growth, we’ve also been able to display disciplined capital management. Over the past year we executed a debt restructuring program which doubled the average maturity at roughly the same cost. We’ve increased the dividends by 13% at the beginning of 2007. We maintained our target 30% to 35% debt to capital ratio during a period of peak CapEx spend and we repurchased approximately 9% of our common stock.
+
+In summary, I believe that these are all great achievements. They have placed ourselves in a good position to capitalize on the industry fundamentals and growth perspective. So let’s move gear and talk a little bit about the current priorities going into the future.
+
+Now let me give you a little bit of how we want to continue to great value for our shareholders. We are driving three strategic priorities; profitable growth in every business, discipline execution in getting from ideas to cash and the Alcoa advantage and value generator. Let me take some time to review each one of those and guide you through those titles so that you get a better feel of what we mean with those headlines.
+
+Let’s start will profitable growth. We are committed to aim for generating growth and returns that are among the top performers of our industry. To do that I’m working with each business to develop a three-year perspective with well quantified priority levers and personal accountability. Let me give you a little bit of a high-level taste of what we’re talking about in each of the three segments. Let’s start with global primary products.
+
+We have a solid foundation built on a couple of things; world class position and quality bauxite and refining capabilities, long-term energy agreements that secure competitive power supply and a balanced growth platform between brownfield and greenfield opportunities. Our major priorities are clear and outlined here. I won’t go through all of them, be happy to answer questions on the Q&A later, let’s just go and deep dive in one or two of each one of them.
+
+Let’s start with the strategic lever repowering of our existing smelters, taking a look at our success in this area over the last few months. Most of you were probably on the last call and Alain showed this slide and he spoke about it in January and highlighted our intention to secure competitive power contracts. And on this chart the contract extensions that we expected to complete in 2008 are the ones that are reflected here by the light blue area. So let’s see how we comparing to this, let’s fast forward to to-date and that’s how it looks today. As you can see much of the anticipated volume to be secured has been already been accomplished. This is the result from the MOU we announced in February with the province of Quebec extending our power contract through 2040 and additional power supply to enable an expansion in {inaudible] and we are also currently actively working to secure additional power to enable an expansion for our [inaudible] smelter.
+
+We are confident that we can reach agreements on others this year which would give us approximately 80% of all current operating capacities on either self-generated or contractual power arrangements through at least 2020. Having reliable power sources is surely one of the most important success factors in our upstream business. Through this we are very well positioned for future growth. So much on the Primary business so let’s take a look at the next one, to the flat-rolls products business.
+
+Our flat-rolls product business offers unique capabilities to the attractive aerospace and industrial markets. The combination of world class R&D expertise and our global presence makes us very often the supplier of choice. We’ve invested in building the footprint in both China and Russia over the last few years and expect those businesses to continually improve. One of the most important priorities is to deliver in Russia. So far the progress has been slower than expected as equipment installations are nearing completion and domestic markets continue to grow, particularly the can sheet market we remain confident that we are reaching a turning point. Global customers are investing in facilities in Russia and the rate of growth is significant so that’s a clear indication that we are moving jointly into the right direction.
+
+Last but not least let’s talk about engineered products and solutions. It sets another record for revenue and earnings this quarter. The future is bright here due to a couple of factors; leadership position and attractive growth markets, steady pipelines of new products and a solid culture of continuous productivity improvements. Furthermore we are very well positioned to increase our share in the defense market. Our ability to create integrated customer solutions combined with our technical expertise sets us apart. And lastly in March we concluded two acquisitions to add to or fastening systems business. Alcoa fastening systems has certainly earned the right to grow and attract investments. As you can see on this chart gives you a quick snapshot of the success that we have displayed using all levers; growth, share gain, productivity enhancement and so on and the results are clearly a good indication they have earned the right to grow and to profitably growth.
+
+So with this let’s move on to the second strategic priority which we call disciplined execution. The industry prospects are good so it’s really on us to make things happen, to take full advantage of the opportunities. We need to execute our plans and move them safely and quickly from idea to cash as only cash creates real shareholder value. We have several programs and processes that support our execution capabilities such as the Alcoa business systems. We are currently putting several additional mechanisms in place to enhance performance and accountability. I have personally witnessed these capabilities of these enhanced tools to provide significant results. I am confident that these will yield results to Alcoa. Actually if you look a little bit deeper at the numbers this quarter you can see that our operational performance measured by the ATOI improved by 42%. Three of the segments showed substantially higher profitability compared to last quarter.
+
+So let’s go to the third strategic priority, the Alcoa advantage. It is present in each of our businesses and let me expand on that point. I really look here at five areas of advantage; talent. We are global and diverse company, collectively we are much better able to attract and grow talent than any of our business could ever do alone. Customer intimacy, we are collectively better able to serve our customers in many ways. Our product portfolio, our geographic reach allows us to offer full product solutions. Our customers know that we can and will support them when they expand globally and we are able to combine products from several different businesses and provide one face to our customers buying several different products and catering to them with one voice. Technology, our technological capabilities are unmatched. We know light metals and material combinations better than any other company. This sets us apart and we capitalize on this in many ways. Let me highlight a few real life examples. Let’s do a deep dive here so that you can better see what the capabilities are, how deep and how broad they are.
+
+I’m talking award willing alloys which help the aero industry meet its increasingly stringent requirements for structural efficiency, weight reduction, sustainability and cost. New applications for surface enhancement such as the Dura-Bright wheels. Our design expertise in light metals makes us a desirable partner for the US defense program and we are penetrating aluminum into new sizable growth markets such as consumer electronics or oil and gas exploration. Let me finish up on the final two aspects of the Alcoa advantage.
+
+Purchasing, with common commodities and a global reach we are able to not only leverage but be ahead of industry trends in terms of costs. Finally the operating systems, these are common systems such as the Alcoa business system or our environment health and safety standards that are well understood and implemented and that brings significant value. We are now adding elements, our rigorous performance management process to this, that perfectly match with the existing elements. So much on our three strategic priorities, success in each will secure continued success for Alcoa, our shareholders and employees.
+
+Let me summarize. First the metal trends are reshaping the global economy. Through this enormous opportunity for Alcoa are created. Second, we are well positioned to capitalize on those trends. We have a long tradition of continuous innovation and a first rate portfolio of growth projects. Third, we are now focusing on profitable growth, rigorous execution and leveraging the Alcoa advantage. We are poised to deliver value to our shareholders.
+
+Thank you and now I’m happy to open up the question and answer session.
+
+Question-and-Answer Session
+
+Operator
+
+Your first question comes from John Hill – Citigroup
+
+John Hill – Citigroup
+
+Thanks everyone for a great presentation and a fresh view on some very important subjects. A quick question for Mr. Kleinfeld who’s obviously spent a lot of time digging into the assets, the values, the cultural et cetera, and understanding that very well, how do you think after visiting all these facilities and such, how do you think about the long-term earnings power of the company in its current configuration if we were just to take today’s energy prices, today’s currency complex and the future’s curve which is essentially flat, do you believe that the company will be able to drive earnings significantly higher or are we dependent on waiting on a merely a higher commodity price?
+
+Klaus Kleinfeld
+
+Well thank you very much, I believe as I described in the presentation I believe that there is a lot of potential inside of the company and that’s why we are clearly focusing on those three elements; profitable growth, as well as rigorous execution and the Alcoa advantage. Those three things together will actually unleash a lot of the earnings power that is there. You are right, there are a lot of critical factors when you focus on each one of the businesses, but we have got to be super careful in just focusing on one of the business, mainly primary, on primary as I described the two most critical factors is quality bauxite supply. We are just in the process of opening Juruti. Our footprint in the aluminum market is unmatched. So I think that we are in a very favorable position. On the smelting side, when you go into the power side which is the most critical in my view, the most critical fundamentals on the smelting side, I just showed you the two slides and I think if you look back probably three, four years and I remember discussions around the Board, there were a lot of people out there thinking, hey how difficult will it be for Alcoa to renew the power contracts and I think what you are seeing here, we stand by our commitment and we are able to pull this off and do it on a very, very competitive base. On the brownfield side, which is always a good thing, now when you go to greenfield, with what we are currently doing in Iceland, this is also not only today but also looking further down the road was a hydro power supply, this is very, very forward-looking and very, very positive development. And as I showed you in the slide for the growth opportunities there’s more growth opportunities there that we can ever digest and that we ever want to digest so I am not concerned on that side. If I go to the very downstream and just do a deep dive there in the same manner, look at the very, very hot industrial gas turbine market that is currently compensating for some of the other weaknesses. And frankly the issue there is we don’t have enough capacity. Every body is sold out. We will be happy to be able to produce more. So it is more on us to make sure that we can ramp up our capacity that we can perform better on the innovation side with single crystal and other capabilities that we have there. I’m seeing a very positive future and we could go on and on and on, but I think you can clearly see from what I’m saying that I see a lot of earnings power going forward.
+
+John Hill – Citigroup
+
+Very good, thank you for that detailed explanation.
+
+Operator
+
+Your next question comes from Michael Gambardella - J.P. Morgan
+
+Michael Gambardella - J.P. Morgan
+
+Another question for Mr. Kleinfeld, since you’ve been on the Board for almost five years now, you’ve had a say in some of the strategic issues of the company but since you’ve taken the role of President, Chief Operating Officer you’ve gotten into a lot of the segments in a nitty gritty way, if you were the CEO of the company what would be the one thing that you would change in the way the company is run today to try to maximize value for the shareholder?
+
+Klaus Kleinfeld
+
+Michael the good news is we have a team here that’s really working together. It’s a very, very close team and frankly I would most likely not have come on board if that wouldn’t have been the case so I feel a good bit of responsibility of what we are currently doing and frankly the one thing is actually the three priorities that we are just setting. That’s what we are rolling out and what we are getting into all of our operations. It’s all about profitable growth, getting the profitable growth out of all of our businesses independent of how portfolio decisions at one day in time will be done because as we have seen in the past excellent portfolio management has been a tool that we’ve used, it will continue to be a tool but basically you’re seeing both sides. Divesting, joint venturing and buying companies, all of that in light of where can we can profitably grow, how can we utilize on our internal capabilities, organic growth is always the best and if we can get some external growth we will not shy away from that as the fastener acquisitions have just shown. At the same time we can bring something to the table with the advantages that a company like Alcoa has and they are huge. We probably haven’t shown that to you guys and ladies out there enough with our performance but we will be able to do that and we are committed to that actually is not that difficult to show those capabilities and all of that has to be embedded in a very disciplined fashion of getting from idea to cash as I always say and basically capitalizing on all of the ideas that our 97,000 Alcoans have and making sure that those ideas are immediately brought into implementation and are carried through the best practice, are carried through our smelters, through our refineries, through our mines and the same thing through our factories than on the mid stream as well as on the downstream side. That is what we are doing and that’s what I’m fully committed and I fully believe is the right strategy.
+
+Michael Gambardella - J.P. Morgan
+
+And ultimately what do you hope to achieve with your investment with Chinalco and the Rio Tinto shares?
+
+Klaus Kleinfeld
+
+Michael, that’s a good question and I’m pretty sure that some others that are on the phone also have that on their minds so I don’t know, Alain do you want to comment on that?
+
+Alain Belda
+
+You’ve answered when you said what you were going to do with Chinalco. I think that covered the grounds.
+
+Operator
+
+Your next question comes from Lloyd O'Carroll - Davenport & Co. of Virginia, Inc.
+
+Lloyd O'Carroll - Davenport & Co. of Virginia, Inc
+
+Looking at the quarter, the North American can sheet you have I believe a price cap with one contract which may be two customers, in a conventional sense, with an Ingot price $1.30, $1.35 is a larger drag on earnings than Ingot at $1.10, given a cap on an unhedged basis. So the question was there an impact on the quarter from that contract or was it covered by hedging?
+
+Charles McLane
+
+It was an impact on the quarter as it has been every quarter that we’ve had those caps in place if you looked at the opportunity if those caps didn’t exist Lloyd. And it is only one contract remaining and it represents about 5%, down to a level of about 5% of our total aluminum shipments and that runs out at the end of ’09.
+
+Lloyd O'Carroll - Davenport & Co. of Virginia, Inc
+
+Okay, thank you.
+
+Operator
+
+Your next question comes from Harry Mateer – Lehman Brothers
+
+Harry Mateer – Lehman Brothers
+
+I had a quick question on capital expenditures, are you expecting them to trend lower from 2008 or pretty much run at a flat rate from 1Q ’08?
+
+Charles McLane
+
+We had given some guidance earlier that it said that it would be around the $3 billion level heading into this year and that’s pretty much the stance that we’re on right now and we’re pretty close to that level looking through the first quarter here so we don’t have any reason—we’ve got two major projects going on right now as I articulated about the percent that it represented of our projects this year and that’s Sao Luis expansion and Juruti so I would expect it to be at at least these levels through the rest of this year.
+
+Harry Mateer – Lehman Brothers
+
+And so given that CapEx is down slightly from 2007 levels, do you think that you’re going to be doing additional share buybacks?
+
+Charles McLane
+
+What we will do is to continue to manage our capital structure looking at all of our alternatives, whether its acquisitive growth or organic growth through projects or share repurchase and the like so we’ve got an authorized level of 25% and we continue to measure how much we’re going to do that on a quarter-by-quarter basis.
+
+Harry Mateer – Lehman Brothers
+
+Thank you.
+
+Operator
+
+Your next question comes from Charles Bradford - Soleil - Bradford Research
+
+Charles Bradford - Soleil - Bradford Research
+
+Could you talk more about the outages in China? I had heard originally that the weather problems and some power problems cost something like ten plants to be closed and that some are now in the process of coming back. What are you hearing?
+
+Charles McLane
+
+Well the information that we have, it was a little more than ten plants and they were going to be down of varying degrees. Some that the pots weren’t frozen up and it wouldn’t take as much effort but the word is now that they’re doing—they’re making every effort to get those pots on line as quick as possible and our view was that it’s probably, if you looked at the scenario, it’s going to cost about, a constraint of about 550,000 tons is we had to take a guess at it right now because they’re in the process of coming back and probably will over the next few months.
+
+Charles Bradford - Soleil - Bradford Research
+
+Thank you.
+
+Operator
+
+Ladies and gentlemen that does conclude our question and answer session for today. I’d like to turn the call back over to Mr. Greg Aschman for closing remarks.
+
+Greg Aschman
+
+Thank you for your questions and attending Alcoa’s first quarter call. This now concludes our first quarter earnings call. Thank you.

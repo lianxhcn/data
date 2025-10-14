@@ -1,0 +1,418 @@
+Alcoa, Inc. (NYSE:AA) Q4 2008 Earnings Call January 12, 2008 5:00 PM ET
+
+Executives
+
+Greg Aschman - Director of Investor Relations
+Charles D. McLane, Jr. - Chief Financial Officer, Executive Vice President
+Klaus Kleinfeld - President, Chief Executive Officer, Director
+
+Analysts
+
+Kuni Chen - Banc of America Securities
+Jorge Beristain - Deutsche Bank Securities
+Michael Gambardella - J.P. Morgan
+Charles Bradford – Bradford Research
+Anthony Rizzuto - Dahlman Rose & Co.
+[Mark Linima] - Morgan Stanley
+Jim Brown – J.P. Morgan
+John Tumazos – John Tumazos Independent
+John Redstone - Desjardins Securities
+Brian MacArthur – UBS Securities
+
+Operator
+
+Welcome to the fourth quarter 2008 Alcoa earnings conference call. (Operator Instructions) I would now like to turn the presentation over to your host for today’s call, Mr. Greg Aschman, Director of Investor Relations.
+
+Greg Aschman
+
+Good afternoon everyone. Thank you for attending Alcoa’s 2008 fourth quarter analyst conference. At today’s conference Chuck McLane, Executive Vice President and Chief Financial Officer will review the fourth quarter financial results. Klaus Kleinfeld, President and Chief Executive Officer, will highlight current market conditions and industry fundamentals.
+
+Before I turn it over to Chuck, I would like to remind you that in discussing the company’s performance today we have included some forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements relate to future events and expectations and involve known and unknown risks and uncertainties. Alcoa’s actual results or actions may differ materially from those projected in the forward-looking statements. For a summary of the specific risk factors that could cause actual results to differ materially from those expressed in the forward-looking statements, please refer to Alcoa’s Form 10K for the year ended December 31, 2007 and Forms 10Q for the quarters ended March 31, June 30 and September 30 of 2008 and other reports filed with the Securities and Exchange Commission.
+
+In our discussion today we have also included some non-GAAP financial measures. You will find our presentation of the most directly comparable GAAP financial measures calculated in accordance with Generally Accepted Accounting Principles and our related reconciliation on our website at www.alcoa.com under the Invest section.
+
+At this point, let me turn it over to Chuck.
+
+Charles McLane, Jr.
+
+Thanks Greg. Good evening everyone. In our review of financials today we’d like to accomplish several objectives. First, to provide a clear understanding of our recent actions and their corresponding charges; to provide insight on the operational performance in the quarter; to provide commentary on what we see in the first quarter and into next year and lastly to provide an update on our liquidity position.
+
+With that as a backdrop let’s begin. These are certainly extraordinary times. A few headlines capture that thought. Aluminum prices decline 35% quarter-over-quarter. The fourth quarter fabricated shipments decline was historic in nature as an already weak demand environment was crushed by supply chain’s flight to liquidity. For the quarter North American automotive sales declined 35% versus 2007. North American class A production was down 8% on top of a 44% decline in 2007 and trailer shipments were down 35% on top of a 22% decline in 2007.
+
+Corporate borrowing spreads, particularly short-term, expanded dramatically. As you know raw material and energy cost decreases lagged to metal price reductions which compound the impact on margins. We are fully aware that extraordinary times call for extraordinary measures and Alcoa has chosen to be a leader. We have taken aggressive actions in curtailing production, reducing headcount and restructuring our portfolio.
+
+Those actions generated a charge of $708 million, most of which is non-cash in nature. The total loss from continuing operations for the quarter was $929 million or $1.16 per share.
+
+As we stated last quarter we are focused on operating to maximize our cash position. Cash from operations for the quarter was $608 million and we had $762 million cash on hand. Most importantly we were able to add $1.9 billion bank facility in addition to our five year $3.3 billion revolving credit facility. These actions will serve us well in the near-term but more importantly will position us to be a stronger company when the economy recovers.
+
+Let’s move to the income statement. As expected the restructuring and other special charges make it difficult to see the underlying operational impacts on the income statement. Over the next few slides we will break down and isolate those charges as well as provide insight around operational items particularly cost components.
+
+Let me first mention a couple of line items before moving on. Interest increased $29 million in the quarter. The financial crisis in the quarter led to a significant widening of corporate spreads and we were impacted accordingly. Once we passed year-end those spreads tightened to our benefit. I will also point out SG&A costs have declined 28% since the fourth quarter of 2007 and we would anticipate further reductions as our announced actions are implemented.
+
+Lastly, our wire harness business has been targeted for divestiture. The operational results as well as the restructuring and impairment charges for those operations have been moved to discontinued operations.
+
+Moving now to the restructuring slide, this chart is provided to assist in understanding the components of the restructuring and special charges by listing the after tax NEPS impact to each category. We have also described whether the charge impacted the segment results and identified the geography of each item on the income statement.
+
+The restructuring total of $614 million or $0.76 per share and the accompanying break down are fairly self explanatory as they depict a summary of head count reductions as well as the impact for each of the planned transactions. With regard to special items, obsolete inventory charges are connected to the sale or shut down of specific locations and thus run through cost of goods sold.
+
+The environmental reserve relates to the estimated future remediation costs for the Grasse River site near Massena. We increased the accounts receivable reserve by $16 million or $11 million after tax. We have a very disciplined process for credit and collections and historically incurred minimal losses. Even in the current environment our accounts receivable balance is 93% current.
+
+The additional tax noted is a non-cash charge attributable to repatriating cash from our international operations. As we previously stated, it is important to note that the majority of these actions are non-cash in nature and we anticipate annualized savings of approximately $450 million once these actions are complete. We expect a majority of these actions will be completed by the end of the second quarter.
+
+Let’s now move on to the tax reconciliation schedule. On this slide we have reconciled the reported effective tax rate with the operational effective tax rate for both the fourth quarter and the full year. Once adjustments were made for restructuring and other tax items you are left with an operating rate of 28.3% for the year. We anticipate a rate of approximately 30% as we move into 2009 but you should realize that changes to the economic environment, currency fluctuations and the profit and loss within certain tax jurisdictions could cause that rate to fluctuate dramatically.
+
+Let’s move to the quarter-over-quarter earnings bridge. This slide bridges the income from continuing operations excluding restructuring of special items on a sequential basis. The main drive of performance quarter-over-quarter was the significant drop in metal price. The price deterioration was compounded by the significant reduction in premium product sales. You can see that favorable energy and currency effects offset the significant market decline in price mix and volume. As you will see in the segment data flat roll products was the hardest hit by this severe market downturn accounting for approximately half of the quarter-over-quarter decline attributed to mix and volume.
+
+So let’s start with the alumina segment. Sao Luis, Wagerup and the Australian region as a whole achieved production records in the quarter. However, total system production was lower on a sequential basis due to the curtailment of Pointe Comfort. Profit in this segment decreased 21% or $44 million. A 16% reduction in realized price was partially offset by a $33 million sequential benefit associated with the Apache gas outage, lower fuel and gas prices and a lower cost base due to a stronger U.S. dollar. Looking into next quarter we anticipate further top line pressure as the lag effect on pricing becomes more apparent. Production ramp down of 1.5 million tons should be completed by the end of the quarter. Fuel and oil costs are trending lower. However, the U.S. dollar is slightly weaker today than the fourth quarter average.
+
+Let me now take a minute and dissect the lag on pricing within our cost components. While the effects of LME changes on our top line may be well understood we wanted to remind everyone of the key input costs in refining and more importantly outlining the timing of cost changes in our income statement. In our refining system, energy, both fuel oil and gas, comprised 29% of the cost base. Bauxite 25% and caustic 10%. Overall conversion costs including labor, maintenance and other services make up the balance.
+
+So what conclusions can you draw? Most of the Bauxite is cost base and therefore not as volatile. The same can be said for natural gas due to the duration of the average. Fuel oil and conversion costs are fairly current and will tend to hit earnings slightly faster than price. The only significant lag belongs to caustic and it makes up only 10% of the cost.
+
+Let’s move on to primary and we are going to provide a similar picture. The decrease in production in primary is primarily attributable to the curtailment of our Rockdale smelter. The key factor in the fourth quarter performance of this segment is the unprecedented 35% drop in the price of aluminum and more than 50% since mid-summer. That decline drove a loss of $101 million for the quarter. The strengthening of the U.S. dollar declines in LME lean costs such as alumina and certain power contracts and the ramp up of efficiencies in Iceland were not enough to offset the unprecedented decline in metal price.
+
+In the first quarter current pricing is substantially below the fourth quarter average. Input costs, especially those linked to the alumina price will decline, but on a lag basis. We will see baseline cost improvements due to our procurement initiatives as well as taking the painful, but necessary, step of reducing production at our higher cost facilities. For example, curtailment of our Tennessee smelter which began today along with other curtailments should reduce productions by 8% in the first quarter.
+
+I mentioned several key input items including LME lean costs. Let me provide you more color on our cost structure. In looking at our smelting system, alumina, power and carbon products comprise 75% of our cost base. Based upon the pricing mechanisms in place and the lag associated with the inventory flow we generally expect to see close to a quarter lag on cost. With the typical LME price lag close to being current today and the historic decline in the price you need to understand that the margin would not be representative for a full quarter.
+
+Moving now to the flat rolled products segment. The continuing decline in end markets hit the flat rolled products segment the hardest. Shipments, excluding canned sheet declined 20%. Inventory de-stocking is impacting distribution channels particularly hard during this downturn driving up demand for common alloy sheet and plate. Also the effects of the machinist strike at Boeing reduced profit by approximately $10 million. In addition, start up costs for our Bohai hot mill were $9 million for the quarter and inventory costs associated with the closed facility was $12 million.
+
+Looking ahead to the first quarter we don’t see a significant rebound in volume in this segment. The weakness in many markets will persist. On the front side input costs which are energy and materials will be lower. Let me take a moment to illustrate just how severe this downturn has been in this segment.
+
+Our flat rolled business would typically see a rebound in orders after the summer vacation period. This chart clearly demonstrates that the customer did not resume their normal order patterns. The decline was apparent across market and geography and certainly represents not just lower demand but the collateral effects of the financial crisis. We are aggressively matching capacity with demand in each of our regions. To illustrate the breadth of the impact let’s turn to the next slide.
+
+While can sheet comprises 42% of the segment revenue the market changes can more acutely affect the remainder of the markets in which they participate. As you can see this has currently been a broad base and precipitous decline.
+
+Now let’s move to the engineered products and solutions segment. To start off I will remind you the electrical and electronics solutions business has been moved to discontinued operations for this quarter and prior quarters in this segment. For the segment in total, fourth quarter APOI at $65 million was down 51% or $68 million on a sequential basis. The major driver behind the lower sequential result was a significant reduction in sales to the three factors; the broad base market decline impacted most businesses especially commercial transportation and commercial construction. Normal seasonal declines accounted for $68 million reduction in sales and the Boeing machinist strike reduced profit by about $5 million.
+
+Looking ahead to the first quarter market conditions in commercial transportation and construction markets are expected to weaken further. However, productivity initiatives are expected to materialize to help offset any further market downturn.
+
+Let’s take a closer look at full-year improvement for this segment. Despite the dampening effect of the difficult fourth quarter due to the severe economic conditions the engineered products and solutions segment delivered its strongest full-year results with sales of $5.6 billion and profit of $503 million. With the recently announced restructuring initiatives and portfolio moves this segment is extremely well positioned moving forward.
+
+Let’s now move to the cash flow statement. In a very difficult environment we were able to generated $608 million in cash from operations driven by improvements in working capital. All four segments lowered their working capital quarter-over-quarter with an attention to receivables and quick action on inventory levels. Capital expenditures for the quarter were $1 billion or $800 million after contributions from our Nordic partners, 1/3 of which was devoted to our Brazilian growth projects.
+
+In these uncertain times we have employed daily management of our cash position and have taken specific actions to conserve cash. A couple worth noting: With regard to working capital we have assumed a higher risk tolerance on the raw material side with lower minimum order quantities and lower carrying levels all the while remaining diligent not to adversely impact our customers. In addition we have stopped all non-critical capital investments. In terms of sustaining capEx, critical is defined as compliance with the law or keeping the facility operating and that being predicated on customer requirements. In addition, capEx approval thresholds have been lowered dramatically.
+
+As to growth capEx we have halted those projects where it is economically practicable to do so. The largest ongoing projects reside in Brazil and pertain to the offsite mine in Juruti, the refinery expansion of Sao Luis and the hydro projects. We individually reviewed each project and evaluated the option of halting construction. The cost benefit analysis determined that stopping the projects would be value destructive for the company. We therefore charged the team with completing the projects as soon as possible and as cash efficiently as possible.
+
+Let’s take a look at capEx for 2009. As you know we are approaching the end of the most aggressive organic growth program in Alcoa’s history. Alcoa remains bullish on the long-term prospects for the aluminum industry and these growth projects position us to capture future growth. However, in the near to medium term we are focused on preserving cash and cutting all discretionary spending. In 2009 we expect total capital expenditures to be $1.8 billion, a nearly 50% decrease from 2008. Actually on a net capEx basis after considering our partner’s contribution to the projects our own spend will be $1.5 billion. We expect our two major growth projects, Juruti and Sao Luis to be completed in the first half of 2009.
+
+As a result nearly 71% of our total year capital will be expended in the first six months. We expect to reach a run rate on capital expenditure level of approximately $1 billion by the second half of the year.
+
+Let’s discuss our liquidity position. As markets, both industrial and financial, began to unravel we took some immediate action to shore up our liquidity position. You are aware we have a five year $3.3 billion revolving credit facility maturing in 2012. In October we added a 364 day, $1.2 billion revolver which we subsequently expanded to $1.9 billion. The $5.2 billion of aggregate facilities support our commercial paper program and provide us with significant liquidity.
+
+We have been successful in placing commercial paper with maturities greater than one week especially in comparison to other tier two issuers. We averaged 79% for this quarter over one week during the quarter and hit 96% during December. It is comfortable to know that we have got this capacity but I will tell you again our overriding emphasis is to maximize our cash position so as not to utilize the available capacity. We have a host of levers both operational and others that will be utilized as we progress through the year.
+
+So let me summarize. From curtailing smelting capacity to ascertaining the critical need for capital projects to reducing our cost base through new sourcing of raw materials to the most recent announcement of headcount reductions and targeted divestitures we are systematically determined to control our cash position. We had been and will continue to be aggressive and quick to react in an ever-changing market. We will manage our cash at all times and we will never compromise our values.
+
+We will emerge a stronger, leaner company positioned to be the leader in the industries and markets in which we operate.
+
+Thanks. I will now turn the presentation over to Klaus.
+
+Klaus Kleinfeld
+
+Thank you Chuck. With that review of our financials I would like to make observations about our 2008 performance and our plans for 2009. Overshadowing every discussion these days is the economic decline of the fourth quarter and the historic impact it has had on our industry. Let me talk more about it and the actions we have taken.
+
+But first, let me point out the importance and impact of Alcoa’s full-year 2008 accomplishments. The improvements we made in the past year enabled us to solidify the strategic fundamentals of the company. The fundamentals and our integrated structure provided the flexibility and staying power to act swiftly when the economy began to fall. We felt to strengthen our competitive need during the downturn and to give us the potential to emerge even stronger when the economy recovers.
+
+As you can see from this chart we have greatly improved control over our largest input cost, power. We completed a new smelter in Iceland, a location that gives us access to some of the most competitive and sustainable energy in the world. We have demonstrated the potential of our downstream business, the engineered products and solutions group, which had record year with 23% increase in profitability. We successfully divested the packaging and consumer business and in a cash-free transaction we also agreed to swap our share in the soft allow extrusion venture for two quality smelters.
+
+We moved quickly to adjust to the credit crisis and for the seventh consecutive year we were chosen for the Dow Jones sustainability index. These accomplishments put us in a much stronger position as the economy significantly weakened during the last quarter of 2008.
+
+The aluminum industry is caught up in a perfect storm of historic proportions. The price has never before fallen so fast. As demand disappears inventories are building and prices are decreasing. In addition, inventory levels are affected by the tight credit markets and as speculators and traders liquidate their positions and play physical metal on the exchanges. This chart shows the result of all those forces.
+
+Inventory levels are measured by day consumption have increased to 41 from 29 days at the end of Q3. By December aluminum pricing was off 56% from its July peak. If there is a silver lining it is that we see inventories at our customers and distributors very low and we can anticipate a reasonably rapid draw down of the aluminum inventories once the economy comes back.
+
+After we made our announcement last week we heard some questions. While we had curtailed enough capacity let me share our analysis of the situation with you and I will begin with the demand side. Our analysis indicates that global aluminum consumption in 2008 was 3% lower than 2007. In our 2009 forecast we anticipate continued contraction in global consumption resulting in a 2% decrease. This would place total consumption for 2009 at just over 36 million metric tons. As you can see, the China growth rate will slow while the decline in North America and Europe will not be as dramatic.
+
+Now let me address the supply and how the industry has been curtailing production because of the fall in demand. Alcoa was the first major producer to respond to the slowing demand with curtailment of our Rockdale smelter in late September 2008. As you can see, the industry has been progressively announcing curtailment. To date the actual impact of that curtailment has been approximately 800,000 tons with the largest impact in China.
+
+Announced curtailments now total 13% of last summer’s production levels. Alcoa has been more aggressive. We have set in motion curtailments of 80% of our last summer production levels and we are prepared to continue adjusting capacity to demand. There is a wide variety of opinions on demand and supply, much wider than normal. We have analyzed the supply/demand balance on this slide. Taking into account the previously announced curtailments, Alcoa is projecting a total industry aluminum production of just under 36 million tons in 2009. Given the existing higher than usual inventory level it appears there might be an over-supply but there are certain contingencies like the impact of a globally coordinated stimuli program that could begin shifting the balance.
+
+It is our intention to be prepared if and when that happens.
+
+Lets now move on to the wide ranging actions we have taken to address the impacts of the economy and our business. In fact, we have been managing carefully all the many challenges that have arisen during the downturn. Fortunately, prior to the economy’s troubles we developed a strategic program with three priorities. You can see in the middle of this chart. When we began to see the economy weakening we expanded the priorities to cover our approaches we would need to manage through the downturn.
+
+We have quickly shifted gears to put increased emphasis on maximizing cash and transforming the cost structure. As early as 2007 we saw the first storm clouds in our industry and we started preparing contingency actions. Our ability to foresee and respond quickly to the changing landscape enabled us to stay ahead of the curve and maximize our cash positions.
+
+Last week we announced a series of detailed actions. These actions are aggressive but prudent and as you can see we are using all four levers. What you see here is not a summary of intentions or wishful thinking. We have completed or are actively executing every one of these actions.
+
+Let me give you some specifics so you can see the level of detail behind that. For the last 18 months we have held a minority stake in a soft allow extrusion venture we owned with Sapa, a division of Orkla. When the venture was formed we were clear that we intended to exit the venture to an IPO or some other means within a few years. When the market shifted we and Orkla decided to shift our share of the exclusion joint venture for their share in two smelters in [inaudible] in Norway. The charge shows the shift of those added.
+
+By exiting the soft allow extrusion business we gain operating control of our quality assets we know well. Two smelters with competitive hydro power contracts extending ten years. With the addition of those smelters we become the largest aluminum producer in the world.
+
+Anticipating declines and pricing and further demand weakening, Alcoa was the first major producer to begin curtailment in late September. Since then we have continuously adjusted capacity to meet the declining demand. By the end of the first quarter we will have reduced our smelting capacity by 18%, ¾ of one million metric tons. We found a process of curtailing capacity in a way to best maximize cash. The real challenge here is to ramp down quickly and cost effectively and still be able to ramp back up as quickly and cost effectively when the economy recovers.
+
+As this slide shows there are a complex set of conservations and levers to manage curtailments. That is where Alcoa’s long history in the business pays off. All of the actions on this chart have been completed with the exception of the curtailments of Pocos and Tennessee which we are actively executing.
+
+On a global basis we will be reducing headcount by 13% through involuntary lay offs. In addition we will be reducing our contractors by 1,700. We have identified the areas and you can see the breakdown by business. We are also executing an across the board salary and hiring freeze. The hiring freeze will allow managers to upgrade their staff by replacing low performers.
+
+We have been using Alcoa’s scale and well established global supply chain to buy raw materials such as coke and caustic from a variety of non-traditional sources where we can find better pricing. We have been able to change specifications to allow for different compositions and materials to be more flexible in our sourcing.
+
+We are applying backward integration initiatives such as making investments at a supplier’s facility in exchange for output. In a very short time these procurement efforts directly created savings in excess of 20% from existing market prices of these strategic raw materials. Chuck covered this slide already on the liquidity measures. I am just putting it up again to reinforce the importance of liquidity these days and our success. There are not too many companies these days that have that kind of staying power and flexibility. This has become a real premium in the state of economic uncertainty of 2009.
+
+Let’s talk about the benefits. The actions we have taken will convert cash, reduce cost and strengthen our company’s financial and competitive position. Let’s take a look at some of the specific benefits we expect. The operating cost per ton in our upstream business will decrease 25%. We anticipate $1.3 billion annualized savings from just our procurement and energy initiatives. Headcount reductions and elimination of the businesses to be divested will yield approximately $450 million in pre-tax savings annually.
+
+The swap with Orkla creates a challenging business but one where we know how to get solid returns. We anticipate proceeds of around $100 million from selling four downstream businesses. We are significantly solidifying our cash position by increasing our short-term debt capacity by 50%, lowering our capital spending by 50% and dropping the run rate for the second half nearly 70%. By acting quickly and decisively to apply all four levers we have been able to convert cash and strengthen the competitive position during the downturn relative to other companies that have not been as proactive.
+
+We have also created a more promising future for Alcoa, ensuring the company will emerge even stronger when the economy recovers.
+
+Let’s lean back for a second and I know it is hard given the environment out there. We do see a bright future for aluminum. Aluminum is the right business to be in over the long haul. Aluminum’s benefits ideally match three of the most compelling mega trends; demographics, organization and environment. By 2050 there will be almost 40% more people on this planet. This means 3 billion more people. More than 60% of those will live in large cities. Just imagine that world for a second and imagine the enormous demand on infrastructures and the environment. Those trends will drive 6% annual growth of the industry for the next decade.
+
+Even in this difficult economy we expect continued infrastructure investments and increasing interest in environmentally friendly solutions. As the industry grows with this promising future, Alcoa will be on the forefront. We have taken care of the fundamentals from improving the efficiency of our refineries to favorable long-term power solutions. As the chart shows we have staked out leading positions in all of our business areas. Those four leading businesses here on that chart are a number one or number two position account for 90% of our revenues.
+
+Alcoa is an extraordinary company and I am proud to be leading it during this important period in its 120 year history. These are unusual times that have had a devastating effect on countries and companies. Our industry has been affected more than most. I am confident that Alcoa has taken extraordinary steps that will enable our company to gain ground during the downturn and emerge even stronger when the economy recovers.
+
+With that let me conclude and open the line for questions.
+
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) The first question comes from the line of Kuni Chen - Banc of America Securities.
+
+Kuni Chen - Banc of America Securities
+
+If you could kind of lay out a cost curve for Alcoa smelters via input costs as you see them today that would be very helpful. For example if we look back on fourth quarter average costs on primary metals it was about $0.95 per pound implying that half your capacity is above that and the other half below. Where would the break points be if we were to break that up by quartile? Can you give us some color on sort of where the high and low points of your costs are at this point?
+
+Klaus Kleinfeld
+
+You know that a total smelting system Alcoa has is on the medium of the cost curve. I think it would be good if we would bring up the chart that talks about the curtailment. We have announced curtailments of 18% of our capacity. They will be fully effective by the end of the first quarter. We have applied a maximization algorithm here that maximizes our cash. That is the number one priority. The consideration you go through when you do that are multi-fold. For instance, on the operating flexibility you look at what is the product mix, what procurement levels you can change specifications, can you get material in there you can purchase for a lower price? What is the power situation? That is a very, very critical component. Do you have to take a pay contract or do you have the ability to resell power? What is the impact on the re-powering? As you know we have been very successful in re-powering our system. However, there are some out there where we are in the final stretch of getting things signed.
+
+Last but not least the community impact which has a multi-fold aspect also an aspect of how quickly when the economy comes back can you ramp up the system. Frankly we will continue to monitor the situation and we will, as we have shown here, not only respond appropriately but respond fast.
+
+Operator
+
+The next question comes from Jorge Beristain - Deutsche Bank Securities.
+
+Jorge Beristain - Deutsche Bank Securities
+
+I wonder if you could provide some more details on the revolver, the $1.9 billion incremental revolver. What kind of cost or terms does that have? Secondly are there any plans to start tapping the revolver in order to make up the shortfall going into the first quarter of cash flow?
+
+Charles McLane
+
+As I said, it was a $1.2 billion revolver that we expanded to $1.9 billion. It is a 364 day revolver that was an up front fee that is paid out over the course of the year. As far as the remaining interest rate on that outstanding it is competitive. I won’t give you the specific rate but it is very competitive for today’s environment and we don’t have any current plans to draw on the revolver because we are having great success in the commercial paper market.
+
+Operator
+
+The next question comes from Michael Gambardella - J.P. Morgan.
+
+Michael Gambardella - J.P. Morgan
+
+My question is about the dividend. It seems like cutting the dividend would be the quickest and highest degree of certainty way to preserve cash yet you haven’t even talked about that. Is that something the board is considering and hasn’t met on? Why hasn’t the dividend been addressed in any of your communications?
+
+Klaus Kleinfeld
+
+Thank you for a question pretty sure on the minds of many. Alcoa has been paying dividends for 60 years and we continue to be committed to create value for our shareholders. May I leave you with this?
+
+Michael Gambardella - J.P. Morgan
+
+Are you willing to then borrow to pay the dividend?
+
+Klaus Kleinfeld
+
+You have seen the financial structure of our company. As I said we have been paying dividends for 60 years. Alcoa has managed through many downturns and that is all we want to say right now.
+
+Operator
+
+The next question comes from Charles Bradford – Bradford Research.
+
+Charles Bradford – Bradford Research
+
+In your press release you talked about a loss from discontinued operations of $262 million or $0.33 per share. Can you break that out as to how much of that would otherwise have been included as an operating loss if you hadn’t decided to sell these businesses?
+
+Charles McLane
+
+I’d be glad to do that for you. If you remember, just so I can tie our numbers together for you, we gave a loss on the announcement we put out last week we said $900-950 million. Our announced loss from continuing operations was $708. $212-262 has to do with the valuations around divestiture of that business so it would be $920 in total. That means the remaining $50 would be operational losses.
+
+Operator
+
+The next question comes from Anthony Rizzuto - Dahlman Rose & Co.
+
+Anthony Rizzuto - Dahlman Rose & Co.
+
+I was wondering if you could talk a little bit about working capital changes and what you anticipate that will be in 2009 if that will likely be a source of cash or a use of cash? Also, a little bit of color on what you see as pension funding. I know maybe you haven’t done all the valuations at this point but if you could just address that a little bit I would be interested.
+
+Klaus Kleinfeld
+
+On the working capital if you take a deeper look at the fourth quarter and evaluate that in light of what has been going on out there in the market we believe that we have been doing reasonably well in improving the working capital. Traditionally the first quarter kind of swings back if you look at the historic analysis. We will work as hard as we can and I am reasonably optimistic we will be able to continue to manage the working capital and generate cash from that.
+
+On the pension funding, Chuck let me turn it over to you.
+
+Charles McLane
+
+Right now we have a pretty good grip on what is going on between the discount rates we will have to use for funding purposes, etc. I would tell you we made some discretionary payments this year you may remember. Because of that and because we have the funding discount rates are going to be utilized. I think it is probably in the $100-150 million range for 2009. I will put a caveat on that there is different types of pending legislation that are in play right now as a result of the markets going down so dramatically to allow people to defer some of those mandatory payments so it could be even less than that.
+
+Operator
+
+The next question comes from [Mark Linima] - Morgan Stanley.
+
+[Mark Linima] - Morgan Stanley
+
+If the flat rolled products segment rush in China had a $97 million ATOI loss in the fourth quarter. Can you comment a little on what is going on there now and what level of profitability or lack thereof we might see there going forward?
+
+Klaus Kleinfeld
+
+Let’s start with Russia first. The Russian economy is going through pretty dramatic swings currently and as in many other places also there we have seen quite a dramatic drop in demand. At the same time the government is stepping up big time to put a support package in place to increase the liquidity of similar demand and show a strong commitment for key industries and key enterprises. The key sectors that have been outlined here and are our three key sectors for Russia are places like automotive, aerospace defense, packaging and transportation. The good news is all of those markets are our end markets in Russia.
+
+We are not happy with the performance in Russia and that is actually independent of the additional decline in Russia. I think I have spoken to you a number of times. At the same time those that are closer to Russia have seen we have put more stringent matters in place there. We have announced actually in Russia last week at the same time we announced here our restructuring package that in Russia that would mean an 18% reduction of the Russian workforce. From the principle assets we have there some of them are absolutely unique. We are the only Russian [canning] manufacturer. We have the world’s largest extrusion press as well as forging press there and on the improvement of the new stuff we are putting in there things are getting better. We will be able to produce and then tap in Russia as the only ones according to customer qualifications in the first half of the first quarter.
+
+That is pretty much where we are. When we look at this year’s market first we feel it will more than likely be flat. Building, construction and automotive probably in the second half will probably turn around and most likely be positive. Beverage cans is positive growth for next year and on flat rolled and hard alloy we believe it is going to remain weak.
+
+On China the situation is a little similar but it is another big, big market. We have seen construction coming down 40%, auto down 17%. It is a great decline we have seen there. At the same time the government has stepped up with a $680 billion stimulus package. Of the same magnitude of the package here in the U.S. for an economy that is obviously substantially smaller. The good news is they will invest a lot of that in infrastructure and those of you who know China better know the infrastructure projects in China are pretty much lined up. The money will flow very quickly through the system and generate direct demand and for instance one of the projects will be the faster expansion of the national electricity grid. How will they do that in China? With aluminum cables. That is just one of the examples.
+
+In fact we are seeing already some positive effects from that program by some demand stimulation in China. Let me leave you with that.
+
+Operator
+
+The next question comes from Jim Brown – J.P. Morgan.
+
+Jim Brown – J.P. Morgan
+
+Could you also give us an idea of where your pension expense will be for 2009? Also, what is the financial impact of the re-powering you have done? Is this going to be significantly helpful or is this going to be something that ultimately raises your costs?
+
+Charles McLane
+
+Our pension fund is going to be essentially flat with this year.
+
+Klaus Kleinfeld
+
+On the energy side, 80% of our total power consumption is either self generated or secured by long-term power contracts that last a minimum to 2025. When you look at more specifically Canada is all signed and all complete. The extensions start at 2014 and go until 2040. Massena just today was the visit of Governor [Pareson] who signed it starting in 2013 when the current contract runs out and it goes until 2043. In Spain we are making good progress and in Italy we have an extension for one year. In Australia it is a little bit more complex. It expires one in 2014 and the other in 2016. The complexity here, and we believe we can resolve it this year, the complexity for Australia is one has to see it in light around the discussions around greenhouse gas regimen that Australia wants to put in place.
+
+Operator
+
+The next question comes from John Tumazos – John Tumazos Independent.
+
+John Tumazos – John Tumazos Independent
+
+Could you describe the geographic distribution of the employees and contractors announced redundant on January 6? How many were in the U.S.? How many were in low-wage countries? A $450 million sum and last week’s press release would seem to indicate a lot of them might have been in Mexico or Russia or low-wage destinations.
+
+Klaus Kleinfeld
+
+Let me take a look here so I don’t give you the wrong number. In the meantime, this chart number twelve shows the total. We will have about close to 5,000 in North America and we will have in Europe including Russia about 4,400 and then the rest is in all the other regions.
+
+Operator
+
+The next question comes from John Redstone - Desjardins Securities.
+
+John Redstone - Desjardins Securities
+
+You mentioned previously you still have some ceilings in your can sheet contracts. I’m just wondering if you still have some claws.
+
+Klaus Kleinfeld
+
+Can you specify what you mean by that?
+
+John Redstone - Desjardins Securities
+
+You mentioned before there is an upper limit to the price of aluminum you can pass on to your canned sheet consumers. I was just wondering if what is good for the goose is also good for the gander. In other words there is a minimum price you can pass on to your can sheet consumers as well?
+
+Klaus Kleinfeld
+
+As we have reported before, the fixed price contracts that we have on the can sheet side are about to run out and we are in the middle of new negotiations. In fact if you followed us on that level closely you could have picked up we actually had some of those fixed price contracts running out last year and where we have been very successful in coming up with new contracts with substantially better pricing. The indexing part that you refer to is typically more on the energy side. There is typically no floor, a ceiling typically.
+
+Operator
+
+The next question comes from Kuni Chen - Banc of America Securities.
+
+Kuni Chen - Banc of America Securities
+
+Do you think it is probable the industry kind of needs more of a big bang at this point in terms of production cuts to keep from digging itself a bigger hole and how probable do you see that big bang type of event playing out in China?
+
+Klaus Kleinfeld
+
+Let’s bring up the chart that shows demand/supply balance. I think that is our view on trying to find that answer. Let’s start with the supply side first. I think that we have seen a lot of curtailments going in here and those curtailments are taking effect. In fact, you saw on the previous chart 800,000 tons is already there and we believe the total effect of those and total 4.2 million remaining from the announced curtailments for next year will be around 3.5 million. The good and interesting news here is we actually do see evidence those curtailments are taking effect even in places like China. There is a number of indications it is really happening there.
+
+The other thing is, and that is a bigger question there, where exactly is the cost curve these days? I am pretty sure there is a sizeable percentage of smelters that even today operate above the LME price. I would put it around 20-25% but for many of those they have the special conditions generated, particularly those in China, where you see provinces like Hunan that have given the smelters they have in their province very favorable power rates until basically spring this year. The same thing for inner Mongolia and some other provinces. At the same time if you look at the demand side we believe we are assuming demand next year is going to further go down by 2%.
+
+If you look at other projections made by other observers of the industry minus 2 we are rather on the low end here. If you look at [McQueary] is at minus 1.6% and actually projects China on the same level we do. We do see in the demand side on China their massive stimulus program I just mentioned of $680 billion is really starting to show traction and so we believe it is pretty likely that is going to happen.
+
+For the U.S. we project that the downturn continues but you always have to bear in mind the U.S. got into this already earlier and this is the third year where we would see a negative growth rate here. Same picture for the EU and then there are places like the brick countries and Russia we talked about in India but Brazil, for instance, was 0.8% growth rate. Still holding up nicely.
+
+So that is the picture. The only thing not on this picture that you have to add is we have accumulated about 2.4 million tons on the inventory. Not all the 2.4 will actually leave as we saw even in the boom times. You need still a substantial amount that is kind of a healthy logistics there of probably more than one million. If you add the numbers you can see the big question here is really around how is the stimulus package going to work. That is the big wild card. Other than that there is a chance this could be a balanced picture next year with inventories going to be drawn down.
+
+One thing is for sure. We are taking the 18% out and we will be done with that by the end of the first quarter.
+
+Operator
+
+The next question comes from [Mark Linima] - Morgan Stanley.
+
+[Mark Linima] - Morgan Stanley
+
+Could you provide any additional information on the timeline for the assets you have now identified as held for sale? Whether you have begun the process of identifying buyers, etc.?
+
+Klaus Kleinfeld
+
+Sure. We would not have announced that if we hadn’t already looking at our options. There are interested parties. We will obviously execute as soon as possible. We believe that we can get this done by the end of the year.
+
+[Mark Linima] - Morgan Stanley
+
+LME inventories have been accelerating. That has been one of the things that have blown out prices to get as far below marginal customer production as they have. Presumably a lot of it is de-stocking. Are you seeing any sense of change in customer behavior or any need they have to come back and make purchases?
+
+Klaus Kleinfeld
+
+That is absolutely correct and I’m glad you raised that. Frankly, the de-stocking that has happened there has brought it down to levels that we believe the moment when this thing turns immediately shifts because they are not maintainable. They are only maintainable when the demand goes down. We have not seen a change in the behavior in the supply chain. The good news is once this thing turns it will have to happen pretty instantaneously.
+
+Operator
+
+The next question comes from Brian MacArthur – UBS Securities.
+
+Brian MacArthur – UBS Securities
+
+I just want to go back to chart 12 and the smelting costs. You very nicely laid out the 2-3 month lag on aluminum input costs so obviously in the fourth quarter there was a disproportional squeeze obviously because prices came down so very, very quickly for aluminum. But you also talked about managing inventory quite effectively in Q4. I just want to make sure that relationship will still hold in the fourth quarter that is because you haven’t just basically taken out the inventory so fast in the fourth quarter that relationship is getting distorted whereas most of the working capital saved in the fourth quarter was related to Singapore and the downstream business.
+
+Charles McLane
+
+No, I don’t think it is going to get distorted. The pricing conventions we have listed in the normal inventory flow would be under a normal basis. I think we, like everybody else, have had a flight to liquidity where you want to operate with as low inventories as possible and we are going to try and do that. So I don’t think you will see any anomalies take place. We just wanted to reinforce the fact there was a big LME price decrease between the third and fourth quarter. You are not going to get all the benefits of the lower link costs or other procurement initiatives immediately and now the price has come down again so far anyway between the fourth quarter and what we are currently seeing so you are going to have an additional lag on cost on top of that just to keep people more comfortable. In the days when it was moving $50-100 in a quarter it wasn’t that big a deal. When you move $900 in a quarter it is a big deal.
+
+Brian MacArthur – UBS Securities
+
+Especially if your inventory has changed between 1-2 months or you have cut it down from 2 to 1 that will still make a difference and not really [caution] as well too. That flows through cost of goods. That is all I was getting at. So you are saying these relationships generally still hold that inventory coming out evenly if you want to look at it that way.
+
+Charles McLane
+
+I think so.
+
+Operator
+
+The next question comes from Jorge Beristain - Deutsche Bank Securities.
+
+Jorge Beristain - Deutsche Bank Securities
+
+I wanted to have another follow-up on that commercial paper question I did earlier regarding the revolver. You said you would not need to tap the revolver because you have commercial paper available. I have understood some credit rating agencies put you on review for downgrade and would that not make the issuance of commercial paper more difficult and so could you envision a situation where you may not be able to issue as much or roll over as much commercial paper as in prior months?
+
+Charles McLane
+
+That is always possible. I don’t want to speculate around it. There is a host of different actions that could be taken. I think the key point there is simply if you looked at we have got a normal 5-year revolver and on top of it we have an additional bank facility. All of those are borrowing capacities that far exceed our current short-term needs. I think that is the important point here.
+
+Klaus Kleinfeld
+
+If I may add to that, even at the time when the credit agencies put us on watch, which usually is a time when people are faced with a little bit more question marks, we rolled commercial paper in a good way.
+
+Charles McLane
+
+I guess I go back to a comment I made in there when we are looking at the capacity we have available that is only for a comfort or cushion basis. Our whole emphasis is managing the company right now on a cash basis. I think we have tried to exhibit through all the actions we have taken. At the end of the day we are trying to maximize our cash position and not to use the capacity.
+
+Jorge Beristain - Deutsche Bank Securities
+
+Obviously a lot of people are asking about the dividend. My question would be would you consider tapping other sources of capital if necessary such as the issuance of preferred shares or maybe even common stock to recapitalize Alcoa or is that just not even something that is on the cards right now?
+
+Klaus Kleinfeld
+
+I really don’t want to fuel any more speculation. I think I said what I said and I would be happy to say it a different way one more time. Alcoa if you look at the history of Alcoa and whether we have been paying dividends and on which level we have been paying dividends continuously for 60 years. There have been many downturns during that period and as I said we are committed to continue to create value for our shareholders and that is all I want to say about that at this point in time.
+
+Operator
+
+We have now concluded our question-and-answer session. I would now like to turn the call over to Mr. Klaus Kleinfeld.
+
+Klaus Kleinfeld
+
+Thank you very much for the attention and staying interested and I think we had a good dialogue on the Q&A as usual. These are, as we all can tell in various ways, shapes or form absolutely unprecedented times and many of us see this for the first time in that amount. I think one thing I can absolutely assure you is we are managing the company for maximizing our cash. The second thing is we will continue to monitor the environment and we will act fast and decisively just as you saw and Chuck and I have explained to you in how we have run you through that.
+
+Comparative to many, many others we believe we are absolutely ahead of the curve and that will clearly show in our competitiveness and our relative competitiveness and it will definitely show when the economy comes back.
+
+Thank you very much. Good bye.
+
+Operator
+
+Ladies and gentlemen thank you for your participation in today’s conference. This concludes the presentation. You may now disconnect.
