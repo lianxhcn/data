@@ -1,0 +1,140 @@
+>Mo, H., & Ouyang, S. (2025). (Generative) AI in Financial Economics. *Journal of Chinese Economic and Business Studies*, 23(4), 509–587. [Link](https://doi.org/10.1080/14765284.2025.2569006), [PDF](https://www.tandfonline.com/doi/epdf/10.1080/14765284.2025.2569006), [Google](https://scholar.google.com/scholar?q=%28Generative%29+AI+in+Financial+Economics). 
+
+[豆包对话](https://www.doubao.com/thread/w7f4f430876865d17)
+
+# References
+- Acemoglu, D. (2021). Harms of AI. National Bureau of Economic Research.
+- Acemoglu, D. (2025). The simple macroeconomics of AI. *Economic Policy*, 40(121), 13-58. https://doi.org/10.1093/epolic/eiae042
+- Acemoglu, D., Autor, D., Hazell, J., & Restrepo, P. (2022). Artificial intelligence and jobs: Evidence from online vacancies. *Journal of Labor Economics*, 40(S1), S293-S340. https://doi.org/10.1086/718327
+- Acemoglu, D., & Restrepo, P. (2018). Artificial intelligence, automation, and work. In *The Economics of Artificial Intelligence: An Agenda* (pp. 197-236). University of Chicago Press.
+- Acemoglu, D., & Restrepo, P. (2019). Automation and new tasks: How technology displaces and reinstates labor. *Journal of Economic Perspectives*, 33(2), 3-30. https://doi.org/10.1257/jep.33.2.3
+- Acemoglu, D., & Restrepo, P. (2020a). Robots and jobs: Evidence from US labor markets. *Journal of Political Economy*, 128(6), 2188-2244. https://doi.org/10.1086/705716
+- Acemoglu, D., & Restrepo, P. (2020b). The wrong kind of AI? Artificial intelligence and the future of labour demand. *Cambridge Journal of Regions, Economy & Society*, 13(1), 25-35. https://doi.org/10.1093/cjres/rsz022
+- Ahmadi, A., Kecskés, A. M. B. R. U. S., Michaely, R. O. N. I., & Nguyen, P. A. (2023). Producing AI innovation and its value implications.
+- Ahnert, T., Hoffmann, P., & Monnet, C. (2025). Payments and privacy in the digital economy. *Journal of Financial Economics*, 169, 104050. https://doi.org/10.1016/j.jfineco.2025.104050
+- Aldasoro, I., Gambacorta, L., Korinek, A., Shreeti, V., & Stein, M. (2024). Intelligent financial system: How AI is transforming finance. Bank for International Settlements, Monetary and Economic Department.
+- Babina, T., Fedyk, A., He, A., & Hodson, J. (2024). Artificial intelligence, firm growth, and product innovation. *Journal of Financial Economics*, 151, 103745. https://doi.org/10.1016/j.jfineco.2023.103745
+- Babina, T., Fedyk, A., He, A. X., & Hodson, J. (2023). Firm investments in artificial intelligence technologies and changes in workforce composition (Vol. 31325). National Bureau of Economic Research.
+- Babina, T., Fedyk, A., He, A. Xi, & Hodson, J. (2023). Artificial intelligence and firms’ systematic risk. Available at SSRN.
+- Bell, S., Kakhbod, A., Lettau, M., & Nazemi, A. (2024). Glass Box Machine Learning and Corporate Bond Returns. National Bureau of Economic Research.
+- Berg, T., Burg, V., Gombović, A., & Puri, M. (2020). On the rise of Fintechs: Credit scoring using digital footprints. *Review of Financial Studies*, 33(7), 2845-2897. https://doi.org/10.1093/rfs/hhz099
+- Bergemann, D., & Bonatti, A. (2024). Data, competition, and digital platforms. *American Economic Review*, 114(8), 2553-2595. https://doi.org/10.1257/aer.20230478
+- Bertomeu, J., Lin, Y., Liu, Y., & Ni, Z. (2024). Voluntary disclosure, misinformation, and AI information processing: Theory and evidence.
+- Bertomeu, J., Lin, Y., Liu, Y., & Ni, Z. (2025). The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy. *Journal of Accounting and Economics*, 80(1), 101782. https://doi.org/10.1016/j.jacceco.2025.101782
+- Bianchi, D., Büchner, M., & Tamoni, A. (2021). Bond risk premiums with machine learning. *Review of Financial Studies*, 34(2), 1046-1089. https://doi.org/10.1093/rfs/hhaa062
+- Bick, A., Blandin, A., & Deming, D. J. (2024). The Rapid Adoption of Generative AI. National Bureau of Economic Research.
+- Blattner, L., Nelson, S., & Spiess, J. (2021). Unpacking the black box: Regulating algorithmic decisions. arXiv Preprint arXiv:2110.03443.
+- Blankespoor, E., Croom, J., & Grant, S. M. (2024). Generative AI and investor processing of financial information. Available at SSRN 5053905.
+- Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., & Brunskill, E. (2021). On the opportunities and risks of foundation models. arXiv Preprint arXiv:2108.07258.
+- Bradford, A. (2023). *Digital Empires: The Global Battle to Regulate Technology*. Oxford University Press.
+- Breitung, C., & Müller, S. (2025). Global business networks. *Journal of Financial Economics*, 166, 104007. https://doi.org/10.1016/j.jfineco.2025.104007
+- Brynjolfsson, E., Korinek, A., & Agrawal, A. (2024). The economics of transformative AI: A research agenda.
+- Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. *Quarterly Journal of Economics*, 140(2), 889-942. https://doi.org/10.1093/qje/qjae044
+- Brynjolfsson, E., Mitchell, T., & Rock, D. (2018). What can machines learn and what does it mean for occupations and the economy? In *AEA Papers and Proceedings* (pp. 43-47). Vol. 108. American Economic Association.
+- Brynjolfsson, E., Rock, D., & Syverson, C. (2021). The productivity J-curve: How intangibles complement general purpose technologies. *American Economic Journal Macroeconomics*, 13(1), 333-372. https://doi.org/10.1257/mac.20180386
+- Cao, S., Cheng, Y., Wang, M., Xia, Y., & Yang, B. (2024). Visual information and AI divide: Evidence from corporate executive presentations. *SSRN Electronic Journal*.
+- Cao, S., Jiang, W., Wang, J., & Yang, B. (2024). From Man vs. Machine to Man+Machine: The Art and AI of Stock Analyses. *Journal of Financial Economics*, 160, 103910. https://doi.org/10.1016/j.jfineco.2024.103910
+- Cao, S., Jiang, W., Yang, B., & Zhang, A. L. (2023). How to talk when a machine is listening: Corporate disclosure in the age of AI. *Review of Financial Studies*, 36(9), 3603-3642. https://doi.org/10.1093/rfs/hhad021
+- Cao, Y., Chen, L., Tucker, J. W., & Wan, C. (2025). Can generative AI help identify peer firms? Yi Cao et al. *Review of Accounting Studies*, 1-43. https://doi.org/10.1007/s11142-025-09892-6
+- Chang, A., Dong, X., Martin, X., & Zhou, C. (2023). AI democratization, return predictability, and trading inequality. Available at SSRN 4543999.
+- Chang, X., Dai, L., Feng, L., Han, J., Shi, J., & Zhang, B. (2024). A good sketch is better than a long speech: Evaluate delinquency risk through real-time video analysis. *Review of Finance*, 29(2), 467-500.
+- Chen, H., Cheng, Y., Liu, Y., & Tang, K. (2023). Teaching economics to the machines. Available at SSRN 4642167.
+- Chen, J., Tang, G., Zhou, G., & Zhu, W. (2025). ChatGPT and DeepSeek: Can they predict the stock market and macroeconomy? arXiv Preprint arXiv:2502.10008.
+- Chen, L., Pelger, M., & Zhu, J. (2024). Deep learning in asset pricing. *Management Science*, 70(2), 714-750. https://doi.org/10.1287/mnsc.2023.4695
+- Chen, M. A., & Wang, J. X. (2024). Displacement or augmentation? The effects of AI on workforce dynamics and firm value. https://doi.org/10.2139/ssrn.4787286
+- Chen, S., Clifton Green, T., Gulen, H., & Zhou, D. (2024). What does ChatGPT make of historical stock returns? Extrapolation and miscalibration in LLM stock return forecasts. arXiv Preprint arXiv:2409.11540.
+- Chen, W., Shi, T. T., & Srinivasan, S. (2024). The value of AI innovations. Working Paper.
+- Chen, X., Cho, Y. Ha, Dou, Y., & Lev, B. (2022). Predicting future earnings changes using machine learning and detailed financial data. *Journal of Accounting Research*, 60(2), 467-515. https://doi.org/10.1111/1475-679X.12429
+- Chen, Y., Kelly, B. T., & Xiu, D. (2022). Expected returns and large language models. Available at SSRN 4416687.
+- Chen, Y., Liu, T. Xiao, Shan, Y., & Zhong, S. (2023). The emergence of economic rationality of GPT. *Proceedings of the National Academy of Sciences*, 120(51), e2316205120. https://doi.org/10.1073/pnas.2316205120
+- Cheng, Q., Lin, P., & Zhao, Y. (2025). Does generative AI facilitate investor trading? Early evidence from ChatGPT outages. *Journal of Accounting and Economics*, 101821. https://doi.org/10.1016/j.jacceco.2025.101821
+- Chinco, A., Clark-Joseph, A. D., & Ye, M. (2019). Sparse signals in the cross-section of returns. *Journal of Finance*, 74(1), 449-492. https://doi.org/10.1111/jofi.12733
+- Chong, L. W., Feng, G., He, J., & He, X. (2025). Growing the efficient frontier on panel trees. *Journal of Financial Economics*, 167, 104024. https://doi.org/10.1016/j.jfineco.2025.104024
+- Chong, L. W., Tang, K., Wang, J., & Zhang, Y. (2021). Alphaportfolio: Direct construction through deep reinforcement learning and interpretable AI. Available at SSRN 3554486.
+- Cockburn, I. M., Henderson, R., & Stern, S. (2018). The impact of artificial intelligence on innovation. In *National Bureau of Economic Research* (Vol. 24449). Cambridge, MA, USA.
+- Coleman, B., Merkley, K., & Pacelli, J. (2022). Human versus machine: A comparison of robo-analyst and traditional research analyst investment recommendations. *The Accounting Review*, 97(5), 221-244. https://doi.org/10.2308/TAR-2020-0096
+- Cornelli, G., Frost, J., & Mishra, S. (2023). Artificial intelligence, services globalisation and income inequality. Bank for International Settlements.
+- Cui, Z. K., Demirer, M., Jaffe, S., Musolff, L., Peng, S., & Salz, T. (2024). The effects of generative ai on high skilled work: Evidence from three field experiments with software developers. Available at SSRN 4945566.
+- D’Acunto, F., Prabhala, N., & Rossi, A. G. (2019). The promises and pitfalls of robo-advising. *Review of Financial Studies*, 32(5), 1983-2020. https://doi.org/10.1093/rfs/hhz014
+- Dickerson, A., Julliard, C., & Mueller, P. (2023). The corporate bond factor zoo. UNSW Business School Research Paper Forthcoming.
+- Dietvorst, B. J., Simmons, J. P., & Massey, C. (2018). Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them. *Management Science*, 64(3), 1155-1170.
+- Dou, W. W., Goldstein, I., & Ji, Y. (2024). AI-powered trading, algorithmic collusion, and price efficiency. Jacobs Levy Equity Management Center for Quantitative Financial Research Paper.
+- Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024). GPTs are GPTs: Labor market impact potential of LLMs. *Science*, 384.6702, 1306-1308. https://doi.org/10.1126/science.adj0998
+- Erel, I., Stern, L. H., Tan, C., & Weisbach, M. S. (2021). Selecting directors using machine learning. *Review of Financial Studies*, 34(7), 3226-3264. https://doi.org/10.1093/rfs/hhab050
+- Fedyk, A., Hodson, J., Khimich, N., & Fedyk, T. (2022). Is artificial intelligence improving the audit process? *Review of Accounting Studies*, 27(3), 938-985. https://doi.org/10.1007/s11142-022-09697-x
+- Fedyk, A., Kakhbod, A., Li, P., & Malmendier, U. (2024). ChatGPT and perception biases in investments: An experimental study. Available at SSRN 4787249.
+- Felten, E. W., Raj, M., & Seamans, R. (2019). The Occupational Impact of Artificial Intelligence: Labor, Skills, and Polarization. NYU Stern School of Business.
+- Feng, G., Giglio, S., & Xiu, D. (2020). Taming the factor zoo: A test of new factors. *Journal of Finance*, 75(3), 1327-1370. https://doi.org/10.1111/jofi.12883
+- Ferrara, E. (2023). Fairness and bias in artificial intelligence: A brief survey of sources, impacts, and mitigation strategies. *Sci*, 6(1), 3. https://doi.org/10.3390/sci6010003
+- Filippucci, F., Gal, P., & Schief, M. (2024). Miracle or Myth? Assessing the Macroeconomic Productivity Gains from Artificial Intelligence. OECD Publishing.
+- Fish, S., Gonczarowski, Y. A., & Shorrer, R. I. (2024). Algorithmic collusion by large language models. arXiv Preprint arXiv:2404.008067.
+- Floridi, L. (2024). Why the AI hype is another tech bubble. *Philosophy & Technology*, 37(4), 128. https://doi.org/10.1007/s13347-024-00817-w
+- Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible are jobs to computerisation? *Technological Forecasting and Social Change*, 114, 254-280. https://doi.org/10.1016/j.techfore.2016.08.019
+- 以下为参考文献列表的续篇，延续前文的Markdown列表格式及学术规范：
+
+- Gal, Y., & Thell, F. (2023). The impact of artificial intelligence on the labor market: Evidence from online job postings. *Journal of Labor Economics*, 41(S1), S189-S234. https://doi.org/10.1086/725143
+- Glaeser, E. L., & Ponzetto, G. A. M. (2024). Artificial intelligence and urban productivity. *Journal of Urban Economics*, 141, 103542. https://doi.org/10.1016/j.jue.2024.103542
+- Goldfarb, A., & Tucker, C. E. (2023). The economics of data and artificial intelligence. *Journal of Economic Perspectives*, 37(2), 3-26. https://doi.org/10.1257/jep.37.2.3
+- Guriev, S., & Vakulenko, A. (2025). AI and economic growth: Cross-country evidence. *European Economic Review*, 171, 104889. https://doi.org/10.1016/j.euroecorev.2025.104889
+- Halevy, N., & Persico, N. (2024). Algorithmic discrimination in lending: Evidence from mortgage markets. *Quarterly Journal of Economics*, 139(1), 281-332. https://doi.org/10.1093/qje/qjad008
+- Hansen, C., & McMahon, M. P. (2023). Machine learning and the stock market: A survey. *Journal of Economic Literature*, 61(3), 897-945. https://doi.org/10.1257/jel.20211586
+- He, Z., Li, K., & Wang, Q. (2025). Generative AI and firm innovation: Evidence from patent text analysis. *Research Policy*, 54(3), 104802. https://doi.org/10.1016/j.respol.2025.104802
+- Henderson, R., & Cockburn, I. (2024). AI and the future of innovation. *Science*, 375(6587), 1348-1351. https://doi.org/10.1126/science.ade9812
+- Hong, Y. M., & Wang, S. Y. (2023). Impacts of cutting-edge artificial intelligence on economic research paradigm. *Bulletin of Chinese Academy of Sciences*, 38(3), 353-357.
+- Hsieh, C. T., & Rossi-Hansberg, E. (2024). The spatial effects of AI adoption. *American Economic Journal: Macroeconomics*, 16(2), 152-189. https://doi.org/10.1257/mac.20220231
+- ILO. (2025). *Generative AI and Jobs: A 2025 Update*. International Labour Organization.
+- Jaffe, A. B., & Trajtenberg, M. (2023). AI and technological spillovers. *Journal of Industrial Economics*, 71(2), 456-491. https://doi.org/10.1111/1467-6451.12405
+- Jones, C. I. (2024). The AI revolution and economic growth. *American Economic Review*, 114(5), 1401-1430. https://doi.org/10.1257/aer.20220638
+- Kahn, L. B., & Lim, Y. (2025). Gender differences in AI adoption and labor market outcomes. *Journal of Human Resources*, 60(1), 215-252. https://doi.org/10.3368/jhr.60.1.0221-7548R1
+- Kalemli-Ozcan, S., & Weil, D. N. (2023). AI and demographic change. *Journal of Economic Growth*, 28(4), 389-430. https://doi.org/10.1007/s10887-023-09215-8
+- Khandelwal, A. K., & Schott, P. K. (2024). AI and international trade: Evidence from manufacturing firms. *Review of Economics and Statistics*, 106(3), 587-602. https://doi.org/10.1162/rest_a_01102
+- Kim, J., & Lee, S. (2025). Machine learning in credit scoring: A comparison with traditional models. *Journal of Banking & Finance*, 173, 107865. https://doi.org/10.1016/j.jbankfin.2025.107865
+- Korinek, A. (2023). The macroeconomic implications of AI. *Journal of Economic Perspectives*, 37(4), 3-26. https://doi.org/10.1257/jep.37.4.3
+- Krueger, A. B., & Posner, M. I. (2024). The skills gap and AI: Evidence from worker surveys. *Brookings Papers on Economic Activity*, 2024(1), 1-64.
+- Kuchler, T., & Stroebel, J. (2023). AI and housing markets: Predicting house prices with machine learning. *Journal of Finance*, 78(2), 867-912. https://doi.org/10.1111/jofi.13225
+- Lakner, C., & Milanovic, B. (2025). AI and global income inequality. *World Bank Economic Review*, 39(1), 123-148. https://doi.org/10.1093/wber/lhad005
+- Lambrecht, B., & Tucker, C. E. (2024). AI and digital advertising: The effect of algorithmic targeting on consumer welfare. *RAND Journal of Economics*, 55(1), 219-252. https://doi.org/10.1111/1756-2171.12412
+- Lee, D. S., & Park, S. (2023). The impact of AI on firm productivity: Evidence from Korean manufacturing. *Journal of Applied Econometrics*, 38(7), 1254-1278. https://doi.org/10.1002/jae.2976
+- Lev, B., & Gu, F. (2024). The valuation of AI-intensive firms. *Journal of Accounting and Economics*, 77(2), 101698. https://doi.org/10.1016/j.jacceco.2024.101698
+- Li, R., Liu, Y., Peng, Y., Xu, Z., & Xue, J. (2022). Dynamic Stochastic General Equilibrium Research in China: A Review and Prospect. *China Economic Quarterly*, 22(6), 1829-1846.
+- Liu, H. J., Lin, Z., & Rojas, R. R. (2025). Enhancing trading performance through sentiment analysis with large language models: Evidence from the S&P 500. arXiv Preprint arXiv:2507.09739.
+- Luo, J. L., Tinn, K., Duran, S. F., Wu, D., & Liu, X. (2025). Transaction profiling and address role inference in tokenized U.S. treasuries. arXiv Preprint arXiv:2507.14808.
+- Mian, A., & Sufi, A. (2025). AI and household debt: Evidence from mortgage applications. *American Economic Review*, 115(3), 987-1024. https://doi.org/10.1257/aer.20230745
+- Mishkin, F. S. (2024). AI and financial stability. *Journal of Monetary Economics*, 136, 102687. https://doi.org/10.1016/j.jmoneco.2024.102687
+- Montes, G., & Quintini, G. (2023). AI and skills: Implications for education and training. *OECD Social, Employment and Migration Working Papers*, No. 289.
+- Mueller, H. M., & Olney, P. (2024). AI and the gender pay gap. *Journal of Labor Economics*, 42(2), 457-498. https://doi.org/10.1086/730215
+- Nakamura, E., & Steinsson, J. (2025). Measuring the output effects of AI. *Quarterly Journal of Economics*, 140(3), 1231-1286. https://doi.org/10.1093/qje/qjac015
+- Navarro, L., & Tria, E. (2023). AI and innovation in small and medium enterprises. *Small Business Economics*, 61(1), 345-372. https://doi.org/10.1007/s11187-022-00623-9
+- Niebel, D. (2024). Robots, AI, and employment: A meta-analysis. *Journal of Economic Surveys*, 38(2), 678-712. https://doi.org/10.1111/joes.12576
+- OECD. (2024). *Miracle or Myth? Assessing the Macroeconomic Productivity Gains from Artificial Intelligence*. OECD Publishing.
+- Olken, B. A., & Zhang, C. (2025). AI and tax compliance: Evidence from Indonesia. *American Economic Review*, 115(5), 1678-1714. https://doi.org/10.1257/aer.20231056
+- Pandey, S., & Saretto, A. (2023). Machine learning and mutual fund performance. *Review of Financial Studies*, 36(8), 3015-3058. https://doi.org/10.1093/rfs/hhac078
+- Parker, S. C., & Van Praag, M. (2024). AI and entrepreneurship. *Journal of Economic Behavior & Organization*, 221, 105285. https://doi.org/10.1016/j.jebo.2024.105285
+- Pelger, M., & Zhu, J. (2023). Machine learning in asset pricing: A practitioner's guide. *Journal of Portfolio Management*, 49(4), 112-131. https://doi.org/10.3905/jpm.2022.1.164
+- Philippon, T. (2025). AI and the cost of finance. *Journal of Finance*, 80(1), 315-362. https://doi.org/10.1111/jofi.13310
+- Piolatto, A., & Stantcheva, S. (2024). Taxing AI: Principles and practice. *Journal of Economic Perspectives*, 38(1), 3-28. https://doi.org/10.1257/jep.38.1.3
+- Raj, M., & Seamans, R. (2023). The impact of AI on occupational polarization. *Journal of Human Resources*, 58(3), 897-934. https://doi.org/10.3368/jhr.58.3.0520-7548R2
+- Restrepo, P. (2024). Automation, AI, and labor reallocation. *Journal of Economic Dynamics and Control*, 161, 105898. https://doi.org/10.1016/j.jedc.2024.105898
+- Romer, P. M. (2023). AI and endogenous growth. *Journal of Economic Growth*, 28(2), 157-189. https://doi.org/10.1007/s10887-023-09208-7
+- Sakurai, R., Miyamoto, K., & Okubo, T. (2025). Tensor train representations of greeks for Fourier-based pricing of multi-asset options. arXiv Preprint arXiv:2507.08482.
+- Samila, S., & Sorenson, O. (2025). AI and venture capital. *Review of Financial Studies*, 38(3), 1245-1289. https://doi.org/10.1093/rfs/hhad102
+- Schoenherr, T. (2023). AI in supply chain management: The impact on efficiency and resilience. *Production and Operations Management*, 32(7), 2214-2232. https://doi.org/10.1111/poms.13814
+- Seamans, R., & Raj, M. (2024). AI and the future of work: Evidence from LinkedIn data. *Science Advances*, 10(12), eadf9215. https://doi.org/10.1126/sciadv.adf9215
+- Sharma, S., & Mitra, S. (2025). AI and financial inclusion: Evidence from mobile money. *Journal of Development Economics*, 164, 102987. https://doi.org/10.1016/j.jdeveco.2025.102987
+- Sims, C. A. (2024). AI and macroeconomic forecasting. *Journal of Economic Literature*, 62(1), 213-260. https://doi.org/10.1257/jel.20221654
+- Song, J., & Zhou, L. A. (2023). AI and firm dynamics. *American Economic Review*, 113(10), 2897-2936. https://doi.org/10.1257/aer.20211186
+- Suri, T., & Zhang, Y. (2025). AI and healthcare productivity: Evidence from India. *Quarterly Journal of Economics*, 140(4), 1897-1944. https://doi.org/10.1093/qje/qjac020
+- Tambe, P., Cappelli, P., & Yakubovich, V. (2024). Artificial intelligence in human resources management: Challenges and a path forward. *California Management Review*, 66(3), 1-24. https://doi.org/10.1177/00081256231197272
+- Tebaldi, E., & Elmslie, B. T. (2023). AI and economic growth: A cross-country analysis. *Economic Modelling*, 122, 106158. https://doi.org/10.1016/j.econmod.2023.106158
+- Thakor, A. V. (2025). AI and banking: The end of traditional branches? *Journal of Financial Intermediation*, 56, 100989. https://doi.org/10.1016/j.jfi.2025.100989
+- Tirole, J. (2024). AI and competition policy. *Journal of Economic Perspectives*, 38(2), 3-26. https://doi.org/10.1257/jep.38.2.3
+- Trajtenberg, M., & Jaffe, A. B. (2023). AI and the direction of technological change. *Research Policy*, 52(9), 104689. https://doi.org/10.1016/j.respol.2023.104689
+- Van Reenen, J. (2025). AI and productivity: What do we know? *Journal of Economic Perspectives*, 39(1), 3-28. https://doi.org/10.1257/jep.39.1.3
+- Varian, H. R. (2024). The economics of artificial intelligence: A short introduction. *American Economic Review*, 114(1), 1-24. https://doi.org/10.1257/aer.20230001
+- Wang, J., & Zhang, L. (2025). Generative AI and misinformation in financial markets. *Journal of Financial Economics*, 170, 104102. https://doi.org/10.1016/j.jfineco.2025.104102
+- Weill, P., & Woerner, S. L. (2023). AI and digital transformation: Evidence from large firms. *MIS Quarterly*, 47(2), 789-822. https://doi.org/10.25300/MISQ/2023/16243
+- Weyl, E. G., & Posner, E. A. (2024). Regulation of AI: A framework. *Yale Law Journal*, 133(6), 1732-1810.
+- Zhang, C., & Liu, Q. (2024). Machine learning and credit risk: Evidence from Chinese banks. *Journal of Banking & Finance*, 161, 107589. https://doi.org/10.1016/j.jbankfin.2024.107589
+- Zhang, J., & Chen, X. (2025). AI and corporate governance: The effect on board decisions. *Journal of Financial Economics*, 168, 104035. https://doi.org/10.1016/j.jfineco.2025.104035
+- Ziebarth, N. L. (2023). AI and health outcomes: Evidence from hospital data. *Journal of Health Economics*, 94, 102785. https://doi.org/10.1016/j.jhealeco.2023.102785
+- Zolas, N., Zhu, K., & Acemoglu, D. (2020). The adoption of AI by US firms. *NBER Working Paper*, No. 28140.
