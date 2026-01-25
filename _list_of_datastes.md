@@ -1,4 +1,4 @@
 ## List of datasets
 
-- `Du2021EE_ERdata.dta`
+- `ERdata.dta` / `Du2021EE_ERdata.dta` 
   - Du, K., Cheng, Y., & Yao, X. (2021). Environmental regulation, green technology innovation, and industrial structure upgrading: The road to the green transformation of Chinese cities. Energy Economics, 98, 105247. [Link](https://doi.org/10.1016/j.eneco.2021.105247), [PDF](https://file.lianxh.cn/Refs/refs_common/Du_2021_EE_xtplfc.pdf), [Replication](https://ars.els-cdn.com/content/image/1-s2.0-S0140988321001523-mmc1.zip), [Google](<https://scholar.google.com/scholar?q=Environmental regulation, green technology innovation, and industrial structure upgrading: The road to the green transformation of Chinese cities>)
