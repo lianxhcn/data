@@ -21,3 +21,15 @@ use "$gitdata/Du2021EE_ERdata.dta", clear
 use "$gitdata/hansen1999.dta", clear
 ```
 
+## 数据描述命令
+
+You can type the following commands to see the data description.
+
+```stata
+des
+
+char list
+
+codebook
+```
+
