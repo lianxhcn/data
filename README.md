@@ -2,11 +2,22 @@
 
 datasets used for blogs in https://www.lianxh.cn
 
-- [list of datasets]()
+- [list of datasets](https://github.com/lianxhcn/data/blob/main/_list_of_datastes.md)
 
 ## .dta 导入方法
 
 ```stata
-use "https:
+* Du2021EE_ERdata.dta
+use "https://github.com/lianxhcn/data/raw/refs/heads/main/Du2021EE_ERdata.dta", clear
+```
+
+or
+
+```stata
+global gitdata "https://github.com/lianxhcn/data/raw/refs/heads/main"
+
+use "$gitdata/Du2021EE_ERdata.dta", clear
+
+use "$gitdata/hansen1999.dta", clear
 ```
 
