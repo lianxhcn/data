@@ -1,5 +1,5 @@
 
-global path "D:\github_lianxh\data"
+global path "D:\github_lianxh\data\stata"
 cd $path
 
 *-2026/1/26 10:08
@@ -12,7 +12,7 @@ cd $path
   label data "Chen 2023 https://journals.sagepub.com/doi/10.1177/1536867X231195278"
   save "synth_smoking", replace 
   
-  use "Hansen1999", clear
+  use "hansen1999", clear
   label data "Wang 2015 10.1177/1536867X1501500108"
-  save "Hansen1999", replace
+  save "hansen1999", replace
 */

@@ -8,13 +8,13 @@ datasets used for blogs in https://www.lianxh.cn
 
 ```stata
 * Du2021EE_ERdata.dta
-use "https://github.com/lianxhcn/data/raw/refs/heads/main/Du2021EE_ERdata.dta", clear
+use "https://github.com/lianxhcn/data/raw/refs/heads/main/stata/Du2021EE_ERdata.dta", clear
 ```
 
 or
 
 ```stata
-global gitdata "https://github.com/lianxhcn/data/raw/refs/heads/main"
+global gitdata "https://github.com/lianxhcn/data/raw/refs/heads/main/stata"
 
 use "$gitdata/Du2021EE_ERdata.dta", clear
 
