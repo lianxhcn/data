@@ -12,6 +12,12 @@
   - Wang, Q. (2015). Fixed-Effect Panel Threshold Model using Stata. The Stata Journal, 15(1), 121–134. [Link](https://journals.sagepub.com/doi/10.1177/1536867X1501500108), [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1501500108), [Google](<https://scholar.google.com/scholar?q=Fixed-Effect Panel Threshold Model using Stata>).
     - `help xthreg`
 
+### K
+
+- `kpr2021_hpdata.dta`
+  - Ditzen, J., & Reese, S. (2023). xtnumfac: A battery of estimators for the number of common factors in time series and panel-data models. The Stata Journal, 23(2), 438–454. [Link](https://journals.sagepub.com/doi/10.1177/1536867X231175305), [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1536867X231175305), [Google](<https://scholar.google.com/scholar?q=xtnumfac: A battery of estimators for the number of common factors in time series and panel-data models>). `findit xtnumfac`
+
+
 ### S
 
 - `smoking.dta` / `synth_smoking.dta` 
