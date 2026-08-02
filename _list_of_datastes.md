@@ -1,5 +1,12 @@
 ## List of datasets
 
+### D 
+- `Ding2024_mini.dta`
+  - Ding, J., Li, L., & Zhao, J. (2024). How does fintech prompt corporations toward ESG sustainable development? Evidence from China. *Energy Economics*, 131, 107387. [Link](https://doi.org/10.1016/j.eneco.2024.107387), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/2026-Spring/Ding_2024_How_does_fintech_prompt_corporations_toward_ESG_sustainable_development_Evidence_from_China.pdf), [Google](<https://scholar.google.com/scholar?q=How does fintech prompt corporations toward ESG sustainable development? Evidence from China>). `codes_Ding2024_EE.do`
+  - `xtprobit`, `reghdfe`
+  - 手动计算 IMR，并进行 Heckman 修正
+
+
 ### E
 - `ERdata.dta` / `Du2021EE_ERdata.dta` 
   - Du, K., Cheng, Y., & Yao, X. (2021). Environmental regulation, green technology innovation, and industrial structure upgrading: The road to the green transformation of Chinese cities. Energy Economics, 98, 105247. [Link](https://doi.org/10.1016/j.eneco.2021.105247), [PDF](https://file.lianxh.cn/Refs/refs_common/Du_2021_EE_xtplfc.pdf), [Replication](https://ars.els-cdn.com/content/image/1-s2.0-S0140988321001523-mmc1.zip), [Google](<https://scholar.google.com/scholar?q=Environmental regulation, green technology innovation, and industrial structure upgrading: The road to the green transformation of Chinese cities>)
