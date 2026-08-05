@@ -30,3 +30,10 @@
 - `smoking.dta` / `synth_smoking.dta` 
   - Abadie, A., Diamond, A., & Hainmueller, J. (2010). Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program. Journal of the American Statistical Association, 105(490), 493-505. [Link](https://doi.org/10.1198/jasa.2009.ap08746), [PDF](https://www.stat.berkeley.edu/~aldous/Research/UCB/2010-10.pdf), [Replication](https://web.stanford.edu/~jhain/synthpage.html), [Google](<https://scholar.google.com/scholar?q=Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program>)
   - Yan, G., & Chen, Q. (2023). synth2: Synthetic control method with placebo tests, robustness test, and visualization. The Stata Journal, 23(3), 597–624. [Link](https://journals.sagepub.com/doi/10.1177/1536867X231195278), [PDF](https://journals.sagepub.com/doi/pdf/10.1177/1536867X231195278), [Google](<https://scholar.google.com/scholar?q=synth2: Synthetic control method with placebo tests, robustness test, and visualization>).
+
+### X
+
+- [`xtgfe_bm2015.dta`](stata/xtgfe/) / `xtgfe_bm2015.do`
+  - Bonhomme, S., & Manresa, E. (2015). Grouped patterns of heterogeneity in panel data. *Econometrica*, 83(3), 1147-1184. [Link](https://doi.org/10.3982/ECTA11319), [Google](<https://scholar.google.com/scholar?q=Grouped+patterns+of+heterogeneity+in+panel+data>).
+  - Acemoglu, D., Johnson, S., Robinson, J. A., & Yared, P. (2008). Income and democracy. *American Economic Review*, 98(3), 808-842. [Link](https://doi.org/10.1257/aer.98.3.808), [Google](<https://scholar.google.com/scholar?q=Income+and+democracy>).
+  - `xtgfe`：分组固定效应教学复现材料；数据来自作者公开镜像，保留来源署名。详见 [`stata/xtgfe/`](stata/xtgfe/)。
