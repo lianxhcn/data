@@ -1,0 +1,10 @@
+period,series_order,value,series_key
+1,低暴露组,6,low_exposure
+2,低暴露组,5.5,low_exposure
+3,低暴露组,5,low_exposure
+1,高暴露组,6,high_exposure
+2,高暴露组,4.5,high_exposure
+3,高暴露组,3,high_exposure
+1,3,6,common_year_mean
+2,3,5,common_year_mean
+3,3,4,common_year_mean
