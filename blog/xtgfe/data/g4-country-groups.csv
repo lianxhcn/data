@@ -1,0 +1,91 @@
+code,ccode,country,gfe_group4
+5,AUS,Australia,1
+6,AUT,Austria,1
+7,BEL,Belgium,1
+14,CAN,Canada,1
+18,COL,Colombia,1
+21,CRI,Costa Rica,1
+23,CYP,Cyprus,1
+24,DNK,Denmark,1
+25,DOM,Dominican Republic,1
+28,SLV,El Salvador,1
+2,FIN,Finland,1
+29,FRA,France,1
+33,GTM,Guatemala,1
+36,ISL,Iceland,1
+37,IND,India,1
+40,IRL,Ireland,1
+41,ISR,Israel,1
+42,ITA,Italy,1
+43,JAM,Jamaica,1
+44,JPN,Japan,1
+48,LUX,Luxembourg,1
+51,MYS,Malaysia,1
+57,NLD,Netherlands,1
+58,NZL,New Zealand,1
+62,NOR,Norway,1
+74,LKA,Sri Lanka,1
+75,SWE,Sweden,1
+76,CHE,Switzerland,1
+82,TTO,Trinidad and Tobago,1
+84,TUR,Turkey,1
+86,GBR,United Kingdom,1
+87,USA,United States,1
+89,VEN,"Venezuela, RB",1
+4,ARG,Argentina,2
+9,BOL,Bolivia,2
+10,BRA,Brazil,2
+26,ECU,Ecuador,2
+32,GRC,Greece,2
+35,HND,Honduras,2
+47,KOR,"Korea, Rep.",2
+56,NPL,Nepal,2
+65,PER,Peru,2
+67,PRT,Portugal,2
+73,ESP,Spain,2
+80,THA,Thailand,2
+88,URY,Uruguay,2
+3,DZA,Algeria,3
+12,BDI,Burundi,3
+13,CMR,Cameroon,3
+1,TCD,Chad,3
+17,CHN,China,3
+19,ZAR,"Congo, Dem. Rep.",3
+20,COG,"Congo, Rep.",3
+22,CIV,Cote d'Ivoire,3
+27,EGY,"Egypt, Arab Rep.",3
+30,GAB,Gabon,3
+34,GIN,Guinea,3
+38,IDN,Indonesia,3
+39,IRN,Iran,3
+45,JOR,Jordan,3
+46,KEN,Kenya,3
+53,MRT,Mauritania,3
+55,MAR,Morocco,3
+61,NGA,Nigeria,3
+64,PRY,Paraguay,3
+69,RWA,Rwanda,3
+70,SLE,Sierra Leone,3
+71,SGP,Singapore,3
+77,SYR,Syrian Arab Republic,3
+81,TGO,Togo,3
+83,TUN,Tunisia,3
+85,UGA,Uganda,3
+8,BEN,Benin,4
+11,BFA,Burkina Faso,4
+15,CAF,Central African Republic,4
+16,CHL,Chile,4
+31,GHA,Ghana,4
+49,MDG,Madagascar,4
+50,MWI,Malawi,4
+52,MLI,Mali,4
+54,MEX,Mexico,4
+59,NIC,Nicaragua,4
+60,NER,Niger,4
+63,PAN,Panama,4
+66,PHL,Philippines,4
+68,ROM,Romania,4
+72,ZAF,South Africa,4
+78,TWN,Taiwan,4
+79,TZA,Tanzania,4
+90,ZMB,Zambia,4

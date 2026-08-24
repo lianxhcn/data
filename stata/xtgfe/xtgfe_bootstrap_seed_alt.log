@@ -1,0 +1,170 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata19\profile.do ...
+
+. do C:\tmp\xtgfe_bootstrap_seed_alt.do 
+
+. version 19.0
+
+. clear all
+
+. set more off
+
+. capture log close _all
+
+. log using "C:/tmp/xtgfe_bootstrap_seed_alt.log", text replace
+(file C:/tmp/xtgfe_bootstrap_seed_alt.log not found)
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:/tmp/xtgfe_bootstrap_seed_alt.log
+  log type:  text
+ opened on:   6 Aug 2026, 00:34:19
+
+. cd "D:/github_lianxh/data/stata/xtgfe"
+D:\github_lianxh\data\stata\xtgfe
+
+. use "xtgfe_bm2015.dta", clear
+
+. xtset code year, delta(5)
+
+Panel variable: code (strongly balanced)
+ Time variable: year, 1970 to 2000
+         Delta: 5 units
+
+. set seed 20260806
+
+. timer clear
+
+. timer on 1
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(10) vce(bootstrap) reps(999)
+.........................
+bootstrap: ....................................................................
+> ...............................
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 25   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 10   (bootstrap s.e., 999 reps)
+SSR =      7.74906   log-likelihood =      491.485
+Elapsed time =    203.91 seconds
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+             |   Observed
+ fhpolrigaug | coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.277      0.235     1.18   0.238       -0.183       0.738
+  lag_income |      0.075      0.018     4.14   0.000        0.040       0.111
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .104117     .024783    4.20  .0000265
+--------------------------------------------------------------
+Number of units per group:
+  Group  1:     2
+  Group  2:    29
+  Group  3:     7
+  Group  4:    11
+  Group  5:     6
+  Group  6:     3
+  Group  7:     3
+  Group  8:     8
+  Group  9:     3
+  Group 10:    18
+
+Group assignments saved in variable gfe_group
+
+. timer off 1
+
+. timer list 1
+   1:    207.12 /        1 =     207.1190
+
+. matrix BR = e(bootreps)
+
+. clear
+
+. svmat double BR, names(col)
+number of observations will be reset to 999
+Press any key to continue, or Break to abort
+Number of observations (_N) was 0, now 999.
+
+. rename c1 lag_dem
+
+. rename c2 lag_income
+
+. summarize lag_dem lag_income, detail
+
+                           lag_dem
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%     .2379787       .1535373
+ 5%     .3017652       .1688386
+10%     .3421266       .1728482       Obs                 999
+25%     .4064575       .1851159       Sum of wgt.         999
+
+50%     .4839568                      Mean           .4843582
+                        Largest       Std. dev.      .1107927
+75%     .5618653       .7788954
+90%     .6280472       .8110657       Variance        .012275
+95%      .670192       .8351682       Skewness       .0506178
+99%     .7515222       .8545453       Kurtosis       2.873741
+
+                         lag_income
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%      .031241       .0111558
+ 5%     .0424817       .0212591
+10%     .0472016       .0240062       Obs                 999
+25%     .0549456         .02687       Sum of wgt.         999
+
+50%     .0628926                      Mean           .0643849
+                        Largest       Std. dev.      .0145838
+75%     .0726121       .1141003
+90%     .0837246       .1143555       Variance       .0002127
+95%     .0896547        .116248       Skewness        .381148
+99%     .1023172       .1176692       Kurtosis       3.619402
+
+. export delimited using "bootstrap_999_seed20260806_reps.csv", replace
+(file bootstrap_999_seed20260806_reps.csv not found)
+file bootstrap_999_seed20260806_reps.csv saved
+
+. log close
+      name:  <unnamed>
+       log:  C:/tmp/xtgfe_bootstrap_seed_alt.log
+  log type:  text
+ closed on:   6 Aug 2026, 00:37:46
+-------------------------------------------------------------------------------
+
+. exit, clear STATA
+
+end of do-file

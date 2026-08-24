@@ -1,0 +1,2 @@
+No auto-safe fixes available.
+  5 advisory item(s) are propose-only ¡ª review and apply manually.

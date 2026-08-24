@@ -1,0 +1,9 @@
+model_id,model_key,model_label,beta_hat,plot_order,near_true,beta_label
+1,pooled_ols,混合 OLS,1.828580784140531,8,0,1.829
+2,individual_fe,个体 FE,1.713567798493097,7,0,1.714
+3,twfe,TWFE,1.713641007619905,6,0,1.714
+4,known_group_year_fe,已知组别 × 年份 FE,1.65465879886962,5,0,1.655
+5,individual_plus_group_year_fe,个体 FE + 已知组别 × 年份 FE,.9807983973207743,4,1,0.981
+6,baseline_gfe,基准 GFE,1.678366603974955,3,0,1.678
+7,within_additive_gfe,个体内去均值后的加性 GFE,.9807983973207735,2,1,0.981
+8,gfe_subgroups_2_2,GFE + subgroups(2 2),.9860247743185706,1,1,0.986

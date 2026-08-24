@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "generated_by": "reproai-prep 0.4.10",
+  "root": "D:\\github_lianxh\\data\\blog\\reproai-stata\\broken-package",
+  "venue": "aea",
+  "profile_version": "2026-06-15",
+  "standard": "DCAS v1.0 + SSDE Template README v1.1",
+  "summary": {
+    "total": 9,
+    "pass": 4,
+    "fail": 1,
+    "needs_author_action": 4,
+    "not_implemented": 0,
+    "not_applicable": 0
+  },
+  "checks": [
+    {
+      "check_id": "AEA-README-PDF-TOP",
+      "requirement": "README.pdf must exist in the uppermost directory, in PDF format.",
+      "status": "fail",
+      "detail": "No README.pdf in the uppermost directory.",
+      "evidence": [],
+      "source": "https://www.aeaweb.org/journals/data/data-code-policy"
+    },
+    {
+      "check_id": "AEA-README-SECTIONS",
+      "requirement": "README should follow the SSDE template (data availability & provenance, data sources, computational requirements, program-to-output map, instructions to replicators).",
+      "status": "needs_author_action",
+      "detail": "Missing sections: data availability, computational requirement, instructions, data source.",
+      "evidence": [
+        "README.md"
+      ],
+      "source": "https://zenodo.org/records/7293838"
+    },
+    {
+      "check_id": "AEA-MASTER-SCRIPT",
+      "requirement": "A master script that runs the full package is strongly encouraged.",
+      "status": "pass",
+      "detail": "Master/entry script detected: master.do.",
+      "evidence": [
+        "master.do"
+      ],
+      "source": "https://aeadataeditor.github.io/aea-de-guidance/"
+    },
+    {
+      "check_id": "AEA-ENV-DECLARED",
+      "requirement": "Software names+versions, packages+versions, and expected runtime must be stated (README or setup program).",
+      "status": "pass",
+      "detail": "README present to carry environment statement.",
+      "evidence": [],
+      "source": "https://www.aeaweb.org/journals/data/data-code-policy"
+    },
+    {
+      "check_id": "AEA-NO-ABS-PATHS",
+      "requirement": "Code must run with no manual intervention beyond a single directory-path edit (no scattered absolute paths).",
+      "status": "pass",
+      "detail": "No absolute paths detected.",
+      "evidence": [],
+      "source": "https://www.aeaweb.org/journals/data/data-code-policy"
+    },
+    {
+      "check_id": "AEA-RAW-TO-ANALYSIS",
+      "requirement": "Raw-to-analysis code must ship and run; analysis variables re-derived from raw, not from opaque derived files.",
+      "status": "needs_author_action",
+      "detail": "Static check cannot confirm raw-to-analysis re-derivation; author must confirm.",
+      "evidence": [],
+      "source": "https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html"
+    },
+    {
+      "check_id": "AEA-FILE-COUNT",
+      "requirement": "More than 1000 files must be zipped; otherwise deposit unzipped.",
+      "status": "pass",
+      "detail": "8 files (limit 1000; zip if exceeded).",
+      "evidence": [],
+      "source": "https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html"
+    },
+    {
+      "check_id": "AEA-FORMS",
+      "requirement": "Data and Code Availability Form (+ Information Form, Archive Agreement) required.",
+      "status": "needs_author_action",
+      "detail": "Complete the AEA Data and Code Availability Form (plus the Information Form and Archive Agreement) and submit them with the deposit.",
+      "evidence": [],
+      "source": "https://www.aeaweb.org/journals/forms/data-code-availability",
+      "author_action": "Complete the AEA Data and Code Availability Form (plus the Information Form and Archive Agreement) and submit them with the deposit.",
+      "how": "Fill the official forms; copy the data-availability and software statements from your README so they match.",
+      "self_check": "All three forms are submitted and their statements agree with the README."
+    },
+    {
+      "check_id": "AEA-CONFIDENTIAL",
+      "requirement": "If data cannot be public: dual-package model + a synthetic/fake dataset for a functionality test.",
+      "status": "needs_author_action",
+      "detail": "If any data cannot be made public, build a dual package and add a synthetic/fake dataset that lets a reviewer run a functionality test.",
+      "evidence": [],
+      "source": "https://aeadataeditor.github.io/aea-de-guidance/",
+      "author_action": "If any data cannot be made public, build a dual package and add a synthetic/fake dataset that lets a reviewer run a functionality test.",
+      "how": "Split into a public package (code + synthetic data) and a restricted package; document how the synthetic data mirrors the real schema.",
+      "self_check": "The package runs end to end on the synthetic data and produces the expected output shapes."
+    }
+  ]
+}

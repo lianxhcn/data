@@ -1,0 +1,7 @@
+reproai check ¡ª D:\github_lianxh\data\blog\reproai-stata\broken-package
+  knowledge: engine 0.4.10, rules 2026.07.07
+  advisory: 5 items (P0=2 P1=1 P2=2 P3=0 P4=0; 3 defect / 2 normalization)
+  venue (aea): 4 pass / 1 fail / 4 need author action
+  risk: 3 blocker / 1 high / 2 medium / 0 low
+  adversarial review: 1 conflict(s) flagged
+  reports written to: D:\github_lianxh\data\blog\reproai-stata\reproai-runs\raw-reports\check-aea

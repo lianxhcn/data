@@ -1,0 +1,151 @@
+{
+  "schema_version": 3,
+  "generated_by": "reproai-prep 0.4.10",
+  "root": "D:\\github_lianxh\\data\\blog\\reproai-stata\\broken-package",
+  "lossless_contract": [
+    "Work on a COPY of the package; never modify the author's original files.",
+    "The rewrite MUST be semantics-preserving: the code must compute exactly the same results (same coefficients, same sample, same data, same file targets).",
+    "Formatting / structural normalization is allowed (e.g. unrolling a foreach loop into explicit per-model commands, reflowing a call) — changing what the code computes is NOT.",
+    "If you cannot make the change without risking a semantic change, do NOT apply it — leave it as a written recommendation for the author instead."
+  ],
+  "summary": {
+    "total": 5,
+    "by_priority": {
+      "P0": 2,
+      "P1": 1,
+      "P2": 2,
+      "P3": 0,
+      "P4": 0
+    },
+    "defect": 3,
+    "normalization": 2,
+    "llm_rewrite": 4,
+    "propose_only": 1
+  },
+  "items": [
+    {
+      "id": "ADV-001",
+      "rule_id": "A5-stable-includes",
+      "category": "structural",
+      "kind": "defect",
+      "priority": "P0",
+      "message": "Author should keep filenames and `do/source` include paths consistent; renames must update all references.",
+      "evidence": [
+        {
+          "file": "master.do",
+          "snippet": "includes 'code/04_format_tables.do' but no such file ships in the package"
+        }
+      ],
+      "rationale": "A do/source/import target does not resolve to any file shipped in the package.",
+      "source_lessons": [],
+      "why_downstream": "The master script calls a child script that does not exist under that name, so the run aborts before any analysis script executes.",
+      "target_form": "Update the do/source/import reference to the exact shipped filename, or rename the file to match the reference — whichever the package clearly intends.",
+      "rewrite": {
+        "mode": "llm_rewrite",
+        "lossless_note": "May only correct the include target string (or the filename) to a file that demonstrably ships in the package. Must not change script contents, build order semantics, or invent a file that is not present.",
+        "output_changing": false,
+        "fix_prompt": "[A5-stable-includes | P0 | defect] REWRITE — apply this fix to the copy, honoring the lossless contract.\nPROBLEM: Author should keep filenames and `do/source` include paths consistent; renames must update all references.\nWHERE: master.do  includes 'code/04_format_tables.do' but no such file ships in the package\nWHY IT HURTS DOWNSTREAM: The master script calls a child script that does not exist under that name, so the run aborts before any analysis script executes.\nTARGET FORM: Update the do/source/import reference to the exact shipped filename, or rename the file to match the reference — whichever the package clearly intends.\nLOSSLESS BOUNDARY FOR THIS RULE: May only correct the include target string (or the filename) to a file that demonstrably ships in the package. Must not change script contents, build order semantics, or invent a file that is not present."
+      }
+    },
+    {
+      "id": "ADV-002",
+      "rule_id": "A9-nested-cd",
+      "category": "structural",
+      "kind": "defect",
+      "priority": "P0",
+      "message": "Author should not `cd` into a subdirectory mid-script before relative file paths; it breaks when the package runs from the root.",
+      "evidence": [
+        {
+          "file": "master.do",
+          "line": 4,
+          "snippet": "cd \"D:/github_lianxh/data/blog/reproai-stata/broken-package\""
+        }
+      ],
+      "rationale": "Relative `cd` mid-script breaks relative paths when run from the package root.",
+      "source_lessons": [],
+      "why_downstream": "Run from the package root, the relative `cd` moves into a directory that may not exist there (or shifts the working directory), so every subsequent relative file path resolves wrong and the run fails. A `cd \"PATH\"` placeholder is the same failure: it is not a real directory.",
+      "target_form": "Remove the mid-script `cd`, or replace a hardcoded/placeholder `cd \"...\"` at the very top with a single project-root convention so the package runs from its root with no manual edit. Subsequent file references stay relative to the package root.",
+      "rewrite": {
+        "mode": "llm_rewrite",
+        "lossless_note": "May only remove the offending `cd` line, or replace a top-of-script path placeholder so paths resolve from the package root. Must NOT change any file basename, dataset, save target, or estimation. Every referenced file must still resolve to the same in-package target after the change.",
+        "output_changing": false,
+        "fix_prompt": "[A9-nested-cd | P0 | defect] REWRITE — apply this fix to the copy, honoring the lossless contract.\nPROBLEM: Author should not `cd` into a subdirectory mid-script before relative file paths; it breaks when the package runs from the root.\nWHERE: master.do:4  cd \"D:/github_lianxh/data/blog/reproai-stata/broken-package\"\nWHY IT HURTS DOWNSTREAM: Run from the package root, the relative `cd` moves into a directory that may not exist there (or shifts the working directory), so every subsequent relative file path resolves wrong and the run fails. A `cd \"PATH\"` placeholder is the same failure: it is not a real directory.\nTARGET FORM: Remove the mid-script `cd`, or replace a hardcoded/placeholder `cd \"...\"` at the very top with a single project-root convention so the package runs from its root with no manual edit. Subsequent file references stay relative to the package root.\nLOSSLESS BOUNDARY FOR THIS RULE: May only remove the offending `cd` line, or replace a top-of-script path placeholder so paths resolve from the package root. Must NOT change any file basename, dataset, save target, or estimation. Every referenced file must still resolve to the same in-package target after the change."
+      }
+    },
+    {
+      "id": "ADV-003",
+      "rule_id": "C8-unseeded-stochastic",
+      "category": "environment",
+      "kind": "defect",
+      "priority": "P1",
+      "message": "Author should set a seed before any stochastic operation (sampling, simulation, bootstrap, multiple imputation), so the draws are reproducible; without one, every run produces different numbers than the paper.",
+      "evidence": [
+        {
+          "file": "code\\02_analysis.do",
+          "line": 7,
+          "snippet": "stochastic command with no `set seed` --- set seed N (set rngstream under parallel)"
+        }
+      ],
+      "rationale": "Stochastic operation with no seed; a re-run draws different numbers than the paper reports.",
+      "source_lessons": [],
+      "why_downstream": "With no seed, the stochastic step draws fresh numbers every run, so the regenerated tables and figures never match the paper's reported values and the downstream reproducibility check fails --- silently, because the code itself runs fine.",
+      "target_form": "Set a seed appropriate to the BACKEND before the first draw, then regenerate the affected tables/figures: serial R --- set.seed(N); foreach %dopar% --- doRNG (registerDoRNG(N) / %dorng%); future/furrr --- future.seed = TRUE (or a seed); parallel::mclapply or parallel boot --- RNGkind(\"L'Ecuyer-CMRG\") + set.seed(N); Amelia / mice --- the seed= argument; Stata --- set seed N (and set rngstream under parallel). A set.seed before a %dopar% does nothing, so the seed must match how the code actually parallelizes.",
+      "rewrite": {
+        "mode": "propose_only",
+        "lossless_note": "This is NOT a semantics-preserving change: adding a seed FIXES the realized random draws, so the bootstrap/simulation/imputation estimates and their intervals move once to new, now-stable values. The author must re-run and update the reported numbers. Propose-only; never auto-apply, and never frame as lossless.",
+        "output_changing": true,
+        "fix_prompt": "[C8-unseeded-stochastic | P1 | defect] PROPOSE ONLY — describe the fix to the author; do NOT edit code (this finding is too semantic to rewrite safely).\nPROBLEM: Author should set a seed before any stochastic operation (sampling, simulation, bootstrap, multiple imputation), so the draws are reproducible; without one, every run produces different numbers than the paper.\nWHERE: code\\02_analysis.do:7  stochastic command with no `set seed` --- set seed N (set rngstream under parallel)\nWHY IT HURTS DOWNSTREAM: With no seed, the stochastic step draws fresh numbers every run, so the regenerated tables and figures never match the paper's reported values and the downstream reproducibility check fails --- silently, because the code itself runs fine.\nTARGET FORM: Set a seed appropriate to the BACKEND before the first draw, then regenerate the affected tables/figures: serial R --- set.seed(N); foreach %dopar% --- doRNG (registerDoRNG(N) / %dorng%); future/furrr --- future.seed = TRUE (or a seed); parallel::mclapply or parallel boot --- RNGkind(\"L'Ecuyer-CMRG\") + set.seed(N); Amelia / mice --- the seed= argument; Stata --- set seed N (and set rngstream under parallel). A set.seed before a %dopar% does nothing, so the seed must match how the code actually parallelizes.\nOUTPUT-CHANGING: applying this fix DELIBERATELY changes the realized output (e.g. a seed fixes new random draws). This is an explicit exception to the lossless contract — never auto-apply; the author must re-run and update the reported numbers.\nLOSSLESS BOUNDARY FOR THIS RULE: This is NOT a semantics-preserving change: adding a seed FIXES the realized random draws, so the bootstrap/simulation/imputation estimates and their intervals move once to new, now-stable values. The author must re-run and update the reported numbers. Propose-only; never auto-apply, and never frame as lossless."
+      }
+    },
+    {
+      "id": "ADV-004",
+      "rule_id": "A12-table-comment-mapping",
+      "category": "structural",
+      "kind": "normalization",
+      "priority": "P2",
+      "message": "Author should mark which block of code builds which reported table/figure with a `* --> Table N` (or `* --> Figure N`) comment, so the model->table-cell mapping is explicit.",
+      "evidence": [
+        {
+          "file": "code\\02_analysis.do",
+          "line": 4,
+          "snippet": "2 estimation commands, none anchored by a `* --> Table N` comment"
+        }
+      ],
+      "rationale": "Multiple estimations with no `-> Table N` comments anchoring the table<->command mapping.",
+      "source_lessons": [],
+      "why_downstream": "Without `-> Table N` comments, nothing tells the downstream (our D1 export injection, and Line 2's matcher) which group of regressions produces which paper table. The table<->command alignment then has to be guessed — the single most fragile, most token-heavy step of a reproducibility check. It also blocks per-table artifact export (D1).",
+      "target_form": "Above each group of estimation commands that build one reported table, add a `* --> Table N` comment (and `* --> Figure N` for figures). The grouping should match how the paper presents the table (one comment per reported table).",
+      "rewrite": {
+        "mode": "llm_rewrite",
+        "lossless_note": "Adding comments is purely ADDITIVE — it changes no command, estimate, or data. BUT the actual table NUMBER is a fact from the paper that is NOT in the code: the host LLM must NOT invent it. The LLM may PROPOSE a grouping from code structure (consecutive regressions, shared dependent variable, a `preserve`/`eststo` block) and insert a PLACEHOLDER comment like `* --> Table ?? (reproai: grouped N regressions; author, confirm the table number)`. The author fills in the real number. Only when an artifact manifest or Line 2 extraction supplies the real table numbers may the placeholder be replaced with a confirmed `Table N`.",
+        "output_changing": false,
+        "fix_prompt": "[A12-table-comment-mapping | P2 | normalization] REWRITE — apply this fix to the copy, honoring the lossless contract.\nPROBLEM: Author should mark which block of code builds which reported table/figure with a `* --> Table N` (or `* --> Figure N`) comment, so the model->table-cell mapping is explicit.\nWHERE: code\\02_analysis.do:4  2 estimation commands, none anchored by a `* --> Table N` comment\nWHY IT HURTS DOWNSTREAM: Without `-> Table N` comments, nothing tells the downstream (our D1 export injection, and Line 2's matcher) which group of regressions produces which paper table. The table<->command alignment then has to be guessed — the single most fragile, most token-heavy step of a reproducibility check. It also blocks per-table artifact export (D1).\nTARGET FORM: Above each group of estimation commands that build one reported table, add a `* --> Table N` comment (and `* --> Figure N` for figures). The grouping should match how the paper presents the table (one comment per reported table).\nLOSSLESS BOUNDARY FOR THIS RULE: Adding comments is purely ADDITIVE — it changes no command, estimate, or data. BUT the actual table NUMBER is a fact from the paper that is NOT in the code: the host LLM must NOT invent it. The LLM may PROPOSE a grouping from code structure (consecutive regressions, shared dependent variable, a `preserve`/`eststo` block) and insert a PLACEHOLDER comment like `* --> Table ?? (reproai: grouped N regressions; author, confirm the table number)`. The author fills in the real number. Only when an artifact manifest or Line 2 extraction supplies the real table numbers may the placeholder be replaced with a confirmed `Table N`."
+      }
+    },
+    {
+      "id": "ADV-005",
+      "rule_id": "D1-output-artifact-coverage",
+      "category": "structural",
+      "kind": "normalization",
+      "priority": "P2",
+      "message": "Author should save each reported table's estimates and each figure to a designated relative output subfolder — a path ending in tables/ for tables or figures/ for figures (e.g. output/tables/, results/tables/, or a bare tables/) — so every paper artifact has a regenerating command and a known output location.",
+      "evidence": [
+        {
+          "file": "code\\02_analysis.do",
+          "line": 4,
+          "snippet": "estimations build a table but no export saves coefficients to output/tables/"
+        }
+      ],
+      "rationale": "Estimation/figure present but no export saves the artifact to a relative output/ folder.",
+      "source_lessons": [],
+      "why_downstream": "If a table's coefficients or a figure are only printed to the console / a graph window and never saved to a file, the downstream check (and the author's own eyeball test against the paper) has nothing to compare — the artifact has no durable, locatable output.",
+      "target_form": "Add an export command after each table-building estimation that writes the estimates to output/tables/ (e.g. `esttab ... using \"output/tables/table_N.csv\", replace`), and a graph-export after each figure that writes under output/figures/ using the author's existing device/format (keep their `.png`/`.eps`/`.svg`/etc. — only redirect the path, never convert the format). Group/classify by Table/Figure with a `* --> Table N` / `* --> Figure N` comment. For base-R graphics exported via `dev.copy`/`recordPlot` under `Rscript`, the auto-opened device has its display list inhibited, so the copy is empty and NO file is written despite exit 0; guard once before any plotting with `if (!interactive()) { pdf(NULL); dev.control(displaylist = \"enable\") }`, or prefer an explicit `png(...)`/`pdf(...)` device around the plot.",
+      "rewrite": {
+        "mode": "llm_rewrite",
+        "lossless_note": "Output-saving commands are ADDITIVE — they write a file from an already-computed estimate/graph and cannot change any coefficient, sample, or data. May only INSERT such export commands (esttab/outreg/putexcel/graph export to a relative output/ path) after the command that produces the artifact. Must not alter the estimation, the graph, or any option. If which estimate maps to which table is ambiguous (and no artifact manifest is provided), insert a clearly-labeled generic export and flag the mapping for the author rather than guessing a table number.",
+        "output_changing": false,
+        "fix_prompt": "[D1-output-artifact-coverage | P2 | normalization] REWRITE — apply this fix to the copy, honoring the lossless contract.\nPROBLEM: Author should save each reported table's estimates and each figure to a designated relative output subfolder — a path ending in tables/ for tables or figures/ for figures (e.g. output/tables/, results/tables/, or a bare tables/) — so every paper artifact has a regenerating command and a known output location.\nWHERE: code\\02_analysis.do:4  estimations build a table but no export saves coefficients to output/tables/\nWHY IT HURTS DOWNSTREAM: If a table's coefficients or a figure are only printed to the console / a graph window and never saved to a file, the downstream check (and the author's own eyeball test against the paper) has nothing to compare — the artifact has no durable, locatable output.\nTARGET FORM: Add an export command after each table-building estimation that writes the estimates to output/tables/ (e.g. `esttab ... using \"output/tables/table_N.csv\", replace`), and a graph-export after each figure that writes under output/figures/ using the author's existing device/format (keep their `.png`/`.eps`/`.svg`/etc. — only redirect the path, never convert the format). Group/classify by Table/Figure with a `* --> Table N` / `* --> Figure N` comment. For base-R graphics exported via `dev.copy`/`recordPlot` under `Rscript`, the auto-opened device has its display list inhibited, so the copy is empty and NO file is written despite exit 0; guard once before any plotting with `if (!interactive()) { pdf(NULL); dev.control(displaylist = \"enable\") }`, or prefer an explicit `png(...)`/`pdf(...)` device around the plot.\nLOSSLESS BOUNDARY FOR THIS RULE: Output-saving commands are ADDITIVE — they write a file from an already-computed estimate/graph and cannot change any coefficient, sample, or data. May only INSERT such export commands (esttab/outreg/putexcel/graph export to a relative output/ path) after the command that produces the artifact. Must not alter the estimation, the graph, or any option. If which estimate maps to which table is ambiguous (and no artifact manifest is provided), insert a clearly-labeled generic export and flag the mapping for the author rather than guessing a table number."
+      }
+    }
+  ]
+}

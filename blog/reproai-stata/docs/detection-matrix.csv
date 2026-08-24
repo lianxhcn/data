@@ -1,0 +1,11 @@
+defect_id,eligible,detected,priority,location,advice_correct,auto_fixed,recheck_passed,debug_relevant,notes
+D01,no,no,,code/01_import_append.do,not_applicable,no,not_applicable,yes,Boundary observation: merge misuse needs author judgment.
+D02,yes,yes,P0,master.do:4,yes,no,no,yes,Detected as A9-nested-cd.
+D03,yes,yes,P0,master.do:12,yes,no,no,yes,Detected as A5-stable-includes.
+D04,yes,no,,README.md,no,no,no,no,No version-missing advisory was emitted.
+D05,yes,no,,master.do:5-8,no,no,no,yes,No existing-output-directory advisory was emitted.
+D06,yes,yes,P1,code/02_analysis.do:7,yes,no,no,yes,Detected as C8-unseeded-stochastic; engine classified it propose-only.
+D07,yes,no,,code/01_import_append.do:5-10,no,no,no,yes,Silent one-file fallback was not detected.
+D08,yes,no,,README.md,no,no,no,no,Static AEA README sections are needs_author_action, not a D08 detection.
+D09,no,no,,code/02_analysis.do:2,not_applicable,no,not_applicable,yes,Boundary observation: unexplained sample deletion needs author judgment.
+D10,yes,yes,P2,code/02_analysis.do:4,yes,no,no,yes,Detected through A12 mapping and D1 artifact-coverage advisories.

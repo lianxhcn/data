@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "generated_by": "reproai-prep 0.4.10",
+  "root": "D:\\github_lianxh\\data\\blog\\reproai-stata\\broken-package",
+  "files": [
+    {
+      "path": "code\\01_import_append.do",
+      "language": "stata",
+      "size_bytes": 357,
+      "sha256": "b12c678f276d7ef2066bb16f8ca1c4b2898fe50d02ee04c5e223f030a1b9aa4c"
+    },
+    {
+      "path": "code\\02_analysis.do",
+      "language": "stata",
+      "size_bytes": 352,
+      "sha256": "9479b3982516ad2b9d12a95025d41fdfbc04b77223be5fd6cf85d412d137f76c"
+    },
+    {
+      "path": "code\\03_outputs.do",
+      "language": "stata",
+      "size_bytes": 502,
+      "sha256": "a4e792aa2dcde9002323a590a513533d906a9f97e4834bf65193721c8e5e7d09"
+    },
+    {
+      "path": "MANIFEST-SHA256-before.txt",
+      "language": "doc",
+      "size_bytes": 701,
+      "sha256": "5218d844d18956043c3bfc3c209587f3a7b43ac7b1dd62c33e25a78fa329bd90"
+    },
+    {
+      "path": "master.do",
+      "language": "stata",
+      "size_bytes": 323,
+      "sha256": "6a3088599b916ea52b1266954735440820321c30e00538c7392041c7fc0a0c5f"
+    },
+    {
+      "path": "raw\\auto_domestic.csv",
+      "language": "data",
+      "size_bytes": 3143,
+      "sha256": "b874401e5a04b7b06923b8321c0f5c49d2ca75364b7f92fc62fd4be83b73abcd"
+    },
+    {
+      "path": "raw\\auto_foreign.csv",
+      "language": "data",
+      "size_bytes": 1303,
+      "sha256": "f765ecb2bfb3f6acca103a55cc85a74965e611cf5ed4793cea27384c74635d8f"
+    },
+    {
+      "path": "README.md",
+      "language": "doc",
+      "size_bytes": 68,
+      "sha256": "cd85db4809bd23bac186fca66b714788bc1c4c37f163140c8736832ff41e462a"
+    }
+  ],
+  "entry_points": [
+    {
+      "path": "master.do",
+      "reason": "runs other scripts but is not run by any"
+    }
+  ],
+  "dependency_edges": [
+    {
+      "from": "code\\01_import_append.do",
+      "to": "raw\\auto_domestic.csv",
+      "kind": "data_use",
+      "resolved": true,
+      "status": "resolved",
+      "edge_class": "read"
+    },
+    {
+      "from": "code\\01_import_append.do",
+      "to": "raw\\auto_foreign.csv",
+      "kind": "data_use",
+      "resolved": true,
+      "status": "resolved",
+      "edge_class": "read"
+    },
+    {
+      "from": "code\\01_import_append.do",
+      "to": "data/auto_combined.dta",
+      "kind": "write",
+      "resolved": false,
+      "status": "unresolved",
+      "edge_class": "write"
+    },
+    {
+      "from": "code\\02_analysis.do",
+      "to": "data/auto_combined.dta",
+      "kind": "data_use",
+      "resolved": false,
+      "status": "unresolved",
+      "edge_class": "read"
+    },
+    {
+      "from": "code\\03_outputs.do",
+      "to": "data/auto_combined.dta",
+      "kind": "data_use",
+      "resolved": false,
+      "status": "unresolved",
+      "edge_class": "read"
+    },
+    {
+      "from": "code\\03_outputs.do",
+      "to": "figures/price_mpg.png",
+      "kind": "write",
+      "resolved": false,
+      "status": "unresolved",
+      "edge_class": "write"
+    },
+    {
+      "from": "master.do",
+      "to": "code\\01_import_append.do",
+      "kind": "do",
+      "resolved": true,
+      "status": "resolved",
+      "edge_class": "include"
+    },
+    {
+      "from": "master.do",
+      "to": "code\\02_analysis.do",
+      "kind": "do",
+      "resolved": true,
+      "status": "resolved",
+      "edge_class": "include"
+    },
+    {
+      "from": "master.do",
+      "to": "code/04_format_tables.do",
+      "kind": "do",
+      "resolved": false,
+      "status": "unresolved",
+      "edge_class": "include"
+    },
+    {
+      "from": "master.do",
+      "to": "code\\03_outputs.do",
+      "kind": "do",
+      "resolved": true,
+      "status": "resolved",
+      "edge_class": "include"
+    }
+  ],
+  "table_map": [],
+  "orphans": {
+    "referenced_missing": [
+      {
+        "target": "code/04_format_tables.do",
+        "referenced_by": "master.do"
+      }
+    ],
+    "present_unreferenced": []
+  }
+}

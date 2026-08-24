@@ -1,0 +1,4 @@
+model_key,n_group1,n_group2,misclassified,misclassification_rate
+baseline,145,155,49,.1633333333333333
+within,150,150,0,0
+subgroups,150,150,0,0
