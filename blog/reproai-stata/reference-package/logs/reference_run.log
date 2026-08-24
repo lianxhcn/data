@@ -1,0 +1,198 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  D:\github_lianxh\data\blog\reproai-stata\reference-package\logs/re
+> ference_run.log
+  log type:  text
+ opened on:  23 Aug 2026, 16:55:12
+
+. 
+. capture noisily do "code/01_import_append.do"
+
+. version 17.0
+
+. import delimited "raw/auto_domestic.csv", clear varnames(1)
+(encoding automatically selected: ISO-8859-1)
+(13 vars, 52 obs)
+
+. tempfile domestic
+
+. save `domestic'
+file C:\Users\ADMINI~1\AppData\Local\Temp\ST_624_000001.tmp saved as .dta
+    format
+
+. 
+. import delimited "raw/auto_foreign.csv", clear varnames(1)
+(encoding automatically selected: ISO-8859-1)
+(13 vars, 22 obs)
+
+. append using `domestic'
+(variable make was str14, now str17 to accommodate using data's values)
+
+. 
+. assert _N == 74
+
+. isid car_id
+
+. assert inlist(foreign, 0, 1)
+
+. count if foreign == 0
+  52
+
+. assert r(N) == 52
+
+. count if foreign == 1
+  22
+
+. assert r(N) == 22
+
+. save "data/auto_combined.dta", replace
+file data/auto_combined.dta saved
+
+. 
+end of do-file
+
+. if _rc {
+.     local rc = _rc
+.     log close
+.     exit `rc'
+. }
+
+. 
+. capture noisily do "code/02_analysis.do"
+
+. version 17.0
+
+. use "data/auto_combined.dta", clear
+
+. 
+. regress price mpg weight i.foreign, vce(robust)
+
+Linear regression                               Number of obs     =         74
+                                                F(3, 70)          =      15.23
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.4996
+                                                Root MSE          =     2130.8
+
+------------------------------------------------------------------------------
+             |               Robust
+       price | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         mpg |     21.854     80.747     0.27   0.787     -139.191     182.898
+      weight |      3.465      0.778     4.46   0.000        1.914       5.016
+   1.foreign |   3673.060    664.936     5.52   0.000     2346.887    4999.234
+       _cons |  -5853.696   3873.723    -1.51   0.135    -1.36e+04    1872.200
+------------------------------------------------------------------------------
+
+. estimates save "data/regression_robust.ster", replace
+file data/regression_robust.ster saved
+
+. 
+. bootstrap _b[mpg], reps(200) seed(20260822) ///
+>     saving("data/bootstrap_mpg.dta", replace): ///
+>     regress price mpg weight i.foreign
+(running regress on estimation sample)
+
+Bootstrap replications (200)
+----+--- 1 ---+--- 2 ---+--- 3 ---+--- 4 ---+--- 5 
+..................................................    50
+..................................................   100
+..................................................   150
+..................................................   200
+
+Linear regression                                          Number of obs =  74
+                                                           Replications  = 200
+
+      Command: regress price mpg weight i.foreign
+        _bs_1: _b[mpg]
+
+------------------------------------------------------------------------------
+             |   Observed   Bootstrap                         Normal-based
+             | coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       _bs_1 |     21.854     97.444     0.22   0.823     -169.133     212.841
+------------------------------------------------------------------------------
+
+. estimates save "data/regression_bootstrap.ster", replace
+file data/regression_bootstrap.ster saved
+
+. 
+end of do-file
+
+. if _rc {
+.     local rc = _rc
+.     log close
+.     exit `rc'
+. }
+
+. 
+. capture noisily do "code/03_outputs.do"
+
+. version 17.0
+
+. estimates use "data/regression_robust.ster"
+
+. local b_mpg : display %12.6f _b[mpg]
+
+. local se_mpg : display %12.6f _se[mpg]
+
+. local b_weight : display %12.6f _b[weight]
+
+. local se_weight : display %12.6f _se[weight]
+
+. local b_foreign : display %12.6f _b[1.foreign]
+
+. local se_foreign : display %12.6f _se[1.foreign]
+
+. 
+. file open table1 using "tables/table1_regression.csv", write replace
+
+. file write table1 "term,coefficient,robust_se" _n
+
+. file write table1 "mpg,`b_mpg',`se_mpg'" _n
+
+. file write table1 "weight,`b_weight',`se_weight'" _n
+
+. file write table1 "foreign,`b_foreign',`se_foreign'" _n
+
+. file close table1
+
+. 
+. use "data/auto_combined.dta", clear
+
+. twoway (scatter price mpg) (lfit price mpg), ///
+>     title("Price and fuel efficiency") ///
+>     name(price_mpg, replace)
+
+. graph export "figures/price_mpg_scatter.png", replace
+file figures/price_mpg_scatter.png saved as PNG format
+
+. 
+. file open metadata using "tables/README.txt", write replace
+
+. file write metadata "Table 1 is produced by code/03_outputs.do." _n
+
+. file close metadata
+
+. file open figuremeta using "figures/README.txt", write replace
+
+. file write figuremeta "Figure 1 is produced by code/03_outputs.do." _n
+
+. file close figuremeta
+
+. 
+end of do-file
+
+. if _rc {
+.     local rc = _rc
+.     log close
+.     exit `rc'
+. }
+
+. 
+. log close
+      name:  <unnamed>
+       log:  D:\github_lianxh\data\blog\reproai-stata\reference-package\logs/re
+> ference_run.log
+  log type:  text
+ closed on:  23 Aug 2026, 16:55:26
+-------------------------------------------------------------------------------

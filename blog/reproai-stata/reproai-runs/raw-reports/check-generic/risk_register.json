@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "generated_by": "reproai-prep 0.4.10",
+  "root": "D:\\github_lianxh\\data\\blog\\reproai-stata\\broken-package",
+  "disclaimer": "Pre-diagnose maximizes the probability that the downstream reproducibility check passes on the first try by removing known avoidable failures. It does NOT guarantee a first-try pass.",
+  "summary": {
+    "blocker": 2,
+    "high": 1,
+    "medium": 2,
+    "low": 0
+  },
+  "risks": [
+    {
+      "id": "RISK-001",
+      "severity": "blocker",
+      "kind": "structural",
+      "message": "Author should keep filenames and `do/source` include paths consistent; renames must update all references.",
+      "predicts": "A do/source/import target does not resolve to any file shipped in the package.",
+      "evidence": [
+        "master.do"
+      ],
+      "from_advisory_ids": [
+        "ADV-001"
+      ]
+    },
+    {
+      "id": "RISK-002",
+      "severity": "blocker",
+      "kind": "structural",
+      "message": "Author should not `cd` into a subdirectory mid-script before relative file paths; it breaks when the package runs from the root.",
+      "predicts": "Relative `cd` mid-script breaks relative paths when run from the package root.",
+      "evidence": [
+        "master.do"
+      ],
+      "from_advisory_ids": [
+        "ADV-002"
+      ]
+    },
+    {
+      "id": "RISK-003",
+      "severity": "high",
+      "kind": "environment",
+      "message": "Author should set a seed before any stochastic operation (sampling, simulation, bootstrap, multiple imputation), so the draws are reproducible; without one, every run produces different numbers than the paper.",
+      "predicts": "Stochastic operation with no seed; a re-run draws different numbers than the paper reports.",
+      "evidence": [
+        "code\\02_analysis.do"
+      ],
+      "from_advisory_ids": [
+        "ADV-003"
+      ]
+    },
+    {
+      "id": "RISK-004",
+      "severity": "medium",
+      "kind": "structural",
+      "message": "Author should mark which block of code builds which reported table/figure with a `* --> Table N` (or `* --> Figure N`) comment, so the model->table-cell mapping is explicit.",
+      "predicts": "Multiple estimations with no `-> Table N` comments anchoring the table<->command mapping.",
+      "evidence": [
+        "code\\02_analysis.do"
+      ],
+      "from_advisory_ids": [
+        "ADV-004"
+      ]
+    },
+    {
+      "id": "RISK-005",
+      "severity": "medium",
+      "kind": "structural",
+      "message": "Author should save each reported table's estimates and each figure to a designated relative output subfolder — a path ending in tables/ for tables or figures/ for figures (e.g. output/tables/, results/tables/, or a bare tables/) — so every paper artifact has a regenerating command and a known output location.",
+      "predicts": "Estimation/figure present but no export saves the artifact to a relative output/ folder.",
+      "evidence": [
+        "code\\02_analysis.do"
+      ],
+      "from_advisory_ids": [
+        "ADV-005"
+      ]
+    }
+  ],
+  "cannot_predict": [
+    "Numerical match of coefficients (random seeds, solver behavior, hidden transforms surface only at execution).",
+    "Full environment reconstruction (external repos / OS libraries / licensed software may still fail).",
+    "Diagnostic fidelity (instrument strength, model classification need real outputs).",
+    "Runtime completeness (long scripts, memory, encoding, platform differences are execution-time facts).",
+    "Repository acceptance (external validation and human review may add rules)."
+  ]
+}

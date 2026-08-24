@@ -1,0 +1,70 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\Stata19\profile.do ...
+
+. do G:\codex_project\blog-lianxh\SNAP-社会网络分析-系列推文\10-work\09-Agent-a
+> uto-net-analysis\03-codex\logs\stata_validation_wrapper.do 
+
+. version 19.0
+
+. clear all
+
+. set more off
+
+. 
+. capture log close _all
+
+. log using "G:/codex_project/blog-lianxh/SNAP-社会网络分析-系列推文/10-work/09
+> -Agent-auto-net-analysis/03-codex/logs/stata_import_test.log", text replace
+(file
+    G:/codex_project/blog-lianxh/SNAP-社会网络分析-系列推文/10-work/09-Agent-
+    > auto-net-analysis/03-codex/logs/stata_import_test.log not found)
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  G:/codex_project/blog-lianxh/SNAP-社会网络分析-系列推文/10-work/09
+> -Agent-auto-net-analysis/03-codex/logs/stata_import_test.log
+  log type:  text
+ opened on:  11 Aug 2026, 23:13:17
+
+. 
+. capture noisily do "stata/import_network_metrics.do"
+file stata/import_network_metrics.do not found
+
+. local rc = _rc
+
+. display "CODEX_STATA_RETURN_CODE=`rc'"
+CODEX_STATA_RETURN_CODE=601
+
+. 
+. log close
+      name:  <unnamed>
+       log:  G:/codex_project/blog-lianxh/SNAP-社会网络分析-系列推文/10-work/09
+> -Agent-auto-net-analysis/03-codex/logs/stata_import_test.log
+  log type:  text
+ closed on:  11 Aug 2026, 23:13:17
+-------------------------------------------------------------------------------
+
+. exit `rc'

@@ -1,0 +1,5 @@
+reproai check ¡ª D:\github_lianxh\data\blog\reproai-stata\broken-package
+  knowledge: engine 0.4.10, rules 2026.07.07
+  advisory: 5 items (P0=2 P1=1 P2=2 P3=0 P4=0; 3 defect / 2 normalization)
+  risk: 2 blocker / 1 high / 2 medium / 0 low
+  reports written to: D:\github_lianxh\data\blog\reproai-stata\reproai-runs\raw-reports\check-generic

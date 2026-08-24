@@ -1,0 +1,801 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      17.0
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2021 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-STATA-PC        https://www.stata.com
+                                   979-696-4600        stata@stata.com
+
+Stata license: Single-user 4-core  perpetual
+Serial number: 501706332621
+  Licensed to: StataGay
+               zz
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata17\profile.do ...
+
+. do C:\tmp\xtgfe_stata17_final.do 
+
+. version 17.0
+
+. clear all
+
+. set more off
+
+. 
+. capture log close _all
+
+. log using "C:/tmp/xtgfe_stata17_final.log", text replace
+(file C:/tmp/xtgfe_stata17_final.log not found)
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:/tmp/xtgfe_stata17_final.log
+  log type:  text
+ opened on:   5 Aug 2026, 10:01:04
+
+. about
+
+Stata/MP 17.0 for Windows (64-bit x86-64)
+Revision 16 May 2023
+Copyright 1985-2021 StataCorp LLC
+
+Total physical memory:       64.00 GB
+Available physical memory:   47.73 GB
+
+Stata license: Single-user 4-core  perpetual
+Serial number: 501706332621
+  Licensed to: StataGay
+               zz
+
+. which xtgfe
+D:/stata/plus\x\xtgfe.ado
+*! xtgfe 1.5.5 - Grouped Fixed Effects, Bonhomme & Manresa (2015, Econometrica)
+*! Author: H. Ozan Eruygur, AHBV University, Ankara, Turkiye
+*!         https://www.ozaneruygur.com - eruygur@gmail.com
+*!         Eruygur Academy and Consulting (Eruygur Akademi ve Danismanlik) - ht
+> tps://www.eruygurakademi.com
+*! Balanced + unbalanced panels, Algorithm 1 (iterative) & 2 (VNS),
+*! cluster-sandwich (default), bootstrap & Pollard fixed-T SEs,
+*! BIC group-number selection.
+*! Ported from: BM (2015) Fortran/Stata/MATLAB replication code and the gretl
+*! GFE package by Lucchetti, Pionati & Valentini.
+
+. cd "D:/github_lianxh/data/stata/xtgfe"
+D:\github_lianxh\data\stata\xtgfe
+
+. timer clear
+
+. timer on 1
+
+. do "xtgfe_bm2015.do"
+
+. /*===========================================================================
+> ==
+>   xtgfe：Bonhomme and Manresa (2015) 收入与民主案例
+> 
+>   目的：
+>   1. 估计双向固定效应模型，作为读者熟悉的基准；
+>   2. 按 BM (2015) 的 BIC 在 G = 1,...,15 中选择潜在组数；
+>   3. 以 BIC 选择的 G = 10 复现论文核心系数；
+>   4. 以 G = 4 展示论文正文讨论的四类民主化路径。
+> 
+>   已测环境：StataNow/MP 19.5 + xtgfe 1.5.5 (2026-08-05)。
+>   搜索设置：保留 xtgfe 1.5.5 的默认 VNS 设置；命令会按 G 自动确定
+>   randstarts()，并使用 steps(128)。固定随机种子便于复现。
+> =============================================================================
+> */
+. 
+. version 17.0
+
+. clear all
+
+. set more off
+
+. set seed 8273647
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 0. 安装或更新 xtgfe
+. *----------------------------------------------------------------------------
+> -
+. capture which xtgfe
+
+. if _rc {
+.     ssc install xtgfe
+. }
+
+. 
+. * 查看当前使用的命令文件；正式复现时应在日志中记录版本日期
+. which xtgfe
+D:/stata/plus\x\xtgfe.ado
+*! xtgfe 1.5.5 - Grouped Fixed Effects, Bonhomme & Manresa (2015, Econometrica)
+*! Author: H. Ozan Eruygur, AHBV University, Ankara, Turkiye
+*!         https://www.ozaneruygur.com - eruygur@gmail.com
+*!         Eruygur Academy and Consulting (Eruygur Akademi ve Danismanlik) - ht
+> tps://www.eruygurakademi.com
+*! Balanced + unbalanced panels, Algorithm 1 (iterative) & 2 (VNS),
+*! cluster-sandwich (default), bootstrap & Pollard fixed-T SEs,
+*! BIC group-number selection.
+*! Ported from: BM (2015) Fortran/Stata/MATLAB replication code and the gretl
+*! GFE package by Lucchetti, Pionati & Valentini.
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 1. 在线读取数据并检查面板结构
+. *----------------------------------------------------------------------------
+> -
+. global xtgfe_data "https://raw.githubusercontent.com/lianxhcn/data/main/stata
+> /xtgfe"
+
+. 
+. * 本地测试时优先读取当前目录的数据；发布后也可直接从 GitHub 读取
+. capture confirm file "xtgfe_bm2015.dta"
+
+. if !_rc {
+.     use "xtgfe_bm2015.dta", clear
+. }
+
+. else {
+.     use "${xtgfe_data}/xtgfe_bm2015.dta", clear
+. }
+
+. 
+. describe
+
+Contains data from xtgfe_bm2015.dta
+ Observations:           630                  
+    Variables:             7                  31 Jul 2026 02:12
+-------------------------------------------------------------------------------
+Variable      Storage   Display    Value
+    name         type    format    label      Variable label
+-------------------------------------------------------------------------------
+code            long    %12.0g                
+ccode           str3    %3s                   ISO country code
+country         str24   %24s                  
+year            long    %12.0g                
+fhpolrigaug     double  %10.0g                Freedom House democracy index
+                                                (0-1)
+lag_dem         double  %10.0g                Lagged democracy
+lag_income      double  %10.0g                Lagged log GDP per capita
+-------------------------------------------------------------------------------
+Sorted by: code  year
+
+. summarize fhpolrigaug lag_dem lag_income
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+ fhpolrigaug |        630    .5526455    .3719153          0          1
+     lag_dem |        630    .5475979    .3647864          0          1
+  lag_income |        630    8.257362    1.073327   5.773925   10.44502
+
+. 
+. * code 为国家编号，year 为五年期年份；数据应为平衡面板
+. xtset code year, delta(5)
+
+Panel variable: code (strongly balanced)
+ Time variable: year, 1970 to 2000
+         Delta: 5 units
+
+. isid code year
+
+. xtdescribe
+
+    code:  1, 2, ..., 90                                     n =         90
+    year:  1970, 1975, ..., 2000                             T =          7
+           Delta(year) = 5 units
+           Span(year)  = 7 periods
+           (code*year uniquely identifies each observation)
+
+Distribution of T_i:   min      5%     25%       50%       75%     95%     max
+                         7       7       7         7         7       7       7
+
+     Freq.  Percent    Cum. |  Pattern
+ ---------------------------+---------
+       90    100.00  100.00 |  1111111
+ ---------------------------+---------
+       90    100.00         |  XXXXXXX
+
+. 
+. * 样本应包含 90 个国家、7 个时期和 630 条观测
+. assert _N == 630
+
+. quietly levelsof code, local(country_ids)
+
+. local N_country : word count `country_ids'
+
+. assert `N_country' == 90
+
+. assert inlist(year, 1970, 1975, 1980, 1985, 1990, 1995, 2000)
+
+. assert !missing(fhpolrigaug, lag_dem, lag_income)
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 2. 基准模型：国家固定效应 + 年份固定效应
+. *----------------------------------------------------------------------------
+> -
+. * 该模型假定所有国家共享同一组年份冲击，只允许国家截距不同
+. xtreg fhpolrigaug lag_dem lag_income i.year, ///
+>     fe vce(cluster code)
+
+Fixed-effects (within) regression               Number of obs     =        630
+Group variable: code                            Number of groups  =         90
+
+R-squared:                                      Obs per group:
+     Within  = 0.2146                                         min =          7
+     Between = 0.8972                                         avg =        7.0
+     Overall = 0.4555                                         max =          7
+
+                                                F(8,89)           =      12.23
+corr(u_i, Xb) = 0.5472                          Prob > F          =     0.0000
+
+                                  (Std. err. adjusted for 90 clusters in code)
+------------------------------------------------------------------------------
+             |               Robust
+ fhpolrigaug | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.283      0.053     5.32   0.000        0.178       0.389
+  lag_income |     -0.031      0.046    -0.69   0.494       -0.122       0.059
+             |
+        year |
+       1975  |      0.031      0.028     1.12   0.265       -0.024       0.086
+       1980  |      0.104      0.033     3.11   0.002        0.038       0.171
+       1985  |      0.121      0.033     3.69   0.000        0.056       0.186
+       1990  |      0.154      0.029     5.21   0.000        0.095       0.212
+       1995  |      0.170      0.040     4.28   0.000        0.091       0.248
+       2000  |      0.214      0.035     6.07   0.000        0.144       0.284
+             |
+       _cons |      0.542      0.366     1.48   0.141       -0.184       1.269
+-------------+----------------------------------------------------------------
+     sigma_u |  .26154339
+     sigma_e |  .18145491
+         rho |  .67506548   (fraction of variance due to u_i)
+------------------------------------------------------------------------------
+
+. estimates store TWFE
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 3. 规范选择潜在组数：BM (2015) 的 BIC
+. *----------------------------------------------------------------------------
+> -
+. * 此时 groups(15) 中的 15 是候选组数上限 Gmax，而非指定估计 15 组
+. * refit 会在 BIC 选定的组数上重新搜索一次，以降低陷入局部最优的风险
+. set seed 8273647
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(15) bic refit generate(gfe_group_bic)
+..............................  7% .............................. 13% .........
+> ..................... 20% .............................. 27% ................
+> .............. 33% .............................. 40% .......................
+> ....... 47% .............................. 53% ..............................
+>  60% .............................. 67% .............................. 73% ..
+> ............................ 80% .............................. 87% .........
+> ..................... 93%  100%
+..............................
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 30   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 10   (cluster-sandwich s.e.)
+SSR =      7.74906   log-likelihood =      491.485
+Elapsed time =    688.03 seconds
+----------------------------------------------------------------------
+BIC model selection (Gmax = 15):
+     G          BIC          SSR
+    15      .035356        5.664
+    14      .034946       5.9959
+    13      .034627       6.3855
+    12      .034319       6.7814
+    11      .034075       7.2182
+    10      .033981       7.7491 *
+     9      .034119        8.426
+     8      .034492       9.2514
+     7      .034837       10.059
+     6      .035603       11.132
+     5      .036986       12.593
+     4      .038788       14.319
+     3       .04147       16.599
+     2      .045689       19.847
+     1      .051822       24.301
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+ fhpolrigaug | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.277      0.049     5.68   0.000        0.182       0.373
+  lag_income |      0.075      0.008     9.37   0.000        0.060       0.091
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .104117    .0087827   11.85  2.03e-32
+--------------------------------------------------------------
+Number of units per group:
+  Group  1:     8
+  Group  2:     3
+  Group  3:     3
+  Group  4:    29
+  Group  5:     3
+  Group  6:     7
+  Group  7:    11
+  Group  8:     2
+  Group  9:     6
+  Group 10:    18
+
+Group assignments saved in variable gfe_group_bic
+
+. 
+. * e(bic) 的三列依次为 G、BIC 和 SSR；带星号的行是最小 BIC
+. matrix list e(bic)
+
+e(bic)[15,3]
+            c1         c2         c3
+ r1         15  .03535551  5.6639596
+ r2         14   .0349456  5.9959233
+ r3         13  .03462716   6.385509
+ r4         12  .03431875  6.7814099
+ r5         11   .0340753  7.2182444
+ r6         10  .03398104  7.7490627
+ r7          9  .03411865  8.4259583
+ r8          8  .03449199  9.2513685
+ r9          7  .03483696  10.058901
+r10          6  .03560299  11.131707
+r11          5  .03698623   12.59335
+r12          4  .03878801  14.318674
+r13          3  .04147033  16.598736
+r14          2  .04568925   19.84686
+r15          1  .05182219   24.30082
+
+. estimates store GFE_BIC
+
+. 
+. * BM (2015) 的该样本中，BIC 应选择 G = 10；若不同则给出警告而不中断程序
+. if e(G) != 10 {
+.     display as error "Warning: BIC did not select G = 10; increase search dep
+> th and inspect local minima."
+. }
+
+. 
+. * 长期收入效应：lag_income / (1 - lag_dem)
+. nlcom _b[lag_income] / (1 - _b[lag_dem])
+
+       _nl_1: _b[lag_income] / (1 - _b[lag_dem])
+
+------------------------------------------------------------------------------
+ fhpolrigaug | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       _nl_1 |      0.104      0.009    11.85   0.000        0.087       0.121
+------------------------------------------------------------------------------
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 4. 固定 G = 10：复现论文附录 Table S.XI 的核心估计
+. *----------------------------------------------------------------------------
+> -
+. * 默认 sandwich 标准误以估计后的组别为条件，计算速度较快
+. set seed 8273647
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(10) generate(gfe_group10) showfreq
+.........................
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 25   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 10   (cluster-sandwich s.e.)
+SSR =      7.74906   log-likelihood =      491.485
+Elapsed time =     37.04 seconds
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+ fhpolrigaug | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.277      0.049     5.68   0.000        0.182       0.373
+  lag_income |      0.075      0.008     9.37   0.000        0.060       0.091
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .104117    .0087827   11.85  2.03e-32
+--------------------------------------------------------------
+Number of units per group:
+  Group  1:     2
+  Group  2:     3
+  Group  3:     3
+  Group  4:    18
+  Group  5:     8
+  Group  6:     3
+  Group  7:    11
+  Group  8:     7
+  Group  9:     6
+  Group 10:    29
+
+Group assignments saved in variable gfe_group10
+Units per group:
+
+gfe_group10 |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |          2        2.22        2.22
+          2 |          3        3.33        5.56
+          3 |          3        3.33        8.89
+          4 |         18       20.00       28.89
+          5 |          8        8.89       37.78
+          6 |          3        3.33       41.11
+          7 |         11       12.22       53.33
+          8 |          7        7.78       61.11
+          9 |          6        6.67       67.78
+         10 |         29       32.22      100.00
+------------+-----------------------------------
+      Total |         90      100.00
+
+. estimates store GFE10_sandwich
+
+. 
+. * 短面板下，可使用考虑分类边界不确定性的 fixed-T 标准误
+. set seed 8273647
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(10) vce(fixedt)
+.........................
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 25   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 10   (Pollard fixed-T s.e.)
+Kernel bandwidth (epsilon) =  0.07772
+SSR =      7.74906   log-likelihood =      491.485
+Elapsed time =     36.87 seconds
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+ fhpolrigaug | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.277      0.062     4.45   0.000        0.155       0.399
+  lag_income |      0.075      0.010     7.60   0.000        0.056       0.095
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .104117     .010566    9.85  6.60e-23
+--------------------------------------------------------------
+Number of units per group:
+  Group  1:     2
+  Group  2:     3
+  Group  3:     3
+  Group  4:    18
+  Group  5:     8
+  Group  6:     3
+  Group  7:    11
+  Group  8:     7
+  Group  9:     6
+  Group 10:    29
+
+Group assignments saved in variable gfe_group
+
+. estimates store GFE10_fixedT
+
+. 
+. * 100 次单位 bootstrap；默认 bstarts(32)，在当前机器上耗时较长
+. set seed 8273647
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(10) vce(bootstrap) reps(100)
+.........................
+bootstrap: ..........
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 25   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 10   (bootstrap s.e., 100 reps)
+SSR =      7.74906   log-likelihood =      491.485
+Elapsed time =     46.29 seconds
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+             |   Observed
+ fhpolrigaug | coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.277      0.236     1.17   0.241       -0.186       0.740
+  lag_income |      0.075      0.019     3.90   0.000        0.037       0.113
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .104117     .032739    3.18    .00147
+--------------------------------------------------------------
+Number of units per group:
+  Group  1:     2
+  Group  2:     3
+  Group  3:     3
+  Group  4:    18
+  Group  5:     8
+  Group  6:     3
+  Group  7:    11
+  Group  8:     7
+  Group  9:     6
+  Group 10:    29
+
+Group assignments saved in variable gfe_group
+
+. estimates store GFE10_bootstrap
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 5. 固定 G = 4：展示论文正文的四类典型路径
+. *----------------------------------------------------------------------------
+> -
+. * 这里的 G = 4 用于复现论文的路径解释，不替代前面的 BIC 选组程序
+. set seed 8273647
+
+. xtgfe fhpolrigaug lag_dem lag_income, ///
+>     groups(4) generate(gfe_group4) showfreq showalpha
+................
+
+----------------------------------------------------------------------
+Grouped fixed-effects estimator (Bonhomme-Manresa 2015)
+Algorithm 2, time-varying group effects
+Random starts: 16   Neighbors: 9   VNS steps: 128
+Dependent variable: fhpolrigaug
+Units: 90   Periods: 7   Complete obs: 630
+Number of groups: 4   (cluster-sandwich s.e.)
+SSR =      14.3187   log-likelihood =      298.078
+Elapsed time =     15.76 seconds
+----------------------------------------------------------------------
+------------------------------------------------------------------------------
+ fhpolrigaug | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     lag_dem |      0.302      0.055     5.53   0.000        0.195       0.409
+  lag_income |      0.082      0.010     8.64   0.000        0.064       0.101
+------------------------------------------------------------------------------
+Long-run effects, b/(1 - b[lag_dem]):
+(lag_dem detected as the lagged dependent variable)
+--------------------------------------------------------------
+    variable   coefficient   std. err.       z     P>|z|
+--------------------------------------------------------------
+  lag_income       .117852      .01129   10.44  1.64e-25
+--------------------------------------------------------------
+
+Estimated group effects alpha(gt)
+
+----------------------------------------------------------
+      period |    Group1     Group2     Group3     Group4 
+-------------+--------------------------------------------
+       t1970 |   -0.0762    -0.5961    -0.5714    -0.4741 
+       t1975 |   -0.1267    -0.3561    -0.5155    -0.5463 
+       t1980 |   -0.1364    -0.2418    -0.4333    -0.4190 
+       t1985 |   -0.0927    -0.0756    -0.4950    -0.5147 
+       t1990 |   -0.1281    -0.0797    -0.4700    -0.3402 
+       t1995 |   -0.1789    -0.1702    -0.5290    -0.0511 
+       t2000 |   -0.1419    -0.1113    -0.4539    -0.0776 
+----------------------------------------------------------
+Number of units per group:
+  Group  1:    33
+  Group  2:    13
+  Group  3:    26
+  Group  4:    18
+
+Group assignments saved in variable gfe_group4
+Units per group:
+
+ gfe_group4 |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |         33       36.67       36.67
+          2 |         13       14.44       51.11
+          3 |         26       28.89       80.00
+          4 |         18       20.00      100.00
+------------+-----------------------------------
+      Total |         90      100.00
+
+. estimates store GFE4
+
+. 
+. * 绘制估计的组别-时间固定效应路径
+. xtgfe plot, ///
+>     title("Estimated group-specific time effects, G = 4") ///
+>     xlabel(1970(5)2000) ///
+>     xtitle("Year") ///
+>     ytitle("Estimated group-time effect") ///
+>     name(gfe_alpha4, replace)
+
+. graph export "xtgfe_g4_alpha_test.png", replace width(1600)
+file xtgfe_g4_alpha_test.png saved as PNG format
+
+. 
+. * 绘制各组结果变量的原始均值路径，更接近 BM (2015) Figure 2 的表达
+. xtgfe plot, means ///
+>     title("Mean democracy paths by latent group, G = 4") ///
+>     xlabel(1970(5)2000) ///
+>     xtitle("Year") ///
+>     ytitle("Mean democracy index") ///
+>     name(gfe_means4, replace)
+
+. graph export "xtgfe_g4_means_test.png", replace width(1600)
+file xtgfe_g4_means_test.png saved as PNG format
+
+. 
+. * 列出各组国家。组别编号可能因标签置换而变化，应根据路径命名组别
+. preserve
+
+.     keep code ccode country gfe_group4
+
+.     duplicates drop
+
+Duplicates in terms of all variables
+
+(540 observations deleted)
+
+.     sort gfe_group4 country
+
+.     list gfe_group4 country, sepby(gfe_group4) noobs abbreviate(24)
+
+  +---------------------------------------+
+  | gfe_group4                    country |
+  |---------------------------------------|
+  |          1                  Australia |
+  |          1                    Austria |
+  |          1                    Belgium |
+  |          1                     Canada |
+  |          1                   Colombia |
+  |          1                 Costa Rica |
+  |          1                     Cyprus |
+  |          1                    Denmark |
+  |          1         Dominican Republic |
+  |          1                El Salvador |
+  |          1                    Finland |
+  |          1                     France |
+  |          1                  Guatemala |
+  |          1                    Iceland |
+  |          1                      India |
+  |          1                    Ireland |
+  |          1                     Israel |
+  |          1                      Italy |
+  |          1                    Jamaica |
+  |          1                      Japan |
+  |          1                 Luxembourg |
+  |          1                   Malaysia |
+  |          1                Netherlands |
+  |          1                New Zealand |
+  |          1                     Norway |
+  |          1                  Sri Lanka |
+  |          1                     Sweden |
+  |          1                Switzerland |
+  |          1        Trinidad and Tobago |
+  |          1                     Turkey |
+  |          1             United Kingdom |
+  |          1              United States |
+  |          1              Venezuela, RB |
+  |---------------------------------------|
+  |          2                  Argentina |
+  |          2                    Bolivia |
+  |          2                     Brazil |
+  |          2                    Ecuador |
+  |          2                     Greece |
+  |          2                   Honduras |
+  |          2                Korea, Rep. |
+  |          2                      Nepal |
+  |          2                       Peru |
+  |          2                   Portugal |
+  |          2                      Spain |
+  |          2                   Thailand |
+  |          2                    Uruguay |
+  |---------------------------------------|
+  |          3                    Algeria |
+  |          3                    Burundi |
+  |          3                   Cameroon |
+  |          3                       Chad |
+  |          3                      China |
+  |          3           Congo, Dem. Rep. |
+  |          3                Congo, Rep. |
+  |          3              Cote d'Ivoire |
+  |          3           Egypt, Arab Rep. |
+  |          3                      Gabon |
+  |          3                     Guinea |
+  |          3                  Indonesia |
+  |          3                       Iran |
+  |          3                     Jordan |
+  |          3                      Kenya |
+  |          3                 Mauritania |
+  |          3                    Morocco |
+  |          3                    Nigeria |
+  |          3                   Paraguay |
+  |          3                     Rwanda |
+  |          3               Sierra Leone |
+  |          3                  Singapore |
+  |          3       Syrian Arab Republic |
+  |          3                       Togo |
+  |          3                    Tunisia |
+  |          3                     Uganda |
+  |---------------------------------------|
+  |          4                      Benin |
+  |          4               Burkina Faso |
+  |          4   Central African Republic |
+  |          4                      Chile |
+  |          4                      Ghana |
+  |          4                 Madagascar |
+  |          4                     Malawi |
+  |          4                       Mali |
+  |          4                     Mexico |
+  |          4                  Nicaragua |
+  |          4                      Niger |
+  |          4                     Panama |
+  |          4                Philippines |
+  |          4                    Romania |
+  |          4               South Africa |
+  |          4                     Taiwan |
+  |          4                   Tanzania |
+  |          4                     Zambia |
+  +---------------------------------------+
+
+. restore
+
+. 
+. *----------------------------------------------------------------------------
+> -
+. * 6. 结果核对
+. *----------------------------------------------------------------------------
+> -
+. * BM Table S.XI 的 G = 10 参考值：
+. * lag_dem    约为 0.2772
+. * lag_income 约为 0.0753
+. * SSR        约为 7.74906
+. * 长期收入效应约为 0.1041
+. 
+. display as text "Program completed. Check xtgfe_expected_results.md."
+Program completed. Check xtgfe_expected_results.md.
+
+. 
+end of do-file
+
+. local do_rc = _rc
+
+. timer off 1
+
+. timer list 1
+
+. display as text "Stata 17 final do-file return code: `do_rc'"
+Stata 17 final do-file return code: 0
+
+. log close
+      name:  <unnamed>
+       log:  C:/tmp/xtgfe_stata17_final.log
+  log type:  text
+ closed on:   5 Aug 2026, 10:15:07
+-------------------------------------------------------------------------------
+
+. exit, clear STATA
+
+end of do-file

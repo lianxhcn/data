@@ -1,0 +1,65 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata19\profile.do ...
+
+. do D:\github_lianxh\data\blog\reproai-stata\source\00_export_raw.do 
+
+. version 17.0
+
+. clear all
+
+. set more off
+
+. 
+. * Run this file with the project root as the current working directory.
+. local project_root "`c(pwd)'"
+
+. 
+. sysuse auto, clear
+(1978 automobile data)
+
+. gen long car_id = _n
+
+. isid car_id
+
+. 
+. preserve
+
+. keep if foreign == 0
+(22 observations deleted)
+
+. assert _N == 52
+
+. export delimited using ///
+>     "`project_root'/reference-package/raw/auto_domestic.csv", ///
+>     replace nolabel
+(file D:\stata\personal/reference-package/raw/auto_domestic.csv not found)
+file D:\stata\personal/reference-package/raw/auto_domestic.csv could not be
+    opened
+r(603);
+
+end of do-file
+r(603);

@@ -1,0 +1,9 @@
+{
+  "n_nodes": 30,
+  "n_edges": 88,
+  "n_isolates": 2,
+  "density": 0.10114942528735632,
+  "reciprocity": 0.29545454545454547,
+  "n_weak_components": 3,
+  "n_communities": 4
+}
