@@ -24,5 +24,5 @@
 ## Git 与发布
 
 - 未执行 `git add`、commit、push、PR 或远程覆盖操作。
-- 预期网页地址：`https://github.com/lianxhcn/data/tree/main/blog/reproai-stata`。
-- 该项目尚未推送；README 中 raw URL 仅是待替换格式，未声称可访问。
+- 2026-08-24 复核：项目已公开于 [lianxhcn/data 的 ReproAI Stata 目录](https://github.com/lianxhcn/data/tree/main/blog/reproai-stata)。
+- 本轮仅更新仓库内说明与推文材料；未执行 `git add`、commit、push、PR 或远程覆盖操作。

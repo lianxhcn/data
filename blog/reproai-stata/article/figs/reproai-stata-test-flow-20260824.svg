@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <style>
+      .title { font: 700 34px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .subtitle { font: 400 17px 'DejaVu Sans', Arial, sans-serif; fill: #4b5563; }
+      .step { font: 700 14px 'DejaVu Sans', Arial, sans-serif; letter-spacing: 1.3px; fill: #607089; }
+      .head { font: 700 21px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .body { font: 400 16px 'DejaVu Sans', Arial, sans-serif; fill: #303946; }
+      .bodyBold { font: 700 16px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .small { font: 400 14px 'DejaVu Sans', Arial, sans-serif; fill: #4b5563; }
+      .tag { font: 700 13px 'DejaVu Sans', Arial, sans-serif; fill: #ffffff; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#607089"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="60" y="62" class="title">Controlled Stata Test Design</text>
+  <text x="60" y="94" class="subtitle">The reference package establishes the benchmark; ReproAI receives only the frozen broken package.</text>
+
+  <text x="60" y="137" class="step">1  PREPARE DATA</text>
+  <rect x="60" y="154" width="210" height="136" rx="9" fill="#f7f9fc" stroke="#93a3b8" stroke-width="2"/>
+  <rect x="60" y="154" width="210" height="10" rx="5" fill="#214f8b"/>
+  <text x="84" y="201" class="head">Stata auto.dta</text>
+  <text x="84" y="235" class="body">Generate car_id = _n</text>
+  <text x="84" y="265" class="small">Single source table</text>
+
+  <line x1="270" y1="222" x2="322" y2="222" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="332" y="154" width="250" height="136" rx="9" fill="#f7f9fc" stroke="#93a3b8" stroke-width="2"/>
+  <rect x="332" y="154" width="250" height="10" rx="5" fill="#214f8b"/>
+  <text x="356" y="201" class="head">Split raw CSV files</text>
+  <text x="356" y="235" class="body">Domestic: 52 rows</text>
+  <text x="356" y="265" class="body">Foreign: 22 rows</text>
+
+  <text x="646" y="137" class="step">2  FREEZE TWO PACKAGES</text>
+  <rect x="646" y="154" width="230" height="176" rx="9" fill="#f3faf7" stroke="#2f855a" stroke-width="2.2"/>
+  <rect x="646" y="154" width="230" height="10" rx="5" fill="#2f855a"/>
+  <text x="670" y="199" class="head">Reference package</text>
+  <text x="670" y="232" class="body">Correct append</text>
+  <text x="670" y="260" class="body">N = 74; unique car_id</text>
+  <text x="670" y="288" class="body">Runs in Stata 17 &amp; 19.5</text>
+  <rect x="670" y="305" width="182" height="27" rx="13.5" fill="#2f855a"/>
+  <text x="686" y="323" class="tag">BENCHMARK ONLY</text>
+
+  <rect x="910" y="154" width="230" height="176" rx="9" fill="#fff7ed" stroke="#c66a1b" stroke-width="2.2"/>
+  <rect x="910" y="154" width="230" height="10" rx="5" fill="#c66a1b"/>
+  <text x="934" y="199" class="head">Broken package</text>
+  <text x="934" y="232" class="body">10 defects: D01–D10</text>
+  <text x="934" y="260" class="body">Core set: 8</text>
+  <text x="934" y="288" class="body">Boundary items: 2</text>
+  <rect x="934" y="305" width="181" height="27" rx="13.5" fill="#c66a1b"/>
+  <text x="948" y="323" class="tag">REPROAI INPUT</text>
+
+  <path d="M582 210 L634 210" fill="none" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M582 254 L582 360 L886 360 L886 286 L898 286" fill="none" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <line x1="1025" y1="330" x2="1025" y2="382" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="60" y="406" class="step">3  RUN REPROAI ON THE BROKEN PACKAGE ONLY</text>
+
+  <rect x="60" y="423" width="330" height="143" rx="9" fill="#eef4fb" stroke="#214f8b" stroke-width="2.2"/>
+  <text x="84" y="464" class="head">Checks</text>
+  <text x="84" y="497" class="body">Generic check + AEA venue check</text>
+  <text x="84" y="525" class="body">fix --apply</text>
+  <text x="84" y="550" class="small">prep 0.4.10 · rules 2026.07.07</text>
+
+  <line x1="390" y1="494" x2="442" y2="494" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="452" y="423" width="300" height="143" rx="9" fill="#f7f9fc" stroke="#93a3b8" stroke-width="2"/>
+  <text x="476" y="464" class="head">Observed outputs</text>
+  <text x="476" y="497" class="body">Advisory reports</text>
+  <text x="476" y="525" class="bodyBold">No auto-safe fixes</text>
+  <text x="476" y="550" class="bodyBold">No fixed copy generated</text>
+
+  <line x1="752" y1="494" x2="804" y2="494" stroke="#607089" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="814" y="423" width="326" height="143" rx="9" fill="#f7f9fc" stroke="#93a3b8" stroke-width="2"/>
+  <text x="838" y="464" class="head">Pre-registered comparison</text>
+  <text x="838" y="497" class="body">Detected core: 4 / 8</text>
+  <text x="838" y="525" class="body">Missed core: 4 / 8</text>
+  <text x="838" y="550" class="small">Boundary items excluded from denominator</text>
+
+  <rect x="60" y="608" width="1080" height="63" rx="8" fill="#fff8db" stroke="#d6b84d" stroke-width="1.5"/>
+  <text x="84" y="635" class="bodyBold">Design safeguard:</text>
+  <text x="255" y="635" class="body">D01–D10 were frozen before the first ReproAI run.</text>
+  <text x="84" y="660" class="small">The reference package, defect labels, and expected answers were not shown to ReproAI.</text>
+</svg>

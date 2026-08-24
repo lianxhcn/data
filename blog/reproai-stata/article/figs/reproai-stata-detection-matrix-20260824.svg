@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <style>
+      .title { font: 700 34px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .subtitle { font: 400 17px 'DejaVu Sans', Arial, sans-serif; fill: #4b5563; }
+      .colhead { font: 700 21px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .count { font: 700 42px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .body { font: 400 15.5px 'DejaVu Sans', Arial, sans-serif; fill: #303946; }
+      .code { font: 700 15px 'DejaVu Sans Mono', monospace; fill: #14213d; }
+      .small { font: 400 14px 'DejaVu Sans', Arial, sans-serif; fill: #4b5563; }
+      .metric { font: 700 31px 'DejaVu Sans', Arial, sans-serif; fill: #14213d; }
+      .pill { font: 700 12px 'DejaVu Sans', Arial, sans-serif; fill: #ffffff; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="60" y="62" class="title">What ReproAI Found — and What It Missed</text>
+  <text x="60" y="94" class="subtitle">Frozen defect register, Stata test package, ReproAI Prep 0.4.10</text>
+
+  <rect x="60" y="132" width="338" height="398" rx="10" fill="#f3faf7" stroke="#2f855a" stroke-width="2.2"/>
+  <rect x="60" y="132" width="338" height="12" rx="6" fill="#2f855a"/>
+  <text x="84" y="187" class="colhead">Detected core</text>
+  <text x="333" y="190" text-anchor="end" class="count">4</text>
+  <line x1="84" y1="211" x2="374" y2="211" stroke="#bad8c6" stroke-width="1.5"/>
+
+  <text x="84" y="251" class="code">D02</text>
+  <text x="132" y="251" class="body">Absolute path in master.do</text>
+  <rect x="327" y="231" width="47" height="25" rx="12.5" fill="#b0472f"/>
+  <text x="339" y="248" class="pill">P0</text>
+  <text x="84" y="310" class="code">D03</text>
+  <text x="132" y="310" class="body">Missing helper script</text>
+  <rect x="327" y="290" width="47" height="25" rx="12.5" fill="#b0472f"/>
+  <text x="339" y="307" class="pill">P0</text>
+  <text x="84" y="369" class="code">D06</text>
+  <text x="132" y="369" class="body">Unseeded bootstrap</text>
+  <rect x="327" y="349" width="47" height="25" rx="12.5" fill="#c97c17"/>
+  <text x="339" y="366" class="pill">P1</text>
+  <text x="84" y="428" class="code">D10</text>
+  <text x="132" y="428" class="body">Output / table mapping</text>
+  <rect x="327" y="408" width="47" height="25" rx="12.5" fill="#607089"/>
+  <text x="339" y="425" class="pill">P2</text>
+  <text x="84" y="491" class="small">Strongest on code-level structure,</text>
+  <text x="84" y="512" class="small">portability, and stochastic settings.</text>
+
+  <rect x="431" y="132" width="338" height="398" rx="10" fill="#fff7ed" stroke="#c66a1b" stroke-width="2.2"/>
+  <rect x="431" y="132" width="338" height="12" rx="6" fill="#c66a1b"/>
+  <text x="455" y="187" class="colhead">Missed core</text>
+  <text x="704" y="190" text-anchor="end" class="count">4</text>
+  <line x1="455" y1="211" x2="745" y2="211" stroke="#ead0b6" stroke-width="1.5"/>
+
+  <text x="455" y="251" class="code">D04</text>
+  <text x="503" y="251" class="body">Missing version documentation</text>
+  <text x="455" y="310" class="code">D05</text>
+  <text x="503" y="310" class="body">Non-idempotent mkdir</text>
+  <text x="455" y="369" class="code">D07</text>
+  <text x="503" y="369" class="body">Silent sample fallback</text>
+  <text x="455" y="428" class="code">D08</text>
+  <text x="503" y="428" class="body">Incomplete README</text>
+  <text x="455" y="491" class="small">Runtime success can conceal a</text>
+  <text x="455" y="512" class="small">different sample or weak documentation.</text>
+
+  <rect x="802" y="132" width="338" height="398" rx="10" fill="#f7f9fc" stroke="#7d8da3" stroke-width="2.2"/>
+  <rect x="802" y="132" width="338" height="12" rx="6" fill="#7d8da3"/>
+  <text x="826" y="187" class="colhead">Boundary items</text>
+  <text x="1075" y="190" text-anchor="end" class="count">2</text>
+  <line x1="826" y1="211" x2="1116" y2="211" stroke="#c8d0da" stroke-width="1.5"/>
+
+  <text x="826" y="251" class="code">D01</text>
+  <text x="874" y="251" class="body">merge used instead of append</text>
+  <text x="874" y="276" class="small">Requires knowledge of the split logic.</text>
+  <text x="826" y="351" class="code">D09</text>
+  <text x="874" y="351" class="body">Unexplained sample deletion</text>
+  <text x="874" y="376" class="small">Requires a research-design judgment.</text>
+  <text x="826" y="491" class="small">Excluded from the core denominator;</text>
+  <text x="826" y="512" class="small">important, but not reliably rule-based.</text>
+
+  <rect x="60" y="568" width="1080" height="102" rx="10" fill="#eef4fb" stroke="#214f8b" stroke-width="2"/>
+  <text x="84" y="614" class="metric">Core detection rate: 4 / 8 = 50.0%</text>
+  <text x="84" y="646" class="body">This describes one controlled package—not ReproAI's general accuracy and not a reproduction-success rate.</text>
+</svg>

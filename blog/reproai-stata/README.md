@@ -32,7 +32,8 @@ ReproAI 对计算复现材料、文件组织和静态风险的检查结果；不
 
 ## GitHub 链接说明
 
-网页地址预期为 `https://github.com/lianxhcn/data/tree/main/blog/reproai-stata`。
-在项目尚未推送前，raw 文件地址只能使用待替换占位符，例如
-`https://raw.githubusercontent.com/lianxhcn/data/main/blog/reproai-stata/reference-package/raw/auto_domestic.csv`。
-不要把该占位符理解为已验证的公开链接。
+本项目已公开在 [lianxhcn/data 的 ReproAI Stata 目录](https://github.com/lianxhcn/data/tree/main/blog/reproai-stata)。
+仓库中的 `reference-package/`、`broken-package/`、`reproai-runs/` 与 `docs/`
+共同构成本文受控测试的可核对材料；推文正文位于 `article/reproai-stata.md`。
+例如，原始数据文件可通过仓库页面中的对应文件访问。本文不以网页可访问性代替
+Stata 运行验证，具体命令和结果仍以 `docs/test-results.md` 为准。
