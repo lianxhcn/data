@@ -1,0 +1,34 @@
+project_title: "ReproAI 系列推文与 Stata 受控测试材料"
+repository_mode: series
+recommendation: series
+decision_reason: "两篇推文共享主题、受众和 ReproAI Stata 复现材料；公开材料已归入 lianxhcn/data 的 blog 子目录。"
+confidence: high
+
+local_root: "D:/github_lianxh/data"
+project_path: "D:/github_lianxh/data"
+work_scope: "blog/reproai-overview/, blog/reproai-stata/"
+series_key: "reproai"
+
+repository_name: "data"
+remote_owner: lianxhcn
+visibility: public
+license: pending
+
+github_pages:
+  required: false
+  source: ""
+  expected_url: ""
+
+preflight:
+  readme_required: true
+  ignore_checked: true
+  sensitive_content_checked: true
+  large_files_checked: true
+  minimal_verification: "两篇 Markdown 的关键事实、GitHub/官网/PicGo 链接及图片清单已于 2026-08-27 核验。"
+
+approval:
+  create_remote: false
+  commit: true
+  push: true
+
+notes: "仅同步并发布 work_scope 内的两篇推文、图片源文件、PicGo 清单和受控测试材料说明；不处理范围外文件。"

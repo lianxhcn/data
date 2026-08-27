@@ -1,19 +1,17 @@
 
 
-> **作者：** 连小白 (连享会)    
-> **邮箱：** <lianxhcn@163.com> 
+> **作者：** 连小白 (连享会)<br>
+> **邮箱：** <lianxhcn@163.com>
 
-&emsp; 
+&emsp;
 
 - **Title**: ReproAI 实测：它能帮 Stata 复现包发现什么，又会漏掉什么？
 - **Keywords**: ReproAI, Stata, 复现包, 静态检查, 可重复性, 论文复现
 
----
-
 
 一套 Stata 代码在作者电脑上能够运行，不等于它已经是一个合格的复现包。换一台电脑，绝对路径失效；少复制一个辅助脚本，主程序中断；`bootstrap` 没有固定随机种子，结果每次略有不同；原始数据缺了一份，代码却悄悄缩小样本继续运行。这些问题未必涉及复杂的计量方法，却会直接增加复现成本。
 
-[上一篇](https://www.lianxh.cn/search.html?s=ReproAI) 介绍了 [ReproAI](https://reproai.org/) 的公开功能：它面向 Stata、R 和 Python 复现包，主要完成结构扫描、风险排序、副本修订和可选冒烟测试。本文不再重复产品说明，而是追问一个更具体的问题：把一套事先埋入缺陷的 Stata 复现包交给 ReproAI，它究竟能发现什么，又会漏掉什么？
+[上一篇](https://www.lianxh.cn/search.html?s=reproai) 介绍了 [ReproAI](https://reproai.org/) 的公开功能：它面向 Stata、R 和 Python 复现包，主要完成结构扫描、风险排序、副本修订和可选冒烟测试。本文不再重复产品说明，而是追问一个更具体的问题：把一套事先埋入缺陷的 Stata 复现包交给 ReproAI，它究竟能发现什么，又会漏掉什么？
 
 本文不做产品介绍式演示，而是做一次受控实测。完整的参考包、冻结缺陷包、检测矩阵和结果记录已公开在 [lianxhcn/data 的 ReproAI Stata 项目](https://github.com/lianxhcn/data/tree/main/blog/reproai-stata)，读者可据此核对本文的测试设计和结论。我们先用 Stata 自带的 `auto.dta` 建立一个已经跑通的参考包，再构造一个含有 10 项预设问题的缺陷包，并在第一次运行 ReproAI 之前冻结缺陷清单。结果很直接：在纳入核心静态检出率的 8 项缺陷中，ReproAI 0.4.10 找到 4 项，检出率为 50.0%；`fix --apply` 没有执行自动修复，也没有生成修复副本。
 

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <style>
+      .sans { font-family: "DejaVu Sans", Arial, sans-serif; }
+      .title { font-size: 34px; font-weight: 700; fill: #10233f; }
+      .subtitle { font-size: 17px; fill: #546579; }
+      .section { font-size: 15px; font-weight: 700; letter-spacing: 1.5px; fill: #64748b; }
+      .boxTitle { font-size: 18px; font-weight: 700; fill: #10233f; }
+      .boxText { font-size: 14px; fill: #526174; }
+      .small { font-size: 13px; fill: #64748b; }
+      .pill { font-size: 16px; font-weight: 700; fill: #ffffff; }
+      .arrow { stroke: #7a8aa0; stroke-width: 3; fill: none; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7a8aa0"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#10233f" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <text x="60" y="62" class="sans title">ReproAI Prep: where it fits</text>
+  <text x="60" y="92" class="sans subtitle">Author-facing checks before a replication package is released</text>
+
+  <text x="60" y="142" class="sans section">INPUT</text>
+  <rect x="60" y="165" width="170" height="305" rx="18" fill="#f7f9fc" stroke="#d9e1ea" stroke-width="2"/>
+  <text x="145" y="200" text-anchor="middle" class="sans boxTitle">Replication package</text>
+  <rect x="85" y="225" width="120" height="48" rx="24" fill="#315b8a"/>
+  <text x="145" y="256" text-anchor="middle" class="sans pill">Stata</text>
+  <rect x="85" y="290" width="120" height="48" rx="24" fill="#188977"/>
+  <text x="145" y="321" text-anchor="middle" class="sans pill">R</text>
+  <rect x="85" y="355" width="120" height="48" rx="24" fill="#d88b24"/>
+  <text x="145" y="386" text-anchor="middle" class="sans pill">Python</text>
+  <text x="145" y="433" text-anchor="middle" class="sans small">code · data · README</text>
+  <text x="145" y="454" text-anchor="middle" class="sans small">tables · figures</text>
+
+  <path d="M240 315 H285" class="arrow" marker-end="url(#arrow)"/>
+
+  <text x="295" y="142" class="sans section">REPROAI PREP</text>
+  <rect x="285" y="165" width="855" height="305" rx="18" fill="#fbfcfe" stroke="#cbd6e3" stroke-width="2" filter="url(#shadow)"/>
+
+  <rect x="315" y="210" width="175" height="205" rx="14" fill="#eef4fb" stroke="#bfd0e3"/>
+  <circle cx="355" cy="248" r="23" fill="#315b8a"/>
+  <text x="355" y="255" text-anchor="middle" class="sans pill">1</text>
+  <text x="335" y="295" class="sans boxTitle">STATIC CHECK</text>
+  <text x="335" y="328" class="sans boxText">Inventory files</text>
+  <text x="335" y="352" class="sans boxText">Trace dependencies</text>
+  <text x="335" y="376" class="sans boxText">Apply rules + venue</text>
+  <text x="335" y="400" class="sans small">No code execution</text>
+
+  <path d="M492 312 H520" class="arrow" marker-end="url(#arrow)"/>
+
+  <rect x="530" y="210" width="175" height="205" rx="14" fill="#eef8f5" stroke="#beddd5"/>
+  <circle cx="570" cy="248" r="23" fill="#188977"/>
+  <text x="570" y="255" text-anchor="middle" class="sans pill">2</text>
+  <text x="550" y="295" class="sans boxTitle">PRIORITIZE</text>
+  <text x="550" y="328" class="sans boxText">Grade P0–P4</text>
+  <text x="550" y="352" class="sans boxText">Defect or cleanup</text>
+  <text x="550" y="376" class="sans boxText">Explain safe boundary</text>
+  <text x="550" y="400" class="sans small">Author reviews advice</text>
+
+  <path d="M707 312 H735" class="arrow" marker-end="url(#arrow)"/>
+
+  <rect x="745" y="210" width="175" height="205" rx="14" fill="#fff7eb" stroke="#efd2a6"/>
+  <circle cx="785" cy="248" r="23" fill="#d88b24"/>
+  <text x="785" y="255" text-anchor="middle" class="sans pill">3</text>
+  <text x="765" y="295" class="sans boxTitle">FIX A COPY</text>
+  <text x="765" y="328" class="sans boxText">Preserve original</text>
+  <text x="765" y="352" class="sans boxText">Rewrite safe items</text>
+  <text x="765" y="376" class="sans boxText">Re-check the copy</text>
+  <text x="765" y="400" class="sans small">Review the diff</text>
+
+  <path d="M922 312 H950" class="arrow" marker-end="url(#arrow)"/>
+
+  <rect x="960" y="210" width="150" height="205" rx="14" fill="#f6f2fa" stroke="#d7c9e5"/>
+  <circle cx="1000" cy="248" r="23" fill="#76528e"/>
+  <text x="1000" y="255" text-anchor="middle" class="sans pill">4</text>
+  <text x="980" y="295" class="sans boxTitle">OPTIONAL</text>
+  <text x="980" y="319" class="sans boxTitle">DEBUG</text>
+  <text x="980" y="352" class="sans boxText">Smoke-test copy</text>
+  <text x="980" y="376" class="sans boxText">Check outputs</text>
+  <text x="980" y="400" class="sans small">Runs only on request</text>
+
+  <text x="60" y="530" class="sans section">OUTPUT</text>
+  <rect x="60" y="550" width="520" height="98" rx="14" fill="#f7f9fc" stroke="#d9e1ea"/>
+  <text x="88" y="585" class="sans boxTitle">Review-ready evidence</text>
+  <text x="88" y="615" class="sans boxText">JSON reports · risk register · venue checklist · revised copy</text>
+
+  <path d="M590 599 H630" class="arrow" marker-end="url(#arrow)"/>
+
+  <rect x="645" y="515" width="495" height="133" rx="14" fill="#fff8f6" stroke="#e9b9ae" stroke-width="2"/>
+  <text x="673" y="553" class="sans boxTitle">HUMAN JUDGMENT REMAINS OUTSIDE</text>
+  <text x="673" y="584" class="sans boxText">Data logic · sample restrictions · model choices</text>
+  <text x="673" y="610" class="sans boxText">Coefficient matching · substantive conclusions</text>
+  <text x="673" y="634" class="sans small">Prep is a pre-check, not a reproducibility certificate.</text>
+</svg>
