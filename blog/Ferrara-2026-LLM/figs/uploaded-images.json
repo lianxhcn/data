@@ -1,0 +1,20 @@
+[
+  {
+    "local_output": "outputs/figure-confusion.png",
+    "local_raw": "figs/raw/ferrara-ai-fig01-confusion-20260906-224420.png",
+    "url": "https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/ferrara-ai-fig01-confusion-20260906-224420.png",
+    "sha256": "44ffacf2a581abe5180168e40dec791cc5fbad405c289925c8d25e32e471fe84",
+    "section": "README 第 5 节",
+    "retrieved_date": "2026-09-06",
+    "origin": "synthetic_teaching_example"
+  },
+  {
+    "local_output": "outputs/figure-aggregation.png",
+    "local_raw": "figs/raw/ferrara-ai-fig02-aggregation-20260906-224420.png",
+    "url": "https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/ferrara-ai-fig02-aggregation-20260906-224420.png",
+    "sha256": "e0d4dd1352fc8b8de43eaab80c196c7d8ce77233e9b65cd564fab59ccdb3c52e",
+    "section": "README 第 5 节",
+    "retrieved_date": "2026-09-06",
+    "origin": "synthetic_teaching_example"
+  }
+]

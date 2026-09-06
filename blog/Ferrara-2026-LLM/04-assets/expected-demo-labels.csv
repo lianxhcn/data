@@ -1,0 +1,9 @@
+﻿document_id,entity_id,expected_label,origin
+D001,A,no_evidence,synthetic_expected_answer
+D002,B,planned,synthetic_expected_answer
+D003,C,implemented,synthetic_expected_answer
+D004,D,implemented,synthetic_expected_answer
+D005,E,no_evidence,synthetic_expected_answer
+D006,G,no_evidence,synthetic_expected_answer
+D007,H,uncertain,synthetic_expected_answer
+D008,I,planned,synthetic_expected_answer

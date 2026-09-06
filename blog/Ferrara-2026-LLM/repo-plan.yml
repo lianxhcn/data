@@ -1,0 +1,30 @@
+project_title: "Ferrara 2026：LLM 数据构造离线教学材料"
+repository_mode: series
+recommendation: series
+decision_reason: "用户明确指定已有 lianxhcn/data 仓库的 blog/Ferrara-2026-LLM 子目录；共享推文附件入口，不新建仓库。"
+confidence: high
+local_root: "D:/github_lianxh"
+project_path: "D:/github_lianxh/data"
+work_scope: "blog/Ferrara-2026-LLM/"
+series_key: "blog"
+repository_name: "data"
+remote_owner: lianxhcn
+remote_url: "https://github.com/lianxhcn/data.git"
+branch: main
+visibility: public
+license: "inherit-existing-MIT"
+github_pages:
+  required: false
+  source: ""
+  expected_url: ""
+preflight:
+  readme_required: true
+  ignore_checked: true
+  sensitive_content_checked: true
+  large_files_checked: true
+  minimal_verification: "UTF-8 BOM 与逐字段相等校验；独立发布目录运行离线总入口及关键风险检查。"
+approval:
+  create_remote: false
+  commit: true
+  push: true
+notes: "当前用户明确授权修复 CSV，并将资料写入指定本地子目录、同步远程。只发布自编教学材料、离线代码、图形和轻量 ZIP；不发布作者论文、私有来源、缓存、日志、密钥或内部审稿。"

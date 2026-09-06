@@ -1,0 +1,3 @@
+a0f3a52afbff83d8776bc626ea0941549f75addf1ba5b3a993b27bedbb0628fa  04-assets/materials.csv
+49e50fbb8b51ce3a31190acd1af34889b8018b92b5ea5a6d2c3e27434ac70602  04-assets/expected-demo-labels.csv
+7d153ddfec3aea29aeea2d843bc154f6c4326fcd0a0e2832b7a39fa44fb051ac  04-assets/codebook.md

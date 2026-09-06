@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+outputs/*
+!outputs/human-annotation.csv
+!outputs/demo-predictions.csv
+!outputs/disagreements.csv
+!outputs/figure-confusion.png
+!outputs/figure-aggregation.png
+figs/raw/*
+!figs/raw/ferrara-ai-fig01-confusion-20260906-224420.png
+!figs/raw/ferrara-ai-fig02-aggregation-20260906-224420.png
