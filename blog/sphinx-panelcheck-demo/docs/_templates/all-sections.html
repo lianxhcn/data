@@ -1,0 +1,6 @@
+<nav class="bd-docs-nav bd-links" aria-label="章节导航">
+  <p class="bd-links__title" role="heading" aria-level="1">章节导航</p>
+  <div class="bd-toc-item navbar-nav">
+    {{ generate_toctree_html('sidebar', startdepth=0, show_nav_level=2, maxdepth=3, collapse=False, includehidden=True, titles_only=True) }}
+  </div>
+</nav>

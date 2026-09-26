@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "panelcheck-demo"
+version = "0.2.0"
+description = "Small reproducible panel-data documentation example"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2", "numpy>=1.26"]
+
+[project.optional-dependencies]
+dev = ["pytest", "sphinx", "myst-parser", "pydata-sphinx-theme", "pyyaml"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["error"]
