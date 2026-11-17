@@ -1,0 +1,7 @@
+﻿variable,q_value,p_value,significant
+Tempchange,0.33302555861518934,0.0,True
+Precipitation,0.8693504779762811,0.0,True
+GDP,0.10045682071828654,4.674927112091609e-12,True
+Popdensity,0.19907729070773605,0.0,True
+Climatezone,0.8218334775020406,0.0,True
+Mining,0.1411154166346641,0.0,True
