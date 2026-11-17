@@ -1,0 +1,34 @@
+project_title: "因果推断的三大识别假设"
+repository_mode: series
+recommendation: series
+decision_reason: "单篇推文附件，归入既有系列仓库 lianxhcn/data，按 work_scope 隔离；图片已在 OSS，仅提交脚本与说明。"
+confidence: high
+
+local_root: "D:/github_lianxh"
+project_path: "D:/github_lianxh/data/blog/causal-assumptions"
+work_scope: "blog/causal-assumptions/"
+series_key: "data"
+
+repository_name: "data"
+remote_owner: lianxhcn
+visibility: public
+license: pending
+
+github_pages:
+  required: false
+  source: ""
+  expected_url: ""
+
+preflight:
+  readme_required: true
+  ignore_checked: true
+  sensitive_content_checked: true
+  large_files_checked: true
+  minimal_verification: "脚本无硬编码密钥；最大文件 make_figures.py 约 19 KB；不含数据与图片二进制。"
+
+approval:
+  create_remote: false
+  commit: true
+  push: true
+
+notes: "用户在当次对话明确授权 GitHub 推送与发布复制一起执行。"
