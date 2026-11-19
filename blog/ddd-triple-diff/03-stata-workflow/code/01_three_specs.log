@@ -1,0 +1,885 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata19\profile.do ...
+
+. do C:\Users\admin36\AppData\Local\Temp\stata_batch_05b1d0a8f27549f5a8f12a1d28
+> 2851b7\01_three_specs.do 
+
+. *==============================================================
+. * 01_three_specs.do
+. * 第 3 篇：在同一份 2x2x2 数据上对照三种 Stata 写法
+. * 数据：与第 1 篇相同的 ddd_sim.dta (seed 98，10 000 个观测)
+. * 真值：DDD = 0.10；正确标准误口径约 0.028，朴素两步法报 0.020
+. *==============================================================
+. 
+. clear all
+
+. set more off
+
+. 
+. * 首次运行：请把下一行改为本文件夹 (03-Stata全流程) 的完整路径 (用正斜杠)
+. local root "D:/doubao_project/blog-lianxh/三重差分系列/03-Stata全流程"
+
+. 
+. use "`root'/data/ddd_sim.dta", clear
+
+. describe, short
+
+Contains data from D:/doubao_project/blog-lianxh/三重差分系列/03-Stata全流程/da
+> ta/ddd_sim.dta
+ Observations:        10,000                  
+    Variables:             5                  19 Nov 2026 16:53
+Sorted by: province  group  post  id
+
+. count
+  10,000
+
+. 
+. * 四个手工交互变量
+. gen byte ttt = province * group * post
+
+. gen byte pt  = province * post
+
+. gen byte gt  = group * post
+
+. gen byte pg  = province * group
+
+. label var ttt "三重交互 P*G*T"
+
+. label var pt  "省份 × 后期 P*T"
+
+. label var gt  "组别 × 后期 G*T"
+
+. label var pg  "省份 × 组别 P*G"
+
+. 
+. *==============================================================
+. * 写法一：手工三重交互
+. *==============================================================
+. 
+. * (1a) 饱和回归：主项与全部交互项，八个格子各由自己的均值拟合
+. display _n(40) "【写法一·A】饱和回归 reg y i.province##i.group##i.post"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法一·A】饱和回归 reg y i.province##i.group##i.post
+
+. reg y i.province##i.group##i.post, vce(robust)
+
+Linear regression                               Number of obs     =     10,000
+                                                F(7, 9992)        =    2145.14
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.6011
+                                                Root MSE          =     .35101
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.203      0.014    14.49   0.000        0.176       0.231
+             |
+       group |
+B 组 (受..)  |      0.307      0.014    22.15   0.000        0.280       0.334
+             |
+    province#|
+       group |
+     试点省 #|
+B 组 (受..)  |      0.003      0.020     0.13   0.898       -0.036       0.041
+             |
+      1.post |      0.492      0.014    34.88   0.000        0.465       0.520
+             |
+    province#|
+        post |
+   试点省#1  |      0.299      0.020    15.09   0.000        0.260       0.338
+             |
+  group#post |
+B 组 (受..) #|
+          1  |      0.010      0.020     0.52   0.603       -0.028       0.049
+             |
+    province#|
+  group#post |
+     试点省 #|
+B 组 (受..) #|
+          1  |      0.100      0.028     3.56   0.000        0.045       0.155
+             |
+       _cons |      0.992      0.010    99.66   0.000        0.972       1.011
+------------------------------------------------------------------------------
+
+. scalar b1a = _b[1.province#1.group#1.post]
+
+. scalar s1a = _se[1.province#1.group#1.post]
+
+. 
+. * (1b) reghdfe：吸收省份、组别、时期三组主效应固定效应
+. display _n(40) "【写法一·B】reghdfe 吸收 province group post 三组主效应"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法一·B】reghdfe 吸收 province group post 三组主效应
+
+. reghdfe y ttt pt gt pg, absorb(province group post) vce(robust)
+(MWFE estimator converged in 2 iterations)
+
+HDFE Linear regression                            Number of obs   =     10,000
+Absorbing 3 HDFE groups                           F(   4,   9992) =     163.96
+                                                  Prob > F        =     0.0000
+                                                  R-squared       =     0.6011
+                                                  Adj R-squared   =     0.6008
+                                                  Within R-sq.    =     0.0622
+                                                  Root MSE        =     0.3510
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         ttt |      0.100      0.028     3.56   0.000        0.045       0.155
+          pt |      0.299      0.020    15.09   0.000        0.260       0.338
+          gt |      0.010      0.020     0.52   0.603       -0.028       0.049
+          pg |      0.003      0.020     0.13   0.898       -0.036       0.041
+       _cons |      1.493      0.010   151.29   0.000        1.474       1.512
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+-----------------------------------------------------+
+ Absorbed FE | Categories  - Redundant  = Num. Coefs |
+-------------+---------------------------------------|
+    province |         2           0           2     |
+       group |         2           1           1     |
+        post |         2           1           1    ?|
+-----------------------------------------------------+
+? = number of redundant parameters may be higher
+
+. scalar b1b = _b[ttt]
+
+. scalar s1b = _se[ttt]
+
+. 
+. * (1c) reghdfe：连双向交互也一并吸收，只留三重交互
+. display _n(40) "【写法一·C】reghdfe 吸收主效应与全部双向交互"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法一·C】reghdfe 吸收主效应与全部双向交互
+
+. reghdfe y ttt, absorb(province group post province#group province#post group#
+> post) ///
+>     vce(robust)
+(MWFE estimator converged in 2 iterations)
+
+HDFE Linear regression                            Number of obs   =     10,000
+Absorbing 6 HDFE groups                           F(   1,   9989) =      12.70
+                                                  Prob > F        =     0.0004
+                                                  R-squared       =     0.6011
+                                                  Adj R-squared   =     0.6007
+                                                  Within R-sq.    =     0.0013
+                                                  Root MSE        =     0.3511
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         ttt |      0.100      0.028     3.56   0.000        0.045       0.155
+       _cons |      1.571      0.005   315.16   0.000        1.561       1.581
+------------------------------------------------------------------------------
+
+Absorbed degrees of freedom:
+----------------------------------------------------------+
+      Absorbed FE | Categories  - Redundant  = Num. Coefs |
+------------------+---------------------------------------|
+         province |         2           0           2     |
+            group |         2           1           1     |
+             post |         2           1           1    ?|
+   province#group |         4           2           2    ?|
+    province#post |         4           2           2    ?|
+       group#post |         4           2           2    ?|
+----------------------------------------------------------+
+? = number of redundant parameters may be higher
+
+. scalar b1c = _b[ttt]
+
+. scalar s1c = _se[ttt]
+
+. 
+. *==============================================================
+. * 写法二：两个 DD 分别估计，再相减
+. *==============================================================
+. 
+. * (2a) 分别在 B 组、A 组子样本上跑普通 DD
+. display _n(40) "【写法二·A】B 组子样本的 DD"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法二·A】B 组子样本的 DD
+
+. reg y i.province##i.post if group == 1, vce(robust)
+
+Linear regression                               Number of obs     =      5,000
+                                                F(3, 4996)        =    2356.94
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.5847
+                                                Root MSE          =     .35191
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.206      0.014    14.63   0.000        0.178       0.233
+      1.post |      0.503      0.014    36.42   0.000        0.476       0.530
+             |
+    province#|
+        post |
+   试点省#1  |      0.399      0.020    20.03   0.000        0.360       0.438
+             |
+       _cons |      1.298      0.010   134.86   0.000        1.280       1.317
+------------------------------------------------------------------------------
+
+. scalar ddb = _b[1.province#1.post]
+
+. scalar sdb = _se[1.province#1.post]
+
+. 
+. display _n(20) "【写法二·A】A 组子样本的 DD"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法二·A】A 组子样本的 DD
+
+. reg y i.province##i.post if group == 0, vce(robust)
+
+Linear regression                               Number of obs     =      5,000
+                                                F(3, 4996)        =    1923.83
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.5327
+                                                Root MSE          =      .3501
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.203      0.014    14.49   0.000        0.176       0.231
+      1.post |      0.492      0.014    34.88   0.000        0.465       0.520
+             |
+    province#|
+        post |
+   试点省#1  |      0.299      0.020    15.09   0.000        0.260       0.338
+             |
+       _cons |      0.992      0.010    99.66   0.000        0.972       1.011
+------------------------------------------------------------------------------
+
+. scalar dda = _b[1.province#1.post]
+
+. scalar sda = _se[1.province#1.post]
+
+. 
+. scalar ddd2 = ddb - dda
+
+. display _n(10) "DD_B = " %7.4f ddb "  DD_A = " %7.4f dda
+
+
+
+
+
+
+
+
+
+
+DD_B =  0.3988  DD_A =  0.2988
+
+. display "手工相减 DDD = DD_B - DD_A = " %10.8f ddd2
+手工相减 DDD = DD_B - DD_A = 0.10007391
+
+. display "两个子样本 SE 平方和开方 = " %7.4f sqrt(sdb^2 + sda^2)
+两个子样本 SE 平方和开方 =  0.0281
+
+. 
+. * (2b) 用 suest 联合估计两个模型，再用 nlcom 检验差值，
+. *      方差口径完整覆盖两个子样本的抽样不确定性
+. display _n(40) "【写法二·B】suest 联合估计 + nlcom 差值检验"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法二·B】suest 联合估计 + nlcom 差值检验
+
+. reg y i.province##i.post if group == 1
+
+      Source |       SS           df       MS      Number of obs   =     5,000
+-------------+----------------------------------   F(3, 4996)      =   2344.53
+       Model |  871.068273         3  290.356091   Prob > F        =    0.0000
+    Residual |  618.723588     4,996  .123843793   R-squared       =    0.5847
+-------------+----------------------------------   Adj R-squared   =    0.5844
+       Total |  1489.79186     4,999  .298017976   Root MSE        =    .35191
+
+------------------------------------------------------------------------------
+           y | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.206      0.014    14.62   0.000        0.178       0.233
+      1.post |      0.503      0.014    35.71   0.000        0.475       0.530
+             |
+    province#|
+        post |
+   试点省#1  |      0.399      0.020    20.03   0.000        0.360       0.438
+             |
+       _cons |      1.298      0.010   130.45   0.000        1.279       1.318
+------------------------------------------------------------------------------
+
+. estimates store mB
+
+. reg y i.province##i.post if group == 0
+
+      Source |       SS           df       MS      Number of obs   =     5,000
+-------------+----------------------------------   F(3, 4996)      =   1898.73
+       Model |  698.170356         3  232.723452   Prob > F        =    0.0000
+    Residual |  612.348435     4,996  .122567741   R-squared       =    0.5327
+-------------+----------------------------------   Adj R-squared   =    0.5325
+       Total |  1310.51879     4,999  .262156189   Root MSE        =     .3501
+
+------------------------------------------------------------------------------
+           y | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.203      0.014    14.51   0.000        0.176       0.231
+      1.post |      0.492      0.014    35.16   0.000        0.465       0.520
+             |
+    province#|
+        post |
+   试点省#1  |      0.299      0.020    15.09   0.000        0.260       0.338
+             |
+       _cons |      0.992      0.010   100.16   0.000        0.972       1.011
+------------------------------------------------------------------------------
+
+. estimates store mA
+
+. suest mB mA, vce(robust)
+
+Simultaneous results for mB, mA                         Number of obs = 10,000
+
+------------------------------------------------------------------------------
+             |               Robust
+             | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+mB_mean      |
+    province |
+     试点省  |      0.206      0.014    14.63   0.000        0.178       0.233
+      1.post |      0.503      0.014    36.43   0.000        0.476       0.530
+             |
+    province#|
+        post |
+   试点省#1  |      0.399      0.020    20.04   0.000        0.360       0.438
+             |
+       _cons |      1.298      0.010   134.91   0.000        1.280       1.317
+-------------+----------------------------------------------------------------
+mB_lnvar     |
+       _cons |     -2.089      0.020  -104.51   0.000       -2.128      -2.050
+-------------+----------------------------------------------------------------
+mA_mean      |
+    province |
+     试点省  |      0.203      0.014    14.50   0.000        0.176       0.231
+      1.post |      0.492      0.014    34.89   0.000        0.465       0.520
+             |
+    province#|
+        post |
+   试点省#1  |      0.299      0.020    15.09   0.000        0.260       0.338
+             |
+       _cons |      0.992      0.010    99.70   0.000        0.972       1.011
+-------------+----------------------------------------------------------------
+mA_lnvar     |
+       _cons |     -2.099      0.020  -102.83   0.000       -2.139      -2.059
+------------------------------------------------------------------------------
+
+. nlcom (ddd: [mB_mean]1.province#1.post - [mA_mean]1.province#1.post)
+
+         ddd: [mB_mean]1.province#1.post - [mA_mean]1.province#1.post
+
+------------------------------------------------------------------------------
+             | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         ddd |      0.100      0.028     3.57   0.000        0.045       0.155
+------------------------------------------------------------------------------
+
+. scalar b2b = r(b)[1,1]
+
+. scalar s2b = sqrt(r(V)[1,1])
+
+. 
+. *==============================================================
+. * 写法三：比率型 DD（先构造 B 减 A 的相对结果，再跑普通 DD）
+. *==============================================================
+. 
+. * (3a) 个体层面实现：把估计出的 A 组均值当作已知量
+. display _n(40) "【写法三·A】个体层面两步法（生成回归元，SE 偏窄）"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法三·A】个体层面两步法（生成回归元，SE 偏窄）
+
+. egen double mcell = mean(y), by(province group post)
+
+. gen double mA = .
+(10,000 missing values generated)
+
+. replace mA = mcell if group == 0
+(5,000 real changes made)
+
+. bysort province post (mA): replace mA = mA[1]
+(5000 real changes made)
+
+. gen double rel = y - mA
+
+. label var rel "B 组相对 A 组的结果"
+
+. reg rel i.province##i.post if group == 1, vce(robust)
+
+Linear regression                               Number of obs     =      5,000
+                                                F(3, 4996)        =      29.68
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.0177
+                                                Root MSE          =     .35191
+
+------------------------------------------------------------------------------
+             |               Robust
+         rel | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+    province |
+     试点省  |      0.003      0.014     0.18   0.857       -0.025       0.030
+      1.post |      0.010      0.014     0.74   0.457       -0.017       0.037
+             |
+    province#|
+        post |
+   试点省#1  |      0.100      0.020     5.03   0.000        0.061       0.139
+             |
+       _cons |      0.307      0.010    31.85   0.000        0.288       0.326
+------------------------------------------------------------------------------
+
+. scalar b3a = _b[1.province#1.post]
+
+. scalar s3a = _se[1.province#1.post]
+
+. drop mcell mA rel
+
+. 
+. * (3b) 手动 bootstrap 整个两步法：每次重采样全部 10 000 个观测，
+. *      把 A 组均值的抽样不确定性计入，SE 回到约 0.028
+. display _n(40) "【写法三·B】手动 bootstrap 整个两步法（500 次）"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【写法三·B】手动 bootstrap 整个两步法（500 次）
+
+. tempname pf
+
+. postfile `pf' double ddd using "`root'/data/boot_twostep.dta", replace
+
+. set seed 303
+
+. quietly forvalues r = 1/500 {
+
+. postclose `pf'
+
+. preserve
+
+. use "`root'/data/boot_twostep.dta", clear
+
+. sum ddd
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+         ddd |        500    .1007471    .0262758    .034627   .1868684
+
+. scalar b3b = r(mean)
+
+. scalar s3b = r(sd)
+
+. restore
+
+. 
+. *==============================================================
+. * 汇总核对
+. *==============================================================
+. display _n(40) "【汇总】点估计与标准误口径对照"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【汇总】点估计与标准误口径对照
+
+. display "写法一 A 饱和回归：      b = " %8.6f b1a "  se = " %7.4f s1a
+写法一 A 饱和回归：      b = 0.100074  se =  0.0281
+
+. display "写法一 B reghdfe 主效应：b = " %8.6f b1b "  se = " %7.4f s1b
+写法一 B reghdfe 主效应：b = 0.100074  se =  0.0281
+
+. display "写法一 C reghdfe 全吸收：b = " %8.6f b1c "  se = " %7.4f s1c
+写法一 C reghdfe 全吸收：b = 0.100074  se =  0.0281
+
+. display "写法二 suest 差值：      b = " %8.6f b2b "  se = " %7.4f s2b
+写法二 suest 差值：      b = 0.100074  se =  0.0281
+
+. display "写法三 A 朴素两步：      b = " %8.6f b3a "  se = " %7.4f s3a
+写法三 A 朴素两步：      b = 0.100074  se =  0.0199
+
+. display "写法三 B bootstrap 两步：b = " %8.6f b3b "  se = " %7.4f s3b
+写法三 B bootstrap 两步：b = 0.100747  se =  0.0263
+
+. 
+. display _n(5) "点估计两两之差（应在机器精度内为 0）："
+
+
+
+
+
+点估计两两之差（应在机器精度内为 0）：
+
+. display "1A vs 1B = " %12.10f (b1a-b1b)
+1A vs 1B = 0.0000000000
+
+. display "1A vs 2B = " %12.10f (b1a-b2b)
+1A vs 2B = 0.0000000000
+
+. display "1A vs 3A = " %12.10f (b1a-b3a)
+1A vs 3A = 0.0000000000
+
+. display "1A vs 3B = " %12.10f (b1a-b3b)
+1A vs 3B = -0.0006732326
+
+. 
+end of do-file

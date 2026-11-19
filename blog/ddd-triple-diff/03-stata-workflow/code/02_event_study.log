@@ -1,0 +1,271 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata19\profile.do ...
+
+. do C:\Users\admin36\AppData\Local\Temp\stata_batch_e9d88ac22c564c9683cdc72b54
+> 0e4ba9\02_event_study.do 
+
+. *==============================================================
+. * 02_event_study.do
+. * 第 3 篇：多期面板上的事件研究，预趋势与动态效应
+. * 结构：2 省 × 2 组 × 8 年，每格 800 人，共 25 600 个观测
+. * 政策在第 4 年后实施：year 1-4 为政策前，5-8 为政策后
+. * 动态效应：0.08、0.10、0.11、0.10；政策前相对趋势为零
+. *==============================================================
+. 
+. clear all
+
+. set more off
+
+. set seed 236
+
+. 
+. * 首次运行：请把下一行改为本文件夹 (03-Stata全流程) 的完整路径 (用正斜杠)
+. local root "D:/doubao_project/blog-lianxh/三重差分系列/03-Stata全流程"
+
+. 
+. * ------------------------------------------------------------
+. * 1. 生成数据：3 200 个个体，各追踪 8 年
+. * ------------------------------------------------------------
+. clear
+
+. set obs 3200
+Number of observations (_N) was 0, now 3,200.
+
+. gen byte province = (_n > 1600)
+
+. gen byte group    = (mod(_n-1, 1600) >= 800)
+
+. gen long id       = _n
+
+. expand 8
+(22,400 observations created)
+
+. bysort id: gen year = _n
+
+. gen byte post = (year >= 5)
+
+. 
+. * 各政策后年份的真实动态效应
+. gen double eff = 0
+
+. replace eff = 0.08 if year == 5
+(3,200 real changes made)
+
+. replace eff = 0.10 if year == 6
+(3,200 real changes made)
+
+. replace eff = 0.11 if year == 7
+(3,200 real changes made)
+
+. replace eff = 0.10 if year == 8
+(3,200 real changes made)
+
+. 
+. gen double y = 1.0 + 0.20*province + 0.30*group + 0.10*(year-1) ///
+>              + 0.30*province*post + eff*province*group            ///
+>              + rnormal(0, 0.35)
+
+. label var y "结果变量 (标准化单位)"
+
+. 
+. * ------------------------------------------------------------
+. * 2. 事件研究：以第 4 年为基准年，三向交互即各年归一化 DDD
+. * ------------------------------------------------------------
+. display _n(30) "【事件研究】reg y ib4.year##i.province##i.group"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【事件研究】reg y ib4.year##i.province##i.group
+
+. reg y ib4.year##i.province##i.group, vce(robust)
+
+Linear regression                               Number of obs     =     25,600
+                                                F(31, 25568)      =    1122.20
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.5761
+                                                Root MSE          =     .34872
+
+------------------------------------------------------------------------------
+             |               Robust
+           y | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+        year |
+          1  |     -0.308      0.017   -17.78   0.000       -0.342      -0.274
+          2  |     -0.199      0.018   -11.32   0.000       -0.233      -0.164
+          3  |     -0.113      0.017    -6.48   0.000       -0.147      -0.079
+          5  |      0.082      0.018     4.59   0.000        0.047       0.116
+          6  |      0.195      0.017    11.20   0.000        0.161       0.229
+          7  |      0.297      0.017    17.12   0.000        0.263       0.331
+          8  |      0.382      0.017    22.46   0.000        0.349       0.416
+             |
+  1.province |      0.196      0.018    11.16   0.000        0.162       0.230
+             |
+        year#|
+    province |
+        1 1  |     -0.002      0.025    -0.09   0.931       -0.050       0.046
+        2 1  |     -0.004      0.025    -0.16   0.871       -0.053       0.045
+        3 1  |      0.012      0.025     0.47   0.635       -0.037       0.061
+        5 1  |      0.292      0.025    11.67   0.000        0.243       0.341
+        6 1  |      0.277      0.025    11.28   0.000        0.229       0.325
+        7 1  |      0.288      0.025    11.64   0.000        0.239       0.336
+        8 1  |      0.302      0.025    12.29   0.000        0.254       0.350
+             |
+     1.group |      0.293      0.017    16.83   0.000        0.259       0.327
+             |
+  year#group |
+        1 1  |      0.017      0.024     0.71   0.481       -0.031       0.065
+        2 1  |     -0.030      0.025    -1.19   0.233       -0.078       0.019
+        3 1  |      0.011      0.025     0.43   0.665       -0.038       0.059
+        5 1  |      0.031      0.025     1.24   0.213       -0.018       0.079
+        6 1  |      0.020      0.025     0.82   0.413       -0.028       0.069
+        7 1  |     -0.003      0.025    -0.12   0.904       -0.051       0.045
+        8 1  |      0.015      0.024     0.61   0.545       -0.033       0.062
+             |
+    province#|
+       group |
+        1 1  |      0.012      0.025     0.48   0.629       -0.037       0.061
+             |
+        year#|
+    province#|
+       group |
+      1 1 1  |     -0.010      0.035    -0.27   0.784       -0.078       0.059
+      2 1 1  |      0.009      0.035     0.24   0.808       -0.060       0.077
+      3 1 1  |     -0.013      0.035    -0.38   0.704       -0.082       0.055
+      5 1 1  |      0.069      0.035     1.96   0.050        0.000       0.138
+      6 1 1  |      0.114      0.035     3.28   0.001        0.046       0.182
+      7 1 1  |      0.126      0.035     3.57   0.000        0.057       0.195
+      8 1 1  |      0.102      0.035     2.91   0.004        0.033       0.170
+             |
+       _cons |      1.307      0.012   105.69   0.000        1.283       1.331
+------------------------------------------------------------------------------
+
+. 
+. * 政策前各年系数的联合检验（原假设：三个政策前系数同时为零）
+. display _n(10) "【预趋势联合检验】政策前 1-3 年系数同时为零"
+
+
+
+
+
+
+
+
+
+
+【预趋势联合检验】政策前 1-3 年系数同时为零
+
+. test 1.year#1.province#1.group 2.year#1.province#1.group ///
+>      3.year#1.province#1.group
+
+ ( 1)  1.year#1.province#1.group = 0
+ ( 2)  2.year#1.province#1.group = 0
+ ( 3)  3.year#1.province#1.group = 0
+
+       F(  3, 25568) =    0.16
+            Prob > F =    0.9245
+
+. 
+. * ------------------------------------------------------------
+. * 3. 提取各年系数与标准误，导出供绘图
+. * ------------------------------------------------------------
+. tempname pf
+
+. postfile `pf' int year double b se using "`root'/data/event_ddd.dta", replace
+
+. forvalues k = 1/8 {
+  2.     if `k' == 4 {
+  3.         post `pf' (`k') (0) (.)
+  4.     }
+  5.     else {
+  6.         scalar bk = _b[`k'.year#1.province#1.group]
+  7.         scalar sk = _se[`k'.year#1.province#1.group]
+  8.         post `pf' (`k') (bk) (sk)
+  9.     }
+ 10. }
+
+. postclose `pf'
+
+. 
+. preserve
+
+. use "`root'/data/event_ddd.dta", clear
+
+. export delimited using "`root'/data/event_ddd.csv", replace
+file D:/doubao_project/blog-lianxh/三重差分系列/03-Stata全流程/data/event_ddd.c
+> sv saved
+
+. list, noobs
+
+  +------------------------------+
+  | year            b         se |
+  |------------------------------|
+  |    1     -.009516   .0347849 |
+  |    2    .00853269   .0351701 |
+  |    3   -.01330245   .0350407 |
+  |    4            0          . |
+  |    5    .06920057   .0352296 |
+  |------------------------------|
+  |    6    .11407996   .0348194 |
+  |    7    .12581852   .0352147 |
+  |    8    .10164993   .0349695 |
+  +------------------------------+
+
+. restore
+
+. 
+. * 注：若先 collapse 到省-年相对结果再跑 DD，在只有 2 个省的面板上，
+. * 省份与年份交互会把 16 个观测完全拟合，剩余自由度为零，无法估计 SE。
+. * 多省面板上该聚合实现可以正常给出 SE，演示见 03_inference_sim.do 第 4 部分。
+. 
+end of do-file
