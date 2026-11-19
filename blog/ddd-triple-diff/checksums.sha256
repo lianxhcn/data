@@ -1,0 +1,8 @@
+12b8797f5919af576ae16fce34da0ff453fd5cc54e5f1cbdf704a0d10e33d47d  01-three-uses/code/01_dgp.do
+81144764db51379a7875cdad7cbe6c59643e6a423850ec0955616accfa61cb22  01-three-uses/code/01_sample_size.do
+ed2f98c170230dd34f477f973eb13b1f7c9771d84ac482aab40a48114ab05450  01-three-uses/code/01_verify.do
+196be459fcf794d00d2f95533ddcf2c9307fdaef5f3b67f215d0415def503335  01-three-uses/data/ddd_sim.dta
+fcd6b2a0f80c968a449bbecbe657717ea5a759a04a813a59e5b7b79e00bdca70  01-three-uses/logs/01_dgp.log
+e4a2d913e30329af0ab6295b1df10c54c9540f29139de1d35268b10db4d0899a  01-three-uses/logs/01_sample_size.log
+ea862c86f6114a1833b1104ddb5addd375b179714211adedeb32a8ad248a3258  01-three-uses/logs/01_verify.log
+e0dedbdc023e5ab980cbffbb2f486a6e9d577596b47a6a7140cd99916616fae2  README.md

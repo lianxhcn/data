@@ -1,0 +1,198 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 19.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2025 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Single-user 4-core , expiring  8 Aug 2027
+Serial number: 501909330131
+  Licensed to: arlionn
+               sysu
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+
+Running D:\stata19\profile.do ...
+
+. do C:\Users\admin36\AppData\Local\Temp\stata_batch_b9ede022995a4c6785b301edf2
+> 49fece\01_sample_size.do 
+
+. *==============================================================
+. * 01_sample_size.do
+. * 两个练习：
+. *   A. 样本量放大能收紧标准误，但收不紧偏误
+. *   B. 识别假设被破坏时，DDD 的偏误不随样本量缩小
+. * 运行：stata /e do 01_sample_size.do
+. *==============================================================
+. 
+. clear all
+
+. set more off
+
+. 
+. * 首次运行：请把下一行改为本文件夹 (01-三种用法) 的完整路径 (用正斜杠)
+. local root "D:/doubao_project/blog-lianxh/三重差分系列/01-三种用法"
+
+. 
+. *--------------------------------------------------------------
+. * A. 平行趋势成立时的样本量敏感性
+. *--------------------------------------------------------------
+. tempfile mc_a
+
+. postfile pf n rep ddb dda ddd se_ddd using "`mc_a'", replace
+(file C:\Users\admin36\AppData\Local\Temp\ST_15aa8_000001.tmp not found)
+
+. 
+. foreach n in 100 500 1250 10000 {
+  2.     forvalues rep = 1/200 {
+  3.         quietly {
+  4.             clear
+  5.             set obs 8
+  6.             gen byte province = (_n >= 5)
+  7.             gen byte group    = inlist(_n, 3, 4, 7, 8)
+  8.             gen byte post     = inlist(_n, 2, 4, 6, 8)
+  9.             expand `n'
+ 10. 
+.             local sd = `n' * 1000 + `rep'
+ 11.             set seed `sd'
+ 12.             gen double y = 1.0 + 0.20*province + 0.30*group + 0.50*post //
+> /
+>                          + 0.30*province*post + 0.10*province*group*post ///
+>                          + rnormal(0, 0.35)
+ 13. 
+.             gen byte ttt = province * group * post
+ 14.             gen byte pt  = province * post
+ 15.             gen byte gt  = group * post
+ 16.             gen byte pg  = province * group
+ 17. 
+.             reg y ttt pt gt pg i.province i.group i.post, robust
+ 18.         }
+ 19.         post pf (`n') (`rep') (_b[pt] + _b[ttt]) (_b[pt]) (_b[ttt]) (_se[t
+> tt])
+ 20.     }
+ 21. }
+
+. postclose pf
+
+. 
+. use "`mc_a'", clear
+
+. label var n   "每格观测数"
+
+. label var ddb "DD_B 的估计"
+
+. label var dda "DD_A 的估计"
+
+. label var ddd "DDD 的估计"
+
+. label var se_ddd "DDD 的标准误"
+
+. table n, statistic(mean ddb) statistic(mean dda) statistic(mean ddd) ///
+>          statistic(sd ddd) statistic(mean se_ddd) statistic(freq)
+
+----------------------------------------------------------------------------------------------------
+           |                           Mean                           Standard deviation   Frequency
+           |  DD_B 的估计   DD_A 的估计   DDD 的估计   DDD 的标准误           DDD 的估计            
+-----------+----------------------------------------------------------------------------------------
+每格观测数 |                                                                                        
+  100      |     .3953714       .298324     .0970474       .0989552             .0937494         200
+  500      |     .4014416      .3062002     .0952414       .0442799             .0462479         200
+  1250     |     .4004163       .300775     .0996413       .0279961             .0288492         200
+  10000    |      .399956      .3002368     .0997192       .0098973              .009903         200
+  Total    |     .3992963       .301384     .0979123       .0452821             .0543779         800
+----------------------------------------------------------------------------------------------------
+
+. 
+. *--------------------------------------------------------------
+. * B. 平行趋势被破坏：试点省 B 组另有 0.20 的趋势差异
+. *    DDD 的真值变为 0.10，但估计出的值是 0.10 + 0.20 = 0.30
+. *--------------------------------------------------------------
+. tempfile mc_b
+
+. postfile pf2 n rep ddb dda ddd using "`mc_b'", replace
+(file C:\Users\admin36\AppData\Local\Temp\ST_15aa8_000002.tmp not found)
+
+. 
+. foreach n in 1250 10000 {
+  2.     forvalues rep = 1/200 {
+  3.         quietly {
+  4.             clear
+  5.             set obs 8
+  6.             gen byte province = (_n >= 5)
+  7.             gen byte group    = inlist(_n, 3, 4, 7, 8)
+  8.             gen byte post     = inlist(_n, 2, 4, 6, 8)
+  9.             expand `n'
+ 10. 
+.             local sd = `n' * 1000 + `rep' + 77
+ 11.             set seed `sd'
+ 12.             * 试点省 × B 组 × 后期 的额外趋势 (0.20) 不是政策效应
+.             gen double y = 1.0 + 0.20*province + 0.30*group + 0.50*post ///
+>                          + 0.30*province*post + 0.10*province*group*post ///
+>                          + 0.20*province*group*post ///
+>                          + rnormal(0, 0.35)
+ 13. 
+.             gen byte ttt = province * group * post
+ 14.             gen byte pt  = province * post
+ 15.             gen byte gt  = group * post
+ 16.             gen byte pg  = province * group
+ 17. 
+.             reg y ttt pt gt pg i.province i.group i.post, robust
+ 18.         }
+ 19.         post pf2 (`n') (`rep') (_b[pt] + _b[ttt]) (_b[pt]) (_b[ttt])
+ 20.     }
+ 21. }
+
+. postclose pf2
+
+. 
+. use "`mc_b'", clear
+
+. display _n(20) "平行趋势被破坏时（真值 0.10，额外趋势 0.20）"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+平行趋势被破坏时（真值 0.10，额外趋势 0.20）
+
+. table n, statistic(mean ddb) statistic(mean dda) statistic(mean ddd) ///
+>          statistic(sd ddd) statistic(freq)
+
+--------------------------------------------------------------------------
+        |               Mean                Standard deviation   Frequency
+        |       ddb        dda        ddd                  ddd            
+--------+-----------------------------------------------------------------
+n       |                                                                 
+  1250  |  .6001546    .299852   .3003027             .0271762         200
+  10000 |  .6002784   .3003971   .2998814             .0100304         200
+  Total |  .6002165   .3001245    .300092              .020459         400
+--------------------------------------------------------------------------
+
+. 
+end of do-file
