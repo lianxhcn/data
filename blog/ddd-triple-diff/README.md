@@ -136,3 +136,7 @@ source("code/01_triplediff_demo.R")   # 完整运行约 3 秒，含 999 次 boot
 ```powershell
 Get-FileHash -Algorithm SHA256 (Get-ChildItem -Recurse -File)
 ```
+
+## 修订说明
+
+- 2026-11-20：第 4 篇《交错处理下的估计》完成第二轮深度返工。五张配图在原生像素宽度不超过 1000 px 的约束下重绘，图内文字均不低于 9 pt，并以新时间戳重新上传图床；含子节的章节均在首个子节前补写导言。本目录 `code/`、`data/`、`logs/` 中的 R 脚本与运行日志未改动，相关数字仍以 `04-staggered/logs/01_triplediff_demo.log` 为准。
