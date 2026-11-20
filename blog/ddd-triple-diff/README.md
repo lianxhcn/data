@@ -44,6 +44,13 @@ ddd-triple-diff/
       event_ddd.csv
       sim_cluster.dta     # 聚类稳健拒绝率明细 (200 次 × 5 设定)
       sim_wild.dta        # 野生聚类 bootstrap 拒绝率明细 (100 次 × 4 设定)
+  04-staggered/
+    code/
+      01_triplediff_demo.R  # triplediff 最小示例：DR/RA/IPW、多组对照与事件研究
+    data/
+      README.md             # 面板在内存中生成，说明列含义与真实参数
+    logs/
+      01_triplediff_demo.log  # R 4.6.2、triplediff 0.2.4 真实运行日志
 ```
 
 ## 数据说明
@@ -69,6 +76,10 @@ y = 1.0 + 0.20*province + 0.30*group + 0.50*post
 - `01_three_specs.do`：手工三重交互 (饱和回归与两种 `reghdfe` 吸收)、两个子样本 DD 再相减 (`suest` 联合检验)、先构造相对结果再回归的朴素两步法，以及用 `postfile` 手动实现的 500 次 bootstrap。三种写法点估计均为 0.100074，完整方差口径标准误为 0.0281，朴素两步法的 0.0199 属偏窄口径，bootstrap 种子为 303。
 - `02_event_study.do`：2 省 × 2 组 × 8 年，每格 800 人，共 25 600 个观测，政策在第 4 年后实施。以第 4 年为基准年，预趋势联合检验给出 $F(3,25568)=0.16$，$p=0.9245$，政策后动态效应为 0.069、0.114、0.126、0.102，随机种子为 236。
 - `03_inference_sim.do`：31 省 × 2 组 × 6 期 × 每格 100 人，共 37 200 个观测，原假设为真。聚类稳健拒绝率随处理省数由 20 降到 1 而从 0.030 升至 0.685，野生聚类 bootstrap 在处理省数为 10、5、2、1 时拒绝率为 0.030、0.060、0、0，处理身份在种子 17 下一次性随机排序确定。
+
+第四篇改用 R 与 triplediff 包，面板在内存中生成，不依赖外部数据文件：
+
+- `01_triplediff_demo.R`：以 `gen_dgp_mult_periods(size = 5000, dgp_type = 1)` 生成三期交错面板，共 15,000 个观测，再用 `ddd()` 分别以 dr、reg、ipw 估计，并比较 never-treated 与 not-yet-treated 对照，最后用 `agg_ddd()` 做事件研究与 simple/group/calendar 聚合，并用 999 次乘子 bootstrap 给出同时置信带。真实参数为 ATT(2,2)=10、ATT(2,3)=20、ATT(3,3)=25，处理前安慰剂格子 (3,2) 真值为 0，随机种子为 2025。
 
 ## 运行方式
 
@@ -103,6 +114,19 @@ ssc install reghdfe, replace
 ssc install ftools, replace
 ssc install boottest, replace
 ssc install estout, replace
+```
+
+第四篇在 R 中运行，需要 R 4.3 或更高版本 (在 R 4.6.2 下测试通过)，并安装 triplediff 包：
+
+```r
+install.packages("triplediff")
+```
+
+运行方式：
+
+```r
+# 如需切换工作目录，先取消脚本开头注释并改为本机完整路径 (正斜杠)
+source("code/01_triplediff_demo.R")   # 完整运行约 3 秒，含 999 次 bootstrap
 ```
 
 ## 校验

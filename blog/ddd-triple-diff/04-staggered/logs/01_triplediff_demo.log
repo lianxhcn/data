@@ -1,0 +1,170 @@
+R version: R version 4.6.2 (2026-10-29)
+triplediff version: 0.2.4
+
+Dimensions: 15000 rows x 10 cols
+Periods: 1 2 3
+Cohorts (state): 0 2 3
+
+Cohort x eligibility counts (one period):
+
+       0    1
+  0  512  466
+  2  733  967
+  3  995 1327
+
+=== DR (doubly robust) ===
+  group time    ATT    SE
+1     2    2 10.136 0.132
+2     2    3 20.017 0.131
+3     3    2  0.191 0.130
+4     3    3 24.834 0.123
+
+=== RA (regression adjustment) ===
+  group time    ATT    SE
+1     2    2 10.105 0.128
+2     2    3 19.984 0.129
+3     3    2  0.204 0.127
+4     3    3 24.829 0.120
+
+=== IPW (inverse probability weighting) ===
+  group time    ATT    SE
+1     2    2 12.103 1.613
+2     2    3 23.948 3.200
+3     3    2  0.870 2.474
+4     3    3 25.524 2.483
+
+=== DR with not-yet-treated controls ===
+  group time    ATT    SE
+1     2    2 10.035 0.103
+2     2    3 20.017 0.131
+3     3    2  0.191 0.130
+4     3    3 24.834 0.123
+
+=== Event-study aggregation ===
+ Call:
+agg_ddd(ddd_obj = fit_dr, type = "eventstudy")
+========================= DDD Aggregation ============================
+ Overall summary of ATT's based on event-study/dynamic aggregation:
+     ATT    Std. Error     [ 95%  Conf. Int.]
+ 19.3189        0.1115    19.1004     19.5374 *
+
+ Event Study:
+ Event time Estimate Std. Error [95% Ptwise.  Conf. Band]
+         -1   0.1913     0.1304       -0.0642      0.4469
+          0  18.6213     0.1383       18.3501     18.8924 *
+          1  20.0166     0.1310       19.7598     20.2734 *
+
+ Note: * indicates that the confidence interval does not contain zero.
+ --------------------------- Data Info   -----------------------------
+ Outcome variable: y
+ Qualification variable: partition
+ Control group:  Never Treated
+ --------------------------- Std. Errors  ----------------------------
+ Level of significance:  0.05
+ Analytical standard errors.
+ Type of confidence band:  Pointwise Confidence Interval
+ =====================================================================
+ See Ortiz-Villavicencio and Sant'Anna (2025) for details.
+
+=== Simple overall ATT ===
+ Call:
+agg_ddd(ddd_obj = fit_dr, type = "simple")
+========================= DDD Aggregation ============================
+ Overall ATT:
+     ATT    Std. Error     [ 95%  Conf. Int.]
+ 19.0358        0.1137    18.8129     19.2587 *
+
+ Note: * indicates that the confidence interval does not contain zero.
+ --------------------------- Data Info   -----------------------------
+ Outcome variable: y
+ Qualification variable: partition
+ Control group:  Never Treated
+ --------------------------- Std. Errors  ----------------------------
+ Level of significance:  0.05
+ Analytical standard errors.
+ =====================================================================
+ See Ortiz-Villavicencio and Sant'Anna (2025) for details.
+
+=== Group aggregation ===
+ Call:
+agg_ddd(ddd_obj = fit_dr, type = "group")
+========================= DDD Aggregation ============================
+ Overall summary of ATT's based on group/cohort aggregation:
+     ATT    Std. Error     [ 95%  Conf. Int.]
+ 20.7094        0.0876    20.5378     20.8811 *
+
+ Group Effects:
+ Group Estimate Std. Error [95% Ptwise.  Conf. Band]
+     2  15.0762     0.1173       14.8463     15.3061 *
+     3  24.8337     0.1226       24.5934     25.0740 *
+
+ Note: * indicates that the confidence interval does not contain zero.
+ --------------------------- Data Info   -----------------------------
+ Outcome variable: y
+ Qualification variable: partition
+ Control group:  Never Treated
+ --------------------------- Std. Errors  ----------------------------
+ Level of significance:  0.05
+ Analytical standard errors.
+ =====================================================================
+ See Ortiz-Villavicencio and Sant'Anna (2025) for details.
+
+=== Calendar aggregation ===
+ Call:
+agg_ddd(ddd_obj = fit_dr, type = "calendar")
+========================= DDD Aggregation ============================
+ Overall summary of ATT's based on calendar time aggregation:
+     ATT    Std. Error     [ 95%  Conf. Int.]
+ 16.4667        0.0903    16.2897     16.6437 *
+
+ Calendar Effects:
+ Time Estimate Std. Error [95% Ptwise.  Conf. Band]
+    2  10.1358     0.1319        9.8773     10.3943 *
+    3  22.7976     0.1072       22.5875     23.0078 *
+
+ Note: * indicates that the confidence interval does not contain zero.
+ --------------------------- Data Info   -----------------------------
+ Outcome variable: y
+ Qualification variable: partition
+ Control group:  Never Treated
+ --------------------------- Std. Errors  ----------------------------
+ Level of significance:  0.05
+ Analytical standard errors.
+ =====================================================================
+ See Ortiz-Villavicencio and Sant'Anna (2025) for details.
+
+=== Multiplier bootstrap (999), uniform confidence band ===
+ Call:
+ddd(yname = "y", tname = "time", idname = "id", gname = "state",
+    pname = "partition", xformla = ~cov1 + cov2 + cov3 + cov4,
+    data = d, control_group = "nevertreated", base_period = "varying",
+    est_method = "dr", boot = TRUE, nboot = 999, cband = TRUE)
+=========================== DDD Summary ==============================
+ DR-DDD estimation for the ATT(g,t):
+Group Time  ATT(g,t)  Std. Error [95% Simult.  Conf. Band]
+  2    2      10.1358     0.1287      9.8282      10.4434  *
+  2    3      20.0166     0.1305     19.7047      20.3285  *
+  3    2       0.1913     0.1306     -0.1209       0.5036
+  3    3      24.8337     0.1268     24.5306      25.1368  *
+
+ Note: * indicates that the confidence interval does not contain zero.
+ --------------------------- Data Info   ------------------------------
+ Panel Data
+ Outcome variable: y
+ Qualification variable: partition
+ Control group: Never Treated
+ No. of units per treatment group:
+  Units enabling treatment at period 3: 2322
+  Units enabling treatment at period 2: 1700
+  Units never enabling treatment: 978
+ --------------------------- Algorithms ------------------------------
+ Outcome Regression estimated using: OLS
+ Propensity score estimated using: Maximum Likelihood
+ --------------------------- Std. Errors  ----------------------------
+ Level of significance:  0.05
+ Boostrapped standard error based on 999 reps.
+ Method: Multiplier Bootstrap.
+ Type of confidence band:  Uniform Confidence Band
+ =====================================================================
+ See Ortiz-Villavicencio and Sant'Anna (2025) for details.
+Demo finished.
